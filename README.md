@@ -83,3 +83,28 @@ python3 main.py --teams ARG EGY
 
 ### Brazil vs Norway (Round of 16)
 ![Brazil vs Norway momentum chart](reports/figures/Round_of_16_Brazil_Norway/Round_of_16_Brazil_Norway_momentum_chart.png)
+
+---
+
+## Key Analytical Insights: Hydration Break Impact
+
+We analyzed the momentum shift around **50 individual hydration breaks** across **25 knockout stage matches** to evaluate how these stoppages impact the flow of the game.
+
+### Aggregate Findings
+* **The Reset Effect**: In **74.0%** of cases, the team that was trailing in momentum before a hydration break gained momentum immediately after the break, confirming the "Tactical Reset" hypothesis.
+* **Leader Flips**: In **52.0%** of breaks, the team holding the momentum lead going into the stoppage lost their lead entirely when play resumed.
+* **Average Shift**: Stoppages caused an average momentum shift of **23.95 points** (on a scale of -100 to 100).
+
+### The "Favorite's Comeback" (Class Tells)
+When we isolate the 18 hydration breaks where the **higher-ranked favorite** (based on pre-tournament FIFA rankings) was trailing in momentum:
+* **72.2%** of these instances saw the stronger team stage a comeback and gain momentum after the stoppage.
+* **69.2%** of these comebacks resulted in a complete momentum leader flip (e.g. Argentina vs. Egypt or Canada vs. Morocco).
+* **Why it happens**: Stoppages disrupt the underdog's high-intensity emotional pressing ("circuit breaker" effect), allowing the favorite's superior technical quality and coaching adjustments to dictate the game's cold restart.
+
+---
+
+## Disclaimer & Terms of Use
+
+* **Personal & Educational Use**: This is a personal, non-commercial sports data research project developed solely for educational and analytical purposes.
+* **Non-Affiliation**: This project is not affiliated with, authorized, sponsored, or endorsed by FIFA, the FIFA World Cup, or any national football associations. 
+* **Copyright Notice**: All visualization designs, momentum metrics, and analytical code are © 2026 Amir Masoud Almasi. All rights reserved. Country flags are loaded dynamically for educational references from public third-party APIs.
