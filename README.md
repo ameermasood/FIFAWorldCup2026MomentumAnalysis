@@ -1,6 +1,8 @@
 # World Cup Match Momentum & Hydration Breaks
 
-Python pipeline to calculate match momentum from public FIFA event timeline data and analyze play segments around hydration breaks.
+This project is a Python-based analysis tool that downloads public event feeds from the FIFA API to reconstruct match momentum curves for the FIFA World Cup 2026. 
+
+By analyzing in-game event flows (such as goals, penalty decisions, saves, and card warnings), the pipeline maps out threat scores for both home and away teams. It smooths these rolling values using cubic spline interpolation to produce clean momentum graphics. Additionally, the project highlights play segments and shifts in momentum directly before and after FIFA's official hydration breaks to study the tactical impact of those interruptions.
 
 
 ## How to Run
