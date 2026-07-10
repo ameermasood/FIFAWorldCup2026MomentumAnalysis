@@ -12,7 +12,6 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 RAW_DIR = PROJECT_ROOT / "data" / "raw"
-MATCH_ID = "400021528"
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 
 GRID_STEP = 0.25
@@ -278,7 +277,7 @@ def build_break_summary(grid: pd.DataFrame, hydration: pd.DataFrame, live: dict)
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--match-id", default=MATCH_ID, help="FIFA match id. Default: 400021528.")
+    parser.add_argument("--match-id", required=True, help="FIFA match id, for example 400021528.")
     return parser.parse_args()
 
 

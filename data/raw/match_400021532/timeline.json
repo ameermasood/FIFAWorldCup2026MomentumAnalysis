@@ -1,0 +1,2266 @@
+{
+  "IdStage": "289288",
+  "IdMatch": "400021532",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "626927616",
+      "IdTeam": "43961",
+      "Timestamp": "2026-07-05T19:58:33.099Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Norway won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "719852544",
+      "Timestamp": "2026-07-05T20:00:05.952Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "896011267",
+      "IdTeam": "43961",
+      "IdPlayer": "398588",
+      "Timestamp": "2026-07-05T20:02:39.952Z",
+      "MatchMinute": "3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alexander SORLOTH (Norway) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1088758786",
+      "IdTeam": "43961",
+      "IdPlayer": "400716",
+      "Timestamp": "2026-07-05T20:06:22.228Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.57289,
+      "PositionY": 98.57777,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Martin ODEGAARD (Norway) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1460152324",
+      "IdTeam": "43961",
+      "IdPlayer": "483516",
+      "Timestamp": "2026-07-05T20:09:59.946Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 89.62679999999999,
+      "PositionY": 62.09692,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kristoffer AJER (Norway) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1452460036",
+      "Timestamp": "2026-07-05T20:11:21.307Z",
+      "MatchMinute": "12'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 71,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "VAR"
+        }
+      ],
+      "VarNotificationData": {
+        "Incident": 4,
+        "Reason": 0,
+        "Status": 0,
+        "Result": 3
+      },
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty given"
+        }
+      ]
+    },
+    {
+      "EventId": "1546207237",
+      "IdTeam": "43924",
+      "IdPlayer": "430605",
+      "IdSubPlayer": "373235",
+      "IdSubTeam": "43961",
+      "Timestamp": "2026-07-05T20:13:28.754Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 6,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Awarded"
+        }
+      ],
+      "PositionX": 89.82126000000001,
+      "PositionY": 49.91834423,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": []
+    },
+    {
+      "EventId": "1546194947",
+      "IdTeam": "43924",
+      "IdPlayer": "430605",
+      "Timestamp": "2026-07-05T20:13:28.754Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.82126000000001,
+      "PositionY": 49.91834423,
+      "GoalGatePositionX": 61.30576,
+      "GoalGatePositionY": 12.24706,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BRUNO GUIMARAES (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "308334934",
+      "IdTeam": "43961",
+      "IdPlayer": "373235",
+      "Timestamp": "2026-07-05T20:13:29.135Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.70006000000001,
+      "PositionY": 46.935912,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Norway pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1664905223",
+      "IdTeam": "43961",
+      "IdPlayer": "483496",
+      "Timestamp": "2026-07-05T20:15:17.803Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 37.06904,
+      "PositionY": 90.83319,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian RYERSON (Norway) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1676557317",
+      "IdTeam": "43924",
+      "IdPlayer": "475036",
+      "Timestamp": "2026-07-05T20:15:38.604Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.37854,
+      "PositionY": 26.88549,
+      "GoalGatePositionX": 93.69007,
+      "GoalGatePositionY": 55.79444,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RAYAN (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2098010118",
+      "IdTeam": "43924",
+      "IdPlayer": "475036",
+      "Timestamp": "2026-07-05T20:22:12.037Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 33.3799,
+      "PositionY": 1.51581,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RAYAN (Brazil) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "175310855",
+      "Timestamp": "2026-07-05T20:26:11.355Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "371891206",
+      "Timestamp": "2026-07-05T20:29:16.952Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "637388809",
+      "IdTeam": "43924",
+      "IdPlayer": "335656",
+      "Timestamp": "2026-07-05T20:30:06.211Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 90.80909,
+      "PositionY": 30.585289999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DANILO (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "449521672",
+      "IdTeam": "43924",
+      "IdPlayer": "335656",
+      "Timestamp": "2026-07-05T20:30:12.698Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 72.64329000000001,
+      "PositionY": 9.37261,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DANILO (Brazil) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "662540298",
+      "IdTeam": "43924",
+      "IdPlayer": "405742",
+      "Timestamp": "2026-07-05T20:34:05.61Z",
+      "MatchMinute": "34'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.48039,
+      "PositionY": 29.34192,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "VINICIUS JUNIOR (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "717400073",
+      "IdTeam": "43961",
+      "IdPlayer": "400716",
+      "Timestamp": "2026-07-05T20:34:58.143Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 14.552399999999999,
+      "PositionY": 70.50381999999999,
+      "GoalGatePositionX": 70.65306,
+      "GoalGatePositionY": 2.8535850000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Martin ODEGAARD (Norway) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "811702283",
+      "IdTeam": "43961",
+      "IdPlayer": "419652",
+      "Timestamp": "2026-07-05T20:36:30.755Z",
+      "MatchMinute": "37'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.3554,
+      "PositionY": 40.335988,
+      "GoalGatePositionX": 57.888081,
+      "GoalGatePositionY": 9.032884,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Erling HAALAND (Norway) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1719753740",
+      "IdTeam": "43924",
+      "IdPlayer": "308370",
+      "Timestamp": "2026-07-05T20:36:31.676Z",
+      "MatchMinute": "37'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 2.78692,
+      "PositionY": 49.3957127,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Brazil pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "874349581",
+      "IdTeam": "43924",
+      "IdPlayer": "430597",
+      "Timestamp": "2026-07-05T20:37:17.122Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 74.24052,
+      "PositionY": 43.77939,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "GABRIEL MARTINELLI (Brazil) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "988164110",
+      "IdTeam": "43924",
+      "IdPlayer": "308386",
+      "Timestamp": "2026-07-05T20:39:22.527Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 76.91941,
+      "PositionY": 33.129419999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "CASEMIRO (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1025520652",
+      "IdTeam": "43924",
+      "IdPlayer": "405742",
+      "Timestamp": "2026-07-05T20:39:58.823Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 92.60772,
+      "PositionY": 65.57007999999999,
+      "GoalGatePositionX": 41.933846,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "VINICIUS JUNIOR (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1932917929",
+      "IdTeam": "43961",
+      "IdPlayer": "373235",
+      "Timestamp": "2026-07-05T20:39:59.143Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.01232,
+      "PositionY": 56.418747999999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Norway pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1045373962",
+      "IdTeam": "43924",
+      "IdPlayer": "405742",
+      "Timestamp": "2026-07-05T20:40:19.244Z",
+      "MatchMinute": "41'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.72655999999999,
+      "PositionY": 98.94013000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "VINICIUS JUNIOR (Brazil) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1155978256",
+      "IdTeam": "43961",
+      "IdPlayer": "400716",
+      "Timestamp": "2026-07-05T20:42:06.811Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 5.26733,
+      "PositionY": 32.33722,
+      "GoalGatePositionX": 35.798429999999996,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Martin ODEGAARD (Norway) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1200702475",
+      "IdTeam": "43961",
+      "IdPlayer": "483442",
+      "Timestamp": "2026-07-05T20:42:48.473Z",
+      "MatchMinute": "43'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.51752,
+      "PositionY": 1.25924,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Patrick BERG (Norway) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1431159825",
+      "IdTeam": "43961",
+      "IdPlayer": "400716",
+      "Timestamp": "2026-07-05T20:46:32.677Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.46924000000000005,
+      "PositionY": 98.81984,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Martin ODEGAARD (Norway) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1506072588",
+      "IdTeam": "43961",
+      "IdPlayer": "400716",
+      "Timestamp": "2026-07-05T20:47:48.833Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 12.27243,
+      "PositionY": 37.70362,
+      "GoalGatePositionX": 52.039612000000005,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Martin ODEGAARD (Norway) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "271647194",
+      "IdTeam": "43924",
+      "IdPlayer": "308370",
+      "Timestamp": "2026-07-05T20:47:49.093Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 6.75292,
+      "PositionY": 43.400752,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Brazil pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1577017358",
+      "IdTeam": "43924",
+      "IdPlayer": "430605",
+      "Timestamp": "2026-07-05T20:48:57.501Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 77.9916,
+      "PositionY": 64.45743,
+      "GoalGatePositionX": 80.64157,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BRUNO GUIMARAES (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1895217171",
+      "IdTeam": "43924",
+      "IdPlayer": "430609",
+      "Timestamp": "2026-07-05T20:48:58.022Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.99253999999999,
+      "PositionY": 51.799859000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MATHEUS CUNHA (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1691296784",
+      "IdTeam": "43961",
+      "IdPlayer": "483496",
+      "Timestamp": "2026-07-05T20:50:28.092Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 32.55154,
+      "PositionY": 62.79945,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian RYERSON (Norway) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1713594383",
+      "Timestamp": "2026-07-05T20:51:13.563Z",
+      "MatchMinute": "45'+7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "523208722",
+      "IdTeam": "43961",
+      "IdPlayer": "494626",
+      "IdSubPlayer": "483448",
+      "IdSubTeam": "43961",
+      "Timestamp": "2026-07-05T21:06:35.547Z",
+      "MatchMinute": "",
+      "Period": 4,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Before the second half begins Andreas SCHJELDERUP (in) comes off the bench to replace Antonio NUSA (out) (Norway)"
+        }
+      ]
+    },
+    {
+      "EventId": "523208721",
+      "IdTeam": "43961",
+      "IdPlayer": "477470",
+      "IdSubPlayer": "398588",
+      "IdSubTeam": "43961",
+      "Timestamp": "2026-07-05T21:06:35.547Z",
+      "MatchMinute": "",
+      "Period": 4,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Before the second half begins Oscar BOBB (in) comes off the bench to replace Alexander SORLOTH (out) (Norway)"
+        }
+      ]
+    },
+    {
+      "EventId": "553819156",
+      "Timestamp": "2026-07-05T21:07:18.104Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "689085461",
+      "IdTeam": "43924",
+      "IdPlayer": "475036",
+      "Timestamp": "2026-07-05T21:09:18.531Z",
+      "MatchMinute": "47'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RAYAN (Brazil) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "729813015",
+      "IdTeam": "43924",
+      "IdPlayer": "308386",
+      "Timestamp": "2026-07-05T21:09:56.659Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 41.115676,
+      "PositionY": 7.4187,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "CASEMIRO (Brazil) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "783603731",
+      "IdTeam": "43961",
+      "IdPlayer": "483442",
+      "Timestamp": "2026-07-05T21:11:00.643Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.55267,
+      "PositionY": 33.65925,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Patrick BERG (Norway) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1144184854",
+      "IdTeam": "43924",
+      "IdPlayer": "430609",
+      "Timestamp": "2026-07-05T21:16:49.992Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MATHEUS CUNHA (Brazil) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1343098903",
+      "IdTeam": "43924",
+      "IdPlayer": "463746",
+      "IdSubPlayer": "430609",
+      "IdSubTeam": "43924",
+      "Timestamp": "2026-07-05T21:20:05.395Z",
+      "MatchMinute": "58'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "ENDRICK (in) comes off the bench to replace MATHEUS CUNHA (out) (Brazil)"
+        }
+      ]
+    },
+    {
+      "EventId": "1391773716",
+      "IdTeam": "43924",
+      "IdPlayer": "463746",
+      "Timestamp": "2026-07-05T21:20:54.597Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 13.4178,
+      "PositionY": 52.230423,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "ENDRICK (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1511353365",
+      "IdTeam": "43924",
+      "IdPlayer": "463746",
+      "Timestamp": "2026-07-05T21:22:51.213Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 19.229119999999998,
+      "PositionY": 28.78021,
+      "GoalGatePositionX": 37.03899,
+      "GoalGatePositionY": 18.79892,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "ENDRICK (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1559452696",
+      "IdTeam": "43924",
+      "IdPlayer": "430605",
+      "Timestamp": "2026-07-05T21:23:35.978Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.41859,
+      "PositionY": 1.05064,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BRUNO GUIMARAES (Brazil) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1570679832",
+      "IdTeam": "43924",
+      "IdPlayer": "475036",
+      "Timestamp": "2026-07-05T21:23:49.111Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 15.46378,
+      "PositionY": 61.410529999999994,
+      "GoalGatePositionX": 48.722545000000004,
+      "GoalGatePositionY": 2.209195,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RAYAN (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "333672459",
+      "IdTeam": "43961",
+      "IdPlayer": "373235",
+      "Timestamp": "2026-07-05T21:23:49.752Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.8811000000000002,
+      "PositionY": 51.276295000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Norway pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1634755609",
+      "IdTeam": "43924",
+      "IdPlayer": "475036",
+      "Timestamp": "2026-07-05T21:24:37.104Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RAYAN (Brazil) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1658890262",
+      "IdTeam": "43961",
+      "IdPlayer": "483497",
+      "IdSubPlayer": "483496",
+      "IdSubTeam": "43961",
+      "Timestamp": "2026-07-05T21:25:13.819Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fredrik AURSNES (in) comes off the bench to replace Julian RYERSON (out) (Norway)"
+        }
+      ]
+    },
+    {
+      "EventId": "1837859867",
+      "IdTeam": "43961",
+      "IdPlayer": "400716",
+      "Timestamp": "2026-07-05T21:28:08.13Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Martin ODEGAARD (Norway) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1862357018",
+      "IdTeam": "43961",
+      "IdPlayer": "419652",
+      "Timestamp": "2026-07-05T21:28:35.963Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Erling HAALAND (Norway) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1904364572",
+      "IdTeam": "43924",
+      "IdPlayer": "314197",
+      "IdSubPlayer": "430597",
+      "IdSubTeam": "43924",
+      "Timestamp": "2026-07-05T21:29:03.308Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NEYMAR JR (in) comes off the bench to replace GABRIEL MARTINELLI (out) (Brazil)"
+        }
+      ]
+    },
+    {
+      "EventId": "1904364571",
+      "IdTeam": "43924",
+      "IdPlayer": "429392",
+      "IdSubPlayer": "475036",
+      "IdSubTeam": "43924",
+      "Timestamp": "2026-07-05T21:29:03.308Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DANILO SANTOS (in) comes off the bench to replace RAYAN (out) (Brazil)"
+        }
+      ]
+    },
+    {
+      "EventId": "1932539927",
+      "Timestamp": "2026-07-05T21:29:38.104Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "2118891544",
+      "Timestamp": "2026-07-05T21:32:43.104Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "145431578",
+      "IdTeam": "43924",
+      "IdPlayer": "430605",
+      "Timestamp": "2026-07-05T21:35:24.946Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 30.4116,
+      "PositionY": 32.10739,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BRUNO GUIMARAES (Brazil) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "234209309",
+      "IdTeam": "43961",
+      "IdPlayer": "494626",
+      "Timestamp": "2026-07-05T21:37:00.722Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.58744,
+      "PositionY": 65.42679,
+      "GoalGatePositionX": 37.99145,
+      "GoalGatePositionY": 14.45584,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Andreas SCHJELDERUP (Norway) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1145668993",
+      "IdTeam": "43924",
+      "IdPlayer": "308370",
+      "Timestamp": "2026-07-05T21:37:01.222Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.49986,
+      "PositionY": 55.381040000000006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Brazil pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "460971038",
+      "IdTeam": "43924",
+      "IdPlayer": "485069",
+      "IdSubPlayer": "430605",
+      "IdSubTeam": "43924",
+      "Timestamp": "2026-07-05T21:40:40.732Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "EDERSON SILVA (in) comes off the bench to replace BRUNO GUIMARAES (out) (Brazil)"
+        }
+      ]
+    },
+    {
+      "EventId": "504835105",
+      "IdTeam": "43961",
+      "IdPlayer": "494626",
+      "IdSubPlayer": "419652",
+      "IdSubTeam": "43961",
+      "Timestamp": "2026-07-05T21:41:14.856Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 90.93182,
+      "PositionY": 79.3997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Andreas SCHJELDERUP."
+        }
+      ]
+    },
+    {
+      "EventId": "496897055",
+      "IdTeam": "43961",
+      "IdPlayer": "419652",
+      "Timestamp": "2026-07-05T21:41:16.157Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 93.21198000000001,
+      "PositionY": 48.020806,
+      "GoalGatePositionX": 60.03626,
+      "GoalGatePositionY": 9.683503,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Erling HAALAND (Norway) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "496897057",
+      "IdTeam": "43961",
+      "IdPlayer": "419652",
+      "IdSubPlayer": "494626",
+      "IdSubTeam": "43961",
+      "Timestamp": "2026-07-05T21:41:16.157Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 93.21198000000001,
+      "PositionY": 48.020806,
+      "GoalGatePositionX": 60.03626,
+      "GoalGatePositionY": 9.683503,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Erling HAALAND (Norway) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "639078453",
+      "IdTeam": "43961",
+      "IdPlayer": "419652",
+      "Timestamp": "2026-07-05T21:43:21.602Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 75.89379000000001,
+      "PositionY": 11.66039,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Erling HAALAND (Norway) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "709226527",
+      "IdTeam": "43924",
+      "IdPlayer": "314197",
+      "Timestamp": "2026-07-05T21:44:41.802Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NEYMAR JR (Brazil) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "730541109",
+      "IdTeam": "43924",
+      "IdPlayer": "314197",
+      "Timestamp": "2026-07-05T21:45:03.644Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.16187,
+      "PositionY": 0.78248,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NEYMAR JR (Brazil) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1817322566",
+      "IdTeam": "43924",
+      "IdPlayer": "314197",
+      "Timestamp": "2026-07-05T21:45:25.366Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 6.0429900000000005,
+      "PositionY": 30.337609999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NEYMAR JR (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1773128445",
+      "IdTeam": "43961",
+      "IdPlayer": "373235",
+      "Timestamp": "2026-07-05T21:47:12.433Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.51525,
+      "PositionY": 52.191964999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Norway pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1033353248",
+      "IdTeam": "43961",
+      "IdPlayer": "400716",
+      "Timestamp": "2026-07-05T21:50:01.482Z",
+      "MatchMinute": "88'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Martin ODEGAARD (Norway) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1129440315",
+      "IdTeam": "43961",
+      "IdPlayer": "494626",
+      "IdSubPlayer": "419652",
+      "IdSubTeam": "43961",
+      "Timestamp": "2026-07-05T21:51:24.685Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 86.48599,
+      "PositionY": 88.37288,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Andreas SCHJELDERUP."
+        }
+      ]
+    },
+    {
+      "EventId": "1123084343",
+      "IdTeam": "43961",
+      "IdPlayer": "419652",
+      "Timestamp": "2026-07-05T21:51:26.867Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 83.57606,
+      "PositionY": 66.97229,
+      "GoalGatePositionX": 67.30933,
+      "GoalGatePositionY": 4.498736,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Erling HAALAND (Norway) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1123084345",
+      "IdTeam": "43961",
+      "IdPlayer": "419652",
+      "IdSubPlayer": "494626",
+      "IdSubTeam": "43961",
+      "Timestamp": "2026-07-05T21:51:26.867Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 83.57606,
+      "PositionY": 66.97229,
+      "GoalGatePositionX": 67.30933,
+      "GoalGatePositionY": 4.498736,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Erling HAALAND (Norway) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1388161063",
+      "IdTeam": "43924",
+      "IdPlayer": "485069",
+      "Timestamp": "2026-07-05T21:55:48.349Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 19.32431,
+      "PositionY": 68.49013000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "EDERSON SILVA (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1423058978",
+      "IdTeam": "43961",
+      "IdPlayer": "419672",
+      "IdSubPlayer": "483505",
+      "IdSubTeam": "43961",
+      "Timestamp": "2026-07-05T21:56:20.205Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leo OSTIGARD (in) comes off the bench to replace David MOLLER WOLFE (out) (Norway)"
+        }
+      ]
+    },
+    {
+      "EventId": "1497401405",
+      "IdTeam": "43924",
+      "IdPlayer": "314197",
+      "Timestamp": "2026-07-05T21:57:24.825Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 80.47436,
+      "PositionY": 15.95885,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NEYMAR JR (Brazil) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1636373568",
+      "IdTeam": "43961",
+      "IdPlayer": "491244",
+      "Timestamp": "2026-07-05T21:59:41.441Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 36.02601,
+      "PositionY": 67.09145,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Torbjorn HEGGEM (Norway) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1694721090",
+      "IdTeam": "43961",
+      "IdPlayer": "419672",
+      "Timestamp": "2026-07-05T22:00:00.6Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 14.15501,
+      "PositionY": 26.489610000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leo OSTIGARD (Norway) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1769961535",
+      "IdTeam": "43924",
+      "IdPlayer": "314197",
+      "IdSubPlayer": "373235",
+      "IdSubTeam": "43961",
+      "Timestamp": "2026-07-05T22:01:59.96Z",
+      "MatchMinute": "90'+10'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 6,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Awarded"
+        }
+      ],
+      "PositionX": 10.36506,
+      "PositionY": 50.05325048,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": []
+    },
+    {
+      "EventId": "1769985066",
+      "IdTeam": "43924",
+      "IdPlayer": "314197",
+      "Timestamp": "2026-07-05T22:01:59.96Z",
+      "MatchMinute": "90'+10'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.36506,
+      "PositionY": 50.05325048,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NEYMAR JR (Brazil) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1769985068",
+      "IdTeam": "43924",
+      "IdPlayer": "314197",
+      "Timestamp": "2026-07-05T22:01:59.96Z",
+      "MatchMinute": "90'+10'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.36506,
+      "PositionY": 50.05325048,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NEYMAR JR (Brazil) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "1891481668",
+      "Timestamp": "2026-07-05T22:04:01.515Z",
+      "MatchMinute": "90'+12'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1972722723",
+      "Timestamp": "2026-07-05T22:05:20.381Z",
+      "MatchMinute": "102'",
+      "Period": 10,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

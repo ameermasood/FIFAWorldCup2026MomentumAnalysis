@@ -1,0 +1,2876 @@
+{
+  "IdStage": "289288",
+  "IdMatch": "400021531",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "1431476296",
+      "IdTeam": "43942",
+      "Timestamp": "2026-07-06T00:58:14.409Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "England won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "1544942661",
+      "Timestamp": "2026-07-06T01:00:05.324Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "1607016522",
+      "IdTeam": "43942",
+      "IdPlayer": "433097",
+      "Timestamp": "2026-07-06T01:00:55.496Z",
+      "MatchMinute": "1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 40.175013,
+      "PositionY": 85.51589,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Declan RICE (England) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1707586612",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T01:02:43.584Z",
+      "MatchMinute": "3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 78.02715,
+      "PositionY": 43.100274999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1755928647",
+      "IdTeam": "43911",
+      "IdPlayer": "403596",
+      "Timestamp": "2026-07-06T01:03:22.743Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 93.75350999999999,
+      "PositionY": 17.99826,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jorge SANCHEZ (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1892981833",
+      "IdTeam": "43911",
+      "IdPlayer": "419518",
+      "Timestamp": "2026-07-06T01:05:32.052Z",
+      "MatchMinute": "6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 60.80983,
+      "PositionY": 34.34984,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Erik LIRA (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1953334327",
+      "IdTeam": "43911",
+      "IdPlayer": "500037",
+      "Timestamp": "2026-07-06T01:06:35.035Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 62.38408,
+      "PositionY": 15.68246,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gilberto MORA (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2071190584",
+      "IdTeam": "43942",
+      "IdPlayer": "433097",
+      "Timestamp": "2026-07-06T01:08:38.844Z",
+      "MatchMinute": "9'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Declan RICE (England) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "313678927",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T01:14:58.118Z",
+      "MatchMinute": "15'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.61915,
+      "PositionY": 43.46938,
+      "GoalGatePositionX": 64.94384,
+      "GoalGatePositionY": 8.514971000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1647194626",
+      "IdTeam": "43942",
+      "IdPlayer": "336022",
+      "Timestamp": "2026-07-06T01:14:58.678Z",
+      "MatchMinute": "15'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 99.44336,
+      "PositionY": 45.214975,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of England pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "350706728",
+      "IdTeam": "43911",
+      "IdPlayer": "403585",
+      "Timestamp": "2026-07-06T01:15:35.876Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.45463,
+      "PositionY": 1.26006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Roberto ALVARADO (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "372138059",
+      "IdTeam": "43911",
+      "IdPlayer": "403585",
+      "Timestamp": "2026-07-06T01:15:56.877Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.50752,
+      "PositionY": 1.23699,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Roberto ALVARADO (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "465027114",
+      "IdTeam": "43911",
+      "IdPlayer": "402772",
+      "Timestamp": "2026-07-06T01:17:15.755Z",
+      "MatchMinute": "18'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 79.22011,
+      "PositionY": 95.48494,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jesus GALLARDO (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "547378253",
+      "IdTeam": "43911",
+      "IdPlayer": "500037",
+      "Timestamp": "2026-07-06T01:18:47.827Z",
+      "MatchMinute": "19'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 85.42133,
+      "PositionY": 64.77559000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gilberto MORA (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "566457426",
+      "IdTeam": "43911",
+      "IdPlayer": "395516",
+      "Timestamp": "2026-07-06T01:18:58.298Z",
+      "MatchMinute": "19'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 62.684,
+      "PositionY": 67.20842,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cesar MONTES (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "671046713",
+      "IdTeam": "43942",
+      "IdPlayer": "433097",
+      "Timestamp": "2026-07-06T01:20:48.508Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.41751,
+      "PositionY": 1.42347,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Declan RICE (England) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "772955220",
+      "Timestamp": "2026-07-06T01:22:24.324Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "961113131",
+      "Timestamp": "2026-07-06T01:25:32.368Z",
+      "MatchMinute": "26'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "983551061",
+      "IdTeam": "43942",
+      "IdPlayer": "448189",
+      "Timestamp": "2026-07-06T01:25:53.352Z",
+      "MatchMinute": "26'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 7.48577,
+      "PositionY": 23.96921,
+      "GoalGatePositionX": 64.49915,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Anthony GORDON (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "171029215",
+      "IdTeam": "43911",
+      "IdPlayer": "485070",
+      "Timestamp": "2026-07-06T01:25:53.933Z",
+      "MatchMinute": "26'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 2.5275,
+      "PositionY": 44.945966,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Mexico pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1012316220",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T01:26:15.054Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 66.24959,
+      "PositionY": 39.36121,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1329004605",
+      "IdTeam": "43911",
+      "IdPlayer": "430763",
+      "Timestamp": "2026-07-06T01:31:30.81Z",
+      "MatchMinute": "32'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 76.15907,
+      "PositionY": 48.87055,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis ROMO (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1392191576",
+      "IdTeam": "43911",
+      "IdPlayer": "500037",
+      "Timestamp": "2026-07-06T01:32:17.036Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 83.55409,
+      "PositionY": 7.09975,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gilberto MORA (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1610910807",
+      "IdTeam": "43942",
+      "IdPlayer": "448196",
+      "IdSubPlayer": "448202",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-06T01:35:58.918Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 2.7479,
+      "PositionY": 77.70000999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Bukayo SAKA."
+        }
+      ]
+    },
+    {
+      "EventId": "1607833690",
+      "IdTeam": "43942",
+      "IdPlayer": "448202",
+      "Timestamp": "2026-07-06T01:36:00.359Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.93875,
+      "PositionY": 45.628526,
+      "GoalGatePositionX": 39.60259,
+      "GoalGatePositionY": 7.343378,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jude BELLINGHAM (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1607833692",
+      "IdTeam": "43942",
+      "IdPlayer": "448202",
+      "IdSubPlayer": "448196",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-06T01:36:00.359Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 4.93875,
+      "PositionY": 45.628526,
+      "GoalGatePositionX": 39.60259,
+      "GoalGatePositionY": 7.343378,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jude BELLINGHAM (England) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1712229426",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "Timestamp": "2026-07-06T01:37:37.336Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 9.15919,
+      "PositionY": 66.94746,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Harry KANE."
+        }
+      ]
+    },
+    {
+      "EventId": "1708694591",
+      "IdTeam": "43942",
+      "IdPlayer": "448202",
+      "Timestamp": "2026-07-06T01:37:38.237Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.55273,
+      "PositionY": 48.085860000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jude BELLINGHAM (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1708694593",
+      "IdTeam": "43942",
+      "IdPlayer": "448202",
+      "IdSubPlayer": "369419",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-06T01:37:38.237Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 4.55273,
+      "PositionY": 48.085860000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jude BELLINGHAM (England) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1838141508",
+      "IdTeam": "43942",
+      "IdPlayer": "448196",
+      "Timestamp": "2026-07-06T01:39:44.241Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bukayo SAKA (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1928347745",
+      "IdTeam": "43942",
+      "IdPlayer": "448196",
+      "Timestamp": "2026-07-06T01:41:09.388Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 85.03129,
+      "PositionY": 90.42826000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bukayo SAKA (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1970548835",
+      "IdTeam": "43911",
+      "IdPlayer": "429157",
+      "Timestamp": "2026-07-06T01:41:53.292Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 92.93317,
+      "PositionY": 47.737524,
+      "GoalGatePositionX": 46.984993,
+      "GoalGatePositionY": 41.2234,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian QUINONES (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1970548837",
+      "IdTeam": "43911",
+      "IdPlayer": "429157",
+      "Timestamp": "2026-07-06T01:41:53.292Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 92.93317,
+      "PositionY": 47.737524,
+      "GoalGatePositionX": 46.984993,
+      "GoalGatePositionY": 41.2234,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian QUINONES (Mexico) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "58925109",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T01:45:47.225Z",
+      "MatchMinute": "45'+1'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 86.11103,
+      "PositionY": 59.989630000000005,
+      "GoalGatePositionX": 71.5155,
+      "GoalGatePositionY": 9.074473,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "173583436",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T01:47:38.517Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 86.57046000000001,
+      "PositionY": 54.624641,
+      "GoalGatePositionX": 39.27955,
+      "GoalGatePositionY": 38.27641,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1507400995",
+      "IdTeam": "43942",
+      "IdPlayer": "336022",
+      "Timestamp": "2026-07-06T01:47:39.378Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 99.01293,
+      "PositionY": 53.438113,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of England pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "214265961",
+      "IdTeam": "43911",
+      "IdPlayer": "403585",
+      "Timestamp": "2026-07-06T01:48:19.898Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.15743,
+      "PositionY": 99.28998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Roberto ALVARADO (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "270200941",
+      "IdTeam": "43911",
+      "IdPlayer": "500037",
+      "Timestamp": "2026-07-06T01:49:04.763Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.52387,
+      "PositionY": 1.42451,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gilberto MORA (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "483654736",
+      "IdTeam": "43911",
+      "IdPlayer": "403596",
+      "Timestamp": "2026-07-06T01:50:17.616Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 93.12384999999999,
+      "PositionY": 10.45196,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jorge SANCHEZ (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "346139756",
+      "Timestamp": "2026-07-06T01:50:29.104Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1352570937",
+      "IdTeam": "43911",
+      "IdPlayer": "400634",
+      "IdSubPlayer": "395516",
+      "IdSubTeam": "43911",
+      "Timestamp": "2026-07-06T02:06:49.105Z",
+      "MatchMinute": "",
+      "Period": 4,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Before the second half begins Edson ALVAREZ (in) comes off the bench to replace Cesar MONTES (out) (Mexico)"
+        }
+      ]
+    },
+    {
+      "EventId": "1380095085",
+      "Timestamp": "2026-07-06T02:07:18.715Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "1478553711",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "Timestamp": "2026-07-06T02:08:47.404Z",
+      "MatchMinute": "47'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 77.42392,
+      "PositionY": 67.24919,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Harry KANE (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1546505275",
+      "IdTeam": "43911",
+      "IdPlayer": "429157",
+      "Timestamp": "2026-07-06T02:09:59.957Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 30.06413,
+      "PositionY": 53.855123000000006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian QUINONES (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1614492755",
+      "IdTeam": "43942",
+      "IdPlayer": "463780",
+      "Timestamp": "2026-07-06T02:11:05.262Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.78483,
+      "PositionY": 49.7030972,
+      "GoalGatePositionX": 76.98284,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico OREILLY (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1895668847",
+      "IdTeam": "43942",
+      "IdPlayer": "463809",
+      "Timestamp": "2026-07-06T02:13:29.126Z",
+      "MatchMinute": "52'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 20.04377,
+      "PositionY": 8.95092,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jarell QUANSAH (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1880511602",
+      "Timestamp": "2026-07-06T02:15:23.715Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 71,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "VAR"
+        }
+      ],
+      "VarNotificationData": {
+        "Incident": 13,
+        "Reason": 0,
+        "Status": 0,
+        "Result": 8
+      },
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Red card given"
+        }
+      ]
+    },
+    {
+      "EventId": "1977498691",
+      "IdTeam": "43942",
+      "IdPlayer": "463809",
+      "Timestamp": "2026-07-06T02:15:26.715Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 3,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Red card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jarell QUANSAH (England) is sent off!"
+        }
+      ]
+    },
+    {
+      "EventId": "1973523543",
+      "IdTeam": "43911",
+      "IdPlayer": "402772",
+      "Timestamp": "2026-07-06T02:16:52.329Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 3.9518400000000002,
+      "PositionY": 41.17361,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jesus GALLARDO (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2074984564",
+      "IdTeam": "43911",
+      "IdPlayer": "429157",
+      "Timestamp": "2026-07-06T02:18:36.333Z",
+      "MatchMinute": "57'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.26802,
+      "PositionY": 24.52655,
+      "GoalGatePositionX": 12.57827,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian QUINONES (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2107820121",
+      "IdTeam": "43942",
+      "IdPlayer": "369434",
+      "IdSubPlayer": "448196",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-06T02:19:05.833Z",
+      "MatchMinute": "57'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "John STONES (in) comes off the bench to replace Bukayo SAKA (out) (England)"
+        }
+      ]
+    },
+    {
+      "EventId": "2146947189",
+      "IdTeam": "43911",
+      "IdPlayer": "485070",
+      "Timestamp": "2026-07-06T02:19:28.785Z",
+      "MatchMinute": "58'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 86.26793,
+      "PositionY": 55.051273,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul RANGEL (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "147841143",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "IdSubPlayer": "485070",
+      "IdSubTeam": "43911",
+      "Timestamp": "2026-07-06T02:22:09.646Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 6,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Awarded"
+        }
+      ],
+      "PositionX": 89.58979000000001,
+      "PositionY": 50.023154160000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": []
+    },
+    {
+      "EventId": "147893367",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "Timestamp": "2026-07-06T02:22:09.646Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.58979000000001,
+      "PositionY": 50.023154160000004,
+      "GoalGatePositionX": 36.02929,
+      "GoalGatePositionY": 16.45544,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Harry KANE (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "147893369",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "Timestamp": "2026-07-06T02:22:09.646Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 89.58979000000001,
+      "PositionY": 50.023154160000004,
+      "GoalGatePositionX": 36.02929,
+      "GoalGatePositionY": 16.45544,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Harry KANE (England) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "203723900",
+      "IdTeam": "43911",
+      "IdPlayer": "430759",
+      "IdSubPlayer": "500037",
+      "IdSubTeam": "43911",
+      "Timestamp": "2026-07-06T02:22:52.423Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Santiago GIMENEZ (in) comes off the bench to replace Gilberto MORA (out) (Mexico)"
+        }
+      ]
+    },
+    {
+      "EventId": "203723901",
+      "IdTeam": "43911",
+      "IdPlayer": "464533",
+      "IdSubPlayer": "430763",
+      "IdSubTeam": "43911",
+      "Timestamp": "2026-07-06T02:22:52.423Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian GUTIERREZ (in) comes off the bench to replace Luis ROMO (out) (Mexico)"
+        }
+      ]
+    },
+    {
+      "EventId": "321308762",
+      "IdTeam": "43911",
+      "IdPlayer": "464533",
+      "Timestamp": "2026-07-06T02:23:36.541Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian GUTIERREZ (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "265745535",
+      "IdTeam": "43911",
+      "IdPlayer": "400634",
+      "Timestamp": "2026-07-06T02:24:01.718Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 57.953502,
+      "PositionY": 78.29651,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Edson ALVAREZ (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "439162973",
+      "IdTeam": "43911",
+      "IdPlayer": "403585",
+      "Timestamp": "2026-07-06T02:26:56.432Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.79298,
+      "PositionY": 0.8288500000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Roberto ALVARADO (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "605287554",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "Timestamp": "2026-07-06T02:28:08.715Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Harry KANE (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "595327051",
+      "Timestamp": "2026-07-06T02:28:49.488Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 71,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "VAR"
+        }
+      ],
+      "VarNotificationData": {
+        "Incident": 4,
+        "Reason": 0,
+        "Status": 0,
+        "Result": 3
+      },
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty given"
+        }
+      ]
+    },
+    {
+      "EventId": "653235296",
+      "IdTeam": "43942",
+      "IdPlayer": "405841",
+      "Timestamp": "2026-07-06T02:30:14.542Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Marc GUEHI (England) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "683600003",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "IdSubPlayer": "336022",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-06T02:30:53.329Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 6,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Awarded"
+        }
+      ],
+      "PositionX": 10.365770000000001,
+      "PositionY": 50.1033005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": []
+    },
+    {
+      "EventId": "683640963",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T02:30:53.329Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.365770000000001,
+      "PositionY": 50.1033005,
+      "GoalGatePositionX": 39.05279,
+      "GoalGatePositionY": 2.6690620000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "683640965",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T02:30:53.329Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.365770000000001,
+      "PositionY": 50.1033005,
+      "GoalGatePositionX": 39.05279,
+      "GoalGatePositionY": 2.6690620000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "800834644",
+      "Timestamp": "2026-07-06T02:32:50.098Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "835155077",
+      "IdTeam": "43911",
+      "IdPlayer": "403596",
+      "Timestamp": "2026-07-06T02:32:58.715Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jorge SANCHEZ (Mexico) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "859831394",
+      "IdTeam": "43942",
+      "IdPlayer": "463780",
+      "Timestamp": "2026-07-06T02:33:41.997Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico OREILLY (England) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1054721164",
+      "IdTeam": "43942",
+      "IdPlayer": "494345",
+      "IdSubPlayer": "481610",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-06T02:36:49.375Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dan BURN (in) comes off the bench to replace Elliot ANDERSON (out) (England)"
+        }
+      ]
+    },
+    {
+      "EventId": "1054721165",
+      "IdTeam": "43942",
+      "IdPlayer": "506329",
+      "IdSubPlayer": "463780",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-06T02:36:49.375Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Djed SPENCE (in) comes off the bench to replace Nico OREILLY (out) (England)"
+        }
+      ]
+    },
+    {
+      "EventId": "1056363606",
+      "Timestamp": "2026-07-06T02:36:56.715Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1218701412",
+      "IdTeam": "43911",
+      "IdPlayer": "464533",
+      "Timestamp": "2026-07-06T02:39:36.932Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 9.42563,
+      "PositionY": 26.492060000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian GUTIERREZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1276880010",
+      "IdTeam": "43911",
+      "IdPlayer": "416576",
+      "IdSubPlayer": "403596",
+      "IdSubTeam": "43911",
+      "Timestamp": "2026-07-06T02:40:32.923Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alvaro FIDALGO (in) comes off the bench to replace Jorge SANCHEZ (out) (Mexico)"
+        }
+      ]
+    },
+    {
+      "EventId": "1296879718",
+      "IdTeam": "43911",
+      "IdPlayer": "403585",
+      "Timestamp": "2026-07-06T02:40:54.029Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.41313,
+      "PositionY": 98.81427000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Roberto ALVARADO (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1319113867",
+      "IdTeam": "43911",
+      "IdPlayer": "464533",
+      "Timestamp": "2026-07-06T02:41:15.611Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.21725999999999998,
+      "PositionY": 1.2594299999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian GUTIERREZ (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1350673511",
+      "IdTeam": "43911",
+      "IdPlayer": "403585",
+      "Timestamp": "2026-07-06T02:41:46.742Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.76028,
+      "PositionY": 0.7968700000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Roberto ALVARADO (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1357268057",
+      "IdTeam": "43911",
+      "IdPlayer": "400634",
+      "Timestamp": "2026-07-06T02:41:48.223Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.58817,
+      "PositionY": 50.1200793,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Edson ALVAREZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1427926158",
+      "IdTeam": "43911",
+      "IdPlayer": "386339",
+      "IdSubPlayer": "429157",
+      "IdSubTeam": "43911",
+      "Timestamp": "2026-07-06T02:42:57.766Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Guillermo MARTINEZ (in) comes off the bench to replace Julian QUINONES (out) (Mexico)"
+        }
+      ]
+    },
+    {
+      "EventId": "1453205595",
+      "IdTeam": "43911",
+      "IdPlayer": "430759",
+      "Timestamp": "2026-07-06T02:43:25.741Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 13.140889999999999,
+      "PositionY": 51.248977,
+      "GoalGatePositionX": 27.52467,
+      "GoalGatePositionY": 66.5981,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Santiago GIMENEZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1637531742",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T02:46:08.964Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 59.95268299999999,
+      "PositionY": 40.541962,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1767914591",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T02:48:20.715Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1902163088",
+      "IdTeam": "43911",
+      "IdPlayer": "416576",
+      "Timestamp": "2026-07-06T02:50:45.2Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 24.20286,
+      "PositionY": 39.58289,
+      "GoalGatePositionX": 46.921929,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alvaro FIDALGO (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1093056882",
+      "IdTeam": "43942",
+      "IdPlayer": "336022",
+      "Timestamp": "2026-07-06T02:50:46.061Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 2.8409899999999997,
+      "PositionY": 47.833422,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of England pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1941312658",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T02:51:14.229Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 49.5397981,
+      "PositionY": 11.93393,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1966865505",
+      "IdTeam": "43942",
+      "IdPlayer": "492716",
+      "IdSubPlayer": "369419",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-06T02:51:46.715Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Morgan ROGERS (in) comes off the bench to replace Harry KANE (out) (England)"
+        }
+      ]
+    },
+    {
+      "EventId": "2002190448",
+      "IdTeam": "43942",
+      "IdPlayer": "448202",
+      "Timestamp": "2026-07-06T02:52:13.007Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 74.15639,
+      "PositionY": 99.11155000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jude BELLINGHAM (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2105492596",
+      "IdTeam": "43911",
+      "IdPlayer": "464533",
+      "Timestamp": "2026-07-06T02:54:03.618Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.30993000000000004,
+      "PositionY": 1.61543,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian GUTIERREZ (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "32520336",
+      "IdTeam": "43942",
+      "IdPlayer": "448202",
+      "Timestamp": "2026-07-06T02:55:15.209Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 51.12713599999999,
+      "PositionY": 64.03393,
+      "GoalGatePositionX": 61.434520000000006,
+      "GoalGatePositionY": 25.21336,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jude BELLINGHAM (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1368652149",
+      "IdTeam": "43911",
+      "IdPlayer": "485070",
+      "Timestamp": "2026-07-06T02:55:18.252Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.6676,
+      "PositionY": 46.831633000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Mexico pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "63932517",
+      "IdTeam": "43911",
+      "IdPlayer": "402772",
+      "Timestamp": "2026-07-06T02:55:45.72Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 19.77666,
+      "PositionY": 24.675520000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jesus GALLARDO (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "186222694",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T02:57:45.5Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 16.27934,
+      "PositionY": 53.42065,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "212696167",
+      "IdTeam": "43911",
+      "IdPlayer": "400634",
+      "Timestamp": "2026-07-06T02:58:12.507Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 26.84325,
+      "PositionY": 51.135861000000006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Edson ALVAREZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "268295272",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T02:59:06.08Z",
+      "MatchMinute": "90'+7'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.8836,
+      "PositionY": 44.902494,
+      "GoalGatePositionX": 37.31424,
+      "GoalGatePositionY": 83.95638,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "336299159",
+      "IdTeam": "43911",
+      "IdPlayer": "425701",
+      "Timestamp": "2026-07-06T03:00:04.443Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Johan VASQUEZ (Mexico) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "344832146",
+      "IdTeam": "43942",
+      "IdPlayer": "356189",
+      "Timestamp": "2026-07-06T03:00:18.381Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jordan HENDERSON (England) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "417489001",
+      "IdTeam": "43911",
+      "IdPlayer": "403585",
+      "Timestamp": "2026-07-06T03:01:32.326Z",
+      "MatchMinute": "90'+10'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.46302,
+      "PositionY": 98.8407,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Roberto ALVARADO (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "556952729",
+      "IdTeam": "43911",
+      "IdPlayer": "403585",
+      "Timestamp": "2026-07-06T03:03:48.662Z",
+      "MatchMinute": "90'+12'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.76724,
+      "PositionY": 1.11113,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Roberto ALVARADO (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "562931861",
+      "IdTeam": "43911",
+      "IdPlayer": "356731",
+      "Timestamp": "2026-07-06T03:03:53.207Z",
+      "MatchMinute": "90'+12'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 12.91386,
+      "PositionY": 70.55135,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Raul JIMENEZ (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "564483226",
+      "IdTeam": "43911",
+      "IdPlayer": "416576",
+      "Timestamp": "2026-07-06T03:03:55.449Z",
+      "MatchMinute": "90'+12'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 6.9491499999999995,
+      "PositionY": 67.44648,
+      "GoalGatePositionX": 42.447354999999995,
+      "GoalGatePositionY": 24.56683,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alvaro FIDALGO (Mexico) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "588205179",
+      "IdTeam": "43911",
+      "IdPlayer": "403585",
+      "Timestamp": "2026-07-06T03:04:13.647Z",
+      "MatchMinute": "90'+12'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Roberto ALVARADO (Mexico) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "595997847",
+      "Timestamp": "2026-07-06T03:04:27.179Z",
+      "MatchMinute": "90'+13'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "674922620",
+      "Timestamp": "2026-07-06T03:05:44.889Z",
+      "MatchMinute": "103'",
+      "Period": 10,
+      "HomeGoals": 2,
+      "AwayGoals": 3,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

@@ -1,0 +1,195 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289288",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "80663",
+  "IdMatch": "400021532",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 16"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-07-05T20:00:00Z",
+  "LocalDate": "2026-07-05T16:00:00Z",
+  "Home": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "43924",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/BRA",
+    "IdCountry": "BRA",
+    "Tactics": "4-1-2-3",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Brazil"
+      }
+    ],
+    "Abbreviation": "BRA",
+    "ShortClubName": "Brazil",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "BRA"
+  },
+  "Away": {
+    "Score": 2,
+    "Side": null,
+    "IdTeam": "43961",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NOR",
+    "IdCountry": "NOR",
+    "Tactics": "4-1-2-3",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Norway"
+      }
+    ],
+    "Abbreviation": "NOR",
+    "ShortClubName": "Norway",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "NOR"
+  },
+  "HomeTeamScore": 1,
+  "AwayTeamScore": 2,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400257536",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "New York/New Jersey Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400021919",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "New Jersey"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5003000"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "102'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43961",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "W76",
+  "PlaceHolderB": "W78",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "USA",
+      "OfficialId": "392406",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismail ELFATH"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismail Elfath"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "HON",
+      "OfficialId": "400191",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Said MARTINEZ"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Said MARTINEZ"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 1,
+  "MatchNumber": 91,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151698"
+  },
+  "IsUpdateable": null
+}

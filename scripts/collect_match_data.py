@@ -105,13 +105,16 @@ def extract_hydration_intervals(timeline: dict) -> list[dict]:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--home", default="ARG", help="One team abbreviation to search for. Default: ARG.")
-    parser.add_argument("--away", default="EGY", help="The other team abbreviation to search for. Default: EGY.")
+    parser.add_argument("--home", help="One team abbreviation to search for, for example ARG.")
+    parser.add_argument("--away", help="The other team abbreviation to search for, for example EGY.")
     parser.add_argument("--match-id", help="FIFA match id. If supplied, team search is skipped.")
     parser.add_argument("--competition-id", default=ID_COMPETITION, help="FIFA competition id. Default: 17.")
     parser.add_argument("--season-id", default=ID_SEASON, help="FIFA season id. Default: 285023.")
     parser.add_argument("--language", default=LANGUAGE, help="FIFA API language. Default: en.")
-    return parser.parse_args()
+    args = parser.parse_args()
+    if not args.match_id and not (args.home and args.away):
+        parser.error("provide --match-id or both --home and --away")
+    return args
 
 
 def main() -> None:
@@ -123,7 +126,8 @@ def main() -> None:
     calendar_path = RAW_DIR / f"competition_{args.competition_id}_season_{args.season_id}_calendar.json"
     calendar = load_or_fetch_json(calendar_url, calendar_path)
 
-    match = find_target_match(calendar, {args.home.upper(), args.away.upper()}, args.match_id)
+    target_teams = {args.home.upper(), args.away.upper()} if args.home and args.away else set()
+    match = find_target_match(calendar, target_teams, args.match_id)
     id_match = match["id_match"]
     id_stage = match["id_stage"]
     match_raw_dir = RAW_DIR / f"match_{id_match}"

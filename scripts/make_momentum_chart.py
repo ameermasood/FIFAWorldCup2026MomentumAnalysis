@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import os
 from pathlib import Path
 
@@ -19,13 +20,13 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import matplotlib.patheffects as path_effects
 from matplotlib.offsetbox import AnnotationBbox, DrawingArea
-from matplotlib.patches import Circle, RegularPolygon
+from matplotlib.patches import Circle, Polygon, Rectangle, RegularPolygon
 import pandas as pd
 
 
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
+RAW_DIR = PROJECT_ROOT / "data" / "raw"
 FIGURES_DIR = PROJECT_ROOT / "reports" / "figures"
-MATCH_ID = "400021528"
 
 
 ARG_BLUE = "#1787C9"
@@ -90,31 +91,91 @@ def annotate_goal(ax, minute: float, label: str, color: str, y: float) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--match-id", default=MATCH_ID, help="FIFA match id. Default: 400021528.")
-    parser.add_argument(
-        "--title",
-        default="World Cup 2026 - Round of 16 - Argentina vs Egypt",
-        help="Centered chart title.",
-    )
+    parser.add_argument("--match-id", required=True, help="FIFA match id, for example 400021528.")
     return parser.parse_args()
 
 
-def match_teams(events: pd.DataFrame) -> tuple[str, str, str, str]:
-    home = events.loc[events["side"] == "home", ["team", "team_abbr"]].dropna().drop_duplicates().iloc[0]
-    away = events.loc[events["side"] == "away", ["team", "team_abbr"]].dropna().drop_duplicates().iloc[0]
-    return home.team, home.team_abbr, away.team, away.team_abbr
+def localized_description(items: list[dict] | None, default: str = "") -> str:
+    if not items:
+        return default
+    return items[0].get("Description", default)
+
+
+def team_metadata(live: dict) -> tuple[dict, dict]:
+    return live["HomeTeam"], live["AwayTeam"]
+
+
+def chart_title(home: dict, away: dict) -> str:
+    home_name = home["ShortClubName"]
+    away_name = away["ShortClubName"]
+    return f"{home_name} vs {away_name}"
+
+
+def chart_subtitle(live: dict) -> str:
+    stage = localized_description(live.get("StageName"), "Match")
+    competition = localized_description(live.get("SeasonName"), "World Cup 2026").replace("FIFA ", "").replace("™", "")
+    return f"{competition} - {stage}"
+
+
+def add_title_flags(fig, home: dict, away: dict) -> None:
+    for country_code, left in [(home.get("IdCountry", ""), 0.305), (away.get("IdCountry", ""), 0.665)]:
+        flag_ax = fig.add_axes([left, 0.916, 0.034, 0.034])
+        flag_ax.set_xlim(0, 34)
+        flag_ax.set_ylim(0, 22)
+        flag_ax.axis("off")
+        flag_ax.add_patch(Rectangle((1, 1), 32, 20, facecolor=BG, edgecolor="#D5DBE3", linewidth=0.8))
+
+        def stripe(xy: tuple[float, float], width: float, height: float, color: str) -> None:
+            flag_ax.add_patch(Rectangle(xy, width, height, facecolor=color, edgecolor="none"))
+
+        if country_code == "MEX":
+            stripe((1, 1), 10.7, 20, "#006847")
+            stripe((11.7, 1), 10.6, 20, "#FFFFFF")
+            stripe((22.3, 1), 10.7, 20, "#CE1126")
+        elif country_code == "ENG":
+            stripe((1, 1), 32, 20, "#FFFFFF")
+            stripe((14.2, 1), 5.6, 20, "#C8102E")
+            stripe((1, 8.2), 32, 5.6, "#C8102E")
+        elif country_code == "ARG":
+            stripe((1, 1), 32, 6.7, "#75AADB")
+            stripe((1, 7.7), 32, 6.6, "#FFFFFF")
+            stripe((1, 14.3), 32, 6.7, "#75AADB")
+            flag_ax.add_patch(Circle((17, 11), 1.8, facecolor="#F6B40E", edgecolor="none"))
+        elif country_code == "EGY":
+            stripe((1, 1), 32, 6.7, "#000000")
+            stripe((1, 7.7), 32, 6.6, "#FFFFFF")
+            stripe((1, 14.3), 32, 6.7, "#CE1126")
+            flag_ax.add_patch(Circle((17, 11), 1.4, facecolor="#C09300", edgecolor="none"))
+        elif country_code == "BRA":
+            stripe((1, 1), 32, 20, "#009B3A")
+            flag_ax.add_patch(Polygon([(17, 19), (31, 11), (17, 3), (3, 11)], facecolor="#FFDF00", edgecolor="none"))
+            flag_ax.add_patch(Circle((17, 11), 4.2, facecolor="#002776", edgecolor="none"))
+        elif country_code == "NOR":
+            stripe((1, 1), 32, 20, "#BA0C2F")
+            stripe((9, 1), 6, 20, "#FFFFFF")
+            stripe((1, 8), 32, 6, "#FFFFFF")
+            stripe((10.5, 1), 3, 20, "#00205B")
+            stripe((1, 9.5), 32, 3, "#00205B")
+        else:
+            stripe((1, 1), 32, 20, "#F4F6F8")
+            flag_ax.add_patch(RegularPolygon((17, 11), numVertices=5, radius=5, facecolor="#9AA4B2", edgecolor="none"))
 
 
 def main() -> None:
     args = parse_args()
     processed_dir = PROCESSED_DIR / f"match_{args.match_id}"
+    raw_dir = RAW_DIR / f"match_{args.match_id}"
     figures_dir = FIGURES_DIR / f"match_{args.match_id}"
     figures_dir.mkdir(parents=True, exist_ok=True)
 
+    live = json.loads((raw_dir / "live.json").read_text())
     momentum = pd.read_csv(processed_dir / "momentum_grid.csv")
     events = pd.read_csv(processed_dir / "events.csv")
     hydration = pd.read_csv(processed_dir / "hydration_breaks.csv")
-    home_name, home_abbr, away_name, away_abbr = match_teams(events)
+    home, away = team_metadata(live)
+    home_name = home["ShortClubName"]
+    away_name = away["ShortClubName"]
+    home_abbr = home["Abbreviation"]
 
     plt.rcParams.update(
         {
@@ -131,7 +192,7 @@ def main() -> None:
     )
 
     fig, ax = plt.subplots(figsize=(16, 9))
-    fig.subplots_adjust(left=0.075, right=0.965, top=0.84, bottom=0.13)
+    fig.subplots_adjust(left=0.075, right=0.965, top=0.81, bottom=0.10)
 
     ax.fill_between(
         momentum["minute"],
@@ -175,11 +236,16 @@ def main() -> None:
             fontweight="bold",
         )
 
-    goals = events[events["event_type"] == "Goal!"].copy()
+    goals = events[events["event_type"] == "Goal!"].copy().sort_values("match_minute")
+    previous_goal_minutes: list[tuple[float, float]] = []
     for row in goals.itertuples():
         color = ARG_BLUE if row.attacking_abbr == home_abbr else GOLD
         y = 92 if row.attacking_abbr == home_abbr else -82
-        annotate_goal(ax, row.match_minute, f"{row.attacking_abbr} {row.match_minute_label}", color, y)
+        nearby_count = sum(abs(row.match_minute - minute) <= 2 and y == goal_y for minute, goal_y in previous_goal_minutes)
+        x_offset = 0.0 if nearby_count == 0 else [2.0, -2.0, 3.5, -3.5][(nearby_count - 1) % 4]
+        y_offset = 0.0 if nearby_count == 0 else (8.0 * nearby_count if y < 0 else -8.0 * nearby_count)
+        annotate_goal(ax, row.match_minute + x_offset, f"{row.attacking_abbr} {row.match_minute_label}", color, y + y_offset)
+        previous_goal_minutes.append((row.match_minute, y))
 
     ax.set_xlim(0, 102)
     ax.set_ylim(-110, 110)
@@ -188,8 +254,8 @@ def main() -> None:
     ax.grid(axis="y", color=GRID, linewidth=1.0)
     ax.grid(axis="x", visible=False)
     ax.tick_params(axis="both", length=0, labelsize=11)
-    ax.set_xlabel("Match minute", fontsize=12, labelpad=14)
-    ax.set_ylabel("Momentum proxy", fontsize=12, labelpad=14)
+    ax.set_xlabel("")
+    ax.set_ylabel("Momentum", fontsize=12, labelpad=14)
 
     ax.text(0.01, 0.965, f"{home_name} pressure", transform=ax.transAxes, color=ARG_BLUE, fontsize=12, fontweight="bold")
     ax.text(0.01, 0.035, f"{away_name} pressure", transform=ax.transAxes, color=EGY_RED, fontsize=12, fontweight="bold")
@@ -199,11 +265,20 @@ def main() -> None:
 
     fig.text(
         0.5,
-        0.935,
-        args.title,
+        0.94,
+        chart_title(home, away),
         fontsize=24,
         fontweight="bold",
         color=INK,
+        ha="center",
+    )
+    add_title_flags(fig, home, away)
+    fig.text(
+        0.5,
+        0.895,
+        chart_subtitle(live),
+        fontsize=13,
+        color=MUTED,
         ha="center",
     )
     png_path = figures_dir / "momentum_chart.png"

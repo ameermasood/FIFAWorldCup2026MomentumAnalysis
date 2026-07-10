@@ -16,13 +16,21 @@ The pipeline collects FIFA public calendar, live, and timeline JSON for the matc
 Run the full local workflow from the repo root:
 
 ```bash
-python3 scripts/collect_match_data.py
-python3 scripts/build_match_momentum.py
-python3 scripts/make_momentum_chart.py
+python3 scripts/collect_match_data.py --match-id 400021528
+python3 scripts/build_match_momentum.py --match-id 400021528
+python3 scripts/make_momentum_chart.py --match-id 400021528
 ```
 
 The collection script reuses existing raw JSON files when they are present and fetches from FIFA only when a raw payload is missing.
-The default match is `400021528`; pass `--match-id` to the build and chart scripts for another collected match.
+Repeat the three commands with another `--match-id` to generate the same outputs for another match.
+
+Current selected matches:
+
+| Match ID | Match | Stage |
+| --- | --- | --- |
+| `400021531` | Mexico 2-3 England | Round of 16 |
+| `400021528` | Argentina 3-2 Egypt | Round of 16 |
+| `400021532` | Brazil 1-2 Norway | Round of 16 |
 
 ## Current Outputs
 
@@ -42,6 +50,11 @@ The momentum script builds an Opta-inspired open proxy:
 - [Momentum chart SVG](reports/figures/match_400021528/momentum_chart.svg)
 
 ![Argentina vs Egypt momentum chart](reports/figures/match_400021528/momentum_chart.png)
+
+Additional generated charts:
+
+- [Mexico vs England](reports/figures/match_400021531/momentum_chart.png)
+- [Brazil vs Norway](reports/figures/match_400021532/momentum_chart.png)
 
 Early descriptive result from the revised proxy:
 
