@@ -4,6 +4,11 @@ This project is a Python-based analysis tool that downloads public event feeds f
 
 By analyzing in-game event flows (such as goals, penalty decisions, saves, and card warnings), the pipeline maps out threat scores for both home and away teams. It smooths these rolling values using cubic spline interpolation to produce clean momentum graphics. Additionally, the project highlights play segments and shifts in momentum directly before and after FIFA's official hydration breaks to study the tactical impact of those interruptions.
 
+<p align="center">
+  <img src="reports/figures/fifa_2026_logo.svg" alt="FIFA World Cup 2026 Logo" width="180"/>
+</p>
+
+
 
 ## How to Run
 
@@ -120,4 +125,4 @@ Argentina (blue) held a massive momentum lead of 44.0 points. When the second hy
 
 * **Personal & Educational Use**: This is a personal, non-commercial sports data research project developed solely for educational and analytical purposes.
 * **Non-Affiliation**: This project is not affiliated with, authorized, sponsored, or endorsed by FIFA, the FIFA World Cup, or any national football associations. 
-* **Copyright Notice**: All visualization designs, momentum metrics, and analytical code are © 2026 Amir Masoud Almasi. All rights reserved. Country flags are loaded dynamically for educational references from public third-party APIs.
+* **Copyright**: All visualization designs, momentum metrics, and analytical code are © 2026 Amir Masoud Almasi. All rights reserved.
