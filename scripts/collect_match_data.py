@@ -1,7 +1,8 @@
-"""Collect FIFA public JSON payloads for Argentina vs Egypt."""
+"""Collect FIFA public JSON payloads for one FIFA match."""
 
 from __future__ import annotations
 
+import argparse
 import json
 from collections import Counter
 from pathlib import Path
@@ -16,9 +17,6 @@ BASE_URL = "https://api.fifa.com/api/v3"
 LANGUAGE = "en"
 ID_COMPETITION = "17"
 ID_SEASON = "285023"
-
-TARGET_TEAMS = {"ARG", "EGY"}
-OUTPUT_PREFIX = "argentina_egypt_400021528"
 
 
 def fetch_json(url: str, output_path: Path) -> dict:
@@ -54,11 +52,13 @@ def team_summary(match: dict, side: str) -> dict | None:
     }
 
 
-def find_target_match(calendar: dict) -> dict:
+def find_target_match(calendar: dict, home_or_away: set[str], match_id: str | None) -> dict:
     for match in calendar["Results"]:
+        if match_id and str(match.get("IdMatch")) != str(match_id):
+            continue
         teams = [team_summary(match, "Home"), team_summary(match, "Away")]
         abbreviations = {team["abbr"] for team in teams if team}
-        if TARGET_TEAMS.issubset(abbreviations):
+        if match_id or home_or_away.issubset(abbreviations):
             return {
                 "match_number": match.get("MatchNumber"),
                 "id_match": match.get("IdMatch"),
@@ -68,7 +68,8 @@ def find_target_match(calendar: dict) -> dict:
                 "home": team_summary(match, "Home"),
                 "away": team_summary(match, "Away"),
             }
-    raise RuntimeError("Argentina vs Egypt was not found in the WC26 calendar payload.")
+    target = match_id or " vs ".join(sorted(home_or_away))
+    raise RuntimeError(f"Match {target} was not found in the WC26 calendar payload.")
 
 
 def event_text(event: dict) -> str:
@@ -102,25 +103,39 @@ def extract_hydration_intervals(timeline: dict) -> list[dict]:
     return intervals
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--home", default="ARG", help="One team abbreviation to search for. Default: ARG.")
+    parser.add_argument("--away", default="EGY", help="The other team abbreviation to search for. Default: EGY.")
+    parser.add_argument("--match-id", help="FIFA match id. If supplied, team search is skipped.")
+    parser.add_argument("--competition-id", default=ID_COMPETITION, help="FIFA competition id. Default: 17.")
+    parser.add_argument("--season-id", default=ID_SEASON, help="FIFA season id. Default: 285023.")
+    parser.add_argument("--language", default=LANGUAGE, help="FIFA API language. Default: en.")
+    return parser.parse_args()
+
+
 def main() -> None:
+    args = parse_args()
     calendar_url = (
-        f"{BASE_URL}/calendar/matches?language={LANGUAGE}"
-        f"&idCompetition={ID_COMPETITION}&idSeason={ID_SEASON}&count=200"
+        f"{BASE_URL}/calendar/matches?language={args.language}"
+        f"&idCompetition={args.competition_id}&idSeason={args.season_id}&count=200"
     )
-    calendar_path = RAW_DIR / "wc26_calendar_matches.json"
+    calendar_path = RAW_DIR / f"competition_{args.competition_id}_season_{args.season_id}_calendar.json"
     calendar = load_or_fetch_json(calendar_url, calendar_path)
 
-    match = find_target_match(calendar)
+    match = find_target_match(calendar, {args.home.upper(), args.away.upper()}, args.match_id)
     id_match = match["id_match"]
     id_stage = match["id_stage"]
+    match_raw_dir = RAW_DIR / f"match_{id_match}"
+    match_raw_dir.mkdir(parents=True, exist_ok=True)
 
-    live_url = f"{BASE_URL}/live/football/{ID_COMPETITION}/{ID_SEASON}/{id_stage}/{id_match}?language={LANGUAGE}"
-    timeline_url = f"{BASE_URL}/timelines/{id_match}?language={LANGUAGE}"
-    match_calendar_url = f"{BASE_URL}/calendar/{id_match}?language={LANGUAGE}"
+    live_url = f"{BASE_URL}/live/football/{args.competition_id}/{args.season_id}/{id_stage}/{id_match}?language={args.language}"
+    timeline_url = f"{BASE_URL}/timelines/{id_match}?language={args.language}"
+    match_calendar_url = f"{BASE_URL}/calendar/{id_match}?language={args.language}"
 
-    live_path = RAW_DIR / f"{OUTPUT_PREFIX}_live.json"
-    timeline_path = RAW_DIR / f"{OUTPUT_PREFIX}_timeline.json"
-    match_calendar_path = RAW_DIR / f"{OUTPUT_PREFIX}_calendar.json"
+    live_path = match_raw_dir / "live.json"
+    timeline_path = match_raw_dir / "timeline.json"
+    match_calendar_path = match_raw_dir / "calendar.json"
 
     live = load_or_fetch_json(live_url, live_path)
     timeline = load_or_fetch_json(timeline_url, timeline_path)
@@ -137,7 +152,7 @@ def main() -> None:
     print(f"Timeline events: {len(timeline.get('Event', []))}")
     print(f"Hydration intervals: {len(hydration_intervals)}")
     print(f"Top event types: {event_type_counts.most_common(6)}")
-    print(f"Raw data directory: {RAW_DIR}")
+    print(f"Raw data directory: {match_raw_dir}")
 
 
 if __name__ == "__main__":

@@ -1,7 +1,8 @@
-"""Create a polished LinkedIn-ready momentum chart."""
+"""Create a polished momentum chart for one processed match."""
 
 from __future__ import annotations
 
+import argparse
 import os
 from pathlib import Path
 
@@ -24,15 +25,7 @@ import pandas as pd
 
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 FIGURES_DIR = PROJECT_ROOT / "reports" / "figures"
-FIGURES_DIR.mkdir(parents=True, exist_ok=True)
-
-MOMENTUM_PATH = PROCESSED_DIR / "argentina_egypt_400021528_momentum.csv"
-EVENTS_PATH = PROCESSED_DIR / "argentina_egypt_400021528_events.csv"
-HYDRATION_PATH = PROCESSED_DIR / "argentina_egypt_400021528_hydration_breaks.csv"
-
-PNG_PATH = FIGURES_DIR / "argentina_egypt_400021528_momentum_linkedin.png"
-SVG_PATH = FIGURES_DIR / "argentina_egypt_400021528_momentum_linkedin.svg"
-PROXY_PNG_PATH = FIGURES_DIR / "argentina_egypt_400021528_momentum_proxy.png"
+MATCH_ID = "400021528"
 
 
 ARG_BLUE = "#1787C9"
@@ -95,10 +88,33 @@ def annotate_goal(ax, minute: float, label: str, color: str, y: float) -> None:
     text.set_path_effects([path_effects.withStroke(linewidth=3, foreground=BG)])
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--match-id", default=MATCH_ID, help="FIFA match id. Default: 400021528.")
+    parser.add_argument(
+        "--title",
+        default="World Cup 2026 - Round of 16 - Argentina vs Egypt",
+        help="Centered chart title.",
+    )
+    return parser.parse_args()
+
+
+def match_teams(events: pd.DataFrame) -> tuple[str, str, str, str]:
+    home = events.loc[events["side"] == "home", ["team", "team_abbr"]].dropna().drop_duplicates().iloc[0]
+    away = events.loc[events["side"] == "away", ["team", "team_abbr"]].dropna().drop_duplicates().iloc[0]
+    return home.team, home.team_abbr, away.team, away.team_abbr
+
+
 def main() -> None:
-    momentum = pd.read_csv(MOMENTUM_PATH)
-    events = pd.read_csv(EVENTS_PATH)
-    hydration = pd.read_csv(HYDRATION_PATH)
+    args = parse_args()
+    processed_dir = PROCESSED_DIR / f"match_{args.match_id}"
+    figures_dir = FIGURES_DIR / f"match_{args.match_id}"
+    figures_dir.mkdir(parents=True, exist_ok=True)
+
+    momentum = pd.read_csv(processed_dir / "momentum_grid.csv")
+    events = pd.read_csv(processed_dir / "events.csv")
+    hydration = pd.read_csv(processed_dir / "hydration_breaks.csv")
+    home_name, home_abbr, away_name, away_abbr = match_teams(events)
 
     plt.rcParams.update(
         {
@@ -161,8 +177,8 @@ def main() -> None:
 
     goals = events[events["event_type"] == "Goal!"].copy()
     for row in goals.itertuples():
-        color = ARG_BLUE if row.attacking_abbr == "ARG" else GOLD
-        y = 92 if row.attacking_abbr == "ARG" else -82
+        color = ARG_BLUE if row.attacking_abbr == home_abbr else GOLD
+        y = 92 if row.attacking_abbr == home_abbr else -82
         annotate_goal(ax, row.match_minute, f"{row.attacking_abbr} {row.match_minute_label}", color, y)
 
     ax.set_xlim(0, 102)
@@ -175,8 +191,8 @@ def main() -> None:
     ax.set_xlabel("Match minute", fontsize=12, labelpad=14)
     ax.set_ylabel("Momentum proxy", fontsize=12, labelpad=14)
 
-    ax.text(0.01, 0.965, "Argentina pressure", transform=ax.transAxes, color=ARG_BLUE, fontsize=12, fontweight="bold")
-    ax.text(0.01, 0.035, "Egypt pressure", transform=ax.transAxes, color=EGY_RED, fontsize=12, fontweight="bold")
+    ax.text(0.01, 0.965, f"{home_name} pressure", transform=ax.transAxes, color=ARG_BLUE, fontsize=12, fontweight="bold")
+    ax.text(0.01, 0.035, f"{away_name} pressure", transform=ax.transAxes, color=EGY_RED, fontsize=12, fontweight="bold")
 
     for spine in ["top", "right"]:
         ax.spines[spine].set_visible(False)
@@ -184,18 +200,18 @@ def main() -> None:
     fig.text(
         0.5,
         0.935,
-        "Argentina vs Egypt, World Cup 2026 Round of 16",
+        args.title,
         fontsize=24,
         fontweight="bold",
         color=INK,
         ha="center",
     )
-    fig.savefig(PNG_PATH, dpi=220, bbox_inches="tight")
-    fig.savefig(SVG_PATH, bbox_inches="tight")
-    fig.savefig(PROXY_PNG_PATH, dpi=200, bbox_inches="tight")
-    print(PNG_PATH)
-    print(SVG_PATH)
-    print(PROXY_PNG_PATH)
+    png_path = figures_dir / "momentum_chart.png"
+    svg_path = figures_dir / "momentum_chart.svg"
+    fig.savefig(png_path, dpi=220, bbox_inches="tight")
+    fig.savefig(svg_path, bbox_inches="tight")
+    print(png_path)
+    print(svg_path)
 
 
 if __name__ == "__main__":

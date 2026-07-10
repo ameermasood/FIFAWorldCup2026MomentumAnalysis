@@ -16,12 +16,13 @@ The pipeline collects FIFA public calendar, live, and timeline JSON for the matc
 Run the full local workflow from the repo root:
 
 ```bash
-python3 scripts/collect_argentina_egypt_data.py
-python3 scripts/build_momentum_proxy.py
-python3 scripts/make_linkedin_chart.py
+python3 scripts/collect_match_data.py
+python3 scripts/build_match_momentum.py
+python3 scripts/make_momentum_chart.py
 ```
 
 The collection script reuses existing raw JSON files when they are present and fetches from FIFA only when a raw payload is missing.
+The default match is `400021528`; pass `--match-id` to the build and chart scripts for another collected match.
 
 ## Current Outputs
 
@@ -32,18 +33,15 @@ The momentum script builds an Opta-inspired open proxy:
 - Weight the last four minutes most heavily.
 - Force hydration-break intervals to zero because play is stopped.
 
-- [Event table](data/processed/argentina_egypt_400021528_events.csv)
-- [Momentum curve data](data/processed/argentina_egypt_400021528_momentum.csv)
-- [Per-minute momentum values](data/processed/argentina_egypt_400021528_momentum_per_minute.csv)
-- [Hydration break intervals](data/processed/argentina_egypt_400021528_hydration_breaks.csv)
-- [Before/after break summary](data/processed/argentina_egypt_400021528_break_summary.csv)
-- [Momentum chart](reports/figures/argentina_egypt_400021528_momentum_proxy.png)
-- [LinkedIn-ready chart](reports/figures/argentina_egypt_400021528_momentum_linkedin.png)
-- [LinkedIn-ready SVG](reports/figures/argentina_egypt_400021528_momentum_linkedin.svg)
+- [Event table](data/processed/match_400021528/events.csv)
+- [Momentum curve data](data/processed/match_400021528/momentum_grid.csv)
+- [Per-minute momentum values](data/processed/match_400021528/momentum_per_minute.csv)
+- [Hydration break intervals](data/processed/match_400021528/hydration_breaks.csv)
+- [Before/after break summary](data/processed/match_400021528/break_summary.csv)
+- [Momentum chart PNG](reports/figures/match_400021528/momentum_chart.png)
+- [Momentum chart SVG](reports/figures/match_400021528/momentum_chart.svg)
 
-![Argentina vs Egypt momentum proxy](reports/figures/argentina_egypt_400021528_momentum_proxy.png)
-
-![Argentina vs Egypt LinkedIn momentum chart](reports/figures/argentina_egypt_400021528_momentum_linkedin.png)
+![Argentina vs Egypt momentum chart](reports/figures/match_400021528/momentum_chart.png)
 
 Early descriptive result from the revised proxy:
 

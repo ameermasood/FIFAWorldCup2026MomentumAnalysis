@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import argparse
 import json
 import math
 from pathlib import Path
@@ -11,13 +12,8 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 RAW_DIR = PROJECT_ROOT / "data" / "raw"
-PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
-
 MATCH_ID = "400021528"
-OUTPUT_PREFIX = f"argentina_egypt_{MATCH_ID}"
-TIMELINE_PATH = RAW_DIR / f"{OUTPUT_PREFIX}_timeline.json"
-LIVE_PATH = RAW_DIR / f"{OUTPUT_PREFIX}_live.json"
+PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 
 GRID_STEP = 0.25
 RECENCY_WEIGHTS = {0: 1.00, 1: 0.75, 2: 0.50, 3: 0.25}
@@ -251,7 +247,9 @@ def build_per_minute_output(grid: pd.DataFrame, hydration: pd.DataFrame) -> pd.D
     return per_minute
 
 
-def build_break_summary(grid: pd.DataFrame, hydration: pd.DataFrame) -> pd.DataFrame:
+def build_break_summary(grid: pd.DataFrame, hydration: pd.DataFrame, live: dict) -> pd.DataFrame:
+    home_name = live["HomeTeam"]["ShortClubName"]
+    away_name = live["AwayTeam"]["ShortClubName"]
     rows = []
     for index, interval in hydration.iterrows():
         before = grid[
@@ -271,29 +269,40 @@ def build_break_summary(grid: pd.DataFrame, hydration: pd.DataFrame) -> pd.DataF
                 "before_avg_momentum": before_avg,
                 "after_avg_momentum": after_avg,
                 "delta_after_minus_before": after_avg - before_avg,
-                "before_leader": "Argentina" if before_avg > 0 else "Egypt",
-                "after_leader": "Argentina" if after_avg > 0 else "Egypt",
+                "before_leader": home_name if before_avg > 0 else away_name,
+                "after_leader": home_name if after_avg > 0 else away_name,
             }
         )
     return pd.DataFrame(rows)
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--match-id", default=MATCH_ID, help="FIFA match id. Default: 400021528.")
+    return parser.parse_args()
+
+
 def main() -> None:
-    timeline = json.loads(TIMELINE_PATH.read_text())
-    live = json.loads(LIVE_PATH.read_text())
+    args = parse_args()
+    raw_dir = RAW_DIR / f"match_{args.match_id}"
+    processed_dir = PROCESSED_DIR / f"match_{args.match_id}"
+    processed_dir.mkdir(parents=True, exist_ok=True)
+
+    timeline = json.loads((raw_dir / "timeline.json").read_text())
+    live = json.loads((raw_dir / "live.json").read_text())
 
     team_lookup = build_team_lookup(live)
     events = score_events(flatten_events(timeline, team_lookup), team_lookup)
     hydration = extract_hydration(events)
     momentum = build_momentum_grid(events, hydration, live)
     per_minute = build_per_minute_output(momentum, hydration)
-    break_summary = build_break_summary(momentum, hydration)
+    break_summary = build_break_summary(momentum, hydration, live)
 
-    events_path = PROCESSED_DIR / f"{OUTPUT_PREFIX}_events.csv"
-    hydration_path = PROCESSED_DIR / f"{OUTPUT_PREFIX}_hydration_breaks.csv"
-    momentum_path = PROCESSED_DIR / f"{OUTPUT_PREFIX}_momentum.csv"
-    per_minute_path = PROCESSED_DIR / f"{OUTPUT_PREFIX}_momentum_per_minute.csv"
-    break_summary_path = PROCESSED_DIR / f"{OUTPUT_PREFIX}_break_summary.csv"
+    events_path = processed_dir / "events.csv"
+    hydration_path = processed_dir / "hydration_breaks.csv"
+    momentum_path = processed_dir / "momentum_grid.csv"
+    per_minute_path = processed_dir / "momentum_per_minute.csv"
+    break_summary_path = processed_dir / "break_summary.csv"
 
     events.to_csv(events_path, index=False)
     hydration.to_csv(hydration_path, index=False)
