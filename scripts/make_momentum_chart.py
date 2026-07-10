@@ -261,7 +261,8 @@ def main() -> None:
     ax.set_xticks(range(0, 101, 10))
     ax.set_yticks([-100, -50, 0, 50, 100])
     ax.grid(visible=False)
-    ax.tick_params(axis="both", length=0, labelsize=11)
+    ax.tick_params(axis="y", length=0, labelsize=11)
+    ax.tick_params(axis="x", bottom=False, labelbottom=False)
     ax.set_xlabel("")
     ax.set_ylabel("Momentum", fontsize=12, labelpad=14)
 
