@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import sys
 from pathlib import Path
 
 
@@ -177,6 +178,10 @@ def main() -> None:
     raw_dir = RAW_DIR / f"match_{args.match_id}"
     figures_dir = FIGURES_DIR / f"match_{args.match_id}"
     figures_dir.mkdir(parents=True, exist_ok=True)
+
+    if not (processed_dir / "events.csv").exists():
+        print(f"Notice: Processed data for Match {args.match_id} does not exist. Skipping chart.")
+        sys.exit(0)
 
     live = json.loads((raw_dir / "live.json").read_text())
     momentum = pd.read_csv(processed_dir / "momentum_grid.csv")

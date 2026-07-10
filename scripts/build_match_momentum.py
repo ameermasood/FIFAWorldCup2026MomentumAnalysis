@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import json
 import math
+import sys
 from pathlib import Path
 
 import pandas as pd
@@ -103,7 +104,15 @@ def flatten_events(timeline: dict, team_lookup: dict) -> pd.DataFrame:
                 "away_goals": event.get("AwayGoals"),
             }
         )
-    return pd.DataFrame(rows).sort_values(["timestamp", "event_id"], na_position="last")
+    df = pd.DataFrame(rows)
+    if df.empty:
+        cols = [
+            "event_id", "timestamp", "match_minute_label", "match_minute", "period",
+            "type_id", "event_type", "description", "team_id", "team", "team_abbr",
+            "side", "x", "y", "goal_x", "goal_y", "home_goals", "away_goals"
+        ]
+        return pd.DataFrame(columns=cols)
+    return df.sort_values(["timestamp", "event_id"], na_position="last")
 
 
 def extract_hydration(events: pd.DataFrame) -> pd.DataFrame:
@@ -320,6 +329,9 @@ def main() -> None:
 
     team_lookup = build_team_lookup(live)
     events = score_events(flatten_events(timeline, team_lookup), team_lookup)
+    if events.empty:
+        print(f"Notice: Match {args.match_id} has no events recorded. Skipping processing.")
+        sys.exit(0)
     events["elapsed_minute"] = compute_elapsed_minutes(events)
     hydration = extract_hydration(events)
     momentum = build_momentum_grid(events, hydration, live)
