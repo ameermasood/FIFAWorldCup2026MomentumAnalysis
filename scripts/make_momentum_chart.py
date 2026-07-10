@@ -232,8 +232,8 @@ def main() -> None:
                 alpha = np.ones((logo_img.shape[0], logo_img.shape[1], 1), dtype=logo_img.dtype)
                 logo_img = np.append(logo_img, alpha, axis=2)
             if logo_img.shape[2] == 4:
-                logo_img[:, :, 3] = logo_img[:, :, 3] * 0.08
-            logo_ax = fig.add_axes([0.44, 0.835, 0.12, 0.13], zorder=1)
+                logo_img[:, :, 3] = logo_img[:, :, 3] * 0.14
+            logo_ax = fig.add_axes([0.42, 0.815, 0.16, 0.17], zorder=1)
             logo_ax.axis("off")
             logo_ax.imshow(logo_img)
 
