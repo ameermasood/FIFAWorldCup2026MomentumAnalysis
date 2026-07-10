@@ -2,12 +2,6 @@
 
 Python pipeline to calculate match momentum from public FIFA event timeline data and analyze play segments around hydration breaks.
 
-## What it does
-
-- **Tracks match momentum continuously**: Instead of using coarse match periods, the pipeline evaluates possession and event danger levels on a rolling 4-minute window to generate a continuous momentum graph.
-- **Auto-generates clean graphics**: Visualizes the flow of the match with smooth curves, dynamic team colors, and official country flags fetched straight from FlagCDN.
-- **Adds professional watermark & credits**: Stamps the official FIFA World Cup logo in the top-left corner and includes a clean copyright credit line at the bottom.
-- **Clean, descriptive file structures**: Avoids messy, cryptic database IDs. Processed datasets and visual charts are organized into clear folders named after the tournament round and teams (e.g., `Round_of_16_Argentina_Egypt/`).
 
 ## How to Run
 
