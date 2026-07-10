@@ -318,14 +318,27 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+def get_descriptive_name(live: dict) -> str:
+    stage = localized_description(live.get("StageName"), "Match").replace(" ", "_")
+    home = live["HomeTeam"]["ShortClubName"].replace(" ", "_")
+    away = live["AwayTeam"]["ShortClubName"].replace(" ", "_")
+    for char in ["'", "\"", "/", "\\", "?", "*", ":", "|", "<", ">"]:
+        stage = stage.replace(char, "")
+        home = home.replace(char, "")
+        away = away.replace(char, "")
+    return f"{stage}_{home}_{away}"
+
+
 def main() -> None:
     args = parse_args()
     raw_dir = RAW_DIR / f"match_{args.match_id}"
-    processed_dir = PROCESSED_DIR / f"match_{args.match_id}"
-    processed_dir.mkdir(parents=True, exist_ok=True)
 
     timeline = json.loads((raw_dir / "timeline.json").read_text())
     live = json.loads((raw_dir / "live.json").read_text())
+
+    descriptive_name = get_descriptive_name(live)
+    processed_dir = PROCESSED_DIR / descriptive_name
+    processed_dir.mkdir(parents=True, exist_ok=True)
 
     team_lookup = build_team_lookup(live)
     events = score_events(flatten_events(timeline, team_lookup), team_lookup)
@@ -338,11 +351,11 @@ def main() -> None:
     per_minute = build_per_minute_output(momentum, hydration)
     break_summary = build_break_summary(momentum, hydration, live)
 
-    events_path = processed_dir / "events.csv"
-    hydration_path = processed_dir / "hydration_breaks.csv"
-    momentum_path = processed_dir / "momentum_grid.csv"
-    per_minute_path = processed_dir / "momentum_per_minute.csv"
-    break_summary_path = processed_dir / "break_summary.csv"
+    events_path = processed_dir / f"{descriptive_name}_events.csv"
+    hydration_path = processed_dir / f"{descriptive_name}_hydration_breaks.csv"
+    momentum_path = processed_dir / f"{descriptive_name}_momentum_grid.csv"
+    per_minute_path = processed_dir / f"{descriptive_name}_momentum_per_minute.csv"
+    break_summary_path = processed_dir / f"{descriptive_name}_break_summary.csv"
 
     events.to_csv(events_path, index=False)
     hydration.to_csv(hydration_path, index=False)

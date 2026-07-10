@@ -129,64 +129,124 @@ def chart_subtitle(live: dict) -> str:
     return f"{competition} - {stage}"
 
 
+FLAGS_DIR = PROJECT_ROOT / "data" / "flags"
+FLAGS_DIR.mkdir(parents=True, exist_ok=True)
+
+FIFA_TO_ISO2 = {
+    "RSA": "za", "CAN": "ca", "BRA": "br", "JPN": "jp", "GER": "de",
+    "PAR": "py", "NED": "nl", "MAR": "ma", "CIV": "ci", "NOR": "no",
+    "FRA": "fr", "SWE": "se", "MEX": "mx", "ECU": "ec", "ENG": "gb-eng",
+    "COD": "cd", "BEL": "be", "SEN": "sn", "USA": "us", "BIH": "ba",
+    "ESP": "es", "AUT": "at", "POR": "pt", "CRO": "hr", "SUI": "ch",
+    "ALG": "dz", "AUS": "au", "EGY": "eg", "ARG": "ar", "CPV": "cv",
+    "COL": "co", "GHA": "gh"
+}
+
+def get_flag_path(country_code: str) -> Path | None:
+    iso2 = FIFA_TO_ISO2.get(country_code.upper())
+    if not iso2:
+        return None
+    
+    flag_path = FLAGS_DIR / f"{iso2}.png"
+    if not flag_path.exists():
+        url = f"https://flagcdn.com/w80/{iso2}.png"
+        import urllib.request
+        req = urllib.request.Request(url, headers={"User-Agent": "WorldCupMomentumBot/1.0"})
+        try:
+            with urllib.request.urlopen(req) as response:
+                flag_path.write_bytes(response.read())
+        except Exception as e:
+            print(f"Warning: Could not download flag for {country_code}: {e}")
+            return None
+    return flag_path
+
+
+def get_descriptive_name(live: dict) -> str:
+    stage = localized_description(live.get("StageName"), "Match").replace(" ", "_")
+    home = live["HomeTeam"]["ShortClubName"].replace(" ", "_")
+    away = live["AwayTeam"]["ShortClubName"].replace(" ", "_")
+    for char in ["'", "\"", "/", "\\", "?", "*", ":", "|", "<", ">"]:
+        stage = stage.replace(char, "")
+        home = home.replace(char, "")
+        away = away.replace(char, "")
+    return f"{stage}_{home}_{away}"
+
+
 def draw_flag(fig, country_code: str, rect: list[float]) -> None:
-    flag_ax = fig.add_axes(rect)
-    flag_ax.set_xlim(0, 34)
-    flag_ax.set_ylim(0, 22)
-    flag_ax.axis("off")
-    flag_ax.add_patch(Rectangle((1, 1), 32, 20, facecolor=BG, edgecolor="#D5DBE3", linewidth=0.8))
-
-    def stripe(xy: tuple[float, float], width: float, height: float, color: str) -> None:
-        flag_ax.add_patch(Rectangle(xy, width, height, facecolor=color, edgecolor="none"))
-
-    if country_code == "MEX":
-        stripe((1, 1), 10.7, 20, "#006847")
-        stripe((11.7, 1), 10.6, 20, "#FFFFFF")
-        stripe((22.3, 1), 10.7, 20, "#CE1126")
-    elif country_code == "ENG":
-        stripe((1, 1), 32, 20, "#FFFFFF")
-        stripe((14.2, 1), 5.6, 20, "#C8102E")
-        stripe((1, 8.2), 32, 5.6, "#C8102E")
-    elif country_code == "ARG":
-        stripe((1, 1), 32, 6.7, "#75AADB")
-        stripe((1, 7.7), 32, 6.6, "#FFFFFF")
-        stripe((1, 14.3), 32, 6.7, "#75AADB")
-        flag_ax.add_patch(Circle((17, 11), 1.8, facecolor="#F6B40E", edgecolor="none"))
-    elif country_code == "EGY":
-        stripe((1, 1), 32, 6.7, "#000000")
-        stripe((1, 7.7), 32, 6.6, "#FFFFFF")
-        stripe((1, 14.3), 32, 6.7, "#CE1126")
-        flag_ax.add_patch(Circle((17, 11), 1.4, facecolor="#C09300", edgecolor="none"))
-    elif country_code == "BRA":
-        stripe((1, 1), 32, 20, "#009B3A")
-        flag_ax.add_patch(Polygon([(17, 19), (31, 11), (17, 3), (3, 11)], facecolor="#FFDF00", edgecolor="none"))
-        flag_ax.add_patch(Circle((17, 11), 4.2, facecolor="#002776", edgecolor="none"))
-    elif country_code == "NOR":
-        stripe((1, 1), 32, 20, "#BA0C2F")
-        stripe((9, 1), 6, 20, "#FFFFFF")
-        stripe((1, 8), 32, 6, "#FFFFFF")
-        stripe((10.5, 1), 3, 20, "#00205B")
-        stripe((1, 9.5), 32, 3, "#00205B")
+    flag_path = get_flag_path(country_code)
+    if flag_path and flag_path.exists():
+        flag_img = plt.imread(str(flag_path))
+        flag_ax = fig.add_axes(rect)
+        flag_ax.axis("off")
+        flag_ax.imshow(flag_img)
     else:
-        stripe((1, 1), 32, 20, "#F4F6F8")
-        flag_ax.add_patch(RegularPolygon((17, 11), numVertices=5, radius=5, facecolor="#9AA4B2", edgecolor="none"))
+        flag_ax = fig.add_axes(rect)
+        flag_ax.set_xlim(0, 34)
+        flag_ax.set_ylim(0, 22)
+        flag_ax.axis("off")
+        flag_ax.add_patch(Rectangle((1, 1), 32, 20, facecolor=BG, edgecolor="#D5DBE3", linewidth=0.8))
+
+        def stripe(xy: tuple[float, float], width: float, height: float, color: str) -> None:
+            flag_ax.add_patch(Rectangle(xy, width, height, facecolor=color, edgecolor="none"))
+
+        if country_code == "MEX":
+            stripe((1, 1), 10.7, 20, "#006847")
+            stripe((11.7, 1), 10.6, 20, "#FFFFFF")
+            stripe((22.3, 1), 10.7, 20, "#CE1126")
+        elif country_code == "ENG":
+            stripe((1, 1), 32, 20, "#FFFFFF")
+            stripe((14.2, 1), 5.6, 20, "#C8102E")
+            stripe((1, 8.2), 32, 5.6, "#C8102E")
+        elif country_code == "ARG":
+            stripe((1, 1), 32, 6.7, "#75AADB")
+            stripe((1, 7.7), 32, 6.6, "#FFFFFF")
+            stripe((1, 14.3), 32, 6.7, "#75AADB")
+            flag_ax.add_patch(Circle((17, 11), 1.8, facecolor="#F6B40E", edgecolor="none"))
+        elif country_code == "EGY":
+            stripe((1, 1), 32, 6.7, "#000000")
+            stripe((1, 7.7), 32, 6.6, "#FFFFFF")
+            stripe((1, 14.3), 32, 6.7, "#CE1126")
+            flag_ax.add_patch(Circle((17, 11), 1.4, facecolor="#C09300", edgecolor="none"))
+        elif country_code == "BRA":
+            stripe((1, 1), 32, 20, "#009B3A")
+            flag_ax.add_patch(Polygon([(17, 19), (31, 11), (17, 3), (3, 11)], facecolor="#FFDF00", edgecolor="none"))
+            flag_ax.add_patch(Circle((17, 11), 4.2, facecolor="#002776", edgecolor="none"))
+        elif country_code == "NOR":
+            stripe((1, 1), 32, 20, "#BA0C2F")
+            stripe((9, 1), 6, 20, "#FFFFFF")
+            stripe((1, 8), 32, 6, "#FFFFFF")
+            stripe((10.5, 1), 3, 20, "#00205B")
+            stripe((1, 9.5), 32, 3, "#00205B")
+        else:
+            stripe((1, 1), 32, 20, "#F4F6F8")
+            flag_ax.add_patch(RegularPolygon((17, 11), numVertices=5, radius=5, facecolor="#9AA4B2", edgecolor="none"))
 
 
 def main() -> None:
     args = parse_args()
-    processed_dir = PROCESSED_DIR / f"match_{args.match_id}"
     raw_dir = RAW_DIR / f"match_{args.match_id}"
-    figures_dir = FIGURES_DIR / f"match_{args.match_id}"
-    figures_dir.mkdir(parents=True, exist_ok=True)
 
-    if not (processed_dir / "events.csv").exists():
-        print(f"Notice: Processed data for Match {args.match_id} does not exist. Skipping chart.")
+    # Load live.json first to compute descriptive folder/file names
+    live_path = raw_dir / "live.json"
+    if not live_path.exists():
+        print(f"Notice: Live data for Match {args.match_id} does not exist. Skipping chart.")
         sys.exit(0)
 
-    live = json.loads((raw_dir / "live.json").read_text())
-    momentum = pd.read_csv(processed_dir / "momentum_grid.csv")
-    events = pd.read_csv(processed_dir / "events.csv")
-    hydration = pd.read_csv(processed_dir / "hydration_breaks.csv")
+    live = json.loads(live_path.read_text())
+    descriptive_name = get_descriptive_name(live)
+
+    processed_dir = PROCESSED_DIR / descriptive_name
+    figures_dir = FIGURES_DIR / descriptive_name
+    figures_dir.mkdir(parents=True, exist_ok=True)
+
+    events_file = processed_dir / f"{descriptive_name}_events.csv"
+    if not events_file.exists():
+        print(f"Notice: Processed data for Match {args.match_id} ({descriptive_name}) does not exist. Skipping chart.")
+        sys.exit(0)
+
+    momentum = pd.read_csv(processed_dir / f"{descriptive_name}_momentum_grid.csv")
+    events = pd.read_csv(events_file)
+    hydration = pd.read_csv(processed_dir / f"{descriptive_name}_hydration_breaks.csv")
     home, away = team_metadata(live)
     home_name = home["ShortClubName"]
     away_name = away["ShortClubName"]
@@ -228,19 +288,13 @@ def main() -> None:
     fig, ax = plt.subplots(figsize=(16, 9))
     fig.subplots_adjust(left=0.075, right=0.965, top=0.86, bottom=0.10)
 
-    # Add a faded official FIFA World Cup 26 logo in the background centered behind the titles
+    # Add official FIFA World Cup 26 logo at the top left of the figure with full opacity
     logo_path = Path(__file__).resolve().parent.parent / "data" / "fifa_logo.png"
     if logo_path.exists():
         logo_img = plt.imread(str(logo_path))
-        if len(logo_img.shape) == 3:
-            if logo_img.shape[2] == 3:
-                alpha = np.ones((logo_img.shape[0], logo_img.shape[1], 1), dtype=logo_img.dtype)
-                logo_img = np.append(logo_img, alpha, axis=2)
-            if logo_img.shape[2] == 4:
-                logo_img[:, :, 3] = logo_img[:, :, 3] * 0.14
-            logo_ax = fig.add_axes([0.42, 0.815, 0.16, 0.17], zorder=1)
-            logo_ax.axis("off")
-            logo_ax.imshow(logo_img)
+        logo_ax = fig.add_axes([0.015, 0.88, 0.05, 0.07], zorder=10)
+        logo_ax.axis("off")
+        logo_ax.imshow(logo_img)
 
     ax.fill_between(
         momentum_hr["minute"],
@@ -316,26 +370,26 @@ def main() -> None:
         alpha=0.45,
         zorder=2,
     )
-    ax.text(
-        first_half_end,
-        -105,
-        "HT",
-        color=MUTED,
-        fontsize=10,
-        fontweight="bold",
-        ha="center",
-        va="bottom",
-        alpha=0.6,
-    )
 
     max_elapsed = momentum_hr["minute"].max()
     ax.set_xlim(0, max_elapsed + 1)
     ax.set_ylim(-110, 110)
-    ax.set_xticks(range(0, int(max_elapsed) + 1, 10))
+
+    # Determine x-axis ticks based on game stages
+    has_et = any(events["period"].isin([7, 9])) if "period" in events else False
+    if has_et or max_elapsed > 115:
+        ticks = [0, first_half_end, 90.0, max_elapsed]
+        labels = ["0", "HT", "FT", "AET"]
+    else:
+        ticks = [0, first_half_end, max_elapsed]
+        labels = ["0", "HT", "FT"]
+
+    ax.set_xticks(ticks)
+    ax.set_xticklabels(labels, fontsize=11, color=MUTED, fontweight="bold")
+    ax.tick_params(axis="x", bottom=True, labelbottom=True, length=5, width=1.1, colors=MUTED)
     ax.set_yticks([-100, -50, 0, 50, 100])
     ax.grid(visible=False)
     ax.tick_params(axis="y", length=0, labelsize=11)
-    ax.tick_params(axis="x", bottom=False, labelbottom=False)
     ax.set_xlabel("")
     ax.set_ylabel("Momentum", fontsize=12, labelpad=14)
 
@@ -361,8 +415,10 @@ def main() -> None:
         ha="center",
     )
 
-    for spine in ["top", "right", "bottom"]:
+    for spine in ["top", "right"]:
         ax.spines[spine].set_visible(False)
+    ax.spines["bottom"].set_visible(True)
+    ax.spines["bottom"].set_color("#E8EDF2")
 
     fig.text(
         0.5,
@@ -381,8 +437,20 @@ def main() -> None:
         color=MUTED,
         ha="center",
     )
-    png_path = figures_dir / "momentum_chart.png"
-    svg_path = figures_dir / "momentum_chart.svg"
+
+    # Add copyright / watermark text at the bottom below x-axis
+    fig.text(
+        0.5,
+        0.02,
+        "© 2026 Amir Masoud Almasi. All rights reserved. | Data: FIFA API | Match Momentum Analysis",
+        fontsize=9.5,
+        color="#7A8699",
+        ha="center",
+        fontweight="semibold",
+    )
+
+    png_path = figures_dir / f"{descriptive_name}_momentum_chart.png"
+    svg_path = figures_dir / f"{descriptive_name}_momentum_chart.svg"
     fig.savefig(png_path, dpi=220, bbox_inches="tight")
     fig.savefig(svg_path, bbox_inches="tight")
     print(png_path)

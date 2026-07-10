@@ -88,9 +88,24 @@ def main() -> None:
     ]
     run_command(chart_cmd)
 
-    print("\nPipeline run completed successfully!")
-    print(f"Processed data: data/processed/match_{match_id}/")
-    print(f"Chart figure:   reports/figures/match_{match_id}/momentum_chart.png")
+    import json
+    live_path = PROJECT_ROOT / "data" / "raw" / f"match_{match_id}" / "live.json"
+    if live_path.exists():
+        live = json.loads(live_path.read_text())
+        stage = live.get("StageName")[0]["Description"].replace(" ", "_") if live.get("StageName") else "Match"
+        home = live["HomeTeam"]["ShortClubName"].replace(" ", "_")
+        away = live["AwayTeam"]["ShortClubName"].replace(" ", "_")
+        for char in ["'", "\"", "/", "\\", "?", "*", ":", "|", "<", ">"]:
+            stage = stage.replace(char, "")
+            home = home.replace(char, "")
+            away = away.replace(char, "")
+        descriptive_name = f"{stage}_{home}_{away}"
+        
+        print("\nPipeline run completed successfully!")
+        print(f"Processed data: data/processed/{descriptive_name}/")
+        print(f"Chart figure:   reports/figures/{descriptive_name}/{descriptive_name}_momentum_chart.png")
+    else:
+        print("\nPipeline run completed successfully!")
 
 
 if __name__ == "__main__":
