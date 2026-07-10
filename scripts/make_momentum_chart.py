@@ -437,7 +437,7 @@ def main() -> None:
         logo_img = plt.imread(str(logo_path))
         logo_w = 0.055
         logo_h = 0.075
-        logo_ax = fig.add_axes([0.015, 0.88, logo_w, logo_h], zorder=10)
+        logo_ax = fig.add_axes([0.015, 0.89, logo_w, logo_h], zorder=10)
         logo_ax.axis("off")
         logo_ax.imshow(logo_img)
 
