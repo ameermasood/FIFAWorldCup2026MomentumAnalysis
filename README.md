@@ -1,4 +1,4 @@
-# World Cup Match Momentum & Hydration Breaks
+# FIFA World Cup 2026 Match Momentum Analysis 
 
 This project is a Python-based analysis tool that downloads public event feeds from the FIFA API to reconstruct match momentum curves for the FIFA World Cup 2026. 
 
