@@ -32,6 +32,40 @@ Current selected matches:
 | `400021528` | Argentina 3-2 Egypt | Round of 16 |
 | `400021532` | Brazil 1-2 Norway | Round of 16 |
 
+## Calculation Methodology
+
+The match momentum is computed continuously over a rolling grid (with step size $\Delta t = 0.25$ minutes) using the following mathematical formulation:
+
+1. **Possession Value Proxy ($PV$):**
+   Visible events on the timeline are mapped to a threat score capped at $0.10$:
+   - **Goal**: $0.10$
+   - **Penalty Awarded**: $0.085$
+   - **Attempt at Goal**: $0.035 + 0.045 \times \text{danger}$ (where $\text{danger} = 1.0 - \frac{\min(x, 100-x)}{50}$ and $x$ is the horizontal coordinate of the event)
+   - **Corner**: $0.025$
+   - **Goal Prevention (Save)**: $0.04$ (credited to opponent's attack)
+   - **Foul**: $0.008 + 0.022 \times \text{danger}$ (credited to opponent's attack)
+   - **Offside**: $0.01$
+
+2. **Continuous Team Threat ($T_{team}$):**
+   For a given time $t$ on the grid, the recent threat score for team $A$ is calculated using a continuous sliding lookback window spanning the last 4 minutes:
+   $$T_A(t) = \sum_{l=0}^{3} w_l \cdot \max_{\tau \in (t - (l+1), t - l]} PV_A(\tau)$$
+   where the recency weights $w_l$ are:
+   - $w_0 = 1.00$ (last 0 to 1 minutes)
+   - $w_1 = 0.75$ (last 1 to 2 minutes)
+   - $w_2 = 0.50$ (last 2 to 3 minutes)
+   - $w_3 = 0.25$ (last 3 to 4 minutes)
+   
+   If no events occur for team $A$ in a sliding interval, the peak value for that interval is $0.0$.
+
+3. **Raw Momentum ($M_{raw}$):**
+   The difference between the home and away threats:
+   $$M_{raw}(t) = T_{Home}(t) - T_{Away}(t)$$
+
+4. **Normalized & Smoothed Momentum ($M_{smoothed}$):**
+   The raw momentum is scaled relative to the maximum absolute raw momentum in the match to reside in the range $[-100, 100]$:
+   $$M(t) = 100 \cdot \frac{M_{raw}(t)}{\max_{t'} |M_{raw}(t')|}$$
+   We then apply a rolling mean filter with a centered window of 5 grid points (covering 1.25 minutes) to smooth out high-frequency fluctuations, yielding $M_{smoothed}(t)$. During hydration breaks, all momentum metrics are forced to $0.0$.
+
 ## Current Outputs
 
 The momentum script builds an Opta-inspired open proxy:
