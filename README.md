@@ -103,16 +103,16 @@ Canada (blue) had built a strong, high-pressure momentum lead in the first half.
 ![Canada vs Morocco momentum chart](reports/figures/Round_of_16_Canada_Morocco/Round_of_16_Canada_Morocco_momentum_chart.png)
 ---
 
-## The Guaranteed Drop in Extreme Dominance
+## The "100% Collapse" of Extreme Dominance
 
-Our data shows that if a team completely dominates the game right before a hydration break, they are almost guaranteed to see their control reduced afterward. We looked at 12 instances where a team had a massive momentum lead (25 points or more) right before a stoppage. In all 12 cases, the dominant team suffered a drop in momentum (meaning the shift favored their opponent). 
+Our data shows that if a team completely dominates the game right before a hydration break, they are almost guaranteed to see their control collapsed afterward. We looked at 12 instances where a team had a massive momentum lead (25 points or more) right before a stoppage. In all 12 cases, the dominant team suffered a drop in momentum (meaning the shift favored their opponent). 
 
-This doesn't mean they always lose the lead entirely, but the break acts as a hard ceiling on match dominance. If a team is running away with the game, the stoppage disrupts their flow, cutting down their momentum. 
+The stoppage acts as a hard limit on match dominance. If a team is running away with the game, the break resets their rhythm, making it highly likely they will experience a drop in pressure.
 
-### Visualizing the Reset: France vs. Morocco (Quarter-final)
-France (blue) started the match in complete control, building an extreme momentum lead of 65.2 points. The 29th-minute hydration break served as a hard reset. When play resumed, France's dominance was cut exactly in half to 32.6 points. While they did not lose the lead entirely, the stoppage successfully broke their high-pressure cycle and allowed Morocco (red) to establish a foothold in the match.
+### Visualizing the Collapse: Argentina vs. Cabo Verde (Round of 32)
+Argentina (blue) held a massive momentum lead of 44.0 points. When the second hydration break (73' to 76') halted play, their control collapsed entirely. After the restart, Argentina's momentum crashed to -4.0 points, allowing Cabo Verde (red) to seize the momentum lead for the final phase of the match.
 
-![France vs Morocco momentum chart](reports/figures/Quarter-final_France_Morocco/Quarter-final_France_Morocco_momentum_chart.png)
+![Argentina vs Cabo Verde momentum chart](reports/figures/Round_of_32_Argentina_Cabo_Verde/Round_of_32_Argentina_Cabo_Verde_momentum_chart.png)
 
 ---
 
