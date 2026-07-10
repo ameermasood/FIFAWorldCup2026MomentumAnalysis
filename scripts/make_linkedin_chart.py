@@ -17,6 +17,8 @@ matplotlib.use("Agg")
 
 import matplotlib.pyplot as plt
 import matplotlib.patheffects as path_effects
+from matplotlib.offsetbox import AnnotationBbox, DrawingArea
+from matplotlib.patches import Circle, RegularPolygon
 import pandas as pd
 
 
@@ -27,21 +29,19 @@ FIGURES_DIR.mkdir(parents=True, exist_ok=True)
 MOMENTUM_PATH = PROCESSED_DIR / "argentina_egypt_400021528_momentum.csv"
 EVENTS_PATH = PROCESSED_DIR / "argentina_egypt_400021528_events.csv"
 HYDRATION_PATH = PROCESSED_DIR / "argentina_egypt_400021528_hydration_breaks.csv"
-SUMMARY_PATH = PROCESSED_DIR / "argentina_egypt_400021528_break_summary.csv"
 
 PNG_PATH = FIGURES_DIR / "argentina_egypt_400021528_momentum_linkedin.png"
 SVG_PATH = FIGURES_DIR / "argentina_egypt_400021528_momentum_linkedin.svg"
+PROXY_PNG_PATH = FIGURES_DIR / "argentina_egypt_400021528_momentum_proxy.png"
 
 
 ARG_BLUE = "#1787C9"
-ARG_DARK = "#0A3D62"
 EGY_RED = "#B91C1C"
-EGY_DARK = "#4A0D0D"
 GOLD = "#D4A017"
-PURPLE = "#7C3AED"
 INK = "#17202A"
 MUTED = "#5D6D7E"
 GRID = "#DDE3EA"
+BREAK_GRAY = "#8A9099"
 BG = "#FFFFFF"
 
 
@@ -70,11 +70,20 @@ def plot_signed_segments(ax, data: pd.DataFrame) -> None:
     )
 
 
+def add_football_icon(ax, minute: float, y: float) -> None:
+    icon = DrawingArea(20, 20, 0, 0)
+    icon.add_artist(Circle((10, 10), 8.1, facecolor=BG, edgecolor=INK, linewidth=1.2))
+    icon.add_artist(RegularPolygon((10, 10), numVertices=5, radius=3.1, orientation=0.62, facecolor=INK, edgecolor=INK))
+    for x, y2 in [(5.4, 6.0), (14.6, 6.0), (6.4, 14.0), (13.6, 14.0)]:
+        icon.add_artist(Circle((x, y2), 1.1, facecolor=INK, edgecolor=INK, linewidth=0))
+    ax.add_artist(AnnotationBbox(icon, (minute, y), frameon=False, box_alignment=(0.5, 0.5), zorder=9))
+
+
 def annotate_goal(ax, minute: float, label: str, color: str, y: float) -> None:
-    ax.scatter([minute], [y], s=72, color=color, edgecolor=BG, linewidth=1.6, zorder=8)
+    add_football_icon(ax, minute, y)
     text = ax.text(
         minute,
-        y - 7,
+        y - 9,
         label,
         ha="center",
         va="top",
@@ -90,7 +99,6 @@ def main() -> None:
     momentum = pd.read_csv(MOMENTUM_PATH)
     events = pd.read_csv(EVENTS_PATH)
     hydration = pd.read_csv(HYDRATION_PATH)
-    summary = pd.read_csv(SUMMARY_PATH)
 
     plt.rcParams.update(
         {
@@ -107,7 +115,7 @@ def main() -> None:
     )
 
     fig, ax = plt.subplots(figsize=(16, 9))
-    fig.subplots_adjust(left=0.075, right=0.965, top=0.80, bottom=0.17)
+    fig.subplots_adjust(left=0.075, right=0.965, top=0.84, bottom=0.13)
 
     ax.fill_between(
         momentum["minute"],
@@ -130,14 +138,14 @@ def main() -> None:
     ax.axhline(0, color=INK, linewidth=1.2, alpha=0.88, zorder=4)
 
     for row in hydration.itertuples():
-        ax.axvspan(row.start_minute, row.end_minute, color=PURPLE, alpha=0.12, zorder=0)
+        ax.axvspan(row.start_minute, row.end_minute, color=BREAK_GRAY, alpha=0.18, zorder=0)
         ax.plot(
             [row.start_minute, row.end_minute],
             [0, 0],
-            color=PURPLE,
+            color=BREAK_GRAY,
             linewidth=5,
             solid_capstyle="round",
-            alpha=0.65,
+            alpha=0.75,
             zorder=7,
         )
         ax.text(
@@ -147,7 +155,7 @@ def main() -> None:
             ha="center",
             va="top",
             fontsize=10,
-            color=PURPLE,
+            color="#5C626B",
             fontweight="bold",
         )
 
@@ -156,20 +164,6 @@ def main() -> None:
         color = ARG_BLUE if row.attacking_abbr == "ARG" else GOLD
         y = 92 if row.attacking_abbr == "ARG" else -82
         annotate_goal(ax, row.match_minute, f"{row.attacking_abbr} {row.match_minute_label}", color, y)
-
-    break_two = summary.loc[summary["break_number"] == 2].iloc[0]
-    ax.text(
-        0.985,
-        0.035,
-        f"70'-74' break: {break_two.before_avg_momentum:+.1f} before -> "
-        f"{break_two.after_avg_momentum:+.1f} after",
-        transform=ax.transAxes,
-        ha="right",
-        va="bottom",
-        fontsize=11,
-        color=INK,
-        bbox={"boxstyle": "round,pad=0.4,rounding_size=0.12", "fc": "#FFFFFF", "ec": "#E5EAF0"},
-    )
 
     ax.set_xlim(0, 102)
     ax.set_ylim(-110, 110)
@@ -188,46 +182,20 @@ def main() -> None:
         ax.spines[spine].set_visible(False)
 
     fig.text(
-        0.075,
+        0.5,
         0.935,
         "Argentina vs Egypt, World Cup 2026 Round of 16",
         fontsize=24,
         fontweight="bold",
         color=INK,
-        ha="left",
+        ha="center",
     )
-    fig.text(
-        0.075,
-        0.895,
-        "Open momentum proxy inspired by Opta: capped peak threat per team per minute, weighted over the previous four minutes",
-        fontsize=13,
-        color=MUTED,
-        ha="left",
-    )
-    fig.text(
-        0.075,
-        0.855,
-        "Key takeaway: 70'-74' hydration break precedes a sharp swing toward Argentina",
-        fontsize=11.5,
-        color=ARG_DARK,
-        fontweight="bold",
-        ha="left",
-        va="center",
-        bbox={"boxstyle": "round,pad=0.45,rounding_size=0.12", "fc": "#F4FAFE", "ec": "#CDEAF8"},
-    )
-    fig.text(
-        0.075,
-        0.055,
-        "Positive values favor Argentina. Negative values favor Egypt. Hydration intervals are forced to zero because play is stopped. Source: FIFA public timeline data.",
-        fontsize=10.5,
-        color=MUTED,
-        ha="left",
-    )
-
     fig.savefig(PNG_PATH, dpi=220, bbox_inches="tight")
     fig.savefig(SVG_PATH, bbox_inches="tight")
+    fig.savefig(PROXY_PNG_PATH, dpi=200, bbox_inches="tight")
     print(PNG_PATH)
     print(SVG_PATH)
+    print(PROXY_PNG_PATH)
 
 
 if __name__ == "__main__":
