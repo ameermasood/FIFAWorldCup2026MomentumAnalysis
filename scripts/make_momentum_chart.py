@@ -431,33 +431,13 @@ def main() -> None:
         ha="center",
     )
 
-    # Force a canvas draw to compute text layout boundary coordinates
-    fig.canvas.draw()
-    
-    # Title bounds
-    bbox = t.get_window_extent(fig.canvas.get_renderer())
-    bbox_fig = fig.transFigure.inverted().transform(bbox)
-    x0, y0 = bbox_fig[0]
-    x1, y1 = bbox_fig[1]
-
-    # Subtitle bounds
-    sub_bbox = sub_t.get_window_extent(fig.canvas.get_renderer())
-    sub_bbox_fig = fig.transFigure.inverted().transform(sub_bbox)
-    sub_x0, sub_y0 = sub_bbox_fig[0]
-    sub_x1, sub_y1 = sub_bbox_fig[1]
-
-    # Center logo vertically relative to the entire title + subtitle block
-    y_center = (y1 + sub_y0) / 2
-
-    # Draw logo to the left of the title start coordinate
+    # Draw logo at the top left of the figure
     logo_path = Path(__file__).resolve().parent.parent / "data" / "fifa_logo.png"
     if logo_path.exists():
         logo_img = plt.imread(str(logo_path))
-        logo_w = 0.075
-        logo_h = 0.105
-        logo_left = x0 - logo_w - 0.015
-        logo_bottom = y_center - logo_h / 2
-        logo_ax = fig.add_axes([logo_left, logo_bottom, logo_w, logo_h], zorder=10)
+        logo_w = 0.055
+        logo_h = 0.075
+        logo_ax = fig.add_axes([0.015, 0.88, logo_w, logo_h], zorder=10)
         logo_ax.axis("off")
         logo_ax.imshow(logo_img)
 
