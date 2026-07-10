@@ -94,7 +94,7 @@ Early descriptive result from the revised proxy:
 
 | Break | Interval | Avg. momentum before | Avg. momentum after | Shift |
 | --- | --- | ---: | ---: | ---: |
-| 1 | 23' to 26' | 22.41 | 41.38 | +18.96 |
-| 2 | 70' to 74' | -10.04 | 42.04 | +52.07 |
+| 1 | 23' to 26' | 20.73 | 41.46 | +20.73 |
+| 2 | 70' to 74' | -9.08 | 41.75 | +50.84 |
 
 Positive values favor Argentina; negative values favor Egypt.

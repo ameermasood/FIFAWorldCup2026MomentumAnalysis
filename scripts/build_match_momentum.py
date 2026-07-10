@@ -220,7 +220,7 @@ def build_momentum_grid(events: pd.DataFrame, hydration: pd.DataFrame, live: dic
 
     max_abs = grid["raw_momentum"].abs().max()
     grid["momentum"] = 100 * grid["raw_momentum"] / max_abs if max_abs else 0.0
-    grid["momentum_smoothed"] = grid["momentum"].rolling(window=5, center=True, min_periods=1).mean()
+    grid["momentum_smoothed"] = grid["momentum"].rolling(window=9, center=True, min_periods=1).mean()
     grid.loc[break_mask, "momentum_smoothed"] = 0.0
     grid["is_hydration_break"] = break_mask
 
