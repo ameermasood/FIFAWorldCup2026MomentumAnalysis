@@ -19,6 +19,7 @@ matplotlib.use("Agg")
 
 import matplotlib.pyplot as plt
 import matplotlib.patheffects as path_effects
+from matplotlib.lines import Line2D
 from matplotlib.offsetbox import AnnotationBbox, DrawingArea
 from matplotlib.patches import Circle, Polygon, Rectangle, RegularPolygon
 import pandas as pd
@@ -29,17 +30,23 @@ RAW_DIR = PROJECT_ROOT / "data" / "raw"
 FIGURES_DIR = PROJECT_ROOT / "reports" / "figures"
 
 
-ARG_BLUE = "#1787C9"
-EGY_RED = "#B91C1C"
-GOLD = "#D4A017"
 INK = "#17202A"
 MUTED = "#5D6D7E"
 GRID = "#DDE3EA"
 BREAK_GRAY = "#8A9099"
 BG = "#FFFFFF"
 
+TEAM_COLORS = {
+    "ARG": "#75AADB",
+    "EGY": "#CE1126",
+    "MEX": "#006847",
+    "ENG": "#1B365D",
+    "BRA": "#009B3A",
+    "NOR": "#BA0C2F",
+}
 
-def plot_signed_segments(ax, data: pd.DataFrame) -> None:
+
+def plot_signed_segments(ax, data: pd.DataFrame, home_color: str, away_color: str) -> None:
     """Draw positive and negative momentum with separate colors."""
     positive = data["momentum_smoothed"].where(data["momentum_smoothed"] >= 0)
     negative = data["momentum_smoothed"].where(data["momentum_smoothed"] < 0)
@@ -47,7 +54,7 @@ def plot_signed_segments(ax, data: pd.DataFrame) -> None:
     ax.plot(
         data["minute"],
         positive,
-        color=ARG_BLUE,
+        color=home_color,
         linewidth=4.0,
         solid_capstyle="round",
         solid_joinstyle="round",
@@ -56,7 +63,7 @@ def plot_signed_segments(ax, data: pd.DataFrame) -> None:
     ax.plot(
         data["minute"],
         negative,
-        color=EGY_RED,
+        color=away_color,
         linewidth=4.0,
         solid_capstyle="round",
         solid_joinstyle="round",
@@ -176,6 +183,8 @@ def main() -> None:
     home_name = home["ShortClubName"]
     away_name = away["ShortClubName"]
     home_abbr = home["Abbreviation"]
+    home_color = TEAM_COLORS.get(home.get("IdCountry", ""), "#1787C9")
+    away_color = TEAM_COLORS.get(away.get("IdCountry", ""), "#B91C1C")
 
     plt.rcParams.update(
         {
@@ -198,7 +207,7 @@ def main() -> None:
         momentum["minute"],
         0,
         momentum["momentum_smoothed"].clip(lower=0),
-        color=ARG_BLUE,
+        color=home_color,
         alpha=0.13,
         zorder=1,
     )
@@ -206,11 +215,11 @@ def main() -> None:
         momentum["minute"],
         0,
         momentum["momentum_smoothed"].clip(upper=0),
-        color=EGY_RED,
+        color=away_color,
         alpha=0.12,
         zorder=1,
     )
-    plot_signed_segments(ax, momentum)
+    plot_signed_segments(ax, momentum, home_color, away_color)
 
     ax.axhline(0, color=INK, linewidth=1.2, alpha=0.88, zorder=4)
 
@@ -239,7 +248,7 @@ def main() -> None:
     goals = events[events["event_type"] == "Goal!"].copy().sort_values("match_minute")
     previous_goal_minutes: list[tuple[float, float]] = []
     for row in goals.itertuples():
-        color = ARG_BLUE if row.attacking_abbr == home_abbr else GOLD
+        color = home_color if row.attacking_abbr == home_abbr else away_color
         y = 92 if row.attacking_abbr == home_abbr else -82
         nearby_count = sum(abs(row.match_minute - minute) <= 2 and y == goal_y for minute, goal_y in previous_goal_minutes)
         x_offset = 0.0 if nearby_count == 0 else [2.0, -2.0, 3.5, -3.5][(nearby_count - 1) % 4]
@@ -257,10 +266,21 @@ def main() -> None:
     ax.set_xlabel("")
     ax.set_ylabel("Momentum", fontsize=12, labelpad=14)
 
-    ax.text(0.01, 0.965, f"{home_name} pressure", transform=ax.transAxes, color=ARG_BLUE, fontsize=12, fontweight="bold")
-    ax.text(0.01, 0.035, f"{away_name} pressure", transform=ax.transAxes, color=EGY_RED, fontsize=12, fontweight="bold")
+    legend_elements = [
+        Line2D([0], [0], color=home_color, lw=4, label=f"{home_name} ({home.get('Abbreviation', '')})"),
+        Line2D([0], [0], color=away_color, lw=4, label=f"{away_name} ({away.get('Abbreviation', '')})"),
+    ]
+    ax.legend(
+        handles=legend_elements,
+        loc="upper left",
+        frameon=True,
+        facecolor=BG,
+        edgecolor="#E8EDF2",
+        fontsize=11,
+        framealpha=0.9,
+    )
 
-    for spine in ["top", "right"]:
+    for spine in ["top", "right", "bottom"]:
         ax.spines[spine].set_visible(False)
 
     fig.text(
