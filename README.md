@@ -105,9 +105,9 @@ Canada (blue) had built a strong, high-pressure momentum lead in the first half.
 
 ## The "100% Collapse" of Extreme Dominance
 
-Beyond individual matches, our aggregate data shows that extreme dominance before a hydration break makes a team highly vulnerable to a drop in control. When we isolated the 12 breaks where a team held a massive average momentum lead (25 points or more) immediately before the stoppage, we found that they lost momentum after play resumed in 12 out of 12 cases.
+Our data shows that if a team completely dominates the game right before a hydration break, they are almost guaranteed to lose control afterward. We looked at 12 instances where a team had a massive momentum lead (25 points or more) right before a stoppage. In all 12 cases, that dominant team lost momentum once play resumed. 
 
-The shifts are also much more volatile during these periods. While matches with mild dominance only saw an average post-break shift of 16.68 points, games with extreme dominance registered an average shift of 25.77 points. Under this model, the hydration break functions as a hard ceiling for game control. A team entering the cooling timeout with massive dominance has a 100% historical probability of suffering a momentum drop once play restarts.
+Essentially, the break acts as a hard limit on match dominance. If a team is running away with the game, the stoppage resets their rhythm, making it highly likely they will experience a drop in pressure.
 
 ### Visualizing the Collapse: France vs. Morocco (Quarter-final)
 France (blue) started the match in complete control, building an extreme momentum lead of 65.2 points. The 29th-minute hydration break served as a hard reset. When play resumed, France's dominance was cut exactly in half to 32.6 points, allowing Morocco (red) to establish a foothold in the match.
