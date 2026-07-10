@@ -103,14 +103,14 @@ Canada (blue) had built a strong, high-pressure momentum lead in the first half.
 ![Canada vs Morocco momentum chart](reports/figures/Round_of_16_Canada_Morocco/Round_of_16_Canada_Morocco_momentum_chart.png)
 ---
 
-## The "100% Collapse" of Extreme Dominance
+## The Guaranteed Drop in Extreme Dominance
 
-Our data shows that if a team completely dominates the game right before a hydration break, they are almost guaranteed to lose control afterward. We looked at 12 instances where a team had a massive momentum lead (25 points or more) right before a stoppage. In all 12 cases, that dominant team lost momentum once play resumed. 
+Our data shows that if a team completely dominates the game right before a hydration break, they are almost guaranteed to see their control reduced afterward. We looked at 12 instances where a team had a massive momentum lead (25 points or more) right before a stoppage. In all 12 cases, the dominant team suffered a drop in momentum (meaning the shift favored their opponent). 
 
-Essentially, the break acts as a hard limit on match dominance. If a team is running away with the game, the stoppage resets their rhythm, making it highly likely they will experience a drop in pressure.
+This doesn't mean they always lose the lead entirely, but the break acts as a hard ceiling on match dominance. If a team is running away with the game, the stoppage disrupts their flow, cutting down their momentum. 
 
-### Visualizing the Collapse: France vs. Morocco (Quarter-final)
-France (blue) started the match in complete control, building an extreme momentum lead of 65.2 points. The 29th-minute hydration break served as a hard reset. When play resumed, France's dominance was cut exactly in half to 32.6 points, allowing Morocco (red) to establish a foothold in the match.
+### Visualizing the Reset: France vs. Morocco (Quarter-final)
+France (blue) started the match in complete control, building an extreme momentum lead of 65.2 points. The 29th-minute hydration break served as a hard reset. When play resumed, France's dominance was cut exactly in half to 32.6 points. While they did not lose the lead entirely, the stoppage successfully broke their high-pressure cycle and allowed Morocco (red) to establish a foothold in the match.
 
 ![France vs Morocco momentum chart](reports/figures/Quarter-final_France_Morocco/Quarter-final_France_Morocco_momentum_chart.png)
 
