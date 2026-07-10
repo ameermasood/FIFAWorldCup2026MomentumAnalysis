@@ -13,7 +13,12 @@ The first notebook collects FIFA public calendar, live, and timeline JSON for th
 
 ## Current Outputs
 
-The second notebook builds a first open event-based momentum proxy:
+The second notebook builds an Opta-inspired open proxy:
+
+- Assign a capped `0.0` to `0.1` public-event value to visible FIFA timeline events.
+- Keep each team's maximum event value per minute instead of summing every event.
+- Weight the last four minutes most heavily.
+- Force hydration-break intervals to zero because play is stopped.
 
 - [Event table](data/processed/argentina_egypt_400021528_events.csv)
 - [Momentum curve data](data/processed/argentina_egypt_400021528_momentum.csv)
@@ -23,11 +28,11 @@ The second notebook builds a first open event-based momentum proxy:
 
 ![Argentina vs Egypt momentum proxy](reports/figures/argentina_egypt_400021528_momentum_proxy.png)
 
-Early descriptive result from the first proxy:
+Early descriptive result from the revised proxy:
 
 | Break | Interval | Avg. momentum before | Avg. momentum after | Shift |
 | --- | --- | ---: | ---: | ---: |
-| 1 | 23' to 26' | -5.38 | 23.62 | +29.00 |
-| 2 | 70' to 74' | -4.23 | 18.42 | +22.65 |
+| 1 | 23' to 26' | 22.41 | 41.38 | +18.96 |
+| 2 | 70' to 74' | -10.04 | 42.04 | +52.07 |
 
 Positive values favor Argentina; negative values favor Egypt.
