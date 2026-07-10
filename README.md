@@ -25,8 +25,18 @@ The second notebook builds an Opta-inspired open proxy:
 - [Hydration break intervals](data/processed/argentina_egypt_400021528_hydration_breaks.csv)
 - [Before/after break summary](data/processed/argentina_egypt_400021528_break_summary.csv)
 - [Momentum chart](reports/figures/argentina_egypt_400021528_momentum_proxy.png)
+- [LinkedIn-ready chart](reports/figures/argentina_egypt_400021528_momentum_linkedin.png)
+- [LinkedIn-ready SVG](reports/figures/argentina_egypt_400021528_momentum_linkedin.svg)
 
 ![Argentina vs Egypt momentum proxy](reports/figures/argentina_egypt_400021528_momentum_proxy.png)
+
+![Argentina vs Egypt LinkedIn momentum chart](reports/figures/argentina_egypt_400021528_momentum_linkedin.png)
+
+Regenerate the polished export with:
+
+```bash
+python3 scripts/make_linkedin_chart.py
+```
 
 Early descriptive result from the revised proxy:
 
