@@ -288,13 +288,6 @@ def main() -> None:
     fig, ax = plt.subplots(figsize=(16, 9))
     fig.subplots_adjust(left=0.075, right=0.965, top=0.86, bottom=0.10)
 
-    # Add official FIFA World Cup 26 logo at the top left of the figure with full opacity
-    logo_path = Path(__file__).resolve().parent.parent / "data" / "fifa_logo.png"
-    if logo_path.exists():
-        logo_img = plt.imread(str(logo_path))
-        logo_ax = fig.add_axes([0.015, 0.88, 0.05, 0.07], zorder=10)
-        logo_ax.axis("off")
-        logo_ax.imshow(logo_img)
 
     ax.fill_between(
         momentum_hr["minute"],
@@ -420,7 +413,7 @@ def main() -> None:
     ax.spines["bottom"].set_visible(True)
     ax.spines["bottom"].set_color("#E8EDF2")
 
-    fig.text(
+    t = fig.text(
         0.5,
         0.94,
         chart_title(home, away),
@@ -437,6 +430,25 @@ def main() -> None:
         color=MUTED,
         ha="center",
     )
+
+    # Force a canvas draw to compute text layout boundary coordinates
+    fig.canvas.draw()
+    bbox = t.get_window_extent(fig.canvas.get_renderer())
+    bbox_fig = fig.transFigure.inverted().transform(bbox)
+    x0, y0 = bbox_fig[0]
+    x1, y1 = bbox_fig[1]
+
+    # Draw logo to the left of the title start coordinate
+    logo_path = Path(__file__).resolve().parent.parent / "data" / "fifa_logo.png"
+    if logo_path.exists():
+        logo_img = plt.imread(str(logo_path))
+        logo_w = 0.055
+        logo_h = 0.075
+        logo_left = x0 - logo_w - 0.015
+        logo_bottom = (y0 + y1) / 2 - logo_h / 2
+        logo_ax = fig.add_axes([logo_left, logo_bottom, logo_w, logo_h], zorder=10)
+        logo_ax.axis("off")
+        logo_ax.imshow(logo_img)
 
     # Add copyright / watermark text at the bottom below x-axis
     fig.text(
