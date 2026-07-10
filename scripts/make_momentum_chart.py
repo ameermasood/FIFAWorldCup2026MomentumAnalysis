@@ -22,7 +22,9 @@ import matplotlib.patheffects as path_effects
 from matplotlib.lines import Line2D
 from matplotlib.offsetbox import AnnotationBbox, DrawingArea
 from matplotlib.patches import Circle, Polygon, Rectangle, RegularPolygon
+import numpy as np
 import pandas as pd
+from scipy.interpolate import make_interp_spline
 
 
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
@@ -124,48 +126,47 @@ def chart_subtitle(live: dict) -> str:
     return f"{competition} - {stage}"
 
 
-def add_title_flags(fig, home: dict, away: dict) -> None:
-    for country_code, left in [(home.get("IdCountry", ""), 0.305), (away.get("IdCountry", ""), 0.665)]:
-        flag_ax = fig.add_axes([left, 0.916, 0.034, 0.034])
-        flag_ax.set_xlim(0, 34)
-        flag_ax.set_ylim(0, 22)
-        flag_ax.axis("off")
-        flag_ax.add_patch(Rectangle((1, 1), 32, 20, facecolor=BG, edgecolor="#D5DBE3", linewidth=0.8))
+def draw_flag(fig, country_code: str, rect: list[float]) -> None:
+    flag_ax = fig.add_axes(rect)
+    flag_ax.set_xlim(0, 34)
+    flag_ax.set_ylim(0, 22)
+    flag_ax.axis("off")
+    flag_ax.add_patch(Rectangle((1, 1), 32, 20, facecolor=BG, edgecolor="#D5DBE3", linewidth=0.8))
 
-        def stripe(xy: tuple[float, float], width: float, height: float, color: str) -> None:
-            flag_ax.add_patch(Rectangle(xy, width, height, facecolor=color, edgecolor="none"))
+    def stripe(xy: tuple[float, float], width: float, height: float, color: str) -> None:
+        flag_ax.add_patch(Rectangle(xy, width, height, facecolor=color, edgecolor="none"))
 
-        if country_code == "MEX":
-            stripe((1, 1), 10.7, 20, "#006847")
-            stripe((11.7, 1), 10.6, 20, "#FFFFFF")
-            stripe((22.3, 1), 10.7, 20, "#CE1126")
-        elif country_code == "ENG":
-            stripe((1, 1), 32, 20, "#FFFFFF")
-            stripe((14.2, 1), 5.6, 20, "#C8102E")
-            stripe((1, 8.2), 32, 5.6, "#C8102E")
-        elif country_code == "ARG":
-            stripe((1, 1), 32, 6.7, "#75AADB")
-            stripe((1, 7.7), 32, 6.6, "#FFFFFF")
-            stripe((1, 14.3), 32, 6.7, "#75AADB")
-            flag_ax.add_patch(Circle((17, 11), 1.8, facecolor="#F6B40E", edgecolor="none"))
-        elif country_code == "EGY":
-            stripe((1, 1), 32, 6.7, "#000000")
-            stripe((1, 7.7), 32, 6.6, "#FFFFFF")
-            stripe((1, 14.3), 32, 6.7, "#CE1126")
-            flag_ax.add_patch(Circle((17, 11), 1.4, facecolor="#C09300", edgecolor="none"))
-        elif country_code == "BRA":
-            stripe((1, 1), 32, 20, "#009B3A")
-            flag_ax.add_patch(Polygon([(17, 19), (31, 11), (17, 3), (3, 11)], facecolor="#FFDF00", edgecolor="none"))
-            flag_ax.add_patch(Circle((17, 11), 4.2, facecolor="#002776", edgecolor="none"))
-        elif country_code == "NOR":
-            stripe((1, 1), 32, 20, "#BA0C2F")
-            stripe((9, 1), 6, 20, "#FFFFFF")
-            stripe((1, 8), 32, 6, "#FFFFFF")
-            stripe((10.5, 1), 3, 20, "#00205B")
-            stripe((1, 9.5), 32, 3, "#00205B")
-        else:
-            stripe((1, 1), 32, 20, "#F4F6F8")
-            flag_ax.add_patch(RegularPolygon((17, 11), numVertices=5, radius=5, facecolor="#9AA4B2", edgecolor="none"))
+    if country_code == "MEX":
+        stripe((1, 1), 10.7, 20, "#006847")
+        stripe((11.7, 1), 10.6, 20, "#FFFFFF")
+        stripe((22.3, 1), 10.7, 20, "#CE1126")
+    elif country_code == "ENG":
+        stripe((1, 1), 32, 20, "#FFFFFF")
+        stripe((14.2, 1), 5.6, 20, "#C8102E")
+        stripe((1, 8.2), 32, 5.6, "#C8102E")
+    elif country_code == "ARG":
+        stripe((1, 1), 32, 6.7, "#75AADB")
+        stripe((1, 7.7), 32, 6.6, "#FFFFFF")
+        stripe((1, 14.3), 32, 6.7, "#75AADB")
+        flag_ax.add_patch(Circle((17, 11), 1.8, facecolor="#F6B40E", edgecolor="none"))
+    elif country_code == "EGY":
+        stripe((1, 1), 32, 6.7, "#000000")
+        stripe((1, 7.7), 32, 6.6, "#FFFFFF")
+        stripe((1, 14.3), 32, 6.7, "#CE1126")
+        flag_ax.add_patch(Circle((17, 11), 1.4, facecolor="#C09300", edgecolor="none"))
+    elif country_code == "BRA":
+        stripe((1, 1), 32, 20, "#009B3A")
+        flag_ax.add_patch(Polygon([(17, 19), (31, 11), (17, 3), (3, 11)], facecolor="#FFDF00", edgecolor="none"))
+        flag_ax.add_patch(Circle((17, 11), 4.2, facecolor="#002776", edgecolor="none"))
+    elif country_code == "NOR":
+        stripe((1, 1), 32, 20, "#BA0C2F")
+        stripe((9, 1), 6, 20, "#FFFFFF")
+        stripe((1, 8), 32, 6, "#FFFFFF")
+        stripe((10.5, 1), 3, 20, "#00205B")
+        stripe((1, 9.5), 32, 3, "#00205B")
+    else:
+        stripe((1, 1), 32, 20, "#F4F6F8")
+        flag_ax.add_patch(RegularPolygon((17, 11), numVertices=5, radius=5, facecolor="#9AA4B2", edgecolor="none"))
 
 
 def main() -> None:
@@ -186,6 +187,23 @@ def main() -> None:
     home_color = TEAM_COLORS.get(home.get("IdCountry", ""), "#1787C9")
     away_color = TEAM_COLORS.get(away.get("IdCountry", ""), "#B91C1C")
 
+    # Interpolate momentum to high-res grid for smoother curve and fills
+    x = momentum["minute"].values
+    y = momentum["momentum_smoothed"].values
+    x_new = np.linspace(x.min(), x.max(), len(x) * 6)  # 6x resolution (approx 0.04 min steps)
+    spl = make_interp_spline(x, y, k=3)
+    y_new = spl(x_new)
+
+    # Force hydration breaks to 0.0 in high-res grid to prevent interpolation spillover
+    for row in hydration.itertuples():
+        mask = (x_new >= row.start_minute) & (x_new <= row.end_minute)
+        y_new[mask] = 0.0
+
+    momentum_hr = pd.DataFrame({
+        "minute": x_new,
+        "momentum_smoothed": y_new
+    })
+
     plt.rcParams.update(
         {
             "figure.facecolor": BG,
@@ -204,22 +222,22 @@ def main() -> None:
     fig.subplots_adjust(left=0.075, right=0.965, top=0.81, bottom=0.10)
 
     ax.fill_between(
-        momentum["minute"],
+        momentum_hr["minute"],
         0,
-        momentum["momentum_smoothed"].clip(lower=0),
+        momentum_hr["momentum_smoothed"].clip(lower=0),
         color=home_color,
         alpha=0.13,
         zorder=1,
     )
     ax.fill_between(
-        momentum["minute"],
+        momentum_hr["minute"],
         0,
-        momentum["momentum_smoothed"].clip(upper=0),
+        momentum_hr["momentum_smoothed"].clip(upper=0),
         color=away_color,
         alpha=0.12,
         zorder=1,
     )
-    plot_signed_segments(ax, momentum, home_color, away_color)
+    plot_signed_segments(ax, momentum_hr, home_color, away_color)
 
     ax.axhline(0, color=INK, linewidth=1.2, alpha=0.88, zorder=4)
 
@@ -266,18 +284,26 @@ def main() -> None:
     ax.set_xlabel("")
     ax.set_ylabel("Momentum", fontsize=12, labelpad=14)
 
-    legend_elements = [
-        Line2D([0], [0], color=home_color, lw=4, label=f"{home_name} ({home.get('Abbreviation', '')})"),
-        Line2D([0], [0], color=away_color, lw=4, label=f"{away_name} ({away.get('Abbreviation', '')})"),
-    ]
-    ax.legend(
-        handles=legend_elements,
-        loc="upper left",
-        frameon=True,
-        facecolor=BG,
-        edgecolor="#E8EDF2",
-        fontsize=11,
-        framealpha=0.9,
+    draw_flag(fig, home.get("IdCountry", ""), [0.022, 0.74, 0.032, 0.024])
+    draw_flag(fig, away.get("IdCountry", ""), [0.022, 0.14, 0.032, 0.024])
+
+    fig.text(
+        0.038,
+        0.71,
+        home_abbr,
+        fontsize=10,
+        fontweight="bold",
+        color=home_color,
+        ha="center",
+    )
+    fig.text(
+        0.038,
+        0.11,
+        away.get("Abbreviation", ""),
+        fontsize=10,
+        fontweight="bold",
+        color=away_color,
+        ha="center",
     )
 
     for spine in ["top", "right", "bottom"]:
@@ -292,7 +318,6 @@ def main() -> None:
         color=INK,
         ha="center",
     )
-    add_title_flags(fig, home, away)
     fig.text(
         0.5,
         0.895,
