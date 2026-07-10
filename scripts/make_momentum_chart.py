@@ -221,7 +221,21 @@ def main() -> None:
     )
 
     fig, ax = plt.subplots(figsize=(16, 9))
-    fig.subplots_adjust(left=0.075, right=0.965, top=0.81, bottom=0.10)
+    fig.subplots_adjust(left=0.075, right=0.965, top=0.86, bottom=0.10)
+
+    # Add a faded official FIFA World Cup 26 logo in the background centered behind the titles
+    logo_path = Path(__file__).resolve().parent.parent / "data" / "fifa_logo.png"
+    if logo_path.exists():
+        logo_img = plt.imread(str(logo_path))
+        if len(logo_img.shape) == 3:
+            if logo_img.shape[2] == 3:
+                alpha = np.ones((logo_img.shape[0], logo_img.shape[1], 1), dtype=logo_img.dtype)
+                logo_img = np.append(logo_img, alpha, axis=2)
+            if logo_img.shape[2] == 4:
+                logo_img[:, :, 3] = logo_img[:, :, 3] * 0.08
+            logo_ax = fig.add_axes([0.44, 0.835, 0.12, 0.13], zorder=1)
+            logo_ax.axis("off")
+            logo_ax.imshow(logo_img)
 
     ax.fill_between(
         momentum_hr["minute"],
@@ -349,16 +363,16 @@ def main() -> None:
         0.5,
         0.94,
         chart_title(home, away),
-        fontsize=24,
+        fontsize=30,
         fontweight="bold",
         color=INK,
         ha="center",
     )
     fig.text(
         0.5,
-        0.895,
+        0.89,
         chart_subtitle(live),
-        fontsize=13,
+        fontsize=15,
         color=MUTED,
         ha="center",
     )
