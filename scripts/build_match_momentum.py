@@ -103,7 +103,7 @@ def flatten_events(timeline: dict, team_lookup: dict) -> pd.DataFrame:
                 "away_goals": event.get("AwayGoals"),
             }
         )
-    return pd.DataFrame(rows).sort_values(["match_minute", "timestamp", "event_id"], na_position="last")
+    return pd.DataFrame(rows).sort_values(["timestamp", "event_id"], na_position="last")
 
 
 def extract_hydration(events: pd.DataFrame) -> pd.DataFrame:
@@ -117,10 +117,10 @@ def extract_hydration(events: pd.DataFrame) -> pd.DataFrame:
         elif open_break is not None and event["event_type"] == "Resume":
             intervals.append(
                 {
-                    "start_minute": open_break["match_minute"],
+                    "start_minute": open_break["elapsed_minute"],
                     "start_label": open_break["match_minute_label"],
                     "start_timestamp": open_break["timestamp"],
-                    "end_minute": event["match_minute"],
+                    "end_minute": event["elapsed_minute"],
                     "end_label": event["match_minute_label"],
                     "end_timestamp": event["timestamp"],
                     "period": open_break["period"],
@@ -141,9 +141,11 @@ def score_events(events: pd.DataFrame, team_lookup: dict) -> pd.DataFrame:
         score = 0.0
         reason = "annotation/no threat"
 
-        if event_type == "Goal!":
+        if event_type in ["Goal!", "Penalty Goal", "Own Goal"]:
             score = 0.10
             reason = "goal"
+            if event_type == "Own Goal":
+                attacking_team_id = opponent_team_id(team_lookup, team_id)
         elif event_type == "Penalty Awarded":
             score = 0.085
             reason = "penalty awarded"
@@ -187,12 +189,35 @@ def is_hydration_minute(minute: float, hydration: pd.DataFrame) -> bool:
     return any(interval.start_minute <= minute <= interval.end_minute for interval in hydration.itertuples())
 
 
+def compute_elapsed_minutes(events: pd.DataFrame) -> pd.Series:
+    p3_events = events[events["period"] == 3]
+    if not p3_events.empty:
+        first_half_end = p3_events["match_minute"].max()
+    else:
+        first_half_end = 45.0
+
+    elapsed = []
+    for _, row in events.iterrows():
+        p = row["period"]
+        m = row["match_minute"]
+        if pd.isna(m):
+            elapsed.append(None)
+            continue
+        if p == 3:
+            elapsed.append(m)
+        elif p == 5:
+            elapsed.append(m - 45.0 + first_half_end)
+        else:
+            elapsed.append(m)
+    return pd.Series(elapsed)
+
+
 def build_momentum_grid(events: pd.DataFrame, hydration: pd.DataFrame, live: dict) -> pd.DataFrame:
-    max_minute = math.ceil(events["match_minute"].dropna().max())
+    max_minute = math.ceil(events["elapsed_minute"].dropna().max())
     home_abbr = live["HomeTeam"]["Abbreviation"]
     away_abbr = live["AwayTeam"]["Abbreviation"]
 
-    scored_events = events[(events["proxy_value"] > 0) & events["match_minute"].notna()].copy()
+    scored_events = events[(events["proxy_value"] > 0) & events["elapsed_minute"].notna()].copy()
 
     def recent_team_value(minute: float, abbr: str) -> float:
         val = 0.0
@@ -201,8 +226,8 @@ def build_momentum_grid(events: pd.DataFrame, hydration: pd.DataFrame, live: dic
             end_t = minute - lag
             events_in_range = scored_events[
                 (scored_events["attacking_abbr"] == abbr) &
-                (scored_events["match_minute"] > start_t) &
-                (scored_events["match_minute"] <= end_t)
+                (scored_events["elapsed_minute"] > start_t) &
+                (scored_events["elapsed_minute"] <= end_t)
             ]
             if not events_in_range.empty:
                 peak = events_in_range["proxy_value"].max()
@@ -295,6 +320,7 @@ def main() -> None:
 
     team_lookup = build_team_lookup(live)
     events = score_events(flatten_events(timeline, team_lookup), team_lookup)
+    events["elapsed_minute"] = compute_elapsed_minutes(events)
     hydration = extract_hydration(events)
     momentum = build_momentum_grid(events, hydration, live)
     per_minute = build_per_minute_output(momentum, hydration)
