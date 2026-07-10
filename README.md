@@ -5,7 +5,7 @@ This project is a Python-based analysis tool that downloads public event feeds f
 By analyzing in-game event flows (such as goals, penalty decisions, saves, and card warnings), the pipeline maps out threat scores for both home and away teams. It smooths these rolling values using cubic spline interpolation to produce clean momentum graphics. Additionally, the project highlights play segments and shifts in momentum directly before and after FIFA's official hydration breaks to study the tactical impact of those interruptions.
 
 <p align="center">
-  <img src="reports/figures/fifa_2026_logo.svg" alt="FIFA World Cup 2026 Logo" width="180"/>
+  <img src="data/fifa_logo.png" alt="FIFA World Cup 2026 Logo" width="180"/>
 </p>
 
 
