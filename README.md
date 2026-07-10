@@ -73,7 +73,7 @@ python3 main.py --teams ARG EGY
 
 ---
 
-## Do Hydration Breaks Benefit the Underdog?
+## How Hydration Breaks Equalize Match Momentum
 
 Common wisdom suggests that mid-half cooling stoppages are a lifesaver for underdogs, letting exhausted players regroup and catch their breath to hold off dominant teams. However, after compiling and analyzing the momentum data across **50 hydration breaks** in **25 tournament knockout matches**, we found that these pauses act as **forced tactical timeouts** that heavily benefit the favorites. 
 
