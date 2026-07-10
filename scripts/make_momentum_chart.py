@@ -117,7 +117,9 @@ def team_metadata(live: dict) -> tuple[dict, dict]:
 def chart_title(home: dict, away: dict) -> str:
     home_name = home["ShortClubName"]
     away_name = away["ShortClubName"]
-    return f"{home_name} vs {away_name}"
+    home_score = home.get("Score", 0)
+    away_score = away.get("Score", 0)
+    return f"{home_name} {home_score}-{away_score} {away_name}"
 
 
 def chart_subtitle(live: dict) -> str:
