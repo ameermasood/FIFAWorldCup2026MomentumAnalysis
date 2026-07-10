@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ### Process All Knockout Stage Matches
 Harvest and render charts for all available tournament knockout stage matches:
 ```bash
-python3 process_all_knockouts.py
+python3 run_pipeline.py --all-knockouts
 ```
 *Note: Unplayed/future matches are detected and skipped automatically without crashing.*
 
