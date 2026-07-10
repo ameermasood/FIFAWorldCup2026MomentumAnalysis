@@ -263,20 +263,54 @@ def main() -> None:
             fontweight="bold",
         )
 
-    goals = events[events["event_type"] == "Goal!"].copy().sort_values("match_minute")
+    goals = events[events["event_type"].isin(["Goal!", "Penalty Goal", "Own Goal"])].copy().sort_values("elapsed_minute")
     previous_goal_minutes: list[tuple[float, float]] = []
     for row in goals.itertuples():
         color = home_color if row.attacking_abbr == home_abbr else away_color
         y = 92 if row.attacking_abbr == home_abbr else -82
-        nearby_count = sum(abs(row.match_minute - minute) <= 2 and y == goal_y for minute, goal_y in previous_goal_minutes)
+        nearby_count = sum(abs(row.elapsed_minute - minute) <= 2 and y == goal_y for minute, goal_y in previous_goal_minutes)
         x_offset = 0.0 if nearby_count == 0 else [2.0, -2.0, 3.5, -3.5][(nearby_count - 1) % 4]
         y_offset = 0.0 if nearby_count == 0 else (8.0 * nearby_count if y < 0 else -8.0 * nearby_count)
-        annotate_goal(ax, row.match_minute + x_offset, f"{row.attacking_abbr} {row.match_minute_label}", color, y + y_offset)
-        previous_goal_minutes.append((row.match_minute, y))
+        annotate_goal(ax, row.elapsed_minute + x_offset, f"{row.attacking_abbr} {row.match_minute_label}", color, y + y_offset)
+        previous_goal_minutes.append((row.elapsed_minute, y))
 
-    ax.set_xlim(0, 102)
+        # Add faded vertical line for the goal in the scoring team's color
+        ax.axvline(
+            x=row.elapsed_minute,
+            color=color,
+            linestyle="--",
+            linewidth=1.2,
+            alpha=0.25,
+            zorder=2,
+        )
+
+    # Draw vertical line for the first half whistle (end of Period 3)
+    p3_events = events[events["period"] == 3]
+    first_half_end = p3_events["elapsed_minute"].max() if not p3_events.empty else 45.0
+    ax.axvline(
+        x=first_half_end,
+        color=MUTED,
+        linestyle="-.",
+        linewidth=1.2,
+        alpha=0.45,
+        zorder=2,
+    )
+    ax.text(
+        first_half_end,
+        -105,
+        "HT",
+        color=MUTED,
+        fontsize=10,
+        fontweight="bold",
+        ha="center",
+        va="bottom",
+        alpha=0.6,
+    )
+
+    max_elapsed = momentum_hr["minute"].max()
+    ax.set_xlim(0, max_elapsed + 1)
     ax.set_ylim(-110, 110)
-    ax.set_xticks(range(0, 101, 10))
+    ax.set_xticks(range(0, int(max_elapsed) + 1, 10))
     ax.set_yticks([-100, -50, 0, 50, 100])
     ax.grid(visible=False)
     ax.tick_params(axis="y", length=0, labelsize=11)
@@ -284,11 +318,11 @@ def main() -> None:
     ax.set_xlabel("")
     ax.set_ylabel("Momentum", fontsize=12, labelpad=14)
 
-    draw_flag(fig, home.get("IdCountry", ""), [0.022, 0.74, 0.032, 0.024])
-    draw_flag(fig, away.get("IdCountry", ""), [0.022, 0.14, 0.032, 0.024])
+    draw_flag(fig, home.get("IdCountry", ""), [0.085, 0.74, 0.032, 0.024])
+    draw_flag(fig, away.get("IdCountry", ""), [0.085, 0.14, 0.032, 0.024])
 
     fig.text(
-        0.038,
+        0.101,
         0.71,
         home_abbr,
         fontsize=10,
@@ -297,7 +331,7 @@ def main() -> None:
         ha="center",
     )
     fig.text(
-        0.038,
+        0.101,
         0.11,
         away.get("Abbreviation", ""),
         fontsize=10,
