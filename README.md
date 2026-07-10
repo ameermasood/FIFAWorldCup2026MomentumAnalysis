@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ### Process All Knockout Stage Matches
 Harvest and render charts for all available tournament knockout stage matches:
 ```bash
-python3 run_pipeline.py --all-knockouts
+python3 main.py --all-knockouts
 ```
 *Note: Unplayed/future matches are detected and skipped automatically without crashing.*
 
@@ -28,12 +28,12 @@ Run the complete collection, calculation, and charting steps for a specific matc
 
 **By Match ID:**
 ```bash
-python3 run_pipeline.py --match-id 400021528
+python3 main.py --match-id 400021528
 ```
 
 **By Team Abbreviation:**
 ```bash
-python3 run_pipeline.py --teams ARG EGY
+python3 main.py --teams ARG EGY
 ```
 
 ---
