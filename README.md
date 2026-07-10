@@ -73,33 +73,34 @@ python3 main.py --teams ARG EGY
 
 ---
 
-## Example Visualizations
+## Do Hydration Breaks Benefit the Underdog?
 
-### Argentina vs Egypt (Round of 16)
-![Argentina vs Egypt momentum chart](reports/figures/Round_of_16_Argentina_Egypt/Round_of_16_Argentina_Egypt_momentum_chart.png)
+Common wisdom suggests that mid-half cooling stoppages are a lifesaver for underdogs, letting exhausted players regroup and catch their breath to hold off dominant teams. However, after compiling and analyzing the momentum data across **50 hydration breaks** in **25 tournament knockout matches**, we found that these pauses act as **forced tactical timeouts** that heavily benefit the favorites. 
 
-### Mexico vs England (Round of 16)
-![Mexico vs England momentum chart](reports/figures/Round_of_16_Mexico_England/Round_of_16_Mexico_England_momentum_chart.png)
+### The Reset and the Comeback
+When play stops for 2-4 minutes, it acts as a physical and mental **circuit breaker**. It completely halts the underdog’s high-intensity emotional pressing flow, resetting the game tempo to a cold, neutral state. 
 
-### Brazil vs Norway (Round of 16)
-![Brazil vs Norway momentum chart](reports/figures/Round_of_16_Brazil_Norway/Round_of_16_Brazil_Norway_momentum_chart.png)
+* **The Equalizer Effect**: Across all matches, the team trailing in momentum before a break managed to turn things around and gain momentum post-break **74.0% of the time**. In **52.0% of cases**, the stoppage resulted in a complete swap of the team holding the momentum lead.
+* **The Favorite's Lifeline**: When the higher-ranked favorite was trailing in momentum going into a break, they used the pause to stage a comeback **72.2% of the time**. In **69.2% of those comebacks**, the favorite completely flipped the momentum lead away from the underdog. During the timeout, the favorite's coaching staff can make the adjustments necessary to reassert their superior technical class.
 
 ---
 
-## Key Analytical Insights: Hydration Break Impact
+## Tactical Cases in Visuals
 
-We analyzed the momentum shift around **50 individual hydration breaks** across **25 knockout stage matches** to evaluate how these stoppages impact the flow of the game.
+### 1. The Classic Comeback: Argentina vs. Egypt (Round of 16)
+Egypt (red) established a clear momentum advantage over Argentina (blue) leading up to the 70th-minute mark. When the referee blew for the second hydration break (visible at the 70' to 74' gap), it completely flattened Egypt's rhythm. Argentina regrouped during the timeout, adjusted their midfield lines, registered a massive **+50.84 point shift**, and swept control of the match to secure their late-game victory.
 
-### Aggregate Findings
-* **The Reset Effect**: In **74.0%** of cases, the team that was trailing in momentum before a hydration break gained momentum immediately after the break, confirming the "Tactical Reset" hypothesis.
-* **Leader Flips**: In **52.0%** of breaks, the team holding the momentum lead going into the stoppage lost their lead entirely when play resumed.
-* **Average Shift**: Stoppages caused an average momentum shift of **23.95 points** (on a scale of -100 to 100).
+![Argentina vs Egypt momentum chart](reports/figures/Round_of_16_Argentina_Egypt/Round_of_16_Argentina_Egypt_momentum_chart.png)
 
-### The "Favorite's Comeback" (Class Tells)
-When we isolate the 18 hydration breaks where the **higher-ranked favorite** (based on pre-tournament FIFA rankings) was trailing in momentum:
-* **72.2%** of these instances saw the stronger team stage a comeback and gain momentum after the stoppage.
-* **69.2%** of these comebacks resulted in a complete momentum leader flip (e.g. Argentina vs. Egypt or Canada vs. Morocco).
-* **Why it happens**: Stoppages disrupt the underdog's high-intensity emotional pressing ("circuit breaker" effect), allowing the favorite's superior technical quality and coaching adjustments to dictate the game's cold restart.
+### 2. The Complete Flip: England vs. Congo DR (Round of 32)
+Congo DR (red) was holding onto a strong momentum lead. The second break (68' to 71') acted as a hard circuit breaker. Post-break, England (blue) registered a **+65.24 point momentum swing**—the largest post-break shift in the tournament—completely erasing Congo DR's presence for the remainder of the match.
+
+![England vs Congo DR momentum chart](reports/figures/Round_of_32_England_Congo_DR/Round_of_32_England_Congo_DR_momentum_chart.png)
+
+### 3. Killing the Pressure: Canada vs. Morocco (Round of 16)
+Canada (blue) had built a strong, high-pressure momentum lead in the first half. A first-half hydration break in the 24th minute halted their flow immediately. Play restarted cold, Canada's pressing intensity dropped, and Morocco (red) capitalized on the reset to claim a **+60.66 point momentum shift**.
+
+![Canada vs Morocco momentum chart](reports/figures/Round_of_16_Canada_Morocco/Round_of_16_Canada_Morocco_momentum_chart.png)
 
 ---
 
