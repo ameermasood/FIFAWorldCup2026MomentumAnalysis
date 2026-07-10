@@ -193,19 +193,22 @@ def build_momentum_grid(events: pd.DataFrame, hydration: pd.DataFrame, live: dic
     away_abbr = live["AwayTeam"]["Abbreviation"]
 
     scored_events = events[(events["proxy_value"] > 0) & events["match_minute"].notna()].copy()
-    scored_events["minute_bucket"] = scored_events["match_minute"].astype(int)
-    minute_team_peaks = scored_events.groupby(["minute_bucket", "attacking_abbr"], as_index=False)["proxy_value"].max()
-    peak_lookup = {
-        (int(row.minute_bucket), row.attacking_abbr): float(row.proxy_value)
-        for row in minute_team_peaks.itertuples()
-    }
 
     def recent_team_value(minute: float, abbr: str) -> float:
-        minute_bucket = int(math.floor(minute))
-        return sum(
-            peak_lookup.get((minute_bucket - lag, abbr), 0.0) * weight
-            for lag, weight in RECENCY_WEIGHTS.items()
-        )
+        val = 0.0
+        for lag, weight in RECENCY_WEIGHTS.items():
+            start_t = minute - (lag + 1)
+            end_t = minute - lag
+            events_in_range = scored_events[
+                (scored_events["attacking_abbr"] == abbr) &
+                (scored_events["match_minute"] > start_t) &
+                (scored_events["match_minute"] <= end_t)
+            ]
+            if not events_in_range.empty:
+                peak = events_in_range["proxy_value"].max()
+                if not pd.isna(peak):
+                    val += peak * weight
+        return val
 
     grid = pd.DataFrame({"minute": [round(i * GRID_STEP, 2) for i in range(int(max_minute / GRID_STEP) + 1)]})
     grid["home_recent_value"] = grid["minute"].apply(lambda minute: recent_team_value(minute, home_abbr))
