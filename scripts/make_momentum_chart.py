@@ -120,7 +120,7 @@ def chart_title(home: dict, away: dict) -> str:
 
 def chart_subtitle(live: dict) -> str:
     stage = localized_description(live.get("StageName"), "Match")
-    competition = localized_description(live.get("SeasonName"), "World Cup 2026").replace("FIFA ", "").replace("™", "")
+    competition = localized_description(live.get("SeasonName"), "FIFA World Cup 2026").replace("™", "")
     return f"{competition} - {stage}"
 
 
