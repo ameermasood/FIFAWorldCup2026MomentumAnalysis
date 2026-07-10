@@ -1,0 +1,3651 @@
+{
+  "IdStage": "289287",
+  "IdMatch": "400021521",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "1576995948",
+      "IdTeam": "43850",
+      "Timestamp": "2026-07-03T21:58:39.509Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cabo Verde won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "1668098152",
+      "Timestamp": "2026-07-03T22:00:23.442Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "1926122599",
+      "IdTeam": "43922",
+      "IdPlayer": "428882",
+      "Timestamp": "2026-07-03T22:04:19.907Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 35.599920000000004,
+      "PositionY": 1.4889299999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Rodrigo DE PAUL (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2095255657",
+      "IdTeam": "43850",
+      "IdPlayer": "355642",
+      "Timestamp": "2026-07-03T22:07:18.186Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 14.57869,
+      "PositionY": 67.81984,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RYAN MENDES (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "855630835",
+      "IdTeam": "43922",
+      "IdPlayer": "308300",
+      "Timestamp": "2026-07-03T22:07:20.308Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 3.54548,
+      "PositionY": 53.57728899999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Argentina pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "99763305",
+      "IdTeam": "43922",
+      "IdPlayer": "431196",
+      "Timestamp": "2026-07-03T22:09:40.368Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 49.5955472,
+      "PositionY": 45.328680999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cristian ROMERO (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "392206447",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T22:14:32.119Z",
+      "MatchMinute": "15'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.48187,
+      "PositionY": 69.26666999999999,
+      "GoalGatePositionX": 84.42094999999999,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "521619573",
+      "IdTeam": "43850",
+      "IdPlayer": "477856",
+      "Timestamp": "2026-07-03T22:16:24.591Z",
+      "MatchMinute": "17'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 77.67031,
+      "PositionY": 59.223482000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOVANE CABRAL (Cabo Verde) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "617045104",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T22:18:11.398Z",
+      "MatchMinute": "18'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 75.66925,
+      "PositionY": 62.088089999999994,
+      "GoalGatePositionX": 41.700141,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1525488830",
+      "IdTeam": "43850",
+      "IdPlayer": "364752",
+      "Timestamp": "2026-07-03T22:18:12.579Z",
+      "MatchMinute": "18'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 99.07291000000001,
+      "PositionY": 53.29488799999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Cabo Verde pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1010705517",
+      "Timestamp": "2026-07-03T22:24:36.442Z",
+      "MatchMinute": "25'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1194382454",
+      "Timestamp": "2026-07-03T22:27:37.853Z",
+      "MatchMinute": "28'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1259003000",
+      "IdTeam": "43922",
+      "IdPlayer": "402921",
+      "IdSubPlayer": "229397",
+      "IdSubTeam": "43922",
+      "Timestamp": "2026-07-03T22:28:23.37Z",
+      "MatchMinute": "28'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 57.15355600000001,
+      "PositionY": 54.484023,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Lisandro MARTINEZ."
+        }
+      ]
+    },
+    {
+      "EventId": "1247173741",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T22:28:26.413Z",
+      "MatchMinute": "29'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 95.79633,
+      "PositionY": 38.90234,
+      "GoalGatePositionX": 62.17924,
+      "GoalGatePositionY": 35.10859,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1247173743",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "IdSubPlayer": "402921",
+      "IdSubTeam": "43922",
+      "Timestamp": "2026-07-03T22:28:26.413Z",
+      "MatchMinute": "29'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 95.79633,
+      "PositionY": 38.90234,
+      "GoalGatePositionX": 62.17924,
+      "GoalGatePositionY": 35.10859,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1452468339",
+      "IdTeam": "43922",
+      "IdPlayer": "402925",
+      "Timestamp": "2026-07-03T22:31:38.404Z",
+      "MatchMinute": "32'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 59.182915,
+      "PositionY": 27.04247,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nahuel MOLINA (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1695999092",
+      "IdTeam": "43922",
+      "IdPlayer": "402925",
+      "Timestamp": "2026-07-03T22:35:36.442Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nahuel MOLINA (Argentina) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1933794422",
+      "IdTeam": "43850",
+      "IdPlayer": "477827",
+      "Timestamp": "2026-07-03T22:39:28.314Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 32.791940000000004,
+      "PositionY": 81.50958,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DEROY DUARTE (Cabo Verde) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2031545456",
+      "IdTeam": "43922",
+      "IdPlayer": "418963",
+      "Timestamp": "2026-07-03T22:41:03.442Z",
+      "MatchMinute": "41'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Facundo MEDINA (Argentina) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "496760",
+      "IdTeam": "43850",
+      "IdPlayer": "477827",
+      "Timestamp": "2026-07-03T22:41:51.717Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 26.16696,
+      "PositionY": 21.95737,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DEROY DUARTE (Cabo Verde) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2125083774",
+      "IdTeam": "43850",
+      "IdPlayer": "409241",
+      "Timestamp": "2026-07-03T22:42:38.023Z",
+      "MatchMinute": "43'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 44.62925,
+      "PositionY": 0.76784,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DINEY BORGES (Cabo Verde) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2144203904",
+      "IdTeam": "43922",
+      "IdPlayer": "402920",
+      "Timestamp": "2026-07-03T22:42:53.339Z",
+      "MatchMinute": "43'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 95.61093000000001,
+      "PositionY": 20.105629999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lautaro MARTINEZ (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "96173183",
+      "IdTeam": "43922",
+      "IdPlayer": "448252",
+      "Timestamp": "2026-07-03T22:44:40.886Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.78141,
+      "PositionY": 54.112563,
+      "GoalGatePositionX": 62.25979,
+      "GoalGatePositionY": 2.365557,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Enzo FERNANDEZ (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1005805918",
+      "IdTeam": "43850",
+      "IdPlayer": "364752",
+      "Timestamp": "2026-07-03T22:44:41.567Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.59234,
+      "PositionY": 46.993201,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Cabo Verde pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "253410426",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T22:47:05.39Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 75.06966,
+      "PositionY": 29.6209,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "389031043",
+      "Timestamp": "2026-07-03T22:49:28.493Z",
+      "MatchMinute": "45'+5'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1398224000",
+      "Timestamp": "2026-07-03T23:05:53.692Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "1593508979",
+      "IdTeam": "43850",
+      "IdPlayer": "477832",
+      "Timestamp": "2026-07-03T23:09:03.788Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.14802,
+      "PositionY": 99.41926,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "SIDNY LOPES CABRAL (Cabo Verde) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1599213697",
+      "IdTeam": "43850",
+      "IdPlayer": "477856",
+      "Timestamp": "2026-07-03T23:09:08.532Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 78.88604000000001,
+      "PositionY": 61.41951,
+      "GoalGatePositionX": 59.240308,
+      "GoalGatePositionY": 77.76855,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOVANE CABRAL (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1634833538",
+      "IdTeam": "43850",
+      "IdPlayer": "477832",
+      "Timestamp": "2026-07-03T23:09:43.848Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "SIDNY LOPES CABRAL (Cabo Verde) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1645518965",
+      "IdTeam": "43850",
+      "IdPlayer": "355642",
+      "Timestamp": "2026-07-03T23:09:53.517Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 74.66414,
+      "PositionY": 27.00454,
+      "GoalGatePositionX": 43.652765,
+      "GoalGatePositionY": 99.43906,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RYAN MENDES (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1675749500",
+      "IdTeam": "43922",
+      "IdPlayer": "402920",
+      "Timestamp": "2026-07-03T23:10:19.406Z",
+      "MatchMinute": "50'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lautaro MARTINEZ (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1848685687",
+      "IdTeam": "43922",
+      "IdPlayer": "418975",
+      "Timestamp": "2026-07-03T23:13:03.868Z",
+      "MatchMinute": "53'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 26.65664,
+      "PositionY": 6.1080000000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thiago ALMADA (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1894554751",
+      "IdTeam": "43850",
+      "IdPlayer": "477827",
+      "Timestamp": "2026-07-03T23:13:56.74Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.25776,
+      "PositionY": 46.680495,
+      "GoalGatePositionX": 59.951016,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DEROY DUARTE (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "655844942",
+      "IdTeam": "43922",
+      "IdPlayer": "308300",
+      "Timestamp": "2026-07-03T23:13:57.561Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.31186,
+      "PositionY": 46.958905,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Argentina pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "12314757",
+      "IdTeam": "43922",
+      "IdPlayer": "431196",
+      "Timestamp": "2026-07-03T23:18:09.493Z",
+      "MatchMinute": "58'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 44.450155,
+      "PositionY": 77.68369,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cristian ROMERO (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "105861253",
+      "IdTeam": "43850",
+      "IdPlayer": "355642",
+      "IdSubPlayer": "477827",
+      "IdSubTeam": "43850",
+      "Timestamp": "2026-07-03T23:19:31.595Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 94.31557000000001,
+      "PositionY": 16.20177,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by RYAN MENDES."
+        }
+      ]
+    },
+    {
+      "EventId": "94231687",
+      "IdTeam": "43850",
+      "IdPlayer": "477827",
+      "Timestamp": "2026-07-03T23:19:33.237Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 96.16926,
+      "PositionY": 34.3464,
+      "GoalGatePositionX": 38.61846,
+      "GoalGatePositionY": 3.664635,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DEROY DUARTE (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "94231689",
+      "IdTeam": "43850",
+      "IdPlayer": "477827",
+      "IdSubPlayer": "355642",
+      "IdSubTeam": "43850",
+      "Timestamp": "2026-07-03T23:19:33.237Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 96.16926,
+      "PositionY": 34.3464,
+      "GoalGatePositionX": 38.61846,
+      "GoalGatePositionY": 3.664635,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DEROY DUARTE (Cabo Verde) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "310092936",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T23:23:05.188Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.38681,
+      "PositionY": 56.149257,
+      "GoalGatePositionX": 51.924326,
+      "GoalGatePositionY": 6.131051,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1215139956",
+      "IdTeam": "43850",
+      "IdPlayer": "364752",
+      "Timestamp": "2026-07-03T23:23:05.409Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 4.90347,
+      "PositionY": 53.277410999999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Cabo Verde pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "355872889",
+      "IdTeam": "43922",
+      "IdPlayer": "430631",
+      "IdSubPlayer": "418975",
+      "IdSubTeam": "43922",
+      "Timestamp": "2026-07-03T23:23:43.806Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico GONZALEZ (in) comes off the bench to replace Thiago ALMADA (out) (Argentina)"
+        }
+      ]
+    },
+    {
+      "EventId": "355872888",
+      "IdTeam": "43922",
+      "IdPlayer": "416081",
+      "IdSubPlayer": "402920",
+      "IdSubTeam": "43922",
+      "Timestamp": "2026-07-03T23:23:43.806Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian ALVAREZ (in) comes off the bench to replace Lautaro MARTINEZ (out) (Argentina)"
+        }
+      ]
+    },
+    {
+      "EventId": "379620493",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T23:24:15.639Z",
+      "MatchMinute": "64'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.36242,
+      "PositionY": 98.50710000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "557054074",
+      "IdTeam": "43922",
+      "IdPlayer": "448252",
+      "Timestamp": "2026-07-03T23:27:07.411Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 13.28058,
+      "PositionY": 40.305747,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Enzo FERNANDEZ (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "577007759",
+      "IdTeam": "43850",
+      "IdPlayer": "482782",
+      "IdSubPlayer": "401893",
+      "IdSubTeam": "43850",
+      "Timestamp": "2026-07-03T23:27:18.014Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DAILON LIVRAMENTO (in) comes off the bench to replace NUNO DA COSTA (out) (Cabo Verde)"
+        }
+      ]
+    },
+    {
+      "EventId": "577007758",
+      "IdTeam": "43850",
+      "IdPlayer": "401894",
+      "IdSubPlayer": "480966",
+      "IdSubTeam": "43850",
+      "Timestamp": "2026-07-03T23:27:18.014Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JAMIRO MONTEIRO (in) comes off the bench to replace LAROS DUARTE (out) (Cabo Verde)"
+        }
+      ]
+    },
+    {
+      "EventId": "653468808",
+      "IdTeam": "43850",
+      "IdPlayer": "477852",
+      "Timestamp": "2026-07-03T23:28:28.632Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 29.449219999999997,
+      "PositionY": 60.46683,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "KEVIN PINA (Cabo Verde) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "706338960",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T23:29:33.196Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 26.670129999999997,
+      "PositionY": 52.49177900000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "862140562",
+      "IdTeam": "43850",
+      "IdPlayer": "477827",
+      "Timestamp": "2026-07-03T23:31:48.992Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 16.8836,
+      "PositionY": 39.12146,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DEROY DUARTE (Cabo Verde) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "921933963",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T23:33:02.886Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 17.27431,
+      "PositionY": 37.14717,
+      "GoalGatePositionX": 61.15423,
+      "GoalGatePositionY": 35.637550000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1835091283",
+      "IdTeam": "43850",
+      "IdPlayer": "364752",
+      "Timestamp": "2026-07-03T23:33:03.806Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.8951199999999999,
+      "PositionY": 52.266424,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Cabo Verde pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "949091475",
+      "IdTeam": "43922",
+      "IdPlayer": "428882",
+      "Timestamp": "2026-07-03T23:33:32.295Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Rodrigo DE PAUL (Argentina) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "953523323",
+      "IdTeam": "43922",
+      "IdPlayer": "430631",
+      "Timestamp": "2026-07-03T23:33:33.837Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 5.67385,
+      "PositionY": 54.298969,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico GONZALEZ (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "959936660",
+      "Timestamp": "2026-07-03T23:33:43.334Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1153695884",
+      "Timestamp": "2026-07-03T23:36:52.254Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1188788349",
+      "IdTeam": "43922",
+      "IdPlayer": "430628",
+      "Timestamp": "2026-07-03T23:37:15.458Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 67.40720999999999,
+      "PositionY": 58.410713,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alexis MAC ALLISTER (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1238568085",
+      "IdTeam": "43850",
+      "IdPlayer": "477852",
+      "Timestamp": "2026-07-03T23:38:11.774Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 68.61268,
+      "PositionY": 57.18907,
+      "GoalGatePositionX": 0.5146000000000001,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "KEVIN PINA (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1266515086",
+      "IdTeam": "43850",
+      "IdPlayer": "482782",
+      "Timestamp": "2026-07-03T23:38:31.073Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 88.86775999999999,
+      "PositionY": 85.12119,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DAILON LIVRAMENTO (Cabo Verde) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1312235662",
+      "IdTeam": "43850",
+      "IdPlayer": "477852",
+      "Timestamp": "2026-07-03T23:39:12.815Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 59.426641000000004,
+      "PositionY": 9.34659,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "KEVIN PINA (Cabo Verde) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1362400387",
+      "IdTeam": "43850",
+      "IdPlayer": "477849",
+      "IdSubPlayer": "477856",
+      "IdSubTeam": "43850",
+      "Timestamp": "2026-07-03T23:40:00.31Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "HELIO VARELA (in) comes off the bench to replace JOVANE CABRAL (out) (Cabo Verde)"
+        }
+      ]
+    },
+    {
+      "EventId": "1362400386",
+      "IdTeam": "43850",
+      "IdPlayer": "433724",
+      "IdSubPlayer": "355642",
+      "IdSubTeam": "43850",
+      "Timestamp": "2026-07-03T23:40:00.31Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "WILLY SEMEDO (in) comes off the bench to replace RYAN MENDES (out) (Cabo Verde)"
+        }
+      ]
+    },
+    {
+      "EventId": "1448841367",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T23:41:38.841Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.93521,
+      "PositionY": 99.96857,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1609101457",
+      "IdTeam": "43922",
+      "IdPlayer": "332847",
+      "IdSubPlayer": "428882",
+      "IdSubTeam": "43922",
+      "Timestamp": "2026-07-03T23:44:13.15Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leandro PAREDES (in) comes off the bench to replace Rodrigo DE PAUL (out) (Argentina)"
+        }
+      ]
+    },
+    {
+      "EventId": "1618513030",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T23:44:25.327Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.71824,
+      "PositionY": 0.41022000000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1626478737",
+      "IdTeam": "43922",
+      "IdPlayer": "430631",
+      "Timestamp": "2026-07-03T23:44:26.869Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 5.09053,
+      "PositionY": 44.702495,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico GONZALEZ (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1645160600",
+      "IdTeam": "43922",
+      "IdPlayer": "448252",
+      "Timestamp": "2026-07-03T23:44:41.692Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Enzo FERNANDEZ (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1721912467",
+      "IdTeam": "43922",
+      "IdPlayer": "308322",
+      "IdSubPlayer": "418963",
+      "IdSubTeam": "43922",
+      "Timestamp": "2026-07-03T23:45:53.59Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas TAGLIAFICO (in) comes off the bench to replace Facundo MEDINA (out) (Argentina)"
+        }
+      ]
+    },
+    {
+      "EventId": "1762244745",
+      "IdTeam": "43850",
+      "IdPlayer": "477849",
+      "Timestamp": "2026-07-03T23:46:36.692Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "HELIO VARELA (Cabo Verde) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1796858004",
+      "IdTeam": "43922",
+      "IdPlayer": "430628",
+      "Timestamp": "2026-07-03T23:47:19.021Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 11.35743,
+      "PositionY": 68.63497,
+      "GoalGatePositionX": 52.64455099999999,
+      "GoalGatePositionY": 77.41107000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alexis MAC ALLISTER (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1839049877",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T23:48:00.925Z",
+      "MatchMinute": "88'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1964736662",
+      "IdTeam": "43922",
+      "IdPlayer": "430628",
+      "Timestamp": "2026-07-03T23:49:21.864Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 7.09417,
+      "PositionY": 50.2156327,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alexis MAC ALLISTER (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2107756696",
+      "IdTeam": "43922",
+      "IdPlayer": "332847",
+      "Timestamp": "2026-07-03T23:52:21.543Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 25.985999999999997,
+      "PositionY": 51.492264,
+      "GoalGatePositionX": 57.333861,
+      "GoalGatePositionY": 29.85473,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leandro PAREDES (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "868533006",
+      "IdTeam": "43850",
+      "IdPlayer": "364752",
+      "Timestamp": "2026-07-03T23:52:22.444Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.39656,
+      "PositionY": 52.532168999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Cabo Verde pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "74890394",
+      "IdTeam": "43850",
+      "IdPlayer": "401894",
+      "Timestamp": "2026-07-03T23:54:07.029Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 20.08081,
+      "PositionY": 62.39732,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JAMIRO MONTEIRO (Cabo Verde) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "164688024",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-03T23:55:37.699Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 19.44819,
+      "PositionY": 62.263639999999995,
+      "GoalGatePositionX": 36.680279999999996,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1069438652",
+      "IdTeam": "43850",
+      "IdPlayer": "364752",
+      "Timestamp": "2026-07-03T23:55:38.62Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.84765,
+      "PositionY": 49.7394051,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Cabo Verde pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "163616911",
+      "IdTeam": "43922",
+      "IdPlayer": "448252",
+      "Timestamp": "2026-07-03T23:55:40.282Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 7.78475,
+      "PositionY": 50.271010000000004,
+      "GoalGatePositionX": 55.3797,
+      "GoalGatePositionY": 2.530245,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Enzo FERNANDEZ (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1070703369",
+      "IdTeam": "43850",
+      "IdPlayer": "364752",
+      "Timestamp": "2026-07-03T23:55:41.203Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.7922,
+      "PositionY": 51.259319000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Cabo Verde pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "188331153",
+      "IdTeam": "43922",
+      "IdPlayer": "416081",
+      "Timestamp": "2026-07-03T23:55:41.943Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 2.24675,
+      "PositionY": 53.414381,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian ALVAREZ (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "225320091",
+      "IdTeam": "43922",
+      "IdPlayer": "430631",
+      "Timestamp": "2026-07-03T23:56:24.206Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 62.83784,
+      "PositionY": 28.36305,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico GONZALEZ (Argentina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "343966868",
+      "IdTeam": "43850",
+      "IdPlayer": "433724",
+      "Timestamp": "2026-07-03T23:58:27.929Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 81.10576,
+      "PositionY": 2.4945,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "WILLY SEMEDO (Cabo Verde) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "365021346",
+      "Timestamp": "2026-07-03T23:58:59.309Z",
+      "MatchMinute": "90'+9'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "195053726",
+      "IdTeam": "43850",
+      "Timestamp": "2026-07-04T00:03:09.862Z",
+      "MatchMinute": "",
+      "Period": 17,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cabo Verde won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "285473955",
+      "Timestamp": "2026-07-04T00:04:38.406Z",
+      "MatchMinute": "90'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "404881567",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-04T00:06:31.432Z",
+      "MatchMinute": "92'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.28298,
+      "PositionY": 99.58654,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "429322405",
+      "IdTeam": "43922",
+      "IdPlayer": "430628",
+      "IdSubPlayer": "402921",
+      "IdSubTeam": "43922",
+      "Timestamp": "2026-07-04T00:06:32.613Z",
+      "MatchMinute": "92'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 95.11673,
+      "PositionY": 61.52272,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Alexis MAC ALLISTER."
+        }
+      ]
+    },
+    {
+      "EventId": "411087013",
+      "IdTeam": "43922",
+      "IdPlayer": "402921",
+      "Timestamp": "2026-07-04T00:06:36.357Z",
+      "MatchMinute": "92'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 94.32923,
+      "PositionY": 32.35019,
+      "GoalGatePositionX": 63.554010000000005,
+      "GoalGatePositionY": 40.47374,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lisandro MARTINEZ (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "411087015",
+      "IdTeam": "43922",
+      "IdPlayer": "402921",
+      "IdSubPlayer": "430628",
+      "IdSubTeam": "43922",
+      "Timestamp": "2026-07-04T00:06:36.357Z",
+      "MatchMinute": "92'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 94.32923,
+      "PositionY": 32.35019,
+      "GoalGatePositionX": 63.554010000000005,
+      "GoalGatePositionY": 40.47374,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lisandro MARTINEZ (Argentina) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "630306986",
+      "IdTeam": "43850",
+      "IdPlayer": "477832",
+      "Timestamp": "2026-07-04T00:10:14.075Z",
+      "MatchMinute": "96'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "SIDNY LOPES CABRAL (Cabo Verde) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "653188265",
+      "IdTeam": "43850",
+      "IdPlayer": "477832",
+      "IdSubPlayer": "409241",
+      "IdSubTeam": "43850",
+      "Timestamp": "2026-07-04T00:10:36.677Z",
+      "MatchMinute": "96'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.91145,
+      "PositionY": 0.50209,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "SIDNY LOPES CABRAL (Cabo Verde) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "663947435",
+      "IdTeam": "43850",
+      "IdPlayer": "409241",
+      "Timestamp": "2026-07-04T00:10:38.359Z",
+      "MatchMinute": "96'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 8.16847,
+      "PositionY": 46.493107,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DINEY BORGES (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "688686240",
+      "IdTeam": "43850",
+      "IdPlayer": "477832",
+      "Timestamp": "2026-07-04T00:11:09.15Z",
+      "MatchMinute": "97'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.35467,
+      "PositionY": 1.23453,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "SIDNY LOPES CABRAL (Cabo Verde) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "691056793",
+      "IdTeam": "43850",
+      "IdPlayer": "477847",
+      "Timestamp": "2026-07-04T00:11:13.214Z",
+      "MatchMinute": "97'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 21.1997,
+      "PositionY": 48.373255,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "STEVEN MOREIRA (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "773737633",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-04T00:12:32.613Z",
+      "MatchMinute": "98'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 86.03844000000001,
+      "PositionY": 59.06204,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "783895725",
+      "IdTeam": "43922",
+      "IdPlayer": "416081",
+      "Timestamp": "2026-07-04T00:12:35.416Z",
+      "MatchMinute": "98'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.76871,
+      "PositionY": 38.93772,
+      "GoalGatePositionX": 53.85838,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian ALVAREZ (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "823908511",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-04T00:13:23.544Z",
+      "MatchMinute": "99'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.64367,
+      "PositionY": 1.29807,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "827053230",
+      "IdTeam": "43922",
+      "IdPlayer": "448252",
+      "Timestamp": "2026-07-04T00:13:26.988Z",
+      "MatchMinute": "99'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 83.96546000000001,
+      "PositionY": 55.698893999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Enzo FERNANDEZ (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "848732336",
+      "IdTeam": "43850",
+      "IdPlayer": "477862",
+      "IdSubPlayer": "477852",
+      "IdSubTeam": "43850",
+      "Timestamp": "2026-07-04T00:13:39.678Z",
+      "MatchMinute": "100'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "GILSON BENCHIMOL (in) comes off the bench to replace KEVIN PINA (out) (Cabo Verde)"
+        }
+      ]
+    },
+    {
+      "EventId": "848732335",
+      "IdTeam": "43850",
+      "IdPlayer": "494313",
+      "IdSubPlayer": "477827",
+      "IdSubTeam": "43850",
+      "Timestamp": "2026-07-04T00:13:39.678Z",
+      "MatchMinute": "100'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "YANNICK SEMEDO (in) comes off the bench to replace DEROY DUARTE (out) (Cabo Verde)"
+        }
+      ]
+    },
+    {
+      "EventId": "1093497005",
+      "IdTeam": "43850",
+      "IdPlayer": "494313",
+      "Timestamp": "2026-07-04T00:17:15.376Z",
+      "MatchMinute": "103'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 31.64983,
+      "PositionY": 48.440591,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by YANNICK SEMEDO."
+        }
+      ]
+    },
+    {
+      "EventId": "1074307233",
+      "IdTeam": "43850",
+      "IdPlayer": "477832",
+      "Timestamp": "2026-07-04T00:17:20.621Z",
+      "MatchMinute": "103'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 13.353570000000001,
+      "PositionY": 21.04059,
+      "GoalGatePositionX": 66.85638,
+      "GoalGatePositionY": 38.98972,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "SIDNY LOPES CABRAL (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1074307235",
+      "IdTeam": "43850",
+      "IdPlayer": "477832",
+      "IdSubPlayer": "494313",
+      "IdSubTeam": "43850",
+      "Timestamp": "2026-07-04T00:17:20.621Z",
+      "MatchMinute": "103'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 13.353570000000001,
+      "PositionY": 21.04059,
+      "GoalGatePositionX": 66.85638,
+      "GoalGatePositionY": 38.98972,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "SIDNY LOPES CABRAL (Cabo Verde) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1119640760",
+      "IdTeam": "43922",
+      "IdPlayer": "402926",
+      "IdSubPlayer": "402925",
+      "IdSubTeam": "43922",
+      "Timestamp": "2026-07-04T00:18:04.6Z",
+      "MatchMinute": "104'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gonzalo MONTIEL (in) comes off the bench to replace Nahuel MOLINA (out) (Argentina)"
+        }
+      ]
+    },
+    {
+      "EventId": "1265214649",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-04T00:20:33.474Z",
+      "MatchMinute": "105'+1'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 85.85959,
+      "PositionY": 52.865417,
+      "GoalGatePositionX": 62.44571,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "453519706",
+      "IdTeam": "43850",
+      "IdPlayer": "364752",
+      "Timestamp": "2026-07-04T00:20:34.054Z",
+      "MatchMinute": "105'+1'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.67296,
+      "PositionY": 47.285732,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Cabo Verde pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1266357434",
+      "IdTeam": "43922",
+      "IdPlayer": "402926",
+      "Timestamp": "2026-07-04T00:20:35.395Z",
+      "MatchMinute": "105'+1'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.10462,
+      "PositionY": 39.17765,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gonzalo MONTIEL (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1414261937",
+      "Timestamp": "2026-07-04T00:23:00.682Z",
+      "MatchMinute": "105'+4'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee blows for the end of the first period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "1586044082",
+      "Timestamp": "2026-07-04T00:25:48.455Z",
+      "MatchMinute": "105'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "1705665725",
+      "IdTeam": "43850",
+      "IdPlayer": "401894",
+      "Timestamp": "2026-07-04T00:27:28.869Z",
+      "MatchMinute": "107'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 24.9709,
+      "PositionY": 70.63327000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JAMIRO MONTEIRO (Cabo Verde) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1758739646",
+      "IdTeam": "43850",
+      "IdPlayer": "494313",
+      "Timestamp": "2026-07-04T00:28:34.594Z",
+      "MatchMinute": "108'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 69.66295,
+      "PositionY": 67.73282,
+      "GoalGatePositionX": 4.8160300000000005,
+      "GoalGatePositionY": 7.378903,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "YANNICK SEMEDO (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1834970291",
+      "IdTeam": "43922",
+      "IdPlayer": "308322",
+      "Timestamp": "2026-07-04T00:29:34.455Z",
+      "MatchMinute": "109'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas TAGLIAFICO (Argentina) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1863647412",
+      "IdTeam": "43850",
+      "IdPlayer": "433724",
+      "Timestamp": "2026-07-04T00:30:10.65Z",
+      "MatchMinute": "110'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 71.99914,
+      "PositionY": 9.93351,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "WILLY SEMEDO (Cabo Verde) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1922956464",
+      "IdTeam": "43922",
+      "IdPlayer": "229397",
+      "Timestamp": "2026-07-04T00:31:16.696Z",
+      "MatchMinute": "111'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lionel MESSI (Argentina) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "229187779",
+      "IdTeam": "43922",
+      "IdPlayer": "431196",
+      "Timestamp": "2026-07-04T00:31:18.218Z",
+      "MatchMinute": "111'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 5.04279,
+      "PositionY": 44.998342,
+      "GoalGatePositionX": 84.05266,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cristian ROMERO (Argentina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "138121412",
+      "IdTeam": "43850",
+      "IdPlayer": "409241",
+      "Timestamp": "2026-07-04T00:31:18.278Z",
+      "MatchMinute": "111'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 34,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Own goal"
+        }
+      ],
+      "PositionX": 4.6445300000000005,
+      "PositionY": 46.363163,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DINEY BORGES (Cabo Verde) scores an own goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2108067007",
+      "IdTeam": "43850",
+      "IdPlayer": "433724",
+      "Timestamp": "2026-07-04T00:34:16.596Z",
+      "MatchMinute": "114'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 93.89196,
+      "PositionY": 74.528,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "WILLY SEMEDO (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "33000641",
+      "IdTeam": "43922",
+      "IdPlayer": "402926",
+      "Timestamp": "2026-07-04T00:35:18.858Z",
+      "MatchMinute": "115'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 86.55125,
+      "PositionY": 81.68737,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gonzalo MONTIEL (Argentina) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "87246018",
+      "IdTeam": "43850",
+      "IdPlayer": "477832",
+      "Timestamp": "2026-07-04T00:36:19.098Z",
+      "MatchMinute": "116'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.83959999999999,
+      "PositionY": 81.07148,
+      "GoalGatePositionX": 59.292624,
+      "GoalGatePositionY": 36.96569,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "SIDNY LOPES CABRAL (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1420906077",
+      "IdTeam": "43922",
+      "IdPlayer": "308300",
+      "Timestamp": "2026-07-04T00:36:19.959Z",
+      "MatchMinute": "116'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.65607,
+      "PositionY": 50.51222130000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Argentina pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "228050099",
+      "IdTeam": "43850",
+      "IdPlayer": "494313",
+      "Timestamp": "2026-07-04T00:38:37.497Z",
+      "MatchMinute": "118'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "YANNICK SEMEDO (Cabo Verde) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "264852661",
+      "IdTeam": "43850",
+      "IdPlayer": "409241",
+      "Timestamp": "2026-07-04T00:39:08.187Z",
+      "MatchMinute": "119'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 87.58435,
+      "PositionY": 54.752019,
+      "GoalGatePositionX": 13.73055,
+      "GoalGatePositionY": 2.509398,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DINEY BORGES (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "288531638",
+      "IdTeam": "43850",
+      "IdPlayer": "401894",
+      "Timestamp": "2026-07-04T00:39:37.797Z",
+      "MatchMinute": "119'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.6444,
+      "PositionY": 98.7051,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JAMIRO MONTEIRO (Cabo Verde) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "303956168",
+      "IdTeam": "43850",
+      "IdPlayer": "482782",
+      "Timestamp": "2026-07-04T00:39:44.455Z",
+      "MatchMinute": "119'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DAILON LIVRAMENTO (Cabo Verde) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "377202871",
+      "IdTeam": "43850",
+      "IdPlayer": "477849",
+      "Timestamp": "2026-07-04T00:41:01.481Z",
+      "MatchMinute": "120'+1'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.66799999999999,
+      "PositionY": 36.65226,
+      "GoalGatePositionX": 36.00031,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "HELIO VARELA (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "422037688",
+      "IdTeam": "43850",
+      "IdPlayer": "494313",
+      "Timestamp": "2026-07-04T00:41:47.747Z",
+      "MatchMinute": "120'+1'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.29043,
+      "PositionY": 1.3699400000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "YANNICK SEMEDO (Cabo Verde) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "425561289",
+      "IdTeam": "43850",
+      "IdPlayer": "401894",
+      "Timestamp": "2026-07-04T00:41:49.969Z",
+      "MatchMinute": "120'+2'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 83.66959,
+      "PositionY": 50.9427342,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JAMIRO MONTEIRO (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "461943992",
+      "IdTeam": "43850",
+      "IdPlayer": "477849",
+      "Timestamp": "2026-07-04T00:42:26.005Z",
+      "MatchMinute": "120'+2'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 75.58278,
+      "PositionY": 42.171247,
+      "GoalGatePositionX": 15.6527,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "HELIO VARELA (Cabo Verde) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "556861641",
+      "Timestamp": "2026-07-04T00:44:00.622Z",
+      "MatchMinute": "120'+4'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee blows for the end of the second period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "625386682",
+      "Timestamp": "2026-07-04T00:45:06.744Z",
+      "MatchMinute": "124'",
+      "Period": 10,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

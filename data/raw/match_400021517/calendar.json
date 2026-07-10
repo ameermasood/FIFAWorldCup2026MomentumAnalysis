@@ -1,0 +1,195 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289287",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "69045",
+  "IdMatch": "400021517",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 32"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-07-04T01:30:00Z",
+  "LocalDate": "2026-07-03T20:30:00Z",
+  "Home": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "43926",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/COL",
+    "IdCountry": "COL",
+    "Tactics": "4-1-2-3",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Colombia"
+      }
+    ],
+    "Abbreviation": "COL",
+    "ShortClubName": "Colombia",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "COL"
+  },
+  "Away": {
+    "Score": 0,
+    "Side": null,
+    "IdTeam": "43860",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/GHA",
+    "IdCountry": "GHA",
+    "Tactics": "4-1-2-3",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Ghana"
+      }
+    ],
+    "Abbreviation": "GHA",
+    "ShortClubName": "Ghana",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "GHA"
+  },
+  "HomeTeamScore": 1,
+  "AwayTeamScore": 0,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400254717",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Kansas City Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400019415",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Kansas City"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5003287"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "98'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43926",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "1K",
+  "PlaceHolderB": "3DEIJL",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "FRA",
+      "OfficialId": "314589",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Clement TURPIN"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Clément Turpin"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "ESP",
+      "OfficialId": "373845",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alejandro HERNANDEZ"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alejandro José Hernández Hernández"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 1,
+  "MatchNumber": 87,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151693"
+  },
+  "IsUpdateable": null
+}

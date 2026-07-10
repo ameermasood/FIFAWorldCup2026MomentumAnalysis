@@ -1,0 +1,3567 @@
+{
+  "IdStage": "289288",
+  "IdMatch": "400021535",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "605695054",
+      "IdTeam": "43971",
+      "Timestamp": "2026-07-07T19:58:14.274Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 80,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Switzerland won the coin toss and chose the side"
+        }
+      ]
+    },
+    {
+      "EventId": "723500113",
+      "Timestamp": "2026-07-07T20:00:09.943Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "1290000474",
+      "IdTeam": "43926",
+      "IdPlayer": "470760",
+      "Timestamp": "2026-07-07T20:02:08.565Z",
+      "MatchMinute": "2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.6103,
+      "PositionY": 40.561268,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jhon ARIAS (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "945028187",
+      "IdTeam": "43971",
+      "IdPlayer": "402021",
+      "Timestamp": "2026-07-07T20:03:29.666Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 75.07009,
+      "PositionY": 2.24769,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Remo FREULER (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1018858583",
+      "IdTeam": "43926",
+      "IdPlayer": "269058",
+      "Timestamp": "2026-07-07T20:04:56.873Z",
+      "MatchMinute": "5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.17667,
+      "PositionY": 1.8550799999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "James RODRIGUEZ (Colombia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1031094361",
+      "IdTeam": "43926",
+      "IdPlayer": "386013",
+      "Timestamp": "2026-07-07T20:05:03.059Z",
+      "MatchMinute": "5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 14.15459,
+      "PositionY": 92.43021999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Davinson SANCHEZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1093718105",
+      "IdTeam": "43971",
+      "IdPlayer": "448114",
+      "Timestamp": "2026-07-07T20:05:51.943Z",
+      "MatchMinute": "6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dan NDOYE (Switzerland) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1140959324",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "Timestamp": "2026-07-07T20:06:41.237Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 29.97487,
+      "PositionY": 42.270876,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis SUAREZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1470938207",
+      "IdTeam": "43971",
+      "IdPlayer": "398509",
+      "Timestamp": "2026-07-07T20:12:08.224Z",
+      "MatchMinute": "12'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 26.84236,
+      "PositionY": 10.00127,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico ELVEDI (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1598442592",
+      "IdTeam": "43971",
+      "IdPlayer": "448103",
+      "Timestamp": "2026-07-07T20:14:22.798Z",
+      "MatchMinute": "15'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.46952999999999,
+      "PositionY": 99.71693,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fabian RIEDER (Switzerland) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1693685855",
+      "IdTeam": "43971",
+      "IdPlayer": "448120",
+      "Timestamp": "2026-07-07T20:15:54.189Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 63.27076,
+      "PositionY": 69.75243,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ardon JASHARI (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1987732576",
+      "IdTeam": "43926",
+      "IdPlayer": "463902",
+      "Timestamp": "2026-07-07T20:20:41.156Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 15.53407,
+      "PositionY": 37.02085,
+      "GoalGatePositionX": 63.673069999999996,
+      "GoalGatePositionY": 28.323320000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo PUERTA (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "747405073",
+      "IdTeam": "43971",
+      "IdPlayer": "448107",
+      "Timestamp": "2026-07-07T20:20:41.997Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 2.7698,
+      "PositionY": 51.568135000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Switzerland pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "2033729635",
+      "IdTeam": "43926",
+      "IdPlayer": "269058",
+      "Timestamp": "2026-07-07T20:21:26.501Z",
+      "MatchMinute": "22'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.46671000000000007,
+      "PositionY": 98.59545,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "James RODRIGUEZ (Colombia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "2124064869",
+      "IdTeam": "43926",
+      "IdPlayer": "463902",
+      "Timestamp": "2026-07-07T20:22:45.52Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 36.105959999999996,
+      "PositionY": 22.216440000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo PUERTA (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2126104675",
+      "Timestamp": "2026-07-07T20:22:52.943Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "167816292",
+      "Timestamp": "2026-07-07T20:26:04.369Z",
+      "MatchMinute": "26'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "260184163",
+      "IdTeam": "43926",
+      "IdPlayer": "395550",
+      "Timestamp": "2026-07-07T20:27:20.735Z",
+      "MatchMinute": "28'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 45.97849,
+      "PositionY": 92.52725000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jefferson LERMA (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "350470249",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-07T20:28:54.409Z",
+      "MatchMinute": "29'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 54.933652,
+      "PositionY": 40.374678,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "380400741",
+      "IdTeam": "43971",
+      "IdPlayer": "448103",
+      "Timestamp": "2026-07-07T20:29:29.844Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.20293000000001,
+      "PositionY": 66.35584,
+      "GoalGatePositionX": 52.871598,
+      "GoalGatePositionY": 3.534773,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fabian RIEDER (Switzerland) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1289339763",
+      "IdTeam": "43926",
+      "IdPlayer": "360642",
+      "Timestamp": "2026-07-07T20:29:30.225Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 96.79537,
+      "PositionY": 55.706946,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Colombia pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "484580447",
+      "IdTeam": "43971",
+      "IdPlayer": "448120",
+      "Timestamp": "2026-07-07T20:30:59.234Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 59.231167,
+      "PositionY": 82.406,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ardon JASHARI (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "507051110",
+      "IdTeam": "43971",
+      "IdPlayer": "448114",
+      "Timestamp": "2026-07-07T20:31:33.808Z",
+      "MatchMinute": "32'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.44024999999999,
+      "PositionY": 74.10333999999999,
+      "GoalGatePositionX": 62.60278,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dan NDOYE (Switzerland) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "574033001",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-07T20:32:33.828Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 11.23389,
+      "PositionY": 34.49063,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1044346989",
+      "IdTeam": "43926",
+      "IdPlayer": "431200",
+      "Timestamp": "2026-07-07T20:35:14.943Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Daniel MUNOZ (Colombia) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "881059946",
+      "IdTeam": "43971",
+      "IdPlayer": "448103",
+      "Timestamp": "2026-07-07T20:37:21.796Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 51.043538,
+      "PositionY": 42.036909,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fabian RIEDER (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "934098027",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "Timestamp": "2026-07-07T20:38:31.345Z",
+      "MatchMinute": "39'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.769,
+      "PositionY": 44.134933,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis SUAREZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "962425964",
+      "IdTeam": "43926",
+      "IdPlayer": "463902",
+      "Timestamp": "2026-07-07T20:38:52.486Z",
+      "MatchMinute": "39'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 19.04807,
+      "PositionY": 44.383598,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo PUERTA (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "982127725",
+      "IdTeam": "43926",
+      "IdPlayer": "269058",
+      "Timestamp": "2026-07-07T20:39:15.049Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "James RODRIGUEZ (Colombia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1225080941",
+      "IdTeam": "43926",
+      "IdPlayer": "269058",
+      "Timestamp": "2026-07-07T20:43:15.389Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.20245,
+      "PositionY": 98.62680999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "James RODRIGUEZ (Colombia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1256023139",
+      "IdTeam": "43971",
+      "IdPlayer": "448114",
+      "Timestamp": "2026-07-07T20:43:38.887Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dan NDOYE (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1379553381",
+      "IdTeam": "43926",
+      "IdPlayer": "431200",
+      "Timestamp": "2026-07-07T20:45:36.89Z",
+      "MatchMinute": "45'+1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 65.18293,
+      "PositionY": 88.80604,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Daniel MUNOZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1538278510",
+      "Timestamp": "2026-07-07T20:48:22.679Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "353174644",
+      "IdTeam": "43971",
+      "IdPlayer": "411226",
+      "IdSubPlayer": "448120",
+      "IdSubTeam": "43971",
+      "Timestamp": "2026-07-07T21:03:55.671Z",
+      "MatchMinute": "",
+      "Period": 4,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Before the second half begins Djibril SOW (in) comes off the bench to replace Ardon JASHARI (out) (Switzerland)"
+        }
+      ]
+    },
+    {
+      "EventId": "393477243",
+      "Timestamp": "2026-07-07T21:04:41.975Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "439832703",
+      "IdTeam": "43971",
+      "IdPlayer": "401448",
+      "Timestamp": "2026-07-07T21:05:12.975Z",
+      "MatchMinute": "46'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Denis ZAKARIA (Switzerland) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "471602311",
+      "IdTeam": "43971",
+      "IdPlayer": "448114",
+      "Timestamp": "2026-07-07T21:05:38.975Z",
+      "MatchMinute": "46'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dan NDOYE (Switzerland) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "515522688",
+      "IdTeam": "43971",
+      "IdPlayer": "411226",
+      "Timestamp": "2026-07-07T21:06:38.831Z",
+      "MatchMinute": "47'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 11.90081,
+      "PositionY": 54.01347199999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Djibril SOW (Switzerland) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "749295747",
+      "IdTeam": "43971",
+      "IdPlayer": "311558",
+      "Timestamp": "2026-07-07T21:10:15.134Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Granit XHAKA (Switzerland) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "812070019",
+      "IdTeam": "43926",
+      "IdPlayer": "386013",
+      "Timestamp": "2026-07-07T21:11:21.294Z",
+      "MatchMinute": "52'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 19.38033,
+      "PositionY": 26.25309,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Davinson SANCHEZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "865152132",
+      "IdTeam": "43971",
+      "IdPlayer": "448103",
+      "Timestamp": "2026-07-07T21:12:15.768Z",
+      "MatchMinute": "53'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 19.53668,
+      "PositionY": 27.282089999999997,
+      "GoalGatePositionX": 29.393710000000002,
+      "GoalGatePositionY": 48.860969999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fabian RIEDER (Switzerland) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1216614535",
+      "IdTeam": "43971",
+      "IdPlayer": "401448",
+      "Timestamp": "2026-07-07T21:17:46.959Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 29.98593,
+      "PositionY": 81.42904,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Denis ZAKARIA (Switzerland) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1281880204",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-07T21:19:07.439Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 85.57614,
+      "PositionY": 62.96078000000001,
+      "GoalGatePositionX": 62.38851,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1300078726",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "Timestamp": "2026-07-07T21:19:19.391Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 88.61945,
+      "PositionY": 47.291798,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis SUAREZ (Colombia) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1334037639",
+      "IdTeam": "43971",
+      "IdPlayer": "448103",
+      "Timestamp": "2026-07-07T21:19:58.27Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.24705,
+      "PositionY": 25.39719,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fabian RIEDER (Switzerland) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1355730061",
+      "IdTeam": "43971",
+      "IdPlayer": "405178",
+      "Timestamp": "2026-07-07T21:20:04.817Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 49.6971587,
+      "PositionY": 35.08279,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Manuel AKANJI (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1402057864",
+      "IdTeam": "43926",
+      "IdPlayer": "394500",
+      "Timestamp": "2026-07-07T21:20:52.975Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Johan MOJICA (Colombia) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1441609871",
+      "IdTeam": "43971",
+      "IdPlayer": "311558",
+      "Timestamp": "2026-07-07T21:21:40.212Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 71.77032,
+      "PositionY": 9.60619,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Granit XHAKA (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1470126218",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "Timestamp": "2026-07-07T21:22:10.963Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 80.98012,
+      "PositionY": 46.415024,
+      "GoalGatePositionX": 97.43796,
+      "GoalGatePositionY": 44.19996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis SUAREZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1602750606",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-07T21:24:03.395Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 91.15986000000001,
+      "PositionY": 77.70555999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1617574035",
+      "IdTeam": "43926",
+      "IdPlayer": "405755",
+      "IdSubPlayer": "470760",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-07T21:24:53.975Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jaminton CAMPAZ (in) comes off the bench to replace Jhon ARIAS (out) (Colombia)"
+        }
+      ]
+    },
+    {
+      "EventId": "1617574034",
+      "IdTeam": "43926",
+      "IdPlayer": "356704",
+      "IdSubPlayer": "269058",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-07T21:24:53.975Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan QUINTERO (in) comes off the bench to replace James RODRIGUEZ (out) (Colombia)"
+        }
+      ]
+    },
+    {
+      "EventId": "1691809939",
+      "IdTeam": "43926",
+      "IdPlayer": "395550",
+      "Timestamp": "2026-07-07T21:25:37.449Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 60.78464,
+      "PositionY": 82.67994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jefferson LERMA (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1750453404",
+      "Timestamp": "2026-07-07T21:26:39.975Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1948367005",
+      "IdTeam": "43971",
+      "IdPlayer": "493221",
+      "IdSubPlayer": "313559",
+      "IdSubTeam": "43971",
+      "Timestamp": "2026-07-07T21:29:51.975Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Miro MUHEIM (in) comes off the bench to replace Ricardo RODRIGUEZ (out) (Switzerland)"
+        }
+      ]
+    },
+    {
+      "EventId": "1959941265",
+      "Timestamp": "2026-07-07T21:30:11.598Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "2010201235",
+      "IdTeam": "43926",
+      "IdPlayer": "431200",
+      "Timestamp": "2026-07-07T21:30:48.92Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 9.219430000000001,
+      "PositionY": 4.16611,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Daniel MUNOZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2060083341",
+      "IdTeam": "43971",
+      "IdPlayer": "393480",
+      "Timestamp": "2026-07-07T21:31:34.975Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Breel EMBOLO (Switzerland) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "43096212",
+      "IdTeam": "43926",
+      "IdPlayer": "405755",
+      "Timestamp": "2026-07-07T21:33:42.975Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jaminton CAMPAZ (Colombia) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "74096791",
+      "IdTeam": "43926",
+      "IdPlayer": "395550",
+      "Timestamp": "2026-07-07T21:34:08.92Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 40.082837999999995,
+      "PositionY": 9.29565,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jefferson LERMA (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "162496665",
+      "IdTeam": "43926",
+      "IdPlayer": "405755",
+      "Timestamp": "2026-07-07T21:35:36.067Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 87.18081,
+      "PositionY": 5.15911,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jaminton CAMPAZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "343947408",
+      "IdTeam": "43971",
+      "IdPlayer": "393480",
+      "Timestamp": "2026-07-07T21:38:41.472Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 16.95839,
+      "PositionY": 11.51923,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Breel EMBOLO (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "389376157",
+      "IdTeam": "43926",
+      "IdPlayer": "431200",
+      "Timestamp": "2026-07-07T21:39:25.336Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 61.547,
+      "PositionY": 10.935749999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Daniel MUNOZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "511617183",
+      "IdTeam": "43926",
+      "IdPlayer": "473050",
+      "IdSubPlayer": "395550",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-07T21:41:40.975Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richard RIOS (in) comes off the bench to replace Jefferson LERMA (out) (Colombia)"
+        }
+      ]
+    },
+    {
+      "EventId": "511617182",
+      "IdTeam": "43926",
+      "IdPlayer": "418881",
+      "IdSubPlayer": "428905",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-07T21:41:40.975Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cucho HERNANDEZ (in) comes off the bench to replace Luis SUAREZ (out) (Colombia)"
+        }
+      ]
+    },
+    {
+      "EventId": "578672795",
+      "IdTeam": "43971",
+      "IdPlayer": "448103",
+      "Timestamp": "2026-07-07T21:42:38.028Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fabian RIEDER (Switzerland) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "619275420",
+      "IdTeam": "43926",
+      "IdPlayer": "405755",
+      "Timestamp": "2026-07-07T21:42:52.975Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jaminton CAMPAZ (Colombia) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "755869859",
+      "IdTeam": "43971",
+      "IdPlayer": "448104",
+      "IdSubPlayer": "393480",
+      "IdSubTeam": "43971",
+      "Timestamp": "2026-07-07T21:45:53.975Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cedric ITTEN (in) comes off the bench to replace Breel EMBOLO (out) (Switzerland)"
+        }
+      ]
+    },
+    {
+      "EventId": "755869860",
+      "IdTeam": "43971",
+      "IdPlayer": "356412",
+      "IdSubPlayer": "401448",
+      "IdSubTeam": "43971",
+      "Timestamp": "2026-07-07T21:45:53.975Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Silvan WIDMER (in) comes off the bench to replace Denis ZAKARIA (out) (Switzerland)"
+        }
+      ]
+    },
+    {
+      "EventId": "832725158",
+      "IdTeam": "43971",
+      "IdPlayer": "405178",
+      "Timestamp": "2026-07-07T21:46:36.987Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 50.498928,
+      "PositionY": 20.825940000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Manuel AKANJI (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "867868820",
+      "IdTeam": "43971",
+      "IdPlayer": "448114",
+      "Timestamp": "2026-07-07T21:47:09.975Z",
+      "MatchMinute": "88'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dan NDOYE (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "941832357",
+      "IdTeam": "43926",
+      "IdPlayer": "473050",
+      "Timestamp": "2026-07-07T21:48:19.47Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 40.385951,
+      "PositionY": 11.80964,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richard RIOS (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1044369579",
+      "IdTeam": "43971",
+      "IdPlayer": "448114",
+      "Timestamp": "2026-07-07T21:50:11.582Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 5.46162,
+      "PositionY": 68.37969000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dan NDOYE (Switzerland) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1074037923",
+      "IdTeam": "43971",
+      "IdPlayer": "448131",
+      "IdSubPlayer": "448114",
+      "IdSubTeam": "43971",
+      "Timestamp": "2026-07-07T21:50:36.093Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ruben VARGAS (in) comes off the bench to replace Dan NDOYE (out) (Switzerland)"
+        }
+      ]
+    },
+    {
+      "EventId": "1233937572",
+      "IdTeam": "43971",
+      "IdPlayer": "448103",
+      "Timestamp": "2026-07-07T21:53:18.408Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.39687999999999996,
+      "PositionY": 98.94810000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fabian RIEDER (Switzerland) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1323977901",
+      "IdTeam": "43971",
+      "IdPlayer": "448131",
+      "Timestamp": "2026-07-07T21:54:14.785Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 25.98005,
+      "PositionY": 4.60797,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ruben VARGAS (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1329476782",
+      "Timestamp": "2026-07-07T21:54:53.1Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1548090543",
+      "IdTeam": "43926",
+      "Timestamp": "2026-07-07T21:58:26.588Z",
+      "MatchMinute": "",
+      "Period": 17,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Colombia won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "1638653097",
+      "Timestamp": "2026-07-07T21:59:54.957Z",
+      "MatchMinute": "90'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "1713255594",
+      "IdTeam": "43971",
+      "IdPlayer": "356412",
+      "Timestamp": "2026-07-07T22:00:56.005Z",
+      "MatchMinute": "92'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 14.240549999999999,
+      "PositionY": 14.35493,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Silvan WIDMER (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1766439082",
+      "IdTeam": "43926",
+      "IdPlayer": "386013",
+      "Timestamp": "2026-07-07T22:01:57.127Z",
+      "MatchMinute": "93'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 6.277190000000001,
+      "PositionY": 61.453829999999996,
+      "GoalGatePositionX": 75.54835,
+      "GoalGatePositionY": 61.426309999999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Davinson SANCHEZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1841606828",
+      "IdTeam": "43926",
+      "IdPlayer": "405755",
+      "Timestamp": "2026-07-07T22:03:01.591Z",
+      "MatchMinute": "94'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 24.161730000000002,
+      "PositionY": 95.91098,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jaminton CAMPAZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1894410392",
+      "IdTeam": "43926",
+      "IdPlayer": "386013",
+      "Timestamp": "2026-07-07T22:03:52.182Z",
+      "MatchMinute": "94'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 52.164583,
+      "PositionY": 13.43,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Davinson SANCHEZ (Colombia) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1962172594",
+      "IdTeam": "43926",
+      "IdPerson": "197936",
+      "Timestamp": "2026-07-07T22:04:17.891Z",
+      "MatchMinute": "95'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis PEREA (Colombia) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "2016455854",
+      "IdTeam": "43926",
+      "IdPlayer": "431200",
+      "Timestamp": "2026-07-07T22:05:51.441Z",
+      "MatchMinute": "96'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 49.2371841,
+      "PositionY": 96.61187,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Daniel MUNOZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2137881776",
+      "IdTeam": "43926",
+      "IdPlayer": "356704",
+      "Timestamp": "2026-07-07T22:08:01.35Z",
+      "MatchMinute": "99'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan QUINTERO (Colombia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "2141783219",
+      "IdTeam": "43926",
+      "IdPlayer": "441622",
+      "Timestamp": "2026-07-07T22:08:02.692Z",
+      "MatchMinute": "99'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 5.34525,
+      "PositionY": 43.384123,
+      "GoalGatePositionX": 45.337744,
+      "GoalGatePositionY": 48.10032,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jhon LUCUMI (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "53294261",
+      "IdTeam": "43926",
+      "IdPlayer": "473050",
+      "Timestamp": "2026-07-07T22:09:00.97Z",
+      "MatchMinute": "100'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 33.55443,
+      "PositionY": 48.504988,
+      "GoalGatePositionX": 77.67244,
+      "GoalGatePositionY": 20.3178,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richard RIOS (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "102386871",
+      "IdTeam": "43971",
+      "IdPlayer": "448104",
+      "Timestamp": "2026-07-07T22:09:34.484Z",
+      "MatchMinute": "100'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 44.52583,
+      "PositionY": 4.89499,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cedric ITTEN (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "148937903",
+      "IdTeam": "43926",
+      "IdPlayer": "405755",
+      "Timestamp": "2026-07-07T22:10:33.523Z",
+      "MatchMinute": "101'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 25.475409999999997,
+      "PositionY": 77.07025,
+      "GoalGatePositionX": 64.18972,
+      "GoalGatePositionY": 11.41479,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jaminton CAMPAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1055569116",
+      "IdTeam": "43971",
+      "IdPlayer": "448107",
+      "Timestamp": "2026-07-07T22:10:34.624Z",
+      "MatchMinute": "101'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.58447,
+      "PositionY": 55.087705,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Switzerland pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "173320368",
+      "IdTeam": "43926",
+      "IdPlayer": "356704",
+      "Timestamp": "2026-07-07T22:10:59.428Z",
+      "MatchMinute": "102'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.41053,
+      "PositionY": 98.80708,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan QUINTERO (Colombia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "186615989",
+      "IdTeam": "43926",
+      "IdPlayer": "441622",
+      "Timestamp": "2026-07-07T22:11:00.93Z",
+      "MatchMinute": "102'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 1.9177199999999999,
+      "PositionY": 49.504735100000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jhon LUCUMI (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "247223475",
+      "IdTeam": "43926",
+      "IdPlayer": "473050",
+      "Timestamp": "2026-07-07T22:12:01.691Z",
+      "MatchMinute": "103'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 60.0143,
+      "PositionY": 96.70532,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richard RIOS (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "258145460",
+      "IdTeam": "43971",
+      "IdPlayer": "448112",
+      "IdSubPlayer": "448103",
+      "IdSubTeam": "43971",
+      "Timestamp": "2026-07-07T22:12:17.539Z",
+      "MatchMinute": "103'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Zeki AMDOUNI (in) comes off the bench to replace Fabian RIEDER (out) (Switzerland)"
+        }
+      ]
+    },
+    {
+      "EventId": "325942454",
+      "IdTeam": "43971",
+      "IdPlayer": "448131",
+      "Timestamp": "2026-07-07T22:12:55.957Z",
+      "MatchMinute": "104'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ruben VARGAS (Switzerland) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "396285113",
+      "IdTeam": "43971",
+      "IdPlayer": "493221",
+      "Timestamp": "2026-07-07T22:14:17.827Z",
+      "MatchMinute": "105'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 74.76746,
+      "PositionY": 88.64899000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Miro MUHEIM (Switzerland) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "435519674",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-07T22:15:12.581Z",
+      "MatchMinute": "105'+1'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 11.15923,
+      "PositionY": 35.909580000000005,
+      "GoalGatePositionX": 62.553760000000004,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "488715451",
+      "IdTeam": "43926",
+      "IdPlayer": "356704",
+      "Timestamp": "2026-07-07T22:16:07.736Z",
+      "MatchMinute": "105'+2'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan QUINTERO (Colombia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "498257083",
+      "Timestamp": "2026-07-07T22:16:18.387Z",
+      "MatchMinute": "105'+2'",
+      "Period": 7,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee blows for the end of the first period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "666604704",
+      "Timestamp": "2026-07-07T22:19:02.804Z",
+      "MatchMinute": "105'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "753646781",
+      "IdTeam": "43971",
+      "IdPlayer": "448104",
+      "Timestamp": "2026-07-07T22:19:39.387Z",
+      "MatchMinute": "106'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cedric ITTEN (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "767207613",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-07T22:20:26.415Z",
+      "MatchMinute": "107'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 85.14431,
+      "PositionY": 67.23282999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "896612515",
+      "IdTeam": "43971",
+      "IdPlayer": "448112",
+      "Timestamp": "2026-07-07T22:22:32.241Z",
+      "MatchMinute": "109'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 35.27501,
+      "PositionY": 29.02613,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Zeki AMDOUNI (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1055752383",
+      "IdTeam": "43971",
+      "IdPlayer": "448112",
+      "Timestamp": "2026-07-07T22:25:13.542Z",
+      "MatchMinute": "112'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 49.7599031,
+      "PositionY": 22.13194,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Zeki AMDOUNI (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1090672804",
+      "IdTeam": "43926",
+      "IdPlayer": "356704",
+      "Timestamp": "2026-07-07T22:25:54.803Z",
+      "MatchMinute": "112'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.57584,
+      "PositionY": 26.67275,
+      "GoalGatePositionX": 31.593130000000002,
+      "GoalGatePositionY": 96.71853,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan QUINTERO (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1163447489",
+      "IdTeam": "43971",
+      "IdPlayer": "311558",
+      "Timestamp": "2026-07-07T22:27:05.494Z",
+      "MatchMinute": "114'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 16.713459999999998,
+      "PositionY": 34.21329,
+      "GoalGatePositionX": 62.55511,
+      "GoalGatePositionY": 68.86469,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Granit XHAKA (Switzerland) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1235718335",
+      "IdTeam": "43971",
+      "IdPlayer": "448112",
+      "Timestamp": "2026-07-07T22:28:12.466Z",
+      "MatchMinute": "115'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Zeki AMDOUNI (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1273661605",
+      "IdTeam": "43926",
+      "IdPlayer": "405755",
+      "Timestamp": "2026-07-07T22:28:52.18Z",
+      "MatchMinute": "115'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 92.25370000000001,
+      "PositionY": 32.34122,
+      "GoalGatePositionX": 44.025774,
+      "GoalGatePositionY": 70.23221,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jaminton CAMPAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1344141479",
+      "IdTeam": "43971",
+      "IdPlayer": "398509",
+      "Timestamp": "2026-07-07T22:29:40.749Z",
+      "MatchMinute": "116'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 66.53681999999999,
+      "PositionY": 93.80534,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico ELVEDI (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1384249537",
+      "IdTeam": "43926",
+      "IdPlayer": "418881",
+      "Timestamp": "2026-07-07T22:30:27.435Z",
+      "MatchMinute": "117'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 90.16915,
+      "PositionY": 54.342196,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cucho HERNANDEZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1465835690",
+      "IdTeam": "43926",
+      "IdPlayer": "395552",
+      "IdSubPlayer": "441622",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-07T22:31:58.762Z",
+      "MatchMinute": "118'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yerry MINA (in) comes off the bench to replace Jhon LUCUMI (out) (Colombia)"
+        }
+      ]
+    },
+    {
+      "EventId": "1572065477",
+      "IdTeam": "43971",
+      "IdPlayer": "448104",
+      "Timestamp": "2026-07-07T22:33:33.681Z",
+      "MatchMinute": "120'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 14.26193,
+      "PositionY": 3.6956500000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cedric ITTEN (Switzerland) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1661541548",
+      "Timestamp": "2026-07-07T22:35:14.522Z",
+      "MatchMinute": "120'+2'",
+      "Period": 9,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee blows for the end of the second period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "1978394820",
+      "IdTeam": "43971",
+      "Timestamp": "2026-07-07T22:39:00.898Z",
+      "MatchMinute": "",
+      "Period": 16,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 80,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Switzerland won the coin toss and chose the side"
+        }
+      ]
+    },
+    {
+      "EventId": "1979944134",
+      "IdTeam": "43926",
+      "Timestamp": "2026-07-07T22:40:25.602Z",
+      "MatchMinute": "",
+      "Period": 16,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 81,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Colombia won the coin toss and chose to kick first"
+        }
+      ]
+    },
+    {
+      "EventId": "2018671813",
+      "Timestamp": "2026-07-07T22:41:03.403Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The penalty shoot-out is about to begin."
+        }
+      ]
+    },
+    {
+      "EventId": "2047733935",
+      "IdTeam": "43926",
+      "IdPlayer": "356704",
+      "IdSubPlayer": "448107",
+      "IdSubTeam": "43971",
+      "Timestamp": "2026-07-07T22:41:23.07Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.38702,
+      "PositionY": 49.98556306,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 1,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan QUINTERO (Colombia) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "2118965424",
+      "IdTeam": "43971",
+      "IdPlayer": "311558",
+      "IdSubPlayer": "360642",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-07T22:42:29.116Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.34761,
+      "PositionY": 49.8911594,
+      "HomePenaltyGoals": 1,
+      "AwayPenaltyGoals": 1,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Granit XHAKA (Switzerland) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "44654769",
+      "IdTeam": "43926",
+      "IdPlayer": "386013",
+      "IdSubPlayer": "448107",
+      "IdSubTeam": "43971",
+      "Timestamp": "2026-07-07T22:43:45.853Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.39699,
+      "PositionY": 49.9998667498,
+      "HomePenaltyGoals": 1,
+      "AwayPenaltyGoals": 1,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Davinson SANCHEZ (Colombia) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "104426675",
+      "IdTeam": "43971",
+      "IdPlayer": "448112",
+      "IdSubPlayer": "360642",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-07T22:44:47.455Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.22417,
+      "PositionY": 50.09397628,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 1,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Zeki AMDOUNI (Switzerland) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "154089690",
+      "IdTeam": "43926",
+      "IdPlayer": "405755",
+      "IdSubPlayer": "448107",
+      "IdSubTeam": "43971",
+      "Timestamp": "2026-07-07T22:45:34.181Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.450479999999999,
+      "PositionY": 50.02626925,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 2,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jaminton CAMPAZ (Colombia) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "212235482",
+      "IdTeam": "43971",
+      "IdPlayer": "405178",
+      "IdSubPlayer": "360642",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-07T22:46:30.037Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.424619999999999,
+      "PositionY": 50.0395061,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 2,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Manuel AKANJI (Switzerland) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "262365384",
+      "IdTeam": "43926",
+      "IdPlayer": "418881",
+      "IdSubPlayer": "448107",
+      "IdSubTeam": "43971",
+      "Timestamp": "2026-07-07T22:47:20.087Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.19479,
+      "PositionY": 49.94376832,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 2,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cucho HERNANDEZ (Colombia) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "319531209",
+      "IdTeam": "43971",
+      "IdPlayer": "448104",
+      "IdSubPlayer": "360642",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-07T22:48:17.905Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.382959999999999,
+      "PositionY": 50.1695024,
+      "HomePenaltyGoals": 3,
+      "AwayPenaltyGoals": 2,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cedric ITTEN (Switzerland) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "377507036",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "IdSubPlayer": "448107",
+      "IdSubTeam": "43971",
+      "Timestamp": "2026-07-07T22:49:13.941Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.4531,
+      "PositionY": 49.94757225,
+      "HomePenaltyGoals": 3,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "448762077",
+      "IdTeam": "43971",
+      "IdPlayer": "448131",
+      "IdSubPlayer": "360642",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-07T22:50:23.17Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.40427,
+      "PositionY": 50.02610874,
+      "HomePenaltyGoals": 4,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ruben VARGAS (Switzerland) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "453610710",
+      "Timestamp": "2026-07-07T22:50:32.153Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 4,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The penalty shoot-out is over."
+        }
+      ]
+    },
+    {
+      "EventId": "475917555",
+      "Timestamp": "2026-07-07T22:50:53.109Z",
+      "MatchMinute": "130'",
+      "Period": 10,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 4,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

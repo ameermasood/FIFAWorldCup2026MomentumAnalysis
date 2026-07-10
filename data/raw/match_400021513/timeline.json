@@ -1,0 +1,4022 @@
+{
+  "IdStage": "289287",
+  "IdMatch": "400021513",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "323592267",
+      "IdTeam": "43928",
+      "Timestamp": "2026-06-29T20:27:44.295Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Paraguay won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "419934254",
+      "Timestamp": "2026-06-29T20:30:10.079Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "439230528",
+      "IdTeam": "43928",
+      "IdPlayer": "441234",
+      "Timestamp": "2026-06-29T20:30:26.465Z",
+      "MatchMinute": "1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 92.98993,
+      "PositionY": 77.56121999999999,
+      "GoalGatePositionX": 18.01195,
+      "GoalGatePositionY": 3.507412,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julio ENCISO (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "480309294",
+      "IdTeam": "43928",
+      "IdPlayer": "441234",
+      "Timestamp": "2026-06-29T20:31:08.286Z",
+      "MatchMinute": "1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.86229,
+      "PositionY": 99.87531,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julio ENCISO (Paraguay) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "486864944",
+      "IdTeam": "43928",
+      "IdPlayer": "369749",
+      "Timestamp": "2026-06-29T20:31:11.39Z",
+      "MatchMinute": "2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 96.72546,
+      "PositionY": 40.163931000000005,
+      "GoalGatePositionX": 62.525819999999996,
+      "GoalGatePositionY": 17.09309,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Junior ALONSO (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1392741545",
+      "IdTeam": "43948",
+      "IdPlayer": "228912",
+      "Timestamp": "2026-06-29T20:31:11.81Z",
+      "MatchMinute": "2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.37122000000001,
+      "PositionY": 43.310801,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Germany pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "587694131",
+      "IdTeam": "43948",
+      "IdPlayer": "411367",
+      "Timestamp": "2026-06-29T20:32:43.221Z",
+      "MatchMinute": "3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 49.1366809,
+      "PositionY": 92.56736,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kai HAVERTZ (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "736929872",
+      "IdTeam": "43948",
+      "IdPlayer": "484851",
+      "Timestamp": "2026-06-29T20:35:15.934Z",
+      "MatchMinute": "6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 9.70564,
+      "PositionY": 29.726609999999997,
+      "GoalGatePositionX": 81.62774,
+      "GoalGatePositionY": 34.4001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Deniz UNDAV (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "871885873",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T20:37:31.129Z",
+      "MatchMinute": "8'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "877972533",
+      "IdTeam": "43948",
+      "IdPlayer": "430669",
+      "Timestamp": "2026-06-29T20:37:35.874Z",
+      "MatchMinute": "8'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 19.53968,
+      "PositionY": 47.708467999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Florian WIRTZ (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1030730807",
+      "IdTeam": "43948",
+      "IdPlayer": "484849",
+      "Timestamp": "2026-06-29T20:39:16.754Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 23.00516,
+      "PositionY": 3.63491,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Aleksandar PAVLOVIC (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1071928377",
+      "IdTeam": "43928",
+      "IdPlayer": "441234",
+      "Timestamp": "2026-06-29T20:40:29.107Z",
+      "MatchMinute": "11'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 37.20173,
+      "PositionY": 56.21454,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julio ENCISO (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1288929363",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T20:44:18.076Z",
+      "MatchMinute": "15'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1308325942",
+      "IdTeam": "43948",
+      "IdPlayer": "484849",
+      "Timestamp": "2026-06-29T20:44:19.257Z",
+      "MatchMinute": "15'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 2.69253,
+      "PositionY": 50.9800593,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Aleksandar PAVLOVIC (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1701712958",
+      "IdTeam": "43948",
+      "IdPlayer": "511015",
+      "Timestamp": "2026-06-29T20:50:53.511Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 15.02479,
+      "PositionY": 6.68535,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathaniel BROWN (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1770392635",
+      "IdTeam": "43928",
+      "IdPlayer": "424422",
+      "Timestamp": "2026-06-29T20:51:57.214Z",
+      "MatchMinute": "22'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 55.062053,
+      "PositionY": 74.14206,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Matias GALARZA (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1815013452",
+      "IdTeam": "43948",
+      "IdPlayer": "401378",
+      "Timestamp": "2026-06-29T20:52:39.076Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 43.784459999999996,
+      "PositionY": 70.88759,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jonathan TAH (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1817703484",
+      "Timestamp": "2026-06-29T20:52:51.079Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "2011185213",
+      "Timestamp": "2026-06-29T20:56:03.86Z",
+      "MatchMinute": "26'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "27142233",
+      "IdTeam": "43948",
+      "IdPlayer": "404353",
+      "Timestamp": "2026-06-29T20:58:30.079Z",
+      "MatchMinute": "29'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leroy SANE (Germany) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "175255643",
+      "IdTeam": "43948",
+      "IdPlayer": "484851",
+      "Timestamp": "2026-06-29T21:00:55.532Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 9.59595,
+      "PositionY": 57.245877,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Deniz UNDAV (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "290932818",
+      "IdTeam": "43948",
+      "IdPlayer": "411367",
+      "Timestamp": "2026-06-29T21:02:58.675Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 17.62728,
+      "PositionY": 33.15683,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kai HAVERTZ (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "404489301",
+      "IdTeam": "43948",
+      "IdPlayer": "492363",
+      "Timestamp": "2026-06-29T21:04:42.939Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 28.86084,
+      "PositionY": 46.754708,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Felix NMECHA (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "523843672",
+      "IdTeam": "43948",
+      "IdPlayer": "484849",
+      "Timestamp": "2026-06-29T21:06:37.794Z",
+      "MatchMinute": "37'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 41.20007,
+      "PositionY": 33.41368,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Aleksandar PAVLOVIC (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "689254465",
+      "IdTeam": "43948",
+      "IdPlayer": "430669",
+      "Timestamp": "2026-06-29T21:09:28.204Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.3832,
+      "PositionY": 1.53186,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Florian WIRTZ (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "722901088",
+      "IdTeam": "43948",
+      "IdPlayer": "484849",
+      "Timestamp": "2026-06-29T21:09:55.079Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Aleksandar PAVLOVIC (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "797222983",
+      "IdTeam": "43928",
+      "IdPlayer": "369761",
+      "Timestamp": "2026-06-29T21:11:14.951Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Miguel ALMIRON (Paraguay) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "842478695",
+      "IdTeam": "43928",
+      "IdPlayer": "424422",
+      "IdSubPlayer": "441234",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T21:11:28.264Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 92.08212999999999,
+      "PositionY": 21.05543,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Matias GALARZA."
+        }
+      ]
+    },
+    {
+      "EventId": "816519236",
+      "IdTeam": "43928",
+      "IdPlayer": "441234",
+      "Timestamp": "2026-06-29T21:11:29.105Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 90.51334,
+      "PositionY": 48.481998999999995,
+      "GoalGatePositionX": 39.34257,
+      "GoalGatePositionY": 26.458019999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julio ENCISO (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "816519238",
+      "IdTeam": "43928",
+      "IdPlayer": "441234",
+      "IdSubPlayer": "424422",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T21:11:29.105Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 90.51334,
+      "PositionY": 48.481998999999995,
+      "GoalGatePositionX": 39.34257,
+      "GoalGatePositionY": 26.458019999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julio ENCISO (Paraguay) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1014668374",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T21:14:44.04Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.038510000000002,
+      "PositionY": 49.512802,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1083473996",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T21:15:53.289Z",
+      "MatchMinute": "45'+1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.73219,
+      "PositionY": 2.12281,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1151702093",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T21:17:00.917Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1163931736",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T21:17:10.526Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.19714,
+      "PositionY": 33.00013,
+      "GoalGatePositionX": 33.05792,
+      "GoalGatePositionY": 45.007439999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2069251615",
+      "IdTeam": "43928",
+      "IdPlayer": "494531",
+      "Timestamp": "2026-06-29T21:17:11.167Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.33182,
+      "PositionY": 43.254513,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Paraguay pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1194350681",
+      "IdTeam": "43948",
+      "IdPlayer": "411367",
+      "Timestamp": "2026-06-29T21:17:32.079Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kai HAVERTZ (Germany) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1311204459",
+      "IdTeam": "43948",
+      "IdPlayer": "511015",
+      "Timestamp": "2026-06-29T21:19:36.752Z",
+      "MatchMinute": "45'+5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.00652,
+      "PositionY": 98.37046000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathaniel BROWN (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1358013520",
+      "Timestamp": "2026-06-29T21:20:23.403Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "216280155",
+      "IdTeam": "43948",
+      "IdPlayer": "379953",
+      "IdSubPlayer": "492363",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T21:36:41.866Z",
+      "MatchMinute": "",
+      "Period": 4,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Before the second half begins Leon GORETZKA (in) comes off the bench to replace Felix NMECHA (out) (Germany)"
+        }
+      ]
+    },
+    {
+      "EventId": "296858705",
+      "Timestamp": "2026-06-29T21:38:04.27Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "542176346",
+      "IdTeam": "43948",
+      "IdPlayer": "430669",
+      "Timestamp": "2026-06-29T21:41:48.27Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Florian WIRTZ (Germany) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "569915484",
+      "IdTeam": "43928",
+      "IdPlayer": "441234",
+      "Timestamp": "2026-06-29T21:42:27.922Z",
+      "MatchMinute": "50'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.35155,
+      "PositionY": 34.12593,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julio ENCISO (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1476229795",
+      "IdTeam": "43948",
+      "IdPlayer": "228912",
+      "Timestamp": "2026-06-29T21:42:28.062Z",
+      "MatchMinute": "50'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 4.070250000000001,
+      "PositionY": 36.16626,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Germany pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "892520571",
+      "IdTeam": "43948",
+      "IdPlayer": "430669",
+      "IdSubPlayer": "411367",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T21:46:44.999Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 75.41169,
+      "PositionY": 84.60749,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Florian WIRTZ."
+        }
+      ]
+    },
+    {
+      "EventId": "838119519",
+      "IdTeam": "43948",
+      "IdPlayer": "411367",
+      "Timestamp": "2026-06-29T21:46:46.16Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.56898,
+      "PositionY": 53.213485000000006,
+      "GoalGatePositionX": 67.73428,
+      "GoalGatePositionY": 24.63137,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kai HAVERTZ (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "838119521",
+      "IdTeam": "43948",
+      "IdPlayer": "411367",
+      "IdSubPlayer": "430669",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T21:46:46.16Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 89.56898,
+      "PositionY": 53.213485000000006,
+      "GoalGatePositionX": 67.73428,
+      "GoalGatePositionY": 24.63137,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kai HAVERTZ (Germany) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "905592915",
+      "IdTeam": "43928",
+      "IdPlayer": "485804",
+      "IdSubPlayer": "463127",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T21:47:46.265Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo CABALLERO (in) comes off the bench to replace Gabriel AVALOS (out) (Paraguay)"
+        }
+      ]
+    },
+    {
+      "EventId": "945654876",
+      "IdTeam": "43948",
+      "IdPlayer": "379953",
+      "Timestamp": "2026-06-29T21:48:32.607Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.58162,
+      "PositionY": 42.865631,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leon GORETZKA (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "948655197",
+      "IdTeam": "43948",
+      "IdPlayer": "484849",
+      "Timestamp": "2026-06-29T21:48:34.769Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.88273,
+      "PositionY": 49.2282176,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Aleksandar PAVLOVIC (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1033502808",
+      "IdTeam": "43928",
+      "IdPlayer": "495046",
+      "IdSubPlayer": "441234",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T21:50:01.239Z",
+      "MatchMinute": "57'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MAURICIO (in) comes off the bench to replace Julio ENCISO (out) (Paraguay)"
+        }
+      ]
+    },
+    {
+      "EventId": "1147686015",
+      "IdTeam": "43928",
+      "IdPlayer": "485804",
+      "Timestamp": "2026-06-29T21:51:51.605Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 7.37196,
+      "PositionY": 57.704317,
+      "GoalGatePositionX": 51.987207000000005,
+      "GoalGatePositionY": 17.35514,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo CABALLERO (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2054260663",
+      "IdTeam": "43948",
+      "IdPlayer": "228912",
+      "Timestamp": "2026-06-29T21:51:52.506Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.16682,
+      "PositionY": 52.114644,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Germany pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1255730279",
+      "IdTeam": "43928",
+      "IdPlayer": "424422",
+      "Timestamp": "2026-06-29T21:53:31.005Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 80.21557,
+      "PositionY": 17.27503,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Matias GALARZA (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1335398530",
+      "IdTeam": "43948",
+      "IdPlayer": "511015",
+      "Timestamp": "2026-06-29T21:54:43.998Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 42.907637,
+      "PositionY": 25.84675,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathaniel BROWN (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1392010373",
+      "IdTeam": "43948",
+      "IdPlayer": "429642",
+      "IdSubPlayer": "484851",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T21:55:44.012Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jamal MUSIALA (in) comes off the bench to replace Deniz UNDAV (out) (Germany)"
+        }
+      ]
+    },
+    {
+      "EventId": "1493121130",
+      "IdTeam": "43928",
+      "IdPlayer": "385306",
+      "Timestamp": "2026-06-29T21:57:15.409Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 76.75251,
+      "PositionY": 36.29813,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Andres CUBAS (Paraguay) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1591432326",
+      "IdTeam": "43948",
+      "IdPlayer": "404353",
+      "Timestamp": "2026-06-29T21:58:57.811Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 76.60219000000001,
+      "PositionY": 36.29115,
+      "GoalGatePositionX": 58.787822999999996,
+      "GoalGatePositionY": 8.892824000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leroy SANE (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1618970713",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T21:59:35.189Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.65471000000001,
+      "PositionY": 98.66342,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1641535579",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T21:59:56.29Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.68713,
+      "PositionY": 98.62876,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1662606473",
+      "IdTeam": "43948",
+      "IdPlayer": "484849",
+      "Timestamp": "2026-06-29T21:59:59.27Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Aleksandar PAVLOVIC (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1685852253",
+      "IdTeam": "43948",
+      "IdPlayer": "401378",
+      "Timestamp": "2026-06-29T22:00:29.062Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 18.14351,
+      "PositionY": 3.44929,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jonathan TAH (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1767955594",
+      "IdTeam": "43928",
+      "IdPlayer": "495046",
+      "Timestamp": "2026-06-29T22:02:00.574Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MAURICIO (Paraguay) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1774276720",
+      "IdTeam": "43928",
+      "IdPlayer": "369744",
+      "Timestamp": "2026-06-29T22:02:03.016Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 2.56456,
+      "PositionY": 38.338139999999996,
+      "GoalGatePositionX": 26.47055,
+      "GoalGatePositionY": 42.174620000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo GOMEZ (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1806023794",
+      "IdTeam": "43928",
+      "IdPlayer": "369744",
+      "Timestamp": "2026-06-29T22:02:08.782Z",
+      "MatchMinute": "70'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 13.43414,
+      "PositionY": 38.44066,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo GOMEZ (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1827513445",
+      "Timestamp": "2026-06-29T22:02:50.27Z",
+      "MatchMinute": "70'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "2001424488",
+      "Timestamp": "2026-06-29T22:05:48.494Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "100686965",
+      "IdTeam": "43928",
+      "IdPlayer": "485804",
+      "Timestamp": "2026-06-29T22:09:37.27Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo CABALLERO (Paraguay) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "124075126",
+      "IdTeam": "43948",
+      "IdPlayer": "411367",
+      "Timestamp": "2026-06-29T22:10:09.683Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 93.40503,
+      "PositionY": 46.420862,
+      "GoalGatePositionX": 58.331166,
+      "GoalGatePositionY": 18.14734,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kai HAVERTZ (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1032473015",
+      "IdTeam": "43928",
+      "IdPlayer": "494531",
+      "Timestamp": "2026-06-29T22:10:10.063Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.97166,
+      "PositionY": 47.154629,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Paraguay pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "182524024",
+      "IdTeam": "43928",
+      "IdPlayer": "476348",
+      "Timestamp": "2026-06-29T22:10:51.344Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 76.90447999999999,
+      "PositionY": 53.942062,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Damian BOBADILLA (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "217595001",
+      "IdTeam": "43948",
+      "IdPlayer": "430658",
+      "IdSubPlayer": "484849",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T22:11:38.355Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Waldemar ANTON (in) comes off the bench to replace Aleksandar PAVLOVIC (out) (Germany)"
+        }
+      ]
+    },
+    {
+      "EventId": "245234830",
+      "IdTeam": "43948",
+      "IdPlayer": "430669",
+      "Timestamp": "2026-06-29T22:12:07.34Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 75.26699,
+      "PositionY": 54.212442,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Florian WIRTZ (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "645679212",
+      "IdTeam": "43948",
+      "IdPlayer": "430669",
+      "Timestamp": "2026-06-29T22:18:37.75Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Florian WIRTZ (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "657250414",
+      "IdTeam": "43948",
+      "IdPlayer": "430658",
+      "Timestamp": "2026-06-29T22:18:39.27Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Waldemar ANTON (Germany) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "649260133",
+      "IdTeam": "43948",
+      "IdPlayer": "379953",
+      "Timestamp": "2026-06-29T22:18:39.272Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 93.79353,
+      "PositionY": 42.347725000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leon GORETZKA (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "763613310",
+      "IdTeam": "43948",
+      "IdPlayer": "498416",
+      "IdSubPlayer": "404353",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T22:20:28.439Z",
+      "MatchMinute": "88'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nick WOLTEMADE (in) comes off the bench to replace Leroy SANE (out) (Germany)"
+        }
+      ]
+    },
+    {
+      "EventId": "842766451",
+      "IdTeam": "43948",
+      "IdPlayer": "430658",
+      "Timestamp": "2026-06-29T22:21:45.278Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 71.40386,
+      "PositionY": 33.59883,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Waldemar ANTON (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "930956433",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T22:23:18.11Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.0107,
+      "PositionY": 38.821889999999996,
+      "GoalGatePositionX": 76.08529,
+      "GoalGatePositionY": 71.5094,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "995934325",
+      "IdTeam": "43948",
+      "IdPlayer": "511015",
+      "Timestamp": "2026-06-29T22:24:21.373Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathaniel BROWN (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "998557802",
+      "IdTeam": "43948",
+      "IdPlayer": "401378",
+      "Timestamp": "2026-06-29T22:24:23.896Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 94.58955999999999,
+      "PositionY": 61.694309999999994,
+      "GoalGatePositionX": 52.241093000000006,
+      "GoalGatePositionY": 6.847516,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jonathan TAH (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1907836832",
+      "IdTeam": "43928",
+      "IdPlayer": "494531",
+      "Timestamp": "2026-06-29T22:24:24.437Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.57383,
+      "PositionY": 52.971211,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Paraguay pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1043831916",
+      "IdTeam": "43928",
+      "IdPlayer": "369761",
+      "Timestamp": "2026-06-29T22:25:07.419Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 22.88848,
+      "PositionY": 39.49446,
+      "GoalGatePositionX": 39.80838,
+      "GoalGatePositionY": 25.891389999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Miguel ALMIRON (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1085072514",
+      "IdTeam": "43928",
+      "IdPlayer": "495046",
+      "Timestamp": "2026-06-29T22:25:46.298Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.70194,
+      "PositionY": 1.3481999999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MAURICIO (Paraguay) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1095028857",
+      "IdTeam": "43928",
+      "IdPlayer": "369749",
+      "Timestamp": "2026-06-29T22:25:48.22Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 10.87277,
+      "PositionY": 50.8841573,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Junior ALONSO (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1215850608",
+      "IdTeam": "43948",
+      "IdPlayer": "430658",
+      "Timestamp": "2026-06-29T22:27:50.923Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 81.89851,
+      "PositionY": 11.17345,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Waldemar ANTON (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1232453765",
+      "Timestamp": "2026-06-29T22:28:14.996Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1662829704",
+      "IdTeam": "43948",
+      "Timestamp": "2026-06-29T22:30:51.043Z",
+      "MatchMinute": "",
+      "Period": 17,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Germany won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "1456641173",
+      "IdTeam": "43928",
+      "IdPlayer": "486875",
+      "IdSubPlayer": "369761",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T22:31:42.811Z",
+      "MatchMinute": "",
+      "Period": 17,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo VELAZQUEZ (in) comes off the bench to replace Miguel ALMIRON (out) (Paraguay)"
+        }
+      ]
+    },
+    {
+      "EventId": "1538937978",
+      "Timestamp": "2026-06-29T22:33:14.338Z",
+      "MatchMinute": "90'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "1685507185",
+      "IdTeam": "43948",
+      "IdPlayer": "498416",
+      "Timestamp": "2026-06-29T22:35:33.225Z",
+      "MatchMinute": "93'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.76615,
+      "PositionY": 58.541045999999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nick WOLTEMADE (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1689155698",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T22:35:34.586Z",
+      "MatchMinute": "93'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.66892,
+      "PositionY": 61.30185,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1764583577",
+      "IdTeam": "43928",
+      "IdPlayer": "479601",
+      "Timestamp": "2026-06-29T22:36:40.812Z",
+      "MatchMinute": "94'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 83.57298,
+      "PositionY": 90.03571000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan Jose CACERES (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1862911114",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T22:38:30.562Z",
+      "MatchMinute": "96'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.67072999999999,
+      "PositionY": 98.75775,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1960190106",
+      "IdTeam": "43948",
+      "IdPlayer": "498416",
+      "Timestamp": "2026-06-29T22:39:56.708Z",
+      "MatchMinute": "97'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 92.76071999999999,
+      "PositionY": 46.401084,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nick WOLTEMADE (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2079599734",
+      "IdTeam": "43928",
+      "IdPlayer": "406205",
+      "IdSubPlayer": "479601",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T22:41:34.689Z",
+      "MatchMinute": "99'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Braian OJEDA (in) comes off the bench to replace Juan Jose CACERES (out) (Paraguay)"
+        }
+      ]
+    },
+    {
+      "EventId": "2079599735",
+      "IdTeam": "43928",
+      "IdPlayer": "369768",
+      "IdSubPlayer": "476348",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T22:41:34.689Z",
+      "MatchMinute": "99'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Antonio SANABRIA (in) comes off the bench to replace Damian BOBADILLA (out) (Paraguay)"
+        }
+      ]
+    },
+    {
+      "EventId": "2092653723",
+      "IdTeam": "43948",
+      "IdPlayer": "511015",
+      "Timestamp": "2026-06-29T22:42:13.565Z",
+      "MatchMinute": "99'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.56971,
+      "PositionY": 1.5920699999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathaniel BROWN (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "109449356",
+      "IdTeam": "43948",
+      "IdPlayer": "511015",
+      "Timestamp": "2026-06-29T22:44:55.146Z",
+      "MatchMinute": "102'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.61198,
+      "PositionY": 1.55358,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathaniel BROWN (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "360757398",
+      "IdTeam": "43948",
+      "IdPlayer": "430658",
+      "Timestamp": "2026-06-29T22:44:56.347Z",
+      "MatchMinute": "102'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 97.86789999999999,
+      "PositionY": 50.4792989,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Waldemar ANTON (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "299832457",
+      "Timestamp": "2026-06-29T22:46:23.527Z",
+      "MatchMinute": "104'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 71,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "VAR"
+        }
+      ],
+      "VarNotificationData": {
+        "Incident": 1,
+        "Reason": 0,
+        "Status": 0,
+        "Result": 2
+      },
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal disallowed"
+        }
+      ]
+    },
+    {
+      "EventId": "314366081",
+      "IdTeam": "43928",
+      "IdPerson": "428890",
+      "Timestamp": "2026-06-29T22:47:56.338Z",
+      "MatchMinute": "105'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo ALFARO (Paraguay) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "784851099",
+      "IdTeam": "43948",
+      "IdPerson": "474269",
+      "Timestamp": "2026-06-29T22:48:46.338Z",
+      "MatchMinute": "105'+1'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julian NAGELSMANN (Germany) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "436625546",
+      "IdTeam": "43928",
+      "IdPlayer": "495046",
+      "Timestamp": "2026-06-29T22:50:13.865Z",
+      "MatchMinute": "105'+2'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 98.71421000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MAURICIO (Paraguay) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "535365765",
+      "IdTeam": "43928",
+      "IdPlayer": "495046",
+      "Timestamp": "2026-06-29T22:51:44.095Z",
+      "MatchMinute": "105'+4'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 68.70375,
+      "PositionY": 5.7199,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MAURICIO (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "560365736",
+      "IdTeam": "43948",
+      "IdPlayer": "411367",
+      "Timestamp": "2026-06-29T22:52:11.862Z",
+      "MatchMinute": "105'+4'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 96.05212,
+      "PositionY": 43.366251,
+      "GoalGatePositionX": 37.65822,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kai HAVERTZ (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1466263006",
+      "IdTeam": "43928",
+      "IdPlayer": "494531",
+      "Timestamp": "2026-06-29T22:52:13.684Z",
+      "MatchMinute": "105'+4'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.98542,
+      "PositionY": 51.553985000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Paraguay pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "620534918",
+      "Timestamp": "2026-06-29T22:53:14.59Z",
+      "MatchMinute": "105'+5'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee blows for the end of the first period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "744614057",
+      "Timestamp": "2026-06-29T22:55:15.704Z",
+      "MatchMinute": "105'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "783974571",
+      "IdTeam": "43948",
+      "IdPlayer": "411367",
+      "Timestamp": "2026-06-29T22:55:39.91Z",
+      "MatchMinute": "106'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 24.819740000000003,
+      "PositionY": 46.203275,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kai HAVERTZ (Germany) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "834312349",
+      "IdTeam": "43948",
+      "IdPlayer": "379955",
+      "Timestamp": "2026-06-29T22:56:23.354Z",
+      "MatchMinute": "107'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 77.62996,
+      "PositionY": 14.82676,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Antonio RUEDIGER (Germany) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "888776844",
+      "IdTeam": "43928",
+      "IdPlayer": "495046",
+      "Timestamp": "2026-06-29T22:57:35.326Z",
+      "MatchMinute": "108'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.53094999999999,
+      "PositionY": 98.8927,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MAURICIO (Paraguay) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1014688927",
+      "IdTeam": "43948",
+      "IdPlayer": "514188",
+      "IdSubPlayer": "379955",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T22:59:29.902Z",
+      "MatchMinute": "110'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malick THIAW (in) comes off the bench to replace Antonio RUEDIGER (out) (Germany)"
+        }
+      ]
+    },
+    {
+      "EventId": "1014688926",
+      "IdTeam": "43948",
+      "IdPlayer": "395471",
+      "IdSubPlayer": "430669",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T22:59:29.902Z",
+      "MatchMinute": "110'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nadiem AMIRI (in) comes off the bench to replace Florian WIRTZ (out) (Germany)"
+        }
+      ]
+    },
+    {
+      "EventId": "1063322765",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T23:00:17.067Z",
+      "MatchMinute": "111'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 0.50583,
+      "PositionY": 1.5426499999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1057390731",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "Timestamp": "2026-06-29T23:00:20.891Z",
+      "MatchMinute": "111'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.50583,
+      "PositionY": 1.5426499999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1088169101",
+      "IdTeam": "43948",
+      "IdPlayer": "511015",
+      "Timestamp": "2026-06-29T23:00:50.781Z",
+      "MatchMinute": "111'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 98.42078,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathaniel BROWN (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1203556496",
+      "IdTeam": "43928",
+      "IdPlayer": "369749",
+      "Timestamp": "2026-06-29T23:02:26.076Z",
+      "MatchMinute": "113'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 9.45652,
+      "PositionY": 94.79514,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Junior ALONSO (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1356497042",
+      "IdTeam": "43948",
+      "IdPlayer": "429642",
+      "Timestamp": "2026-06-29T23:04:58.148Z",
+      "MatchMinute": "115'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 6.39034,
+      "PositionY": 93.01274000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jamal MUSIALA (Germany) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1423624367",
+      "IdTeam": "43948",
+      "IdPerson": "448491",
+      "Timestamp": "2026-06-29T23:06:12.316Z",
+      "MatchMinute": "116'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mads BUTTGEREIT (Germany) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1439949987",
+      "IdTeam": "43928",
+      "IdPerson": "442736",
+      "Timestamp": "2026-06-29T23:06:21.704Z",
+      "MatchMinute": "117'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alejandro MANOGRASSO (Paraguay) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1476598932",
+      "IdTeam": "43928",
+      "IdPlayer": "424422",
+      "Timestamp": "2026-06-29T23:07:01.151Z",
+      "MatchMinute": "117'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 73.8575,
+      "PositionY": 95.15618,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Matias GALARZA (Paraguay) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1563357360",
+      "IdTeam": "43948",
+      "IdPlayer": "511015",
+      "Timestamp": "2026-06-29T23:08:34.464Z",
+      "MatchMinute": "119'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.04556,
+      "PositionY": 98.25648,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathaniel BROWN (Germany) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1567583398",
+      "IdTeam": "43948",
+      "IdPlayer": "430658",
+      "Timestamp": "2026-06-29T23:08:36.206Z",
+      "MatchMinute": "119'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.11674,
+      "PositionY": 49.8206863,
+      "GoalGatePositionX": 49.5265433,
+      "GoalGatePositionY": 5.508828,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Waldemar ANTON (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "325765929",
+      "IdTeam": "43928",
+      "IdPlayer": "494531",
+      "Timestamp": "2026-06-29T23:08:36.526Z",
+      "MatchMinute": "119'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.52001,
+      "PositionY": 49.774046500000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Paraguay pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1655535796",
+      "IdTeam": "43928",
+      "IdPlayer": "424422",
+      "Timestamp": "2026-06-29T23:09:50.56Z",
+      "MatchMinute": "120'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 19.83839,
+      "PositionY": 71.33546,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Matias GALARZA (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1715903639",
+      "IdTeam": "43948",
+      "IdPlayer": "395471",
+      "Timestamp": "2026-06-29T23:10:58.388Z",
+      "MatchMinute": "120'+1'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.61233,
+      "PositionY": 70.16035000000001,
+      "GoalGatePositionX": 70.99776,
+      "GoalGatePositionY": 31.40334,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nadiem AMIRI (Germany) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1753429163",
+      "IdTeam": "43928",
+      "IdPlayer": "394829",
+      "IdSubPlayer": "369749",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T23:11:41.704Z",
+      "MatchMinute": "120'+2'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fabian BALBUENA (in) comes off the bench to replace Junior ALONSO (out) (Paraguay)"
+        }
+      ]
+    },
+    {
+      "EventId": "1800519861",
+      "Timestamp": "2026-06-29T23:12:26.835Z",
+      "MatchMinute": "120'+3'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee blows for the end of the second period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "1990089900",
+      "IdTeam": "43948",
+      "Timestamp": "2026-06-29T23:15:31.98Z",
+      "MatchMinute": "",
+      "Period": 16,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 81,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Germany won the coin toss and chose to kick first"
+        }
+      ]
+    },
+    {
+      "EventId": "2101991606",
+      "Timestamp": "2026-06-29T23:17:21.317Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The penalty shoot-out is about to begin."
+        }
+      ]
+    },
+    {
+      "EventId": "27866285",
+      "IdTeam": "43948",
+      "IdPlayer": "411367",
+      "IdSubPlayer": "494531",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T23:18:22.271Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.15221,
+      "PositionY": 49.90835397,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kai HAVERTZ (Germany) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "89329839",
+      "IdTeam": "43928",
+      "IdPlayer": "495046",
+      "IdSubPlayer": "228912",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T23:19:29.399Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.30963,
+      "PositionY": 49.8232225,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 1,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MAURICIO (Paraguay) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "151079101",
+      "IdTeam": "43948",
+      "IdPlayer": "386413",
+      "IdSubPlayer": "494531",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T23:20:29.959Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.33385,
+      "PositionY": 49.94738402,
+      "HomePenaltyGoals": 1,
+      "AwayPenaltyGoals": 1,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joshua KIMMICH (Germany) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "199586998",
+      "IdTeam": "43928",
+      "IdPlayer": "369744",
+      "IdSubPlayer": "228912",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T23:21:16.506Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.340860000000001,
+      "PositionY": 49.936673729999995,
+      "HomePenaltyGoals": 1,
+      "AwayPenaltyGoals": 2,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo GOMEZ (Paraguay) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "247035035",
+      "IdTeam": "43948",
+      "IdPlayer": "429642",
+      "IdSubPlayer": "494531",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T23:22:03.292Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.10606,
+      "PositionY": 49.8994786,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 2,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jamal MUSIALA (Germany) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "301074607",
+      "IdTeam": "43928",
+      "IdPlayer": "424422",
+      "IdSubPlayer": "228912",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T23:22:53.983Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.29734,
+      "PositionY": 49.90504733,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Matias GALARZA (Paraguay) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "346065072",
+      "IdTeam": "43948",
+      "IdPlayer": "498416",
+      "IdSubPlayer": "494531",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T23:23:40.129Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.30038,
+      "PositionY": 49.904069,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nick WOLTEMADE (Germany) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "409758883",
+      "IdTeam": "43928",
+      "IdPlayer": "369768",
+      "IdSubPlayer": "228912",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T23:24:39.448Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.35987,
+      "PositionY": 49.93983584,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Antonio SANABRIA (Paraguay) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "471105700",
+      "IdTeam": "43948",
+      "IdPlayer": "395471",
+      "IdSubPlayer": "494531",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T23:25:41.971Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.16197,
+      "PositionY": 49.97305299,
+      "HomePenaltyGoals": 3,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nadiem AMIRI (Germany) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "532405432",
+      "IdTeam": "43928",
+      "IdPlayer": "394829",
+      "IdSubPlayer": "228912",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T23:26:34.403Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.26403,
+      "PositionY": 50.010624969999995,
+      "HomePenaltyGoals": 3,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fabian BALBUENA (Paraguay) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "579778745",
+      "IdTeam": "43948",
+      "IdPlayer": "401378",
+      "IdSubPlayer": "494531",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-06-29T23:27:27.016Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.1626,
+      "PositionY": 49.93293413,
+      "HomePenaltyGoals": 3,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jonathan TAH (Germany) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "623039675",
+      "IdTeam": "43928",
+      "IdPlayer": "520066",
+      "IdSubPlayer": "228912",
+      "IdSubTeam": "43948",
+      "Timestamp": "2026-06-29T23:28:10.319Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.21806,
+      "PositionY": 49.92727091,
+      "HomePenaltyGoals": 3,
+      "AwayPenaltyGoals": 4,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jose CANALE (Paraguay) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "634259633",
+      "Timestamp": "2026-06-29T23:28:25.05Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 3,
+      "AwayPenaltyGoals": 4,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The penalty shoot-out is over."
+        }
+      ]
+    },
+    {
+      "EventId": "885468354",
+      "Timestamp": "2026-06-29T23:32:29.833Z",
+      "MatchMinute": "132'",
+      "Period": 10,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 3,
+      "AwayPenaltyGoals": 4,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

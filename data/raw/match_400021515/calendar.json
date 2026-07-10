@@ -1,0 +1,172 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289287",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "70244",
+  "IdMatch": "400021515",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 32"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-07-03T18:00:00Z",
+  "LocalDate": "2026-07-03T13:00:00Z",
+  "Home": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "43976",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/AUS",
+    "IdCountry": "AUS",
+    "Tactics": "3-4-3",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Australia"
+      }
+    ],
+    "Abbreviation": "AUS",
+    "ShortClubName": "Australia",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "AUS"
+  },
+  "Away": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "43855",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/EGY",
+    "IdCountry": "EGY",
+    "Tactics": "4-4-2",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Egypt"
+      }
+    ],
+    "Abbreviation": "EGY",
+    "ShortClubName": "Egypt",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "EGY"
+  },
+  "HomeTeamScore": 1,
+  "AwayTeamScore": 1,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": 2,
+  "AwayTeamPenaltyScore": 4,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400257526",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Dallas Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400221951",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Dallas"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5020989"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "129'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43855",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "2D",
+  "PlaceHolderB": "2G",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "URU",
+      "OfficialId": "408669",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo TEJERA"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo Tejera"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 2,
+  "MatchNumber": 88,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151692"
+  },
+  "IsUpdateable": null
+}

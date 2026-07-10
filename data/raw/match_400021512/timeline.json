@@ -1,0 +1,2564 @@
+{
+  "IdStage": "289287",
+  "IdMatch": "400021512",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "906247170",
+      "IdTeam": "43942",
+      "Timestamp": "2026-07-01T15:58:12.936Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "England won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "1017523201",
+      "Timestamp": "2026-07-01T16:00:16.325Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "1161078788",
+      "IdTeam": "20014",
+      "IdPlayer": "441316",
+      "Timestamp": "2026-07-01T16:01:57.325Z",
+      "MatchMinute": "2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yoane WISSA (Congo DR) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1201748997",
+      "IdTeam": "43942",
+      "IdPlayer": "401470",
+      "Timestamp": "2026-07-01T16:03:07.856Z",
+      "MatchMinute": "3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 39.32105,
+      "PositionY": 23.57034,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Marcus RASHFORD (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1437919243",
+      "IdTeam": "20014",
+      "IdPlayer": "356532",
+      "IdSubPlayer": "510989",
+      "IdSubTeam": "20014",
+      "Timestamp": "2026-07-01T16:06:39.788Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 61.31496,
+      "PositionY": 24.31026,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Chancel MBEMBA."
+        }
+      ]
+    },
+    {
+      "EventId": "1422183427",
+      "IdTeam": "20014",
+      "IdPlayer": "510989",
+      "Timestamp": "2026-07-01T16:06:43.671Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.33388,
+      "PositionY": 68.60482,
+      "GoalGatePositionX": 35.046749999999996,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian CIPENGA (Congo DR) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1422183429",
+      "IdTeam": "20014",
+      "IdPlayer": "510989",
+      "IdSubPlayer": "356532",
+      "IdSubTeam": "20014",
+      "Timestamp": "2026-07-01T16:06:43.671Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 91.33388,
+      "PositionY": 68.60482,
+      "GoalGatePositionX": 35.046749999999996,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian CIPENGA (Congo DR) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "176329968",
+      "IdTeam": "43942",
+      "IdPlayer": "336022",
+      "Timestamp": "2026-07-01T16:06:44.052Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.63710999999999,
+      "PositionY": 57.017938,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of England pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1619863561",
+      "IdTeam": "43942",
+      "IdPlayer": "463780",
+      "Timestamp": "2026-07-01T16:09:58.326Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 38.28192,
+      "PositionY": 1.03932,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico OREILLY (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1692940304",
+      "IdTeam": "20014",
+      "IdPlayer": "510989",
+      "Timestamp": "2026-07-01T16:11:06.554Z",
+      "MatchMinute": "11'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 57.624842,
+      "PositionY": 97.55197,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian CIPENGA (Congo DR) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1874244615",
+      "IdTeam": "43942",
+      "IdPlayer": "433097",
+      "Timestamp": "2026-07-01T16:14:12.38Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.48424999999999996,
+      "PositionY": 1.64925,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Declan RICE (England) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "2031518729",
+      "IdTeam": "43942",
+      "IdPlayer": "489732",
+      "Timestamp": "2026-07-01T16:16:37.204Z",
+      "MatchMinute": "17'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 13.625219999999999,
+      "PositionY": 87.57964,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Noni MADUEKE (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "30650383",
+      "IdTeam": "43942",
+      "IdPlayer": "448202",
+      "Timestamp": "2026-07-01T16:18:47.855Z",
+      "MatchMinute": "19'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 55.332737,
+      "PositionY": 25.81275,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jude BELLINGHAM (England) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "147115027",
+      "IdTeam": "43942",
+      "IdPlayer": "401470",
+      "Timestamp": "2026-07-01T16:20:46.453Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 39.1806,
+      "PositionY": 10.64367,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Marcus RASHFORD (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "234081297",
+      "Timestamp": "2026-07-01T16:22:28.802Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "429113364",
+      "Timestamp": "2026-07-01T16:25:35.325Z",
+      "MatchMinute": "26'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "531686412",
+      "IdTeam": "20014",
+      "IdPlayer": "486147",
+      "Timestamp": "2026-07-01T16:27:01.408Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 23.972170000000002,
+      "PositionY": 91.75291,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Noah SADIKI (Congo DR) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "655374354",
+      "IdTeam": "43942",
+      "IdPlayer": "448202",
+      "Timestamp": "2026-07-01T16:29:17.444Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 6.689779999999999,
+      "PositionY": 42.041609,
+      "GoalGatePositionX": 50.2483381,
+      "GoalGatePositionY": 31.102809999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jude BELLINGHAM (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1565630320",
+      "IdTeam": "20014",
+      "IdPlayer": "441313",
+      "Timestamp": "2026-07-01T16:29:17.844Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.8723299999999998,
+      "PositionY": 47.848885,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Congo DR pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "832195604",
+      "IdTeam": "20014",
+      "IdPlayer": "510989",
+      "Timestamp": "2026-07-01T16:32:09.776Z",
+      "MatchMinute": "32'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 83.24086000000001,
+      "PositionY": 73.71428,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian CIPENGA (Congo DR) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "916876312",
+      "IdTeam": "43942",
+      "IdPlayer": "463780",
+      "Timestamp": "2026-07-01T16:33:25.872Z",
+      "MatchMinute": "34'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 18.70524,
+      "PositionY": 42.873709999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico OREILLY (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1198905370",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "Timestamp": "2026-07-01T16:34:43.69Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.52224,
+      "PositionY": 37.71612,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Harry KANE (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1315135507",
+      "IdTeam": "43942",
+      "IdPlayer": "463780",
+      "Timestamp": "2026-07-01T16:34:53.58Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.29014,
+      "PositionY": 53.554413000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico OREILLY (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "999757847",
+      "IdTeam": "43942",
+      "IdPlayer": "401470",
+      "Timestamp": "2026-07-01T16:34:54.601Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 6.9631,
+      "PositionY": 38.0777,
+      "GoalGatePositionX": 39.709680000000006,
+      "GoalGatePositionY": 8.606323,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Marcus RASHFORD (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1043613720",
+      "IdTeam": "43942",
+      "IdPlayer": "489732",
+      "Timestamp": "2026-07-01T16:35:37.824Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 17.60448,
+      "PositionY": 62.623689999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Noni MADUEKE (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1094063115",
+      "IdTeam": "43942",
+      "IdPlayer": "463780",
+      "Timestamp": "2026-07-01T16:36:16.583Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 5.39788,
+      "PositionY": 15.46719,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nico OREILLY (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1174579225",
+      "IdTeam": "20014",
+      "IdPlayer": "426357",
+      "Timestamp": "2026-07-01T16:37:34.325Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Aaron WAN-BISSAKA (Congo DR) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1205384205",
+      "IdTeam": "20014",
+      "IdPlayer": "494458",
+      "Timestamp": "2026-07-01T16:37:47.514Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 15.65913,
+      "PositionY": 5.9198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ngalayel MUKAU (Congo DR) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1255185426",
+      "IdTeam": "43942",
+      "IdPlayer": "489732",
+      "Timestamp": "2026-07-01T16:39:04.591Z",
+      "MatchMinute": "39'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.60716,
+      "PositionY": 75.03783,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Noni MADUEKE (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1323023387",
+      "IdTeam": "20014",
+      "IdPlayer": "424119",
+      "Timestamp": "2026-07-01T16:40:11.237Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.65222,
+      "PositionY": 1.31438,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathanael MBUKU (Congo DR) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1382904853",
+      "IdTeam": "20014",
+      "IdPlayer": "494458",
+      "Timestamp": "2026-07-01T16:41:00.647Z",
+      "MatchMinute": "41'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 66.38927,
+      "PositionY": 10.48264,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ngalayel MUKAU (Congo DR) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1440808977",
+      "IdTeam": "20014",
+      "IdPlayer": "441316",
+      "Timestamp": "2026-07-01T16:42:03.429Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 95.52179,
+      "PositionY": 45.997899,
+      "GoalGatePositionX": 68.41368,
+      "GoalGatePositionY": 19.78958,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yoane WISSA (Congo DR) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1725555731",
+      "IdTeam": "43942",
+      "IdPlayer": "448202",
+      "Timestamp": "2026-07-01T16:46:43.209Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 7.44102,
+      "PositionY": 52.534752,
+      "GoalGatePositionX": 39.38893,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jude BELLINGHAM (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "490121656",
+      "IdTeam": "20014",
+      "IdPlayer": "441313",
+      "Timestamp": "2026-07-01T16:46:43.569Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.8755899999999999,
+      "PositionY": 48.172281,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Congo DR pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1772752917",
+      "IdTeam": "20014",
+      "IdPlayer": "494458",
+      "Timestamp": "2026-07-01T16:47:19.905Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 75.26829000000001,
+      "PositionY": 74.68073,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ngalayel MUKAU (Congo DR) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1911609373",
+      "IdTeam": "20014",
+      "IdPlayer": "510989",
+      "Timestamp": "2026-07-01T16:49:32.325Z",
+      "MatchMinute": "45'+5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian CIPENGA (Congo DR) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1926955032",
+      "IdTeam": "20014",
+      "IdPlayer": "433076",
+      "Timestamp": "2026-07-01T16:49:54.52Z",
+      "MatchMinute": "45'+5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 57.135705,
+      "PositionY": 46.454951,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Samuel MOUTOUSSAMY (Congo DR) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1994629152",
+      "IdTeam": "43942",
+      "IdPlayer": "433097",
+      "IdSubPlayer": "369419",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-01T16:51:07.112Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.49509000000000003,
+      "PositionY": 1.7000000000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Declan RICE (England) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1999427617",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "Timestamp": "2026-07-01T16:51:09.595Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 3.7041200000000005,
+      "PositionY": 60.25215000000001,
+      "GoalGatePositionX": 55.263388,
+      "GoalGatePositionY": 15.393209999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Harry KANE (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "758493868",
+      "IdTeam": "20014",
+      "IdPlayer": "441313",
+      "Timestamp": "2026-07-01T16:51:09.795Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.17001,
+      "PositionY": 54.497295,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Congo DR pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "2031369247",
+      "Timestamp": "2026-07-01T16:51:43.795Z",
+      "MatchMinute": "45'+7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "894000162",
+      "Timestamp": "2026-07-01T17:08:10.16Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "958990364",
+      "IdTeam": "20014",
+      "IdPlayer": "433076",
+      "Timestamp": "2026-07-01T17:09:05.67Z",
+      "MatchMinute": "46'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 28.28121,
+      "PositionY": 65.06118,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Samuel MOUTOUSSAMY (Congo DR) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1140380709",
+      "IdTeam": "43942",
+      "IdPlayer": "433097",
+      "Timestamp": "2026-07-01T17:12:09.674Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.43855,
+      "PositionY": 98.11286,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Declan RICE (England) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1178035238",
+      "IdTeam": "43942",
+      "IdPlayer": "433097",
+      "Timestamp": "2026-07-01T17:13:27.031Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.27177999999999,
+      "PositionY": 0.9936,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Declan RICE (England) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1254429731",
+      "IdTeam": "43942",
+      "IdPlayer": "401470",
+      "Timestamp": "2026-07-01T17:13:59.424Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.51553,
+      "PositionY": 67.85103,
+      "GoalGatePositionX": 29.86677,
+      "GoalGatePositionY": 10.82507,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Marcus RASHFORD (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "101269325",
+      "IdTeam": "20014",
+      "IdPlayer": "441313",
+      "Timestamp": "2026-07-01T17:15:24.709Z",
+      "MatchMinute": "53'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.95013,
+      "PositionY": 55.227926000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Congo DR pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1413885989",
+      "IdTeam": "43942",
+      "IdPlayer": "401470",
+      "Timestamp": "2026-07-01T17:16:36.04Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.50919999999999,
+      "PositionY": 60.55334,
+      "GoalGatePositionX": 21.80763,
+      "GoalGatePositionY": 85.80985,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Marcus RASHFORD (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1488282662",
+      "IdTeam": "20014",
+      "IdPlayer": "494458",
+      "Timestamp": "2026-07-01T17:17:44.732Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ngalayel MUKAU (Congo DR) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1828008996",
+      "IdTeam": "43942",
+      "IdPlayer": "448196",
+      "IdSubPlayer": "489732",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-01T17:23:03.613Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bukayo SAKA (in) comes off the bench to replace Noni MADUEKE (out) (England)"
+        }
+      ]
+    },
+    {
+      "EventId": "1828008997",
+      "IdTeam": "43942",
+      "IdPlayer": "448189",
+      "IdSubPlayer": "401470",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-01T17:23:03.613Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Anthony GORDON (in) comes off the bench to replace Marcus RASHFORD (out) (England)"
+        }
+      ]
+    },
+    {
+      "EventId": "1912343593",
+      "IdTeam": "20014",
+      "IdPlayer": "510989",
+      "Timestamp": "2026-07-01T17:24:42.967Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.29935,
+      "PositionY": 20.23411,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian CIPENGA (Congo DR) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1954889766",
+      "IdTeam": "20014",
+      "IdPlayer": "424119",
+      "Timestamp": "2026-07-01T17:25:25.449Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.31957,
+      "PositionY": 98.7518,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathanael MBUKU (Congo DR) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1964835869",
+      "IdTeam": "20014",
+      "IdPlayer": "424119",
+      "Timestamp": "2026-07-01T17:25:31.455Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.94055,
+      "PositionY": 69.4641,
+      "GoalGatePositionX": 25.336979999999997,
+      "GoalGatePositionY": 30.512159999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathanael MBUKU (Congo DR) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1999847465",
+      "IdTeam": "20014",
+      "IdPlayer": "510989",
+      "Timestamp": "2026-07-01T17:26:09.193Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.40432999999999997,
+      "PositionY": 1.15384,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian CIPENGA (Congo DR) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "2035565610",
+      "IdTeam": "20014",
+      "IdPlayer": "426506",
+      "IdSubPlayer": "424119",
+      "IdSubTeam": "20014",
+      "Timestamp": "2026-07-01T17:26:28.403Z",
+      "MatchMinute": "64'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Meschack ELIA (in) comes off the bench to replace Nathanael MBUKU (out) (Congo DR)"
+        }
+      ]
+    },
+    {
+      "EventId": "2110610463",
+      "IdTeam": "20014",
+      "IdPlayer": "426506",
+      "Timestamp": "2026-07-01T17:27:46.53Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 16.77102,
+      "PositionY": 87.9208,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Meschack ELIA (Congo DR) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "45669421",
+      "IdTeam": "43942",
+      "IdPlayer": "403049",
+      "Timestamp": "2026-07-01T17:28:55.219Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 68.07634999999999,
+      "PositionY": 0.07449,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ezri KONSA (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "109063216",
+      "Timestamp": "2026-07-01T17:30:20.831Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "284392491",
+      "IdTeam": "43942",
+      "IdPlayer": "473113",
+      "IdSubPlayer": "506329",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-01T17:33:08.16Z",
+      "MatchMinute": "70'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Eberechi EZE (in) comes off the bench to replace Djed SPENCE (out) (England)"
+        }
+      ]
+    },
+    {
+      "EventId": "323446817",
+      "Timestamp": "2026-07-01T17:33:26.16Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "412590130",
+      "IdTeam": "43942",
+      "IdPlayer": "433097",
+      "Timestamp": "2026-07-01T17:35:16.72Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.51952,
+      "PositionY": 98.65707,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Declan RICE (England) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "429738036",
+      "IdTeam": "20014",
+      "IdPlayer": "510989",
+      "Timestamp": "2026-07-01T17:35:22.385Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 73.92165,
+      "PositionY": 30.40579,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian CIPENGA (Congo DR) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "544748583",
+      "IdTeam": "43942",
+      "IdPlayer": "448189",
+      "IdSubPlayer": "369419",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-01T17:37:10.674Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 91.84827,
+      "PositionY": 76.60547,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Anthony GORDON."
+        }
+      ]
+    },
+    {
+      "EventId": "536598574",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "Timestamp": "2026-07-01T17:37:12.315Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 93.08729,
+      "PositionY": 46.205152,
+      "GoalGatePositionX": 41.792813,
+      "GoalGatePositionY": 7.350797000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Harry KANE (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "536598576",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "IdSubPlayer": "448189",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-01T17:37:12.315Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 93.08729,
+      "PositionY": 46.205152,
+      "GoalGatePositionX": 41.792813,
+      "GoalGatePositionY": 7.350797000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Harry KANE (England) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1438937593",
+      "IdTeam": "20014",
+      "IdPlayer": "441313",
+      "Timestamp": "2026-07-01T17:37:12.756Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.26526,
+      "PositionY": 50.89792010000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Congo DR pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "636293166",
+      "IdTeam": "20014",
+      "IdPlayer": "441317",
+      "IdSubPlayer": "510989",
+      "IdSubTeam": "20014",
+      "Timestamp": "2026-07-01T17:38:33.861Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Theo BONGONDA (in) comes off the bench to replace Brian CIPENGA (out) (Congo DR)"
+        }
+      ]
+    },
+    {
+      "EventId": "636293167",
+      "IdTeam": "20014",
+      "IdPlayer": "433161",
+      "IdSubPlayer": "494458",
+      "IdSubTeam": "20014",
+      "Timestamp": "2026-07-01T17:38:33.861Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Edo KAYEMBE (in) comes off the bench to replace Ngalayel MUKAU (out) (Congo DR)"
+        }
+      ]
+    },
+    {
+      "EventId": "797546547",
+      "IdTeam": "43942",
+      "IdPlayer": "481610",
+      "Timestamp": "2026-07-01T17:41:31.134Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.18588,
+      "PositionY": 63.82388,
+      "GoalGatePositionX": 64.70542,
+      "GoalGatePositionY": 58.05044,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Elliot ANDERSON (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "909930540",
+      "IdTeam": "20014",
+      "IdPlayer": "426506",
+      "Timestamp": "2026-07-01T17:43:14.237Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 52.689569999999996,
+      "PositionY": 48.893848,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Meschack ELIA (Congo DR) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1159444535",
+      "IdTeam": "43942",
+      "IdPlayer": "448189",
+      "Timestamp": "2026-07-01T17:47:21.824Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.92622999999999,
+      "PositionY": 52.160176,
+      "GoalGatePositionX": 76.86633,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Anthony GORDON (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2065288877",
+      "IdTeam": "20014",
+      "IdPlayer": "441313",
+      "Timestamp": "2026-07-01T17:47:24.387Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 95.13696,
+      "PositionY": 45.921267,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Congo DR pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1198396465",
+      "IdTeam": "20014",
+      "IdPlayer": "426506",
+      "Timestamp": "2026-07-01T17:48:02.545Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 17.28108,
+      "PositionY": 21.868000000000002,
+      "GoalGatePositionX": 40.693644,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Meschack ELIA (Congo DR) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2106186730",
+      "IdTeam": "43942",
+      "IdPlayer": "336022",
+      "Timestamp": "2026-07-01T17:48:03.566Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.7871299999999999,
+      "PositionY": 44.384771,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of England pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1231871031",
+      "IdTeam": "43942",
+      "IdPlayer": "448202",
+      "Timestamp": "2026-07-01T17:48:35.258Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 94.99134000000001,
+      "PositionY": 66.36292999999999,
+      "GoalGatePositionX": 41.663684,
+      "GoalGatePositionY": 8.292818,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jude BELLINGHAM (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2141128567",
+      "IdTeam": "20014",
+      "IdPlayer": "441313",
+      "Timestamp": "2026-07-01T17:48:35.598Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.30599,
+      "PositionY": 57.491687999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Congo DR pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1258112062",
+      "IdTeam": "43942",
+      "IdPlayer": "448189",
+      "IdSubPlayer": "369419",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-01T17:48:40.583Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 77.1688,
+      "PositionY": 51.835646000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Anthony GORDON."
+        }
+      ]
+    },
+    {
+      "EventId": "1242825785",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "Timestamp": "2026-07-01T17:48:43.526Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 86.38289,
+      "PositionY": 36.6304,
+      "GoalGatePositionX": 61.384640000000005,
+      "GoalGatePositionY": 42.971579999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Harry KANE (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1242825787",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "IdSubPlayer": "448189",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-01T17:48:43.526Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 86.38289,
+      "PositionY": 36.6304,
+      "GoalGatePositionX": 61.384640000000005,
+      "GoalGatePositionY": 42.971579999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Harry KANE (England) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1430638655",
+      "IdTeam": "20014",
+      "IdPlayer": "477859",
+      "IdSubPlayer": "433076",
+      "IdSubTeam": "20014",
+      "Timestamp": "2026-07-01T17:51:29.694Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fiston MAYELE (in) comes off the bench to replace Samuel MOUTOUSSAMY (out) (Congo DR)"
+        }
+      ]
+    },
+    {
+      "EventId": "1430638656",
+      "IdTeam": "20014",
+      "IdPlayer": "477833",
+      "IdSubPlayer": "436572",
+      "IdSubTeam": "20014",
+      "Timestamp": "2026-07-01T17:51:29.694Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joris KAYEMBE (in) comes off the bench to replace Arthur MASUAKU (out) (Congo DR)"
+        }
+      ]
+    },
+    {
+      "EventId": "1494026305",
+      "IdTeam": "43942",
+      "IdPlayer": "369419",
+      "Timestamp": "2026-07-01T17:52:51.454Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 71.01953,
+      "PositionY": 55.878044,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Harry KANE (England) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1547302978",
+      "IdTeam": "43942",
+      "IdPlayer": "448189",
+      "Timestamp": "2026-07-01T17:53:30.553Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 31.850869999999997,
+      "PositionY": 83.51016999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Anthony GORDON (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1567831107",
+      "IdTeam": "43942",
+      "IdPlayer": "369434",
+      "IdSubPlayer": "433097",
+      "IdSubTeam": "43942",
+      "Timestamp": "2026-07-01T17:53:59.45Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "John STONES (in) comes off the bench to replace Declan RICE (out) (England)"
+        }
+      ]
+    },
+    {
+      "EventId": "1659623493",
+      "IdTeam": "20014",
+      "IdPlayer": "477859",
+      "Timestamp": "2026-07-01T17:55:07.69Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 8.5286,
+      "PositionY": 37.105709999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fiston MAYELE (Congo DR) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1688298566",
+      "IdTeam": "20014",
+      "IdPlayer": "403063",
+      "Timestamp": "2026-07-01T17:55:52.775Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 65.63957,
+      "PositionY": 18.634690000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Axel TUANZEBE (Congo DR) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1828453447",
+      "IdTeam": "43942",
+      "IdPlayer": "448202",
+      "Timestamp": "2026-07-01T17:58:08.23Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 25.43648,
+      "PositionY": 44.011092000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jude BELLINGHAM (England) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1911052342",
+      "IdTeam": "20014",
+      "IdPlayer": "441316",
+      "Timestamp": "2026-07-01T17:59:37.159Z",
+      "MatchMinute": "90'+7'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 23.94923,
+      "PositionY": 45.523407,
+      "GoalGatePositionX": 56.468407,
+      "GoalGatePositionY": 56.094719999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yoane WISSA (Congo DR) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1932758072",
+      "Timestamp": "2026-07-01T18:00:01.789Z",
+      "MatchMinute": "90'+7'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "2077219895",
+      "Timestamp": "2026-07-01T18:02:22.911Z",
+      "MatchMinute": "97'",
+      "Period": 10,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

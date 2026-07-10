@@ -1,0 +1,2404 @@
+{
+  "IdStage": "289288",
+  "IdMatch": "400021534",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "337787966",
+      "IdTeam": "43921",
+      "Timestamp": "2026-07-06T23:58:02.606Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 80,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "USA won the coin toss and chose the side"
+        }
+      ]
+    },
+    {
+      "EventId": "28729405",
+      "Timestamp": "2026-07-07T00:00:27.603Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "42843193",
+      "IdTeam": "43935",
+      "IdPlayer": "448355",
+      "Timestamp": "2026-07-07T00:00:39.312Z",
+      "MatchMinute": "1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.78485,
+      "PositionY": 40.221473,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leandro TROSSARD (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "74022975",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-07T00:01:10.223Z",
+      "MatchMinute": "1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 17.94181,
+      "PositionY": 49.6376372,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "76552244",
+      "IdTeam": "43935",
+      "IdPlayer": "411443",
+      "Timestamp": "2026-07-07T00:01:11.804Z",
+      "MatchMinute": "1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 23.75042,
+      "PositionY": 54.292072000000005,
+      "GoalGatePositionX": 33.65824,
+      "GoalGatePositionY": 38.35669,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Timothy CASTAGNE (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1409839166",
+      "IdTeam": "43921",
+      "IdPlayer": "499913",
+      "Timestamp": "2026-07-07T00:01:12.885Z",
+      "MatchMinute": "1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.32351,
+      "PositionY": 45.845137,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of USA pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "140294208",
+      "IdTeam": "43935",
+      "IdPlayer": "448373",
+      "Timestamp": "2026-07-07T00:02:15.728Z",
+      "MatchMinute": "2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.81554,
+      "PositionY": 0.43847,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Maxim DE CUYPER (Belgium) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "143835198",
+      "IdTeam": "43935",
+      "IdPlayer": "448362",
+      "Timestamp": "2026-07-07T00:02:17.73Z",
+      "MatchMinute": "2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 9.73643,
+      "PositionY": 55.983587,
+      "GoalGatePositionX": 50.705791600000005,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Charles DE KETELAERE (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1479828549",
+      "IdTeam": "43921",
+      "IdPlayer": "499913",
+      "Timestamp": "2026-07-07T00:02:18.571Z",
+      "MatchMinute": "2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.9511299999999998,
+      "PositionY": 51.26166800000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of USA pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "425158717",
+      "IdTeam": "43921",
+      "IdPlayer": "441251",
+      "Timestamp": "2026-07-07T00:06:44.717Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 68.63517999999999,
+      "PositionY": 93.29127,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Antonee ROBINSON (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "478577719",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-07T00:07:44.577Z",
+      "MatchMinute": "8'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 7.2433499999999995,
+      "PositionY": 56.102405,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "39219216",
+      "IdTeam": "43935",
+      "IdPlayer": "495349",
+      "Timestamp": "2026-07-07T00:09:02.815Z",
+      "MatchMinute": "9'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 6.4395999999999995,
+      "PositionY": 30.703940000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Nicolas RASKIN."
+        }
+      ]
+    },
+    {
+      "EventId": "39219212",
+      "IdTeam": "43935",
+      "IdPlayer": "448362",
+      "Timestamp": "2026-07-07T00:09:03.636Z",
+      "MatchMinute": "9'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 3.08248,
+      "PositionY": 48.151972,
+      "GoalGatePositionX": 54.709269000000006,
+      "GoalGatePositionY": 13.62226,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Charles DE KETELAERE (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "39219214",
+      "IdTeam": "43935",
+      "IdPlayer": "448362",
+      "IdSubPlayer": "495349",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-07T00:09:03.636Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 3.08248,
+      "PositionY": 48.151972,
+      "GoalGatePositionX": 54.709269000000006,
+      "GoalGatePositionY": 13.62226,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Charles DE KETELAERE (Belgium) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "677626946",
+      "IdTeam": "43921",
+      "IdPlayer": "390238",
+      "Timestamp": "2026-07-07T00:10:51.123Z",
+      "MatchMinute": "11'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 54.664709,
+      "PositionY": 31.329590000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tyler ADAMS (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "38407724",
+      "IdTeam": "43921",
+      "IdPlayer": "499913",
+      "Timestamp": "2026-07-07T00:13:49.942Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.50987,
+      "PositionY": 55.52114099999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of USA pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "872314949",
+      "IdTeam": "43935",
+      "IdPlayer": "448355",
+      "Timestamp": "2026-07-07T00:14:08.62Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 26.125429999999998,
+      "PositionY": 55.086313,
+      "GoalGatePositionX": 57.094754,
+      "GoalGatePositionY": 73.58394,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leandro TROSSARD (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1010867267",
+      "IdTeam": "43935",
+      "IdPlayer": "448362",
+      "Timestamp": "2026-07-07T00:16:13.603Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Charles DE KETELAERE (Belgium) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1273151555",
+      "IdTeam": "43935",
+      "IdPlayer": "448343",
+      "IdSubPlayer": "448364",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-07T00:20:36.551Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Hans VANAKEN (in) comes off the bench to replace Amadou ONANA (out) (Belgium)"
+        }
+      ]
+    },
+    {
+      "EventId": "1318990921",
+      "IdTeam": "43935",
+      "IdPlayer": "448377",
+      "Timestamp": "2026-07-07T00:21:20.232Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 8.12287,
+      "PositionY": 20.150209999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dodi LUKEBAKIO (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1448100938",
+      "IdTeam": "43921",
+      "IdPlayer": "406280",
+      "Timestamp": "2026-07-07T00:23:22.093Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 93.18572,
+      "PositionY": 8.24213,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sergino DEST (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1450250311",
+      "Timestamp": "2026-07-07T00:23:29.603Z",
+      "MatchMinute": "24'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1631027273",
+      "Timestamp": "2026-07-07T00:26:32.47Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1789577287",
+      "IdTeam": "43935",
+      "IdPlayer": "495349",
+      "Timestamp": "2026-07-07T00:28:57.008Z",
+      "MatchMinute": "29'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 35.13756,
+      "PositionY": 76.75423,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas RASKIN (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1847513161",
+      "IdTeam": "43935",
+      "IdPlayer": "448360",
+      "Timestamp": "2026-07-07T00:29:43.374Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 79.70431,
+      "PositionY": 54.114892000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brandon MECHELE (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1907306575",
+      "IdTeam": "43921",
+      "IdPlayer": "448214",
+      "Timestamp": "2026-07-07T00:30:58.81Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 78.25556,
+      "PositionY": 52.626202,
+      "GoalGatePositionX": 50.5696299,
+      "GoalGatePositionY": 28.87094,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malik TILLMAN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1907306577",
+      "IdTeam": "43921",
+      "IdPlayer": "448214",
+      "Timestamp": "2026-07-07T00:30:58.81Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 78.25556,
+      "PositionY": 52.626202,
+      "GoalGatePositionX": 50.5696299,
+      "GoalGatePositionY": 28.87094,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malik TILLMAN (USA) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "2035469394",
+      "IdTeam": "43935",
+      "IdPlayer": "448355",
+      "Timestamp": "2026-07-07T00:32:53.745Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 1.72577,
+      "PositionY": 20.56169,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Leandro TROSSARD."
+        }
+      ]
+    },
+    {
+      "EventId": "2030769234",
+      "IdTeam": "43935",
+      "IdPlayer": "448362",
+      "Timestamp": "2026-07-07T00:32:55.106Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 3.10411,
+      "PositionY": 51.37571,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Charles DE KETELAERE (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2030769236",
+      "IdTeam": "43935",
+      "IdPlayer": "448362",
+      "IdSubPlayer": "448355",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-07T00:32:55.106Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 3.10411,
+      "PositionY": 51.37571,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Charles DE KETELAERE (Belgium) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "228427",
+      "IdTeam": "43921",
+      "IdPlayer": "390259",
+      "Timestamp": "2026-07-07T00:34:40.051Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 71.66273,
+      "PositionY": 2.13516,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Weston McKENNIE (USA) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "252297301",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-07T00:39:02.393Z",
+      "MatchMinute": "39'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "254622796",
+      "IdTeam": "43935",
+      "IdPlayer": "495349",
+      "Timestamp": "2026-07-07T00:39:03.554Z",
+      "MatchMinute": "39'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.73128,
+      "PositionY": 62.182179999999995,
+      "GoalGatePositionX": 51.866670000000006,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas RASKIN (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "430244942",
+      "IdTeam": "43921",
+      "IdPlayer": "419062",
+      "Timestamp": "2026-07-07T00:41:47.438Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 29.962470000000003,
+      "PositionY": 17.89738,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Chris RICHARDS (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "473161815",
+      "IdTeam": "43935",
+      "IdPlayer": "448377",
+      "Timestamp": "2026-07-07T00:42:34.405Z",
+      "MatchMinute": "43'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 9.01035,
+      "PositionY": 48.756344,
+      "GoalGatePositionX": 23.52321,
+      "GoalGatePositionY": 7.87021,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dodi LUKEBAKIO (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "920446041",
+      "IdTeam": "43921",
+      "IdPlayer": "464542",
+      "Timestamp": "2026-07-07T00:45:03.634Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 93.00188,
+      "PositionY": 44.046181000000004,
+      "GoalGatePositionX": 14.91014,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex FREEMAN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "627401815",
+      "IdTeam": "43921",
+      "IdPlayer": "466624",
+      "Timestamp": "2026-07-07T00:45:04.214Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 94.90801,
+      "PositionY": 49.233575,
+      "GoalGatePositionX": 57.372710000000005,
+      "GoalGatePositionY": 75.97179,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Folarin BALOGUN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "828599382",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-07T00:48:25.015Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 1.35002,
+      "PositionY": 1.4943899999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "837531737",
+      "IdTeam": "43935",
+      "IdPlayer": "448377",
+      "Timestamp": "2026-07-07T00:48:31.321Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 12.53777,
+      "PositionY": 29.798750000000002,
+      "GoalGatePositionX": 97.32866,
+      "GoalGatePositionY": 2.378917,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dodi LUKEBAKIO (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "867859547",
+      "IdTeam": "43935",
+      "IdPlayer": "495349",
+      "Timestamp": "2026-07-07T00:48:52.943Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 28.681919999999998,
+      "PositionY": 21.33536,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas RASKIN (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1037012061",
+      "IdTeam": "43921",
+      "IdPlayer": "390267",
+      "Timestamp": "2026-07-07T00:51:48.418Z",
+      "MatchMinute": "45'+7'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 98.92368,
+      "PositionY": 0.56942,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Christian PULISIC (USA) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1045632090",
+      "Timestamp": "2026-07-07T00:51:57.799Z",
+      "MatchMinute": "45'+7'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "2062697560",
+      "IdTeam": "43921",
+      "IdPlayer": "419068",
+      "IdSubPlayer": "406280",
+      "IdSubTeam": "43921",
+      "Timestamp": "2026-07-07T01:08:28.214Z",
+      "MatchMinute": "",
+      "Period": 4,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Before the second half begins Giovanni REYNA (in) comes off the bench to replace Sergino DEST (out) (USA)"
+        }
+      ]
+    },
+    {
+      "EventId": "2086317147",
+      "Timestamp": "2026-07-07T01:08:54.215Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "59187290",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-07T01:10:43.712Z",
+      "MatchMinute": "47'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 40.228692,
+      "PositionY": 6.5512500000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "305375323",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-07T01:14:51.18Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.16843,
+      "PositionY": 0.84132,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "704489575",
+      "IdTeam": "43935",
+      "IdPlayer": "448362",
+      "Timestamp": "2026-07-07T01:20:27.756Z",
+      "MatchMinute": "57'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 76.63436999999999,
+      "PositionY": 58.944609,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Charles DE KETELAERE."
+        }
+      ]
+    },
+    {
+      "EventId": "658464863",
+      "IdTeam": "43935",
+      "IdPlayer": "448343",
+      "Timestamp": "2026-07-07T01:20:29.237Z",
+      "MatchMinute": "57'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 69.98045,
+      "PositionY": 55.18569,
+      "GoalGatePositionX": 58.890412999999995,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Hans VANAKEN (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "658464865",
+      "IdTeam": "43935",
+      "IdPlayer": "448343",
+      "IdSubPlayer": "448362",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-07T01:20:29.237Z",
+      "MatchMinute": "57'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 69.98045,
+      "PositionY": 55.18569,
+      "GoalGatePositionX": 58.890412999999995,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Hans VANAKEN (Belgium) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "750916714",
+      "IdTeam": "43921",
+      "IdPlayer": "499912",
+      "IdSubPlayer": "390267",
+      "IdSubTeam": "43921",
+      "Timestamp": "2026-07-07T01:22:01.902Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sebastian BERHALTER (in) comes off the bench to replace Christian PULISIC (out) (USA)"
+        }
+      ]
+    },
+    {
+      "EventId": "982664275",
+      "IdTeam": "43935",
+      "IdPlayer": "448355",
+      "Timestamp": "2026-07-07T01:25:51.479Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.01859,
+      "PositionY": 68.19535,
+      "GoalGatePositionX": 53.108633000000005,
+      "GoalGatePositionY": 8.750444,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leandro TROSSARD (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1023276139",
+      "IdTeam": "43935",
+      "IdPlayer": "448373",
+      "Timestamp": "2026-07-07T01:26:31.84Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Maxim DE CUYPER (Belgium) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1183128684",
+      "IdTeam": "43921",
+      "IdPlayer": "499912",
+      "Timestamp": "2026-07-07T01:29:08.536Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.98085,
+      "PositionY": 99.70348,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sebastian BERHALTER (USA) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1186439268",
+      "IdTeam": "43921",
+      "IdPlayer": "464542",
+      "Timestamp": "2026-07-07T01:29:10.258Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.004209999999999,
+      "PositionY": 44.590967,
+      "GoalGatePositionX": 67.52336,
+      "GoalGatePositionY": 56.75607,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex FREEMAN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1261432934",
+      "IdTeam": "43935",
+      "IdPlayer": "514166",
+      "Timestamp": "2026-07-07T01:30:15.343Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 57.691652999999995,
+      "PositionY": 21.526,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathan NGOY (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1291006046",
+      "IdTeam": "43935",
+      "IdPlayer": "358112",
+      "IdSubPlayer": "448362",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-07T01:30:28.702Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Romelu LUKAKU (in) comes off the bench to replace Charles DE KETELAERE (out) (Belgium)"
+        }
+      ]
+    },
+    {
+      "EventId": "1291006045",
+      "IdTeam": "43935",
+      "IdPlayer": "448341",
+      "IdSubPlayer": "448377",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-07T01:30:28.702Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jeremy DOKU (in) comes off the bench to replace Dodi LUKEBAKIO (out) (Belgium)"
+        }
+      ]
+    },
+    {
+      "EventId": "1368327272",
+      "IdTeam": "43921",
+      "IdPlayer": "448214",
+      "Timestamp": "2026-07-07T01:31:59.727Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 48.563307,
+      "PositionY": 28.158749999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malik TILLMAN (USA) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1370179669",
+      "Timestamp": "2026-07-07T01:32:12.118Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1556770926",
+      "Timestamp": "2026-07-07T01:35:14.151Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1600073815",
+      "IdTeam": "43921",
+      "IdPlayer": "419082",
+      "IdSubPlayer": "390238",
+      "IdSubTeam": "43921",
+      "Timestamp": "2026-07-07T01:35:44.015Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ricardo PEPI (in) comes off the bench to replace Tyler ADAMS (out) (USA)"
+        }
+      ]
+    },
+    {
+      "EventId": "1741658224",
+      "IdTeam": "43921",
+      "IdPlayer": "448214",
+      "Timestamp": "2026-07-07T01:38:05.473Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 6.979509999999999,
+      "PositionY": 1.95743,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malik TILLMAN (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1851669600",
+      "IdTeam": "43921",
+      "IdPlayer": "441251",
+      "Timestamp": "2026-07-07T01:39:51.459Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 17.20961,
+      "PositionY": 5.0553,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Antonee ROBINSON (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1894986850",
+      "IdTeam": "43935",
+      "IdPlayer": "411443",
+      "Timestamp": "2026-07-07T01:40:39.166Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 44.690039,
+      "PositionY": 3.2574199999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Timothy CASTAGNE (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1993567321",
+      "IdTeam": "43921",
+      "IdPlayer": "499912",
+      "Timestamp": "2026-07-07T01:42:17.044Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 19.061529999999998,
+      "PositionY": 51.174322000000004,
+      "GoalGatePositionX": 31.299129999999998,
+      "GoalGatePositionY": 28.45821,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sebastian BERHALTER (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2114101362",
+      "IdTeam": "43921",
+      "IdPlayer": "390259",
+      "Timestamp": "2026-07-07T01:44:08.415Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 62.54597,
+      "PositionY": 86.38428,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Weston McKENNIE (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "16782444",
+      "IdTeam": "43921",
+      "IdPlayer": "466624",
+      "Timestamp": "2026-07-07T01:45:05.052Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 7.525220000000001,
+      "PositionY": 30.06362,
+      "GoalGatePositionX": 41.946463,
+      "GoalGatePositionY": 12.643450000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Folarin BALOGUN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1350783613",
+      "IdTeam": "43935",
+      "IdPlayer": "358106",
+      "Timestamp": "2026-07-07T01:45:05.452Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 2.00785,
+      "PositionY": 42.369488,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Belgium pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "94255213",
+      "IdTeam": "43921",
+      "IdPlayer": "499912",
+      "IdSubPlayer": "466624",
+      "IdSubTeam": "43921",
+      "Timestamp": "2026-07-07T01:46:22.309Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.80616,
+      "PositionY": 99.29356,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sebastian BERHALTER (USA) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "100077683",
+      "IdTeam": "43921",
+      "IdPlayer": "466624",
+      "Timestamp": "2026-07-07T01:46:23.751Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 7.091830000000001,
+      "PositionY": 51.427445000000006,
+      "GoalGatePositionX": 21.64415,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Folarin BALOGUN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1441761955",
+      "IdTeam": "43935",
+      "IdPlayer": "358106",
+      "Timestamp": "2026-07-07T01:46:25.352Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.532,
+      "PositionY": 43.534765,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Belgium pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "131895400",
+      "IdTeam": "43935",
+      "IdPlayer": "495349",
+      "Timestamp": "2026-07-07T01:46:53.761Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 49.2907452,
+      "PositionY": 72.73822,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas RASKIN (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "252159068",
+      "IdTeam": "43935",
+      "IdPlayer": "448355",
+      "Timestamp": "2026-07-07T01:48:54.982Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.55949,
+      "PositionY": 35.838350000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leandro TROSSARD (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "311413877",
+      "IdTeam": "43935",
+      "IdPlayer": "411443",
+      "Timestamp": "2026-07-07T01:49:40.747Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 49.5588636,
+      "PositionY": 7.82778,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Timothy CASTAGNE (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "375667806",
+      "IdTeam": "43921",
+      "IdPlayer": "499912",
+      "Timestamp": "2026-07-07T01:50:47.955Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 65.72261,
+      "PositionY": 79.55727,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sebastian BERHALTER (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "481530975",
+      "IdTeam": "43935",
+      "IdPlayer": "433092",
+      "IdSubPlayer": "448355",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-07T01:52:10.623Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alexis SAELEMAEKERS (in) comes off the bench to replace Leandro TROSSARD (out) (Belgium)"
+        }
+      ]
+    },
+    {
+      "EventId": "481530976",
+      "IdTeam": "43935",
+      "IdPlayer": "290821",
+      "IdSubPlayer": "495349",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-07T01:52:10.623Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Axel WITSEL (in) comes off the bench to replace Nicolas RASKIN (out) (Belgium)"
+        }
+      ]
+    },
+    {
+      "EventId": "656262242",
+      "IdTeam": "43921",
+      "IdPlayer": "499912",
+      "Timestamp": "2026-07-07T01:55:19.045Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 26.26238,
+      "PositionY": 56.788682,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sebastian BERHALTER (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "675380323",
+      "IdTeam": "43921",
+      "IdPlayer": "390276",
+      "IdSubPlayer": "466624",
+      "IdSubTeam": "43921",
+      "Timestamp": "2026-07-07T01:55:34.246Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Haji WRIGHT (in) comes off the bench to replace Folarin BALOGUN (out) (USA)"
+        }
+      ]
+    },
+    {
+      "EventId": "675380324",
+      "IdTeam": "43921",
+      "IdPlayer": "486390",
+      "IdSubPlayer": "441251",
+      "IdSubTeam": "43921",
+      "Timestamp": "2026-07-07T01:55:34.246Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Max ARFSTEN (in) comes off the bench to replace Antonee ROBINSON (out) (USA)"
+        }
+      ]
+    },
+    {
+      "EventId": "732964983",
+      "IdTeam": "43935",
+      "IdPlayer": "448343",
+      "IdSubPlayer": "358112",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-07T01:56:15.582Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 95.25814,
+      "PositionY": 84.84194000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Hans VANAKEN."
+        }
+      ]
+    },
+    {
+      "EventId": "709140582",
+      "IdTeam": "43935",
+      "IdPlayer": "358112",
+      "Timestamp": "2026-07-07T01:56:18.425Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 3,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.01508,
+      "PositionY": 67.61703,
+      "GoalGatePositionX": 62.51918,
+      "GoalGatePositionY": 6.6376599999999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Romelu LUKAKU (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "709140584",
+      "IdTeam": "43935",
+      "IdPlayer": "358112",
+      "IdSubPlayer": "448343",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-07T01:56:18.425Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 4,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 91.01508,
+      "PositionY": 67.61703,
+      "GoalGatePositionX": 62.51918,
+      "GoalGatePositionY": 6.6376599999999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Romelu LUKAKU (Belgium) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "825783410",
+      "Timestamp": "2026-07-07T01:58:17.422Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 4,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "848252025",
+      "Timestamp": "2026-07-07T01:58:40.244Z",
+      "MatchMinute": "95'",
+      "Period": 10,
+      "HomeGoals": 1,
+      "AwayGoals": 4,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

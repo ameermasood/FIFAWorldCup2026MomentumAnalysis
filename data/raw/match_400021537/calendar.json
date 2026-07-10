@@ -1,0 +1,189 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289289",
+  "IdGroup": null,
+  "Weather": null,
+  "Attendance": null,
+  "IdMatch": "400021537",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Quarter-final"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-07-12T01:00:00Z",
+  "LocalDate": "2026-07-11T20:00:00Z",
+  "Home": {
+    "Score": null,
+    "Side": null,
+    "IdTeam": "43922",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/ARG",
+    "IdCountry": "ARG",
+    "Tactics": null,
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Argentina"
+      }
+    ],
+    "Abbreviation": "ARG",
+    "ShortClubName": "Argentina",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "ARG"
+  },
+  "Away": {
+    "Score": null,
+    "Side": null,
+    "IdTeam": "43971",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/SUI",
+    "IdCountry": "SUI",
+    "Tactics": null,
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Switzerland"
+      }
+    ],
+    "Abbreviation": "SUI",
+    "ShortClubName": "Switzerland",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "SUI"
+  },
+  "HomeTeamScore": null,
+  "AwayTeamScore": null,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400254717",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Kansas City Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400019415",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Kansas City"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5003287"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": null,
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": null,
+  "MatchReportUrl": null,
+  "PlaceHolderA": "W95",
+  "PlaceHolderB": "W96",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "POR",
+      "OfficialId": "392268",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joao PINHEIRO"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "João Pedro Silva Pinheiro"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "CAN",
+      "OfficialId": "372930",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Drew FISCHER"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Drew Fischer"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 1,
+  "ResultType": 0,
+  "MatchNumber": 100,
+  "TimeDefined": true,
+  "OfficialityStatus": 0,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151705"
+  },
+  "IsUpdateable": null
+}

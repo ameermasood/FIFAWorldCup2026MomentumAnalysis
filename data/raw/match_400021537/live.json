@@ -1,0 +1,513 @@
+{
+  "IdMatch": "400021537",
+  "IdStage": "289289",
+  "IdGroup": null,
+  "IdSeason": "285023",
+  "CoverageLevel": null,
+  "IdCompetition": "17",
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Stadium": {
+    "IdStadium": "400254717",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Kansas City Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400019415",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Kansas City"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5003287"
+    },
+    "IsUpdateable": null
+  },
+  "ResultType": 0,
+  "MatchDay": null,
+  "MatchNumber": 100,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": null,
+  "Date": "2026-07-12T01:00:00Z",
+  "LocalDate": "2026-07-11T20:00:00Z",
+  "MatchTime": "0'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": null,
+  "Period": 0,
+  "HomeTeam": {
+    "Score": null,
+    "Side": null,
+    "IdTeam": "43922",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/ARG",
+    "IdCountry": "ARG",
+    "TeamType": 1,
+    "AgeType": 7,
+    "Tactics": null,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Argentina"
+      }
+    ],
+    "Abbreviation": "ARG",
+    "Coaches": [
+      {
+        "IdCoach": "183380",
+        "IdCountry": "ARG",
+        "PictureUrl": "https://digitalhub.fifa.com/transform/d58ec767-2484-47d4-8b29-8fa845eb75f8/SCALONI-Lionel_183380",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Lionel SCALONI"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Lionel SCALONI"
+          }
+        ],
+        "Role": 0,
+        "SpecialStatus": null
+      }
+    ],
+    "Players": [],
+    "Bookings": [],
+    "Goals": [],
+    "Substitutions": [],
+    "Staffs": [
+      {
+        "IdStaff": "323721",
+        "IdCountry": "ARG",
+        "Role": 6,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Luis GARCIA"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Luis GARCIA"
+          }
+        ]
+      },
+      {
+        "IdStaff": "380527",
+        "IdCountry": "ARG",
+        "Role": 9999,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Matias MANNA"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "MANNA"
+          }
+        ]
+      },
+      {
+        "IdStaff": "198582",
+        "IdCountry": "ARG",
+        "Role": 15,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Armando MARTINEZ"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Armando MARTINEZ"
+          }
+        ]
+      },
+      {
+        "IdStaff": "380408",
+        "IdCountry": "ARG",
+        "Role": 2,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Hugo TOCALLI"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Hugo TOCALLI"
+          }
+        ]
+      },
+      {
+        "IdStaff": "522688",
+        "IdCountry": "ARG",
+        "Role": 12,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Juan TAMONE"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Juan TAMONE"
+          }
+        ]
+      },
+      {
+        "IdStaff": "255583",
+        "IdCountry": "ARG",
+        "Role": 12,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Luis MARTIN"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Luis MARTIN"
+          }
+        ]
+      },
+      {
+        "IdStaff": "189714",
+        "IdCountry": "ARG",
+        "Role": 6,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Marcelo DANDREA"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Marcelo DANDREA"
+          }
+        ]
+      }
+    ],
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "ARG",
+    "ShortClubName": "Argentina"
+  },
+  "AwayTeam": {
+    "Score": null,
+    "Side": null,
+    "IdTeam": "43971",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/SUI",
+    "IdCountry": "SUI",
+    "TeamType": 1,
+    "AgeType": 7,
+    "Tactics": null,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Switzerland"
+      }
+    ],
+    "Abbreviation": "SUI",
+    "Coaches": [
+      {
+        "IdCoach": "157842",
+        "IdCountry": "SUI",
+        "PictureUrl": "https://digitalhub.fifa.com/transform/0951d425-6260-40aa-8905-0e79111bdf42/YAKIN-Murat_157842",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Murat Yakin"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Murat YAKIN"
+          }
+        ],
+        "Role": 0,
+        "SpecialStatus": null
+      }
+    ],
+    "Players": [],
+    "Bookings": [],
+    "Goals": [],
+    "Substitutions": [],
+    "Staffs": [
+      {
+        "IdStaff": "329947",
+        "IdCountry": "ESP",
+        "Role": 12,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Eduardo GARCIA"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Eduardo GARCIA"
+          }
+        ]
+      },
+      {
+        "IdStaff": "522303",
+        "IdCountry": "ESP",
+        "Role": 10,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Antonio MOLINA"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Antonio MOLINA"
+          }
+        ]
+      },
+      {
+        "IdStaff": "440356",
+        "IdCountry": "SUI",
+        "Role": 13,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Damien MOLLARD"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Damien MOLLARD"
+          }
+        ]
+      },
+      {
+        "IdStaff": "262817",
+        "IdCountry": "SUI",
+        "Role": 15,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Philippe TSCHOLL"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Philippe TSCHOLL"
+          }
+        ]
+      },
+      {
+        "IdStaff": "356391",
+        "IdCountry": "SUI",
+        "Role": 2,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Patrick FOLETTI"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Patrick FOLETTI"
+          }
+        ]
+      },
+      {
+        "IdStaff": "448108",
+        "IdCountry": "GER",
+        "Role": 9999,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Kevin EHMES"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Kevin EHMES"
+          }
+        ]
+      },
+      {
+        "IdStaff": "448110",
+        "IdCountry": "SUI",
+        "Role": 1,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Roger KASPAR"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Roger KASPAR"
+          }
+        ]
+      },
+      {
+        "IdStaff": "480544",
+        "IdCountry": "SUI",
+        "Role": 15,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Damien CASAGRANDE"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Damien CASAGRANDE"
+          }
+        ]
+      }
+    ],
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "SUI",
+    "ShortClubName": "Switzerland"
+  },
+  "BallPossession": null,
+  "TerritorialPossesion": null,
+  "TerritorialThirdPossesion": null,
+  "Officials": [
+    {
+      "IdCountry": "POR",
+      "OfficialId": "392268",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Joao PINHEIRO"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "João Pedro Silva Pinheiro"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "CAN",
+      "OfficialId": "372930",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Drew FISCHER"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Drew Fischer"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 1,
+  "GroupName": [],
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Quarter-final"
+    }
+  ],
+  "OfficialityStatus": 0,
+  "TimeDefined": true,
+  "Properties": {
+    "IdIFES": "151705"
+  },
+  "IsUpdateable": null
+}

@@ -1,0 +1,3090 @@
+{
+  "IdStage": "289287",
+  "IdMatch": "400021523",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "2124764221",
+      "IdTeam": "43970",
+      "Timestamp": "2026-06-30T20:57:43.717Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sweden won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "108727357",
+      "Timestamp": "2026-06-30T21:00:03.505Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "138532930",
+      "IdTeam": "43970",
+      "IdPlayer": "489689",
+      "Timestamp": "2026-06-30T21:00:23.94Z",
+      "MatchMinute": "1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lucas BERGVALL (Sweden) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "201413695",
+      "IdTeam": "43946",
+      "IdPlayer": "419177",
+      "Timestamp": "2026-06-30T21:01:21.908Z",
+      "MatchMinute": "2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "William SALIBA (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "251491392",
+      "IdTeam": "43970",
+      "IdPlayer": "430150",
+      "Timestamp": "2026-06-30T21:02:22.924Z",
+      "MatchMinute": "3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alexander ISAK (Sweden) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "281929791",
+      "IdTeam": "43970",
+      "IdPlayer": "430150",
+      "Timestamp": "2026-06-30T21:02:41.74Z",
+      "MatchMinute": "3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alexander ISAK (Sweden) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "337340482",
+      "IdTeam": "43970",
+      "IdPlayer": "489688",
+      "Timestamp": "2026-06-30T21:03:33.517Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yasin AYARI (Sweden) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "491358273",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-06-30T21:06:00.991Z",
+      "MatchMinute": "6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 23.91815,
+      "PositionY": 23.10394,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "546372675",
+      "IdTeam": "43970",
+      "IdPlayer": "489688",
+      "Timestamp": "2026-06-30T21:06:47.257Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 50.07227356,
+      "PositionY": 11.24111,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yasin AYARI (Sweden) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "967505985",
+      "IdTeam": "43970",
+      "IdPlayer": "489689",
+      "Timestamp": "2026-06-30T21:13:40.129Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 31.41585,
+      "PositionY": 13.206109999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lucas BERGVALL (Sweden) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1026391108",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-06-30T21:14:56.085Z",
+      "MatchMinute": "15'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.03807,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1031703624",
+      "IdTeam": "43946",
+      "IdPlayer": "368860",
+      "Timestamp": "2026-06-30T21:15:01.711Z",
+      "MatchMinute": "15'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 24.28011,
+      "PositionY": 26.79633,
+      "GoalGatePositionX": 62.00462,
+      "GoalGatePositionY": 8.130690999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lucas DIGNE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1938551177",
+      "IdTeam": "43970",
+      "IdPlayer": "489685",
+      "Timestamp": "2026-06-30T21:15:02.772Z",
+      "MatchMinute": "15'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 2.4582,
+      "PositionY": 50.756451199999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Sweden pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1104659526",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-06-30T21:16:14.163Z",
+      "MatchMinute": "17'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 24.441589999999998,
+      "PositionY": 33.43221,
+      "GoalGatePositionX": 43.187373,
+      "GoalGatePositionY": 4.642716999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2012785907",
+      "IdTeam": "43970",
+      "IdPlayer": "489685",
+      "Timestamp": "2026-06-30T21:16:15.224Z",
+      "MatchMinute": "17'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.35258,
+      "PositionY": 47.131453,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Sweden pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1178016841",
+      "IdTeam": "43946",
+      "IdPlayer": "419177",
+      "Timestamp": "2026-06-30T21:17:12.161Z",
+      "MatchMinute": "18'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 66.51389,
+      "PositionY": 87.80019999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "William SALIBA (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1270288450",
+      "IdTeam": "43946",
+      "IdPlayer": "484860",
+      "Timestamp": "2026-06-30T21:18:56.085Z",
+      "MatchMinute": "19'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 9.53281,
+      "PositionY": 33.65614,
+      "GoalGatePositionX": 41.745508,
+      "GoalGatePositionY": 71.11391,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bradley BARCOLA (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1321649226",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-06-30T21:19:33.505Z",
+      "MatchMinute": "20'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1410011210",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T21:21:04.693Z",
+      "MatchMinute": "22'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 52.519309,
+      "PositionY": 28.059849999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1488675919",
+      "Timestamp": "2026-06-30T21:22:31.117Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1684172875",
+      "Timestamp": "2026-06-30T21:25:42.021Z",
+      "MatchMinute": "26'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1750546513",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-06-30T21:26:28.997Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 61.370619999999995,
+      "PositionY": 34.865449999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1771802691",
+      "IdTeam": "43970",
+      "IdPlayer": "430150",
+      "Timestamp": "2026-06-30T21:27:03.712Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.38880999999999,
+      "PositionY": 40.604999,
+      "GoalGatePositionX": 67.69555,
+      "GoalGatePositionY": 2.923865,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alexander ISAK (Sweden) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1822669903",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-06-30T21:27:54.663Z",
+      "MatchMinute": "28'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 16.03744,
+      "PositionY": 76.79357999999999,
+      "GoalGatePositionX": 50.9064041,
+      "GoalGatePositionY": 33.03315,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1845301329",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-06-30T21:28:12.04Z",
+      "MatchMinute": "29'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.71822,
+      "PositionY": 99.45349,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1949207636",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-06-30T21:29:58.687Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 6.96586,
+      "PositionY": 29.89123,
+      "GoalGatePositionX": 58.637513,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "708876913",
+      "IdTeam": "43970",
+      "IdPlayer": "489685",
+      "Timestamp": "2026-06-30T21:29:59.087Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 2.40901,
+      "PositionY": 44.618471,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Sweden pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1979127885",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T21:30:25.494Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.79706,
+      "PositionY": 0.9235500000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "2010679367",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-06-30T21:30:57.125Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.03807,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "2021434450",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-06-30T21:31:08.357Z",
+      "MatchMinute": "32'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 8.57792,
+      "PositionY": 38.84505,
+      "GoalGatePositionX": 32.93318,
+      "GoalGatePositionY": 10.09459,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2088790094",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-06-30T21:32:15.123Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 23.96819,
+      "PositionY": 33.47251,
+      "GoalGatePositionX": 58.06559300000001,
+      "GoalGatePositionY": 56.568529999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "63089748",
+      "IdTeam": "43946",
+      "IdPlayer": "405893",
+      "Timestamp": "2026-06-30T21:34:05.914Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 22.14191,
+      "PositionY": 55.132194,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Aurelien TCHOUAMENI (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "116365386",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T21:35:04.112Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 14.1016,
+      "PositionY": 41.867641,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "118127691",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-06-30T21:35:06.595Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 9.79833,
+      "PositionY": 62.81607,
+      "GoalGatePositionX": 29.585430000000002,
+      "GoalGatePositionY": 48.03273,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "305670231",
+      "IdTeam": "43970",
+      "IdPlayer": "489689",
+      "Timestamp": "2026-06-30T21:38:01.129Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 24.235789999999998,
+      "PositionY": 9.82006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lucas BERGVALL (Sweden) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "407455837",
+      "IdTeam": "43946",
+      "IdPlayer": "389876",
+      "Timestamp": "2026-06-30T21:38:38.526Z",
+      "MatchMinute": "39'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 6.91901,
+      "PositionY": 53.486714,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dayot UPAMECANO (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "376239182",
+      "IdTeam": "43946",
+      "IdPlayer": "389876",
+      "Timestamp": "2026-06-30T21:38:56.413Z",
+      "MatchMinute": "39'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dayot UPAMECANO (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "395777103",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-06-30T21:39:39.027Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 23.39562,
+      "PositionY": 34.25224,
+      "GoalGatePositionX": 51.121335,
+      "GoalGatePositionY": 13.27323,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1303697208",
+      "IdTeam": "43970",
+      "IdPlayer": "489685",
+      "Timestamp": "2026-06-30T21:39:39.848Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.486,
+      "PositionY": 49.5127178,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Sweden pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "428890194",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-06-30T21:40:03.291Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 58.899274,
+      "PositionY": 7.61786,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "518417491",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T21:41:38.947Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 19.54194,
+      "PositionY": 43.623187,
+      "GoalGatePositionX": 28.170689999999997,
+      "GoalGatePositionY": 19.777929999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "602868825",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T21:42:59.007Z",
+      "MatchMinute": "43'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.03807,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "640459870",
+      "IdTeam": "43946",
+      "IdPlayer": "430707",
+      "Timestamp": "2026-06-30T21:43:36.884Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 12.07482,
+      "PositionY": 71.13019,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jules KOUNDE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "690132058",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T21:44:26.094Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 21.0278,
+      "PositionY": 51.991997999999995,
+      "GoalGatePositionX": 34.83095,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1596922800",
+      "IdTeam": "43970",
+      "IdPlayer": "489685",
+      "Timestamp": "2026-06-30T21:44:26.975Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.7281000000000002,
+      "PositionY": 45.583593,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Sweden pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "704117845",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-06-30T21:44:38.586Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.14839,
+      "PositionY": 0.70882,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "722218085",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "IdSubPlayer": "389867",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-06-30T21:44:42.25Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 13.610710000000001,
+      "PositionY": 9.96953,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Ousmane DEMBELE."
+        }
+      ]
+    },
+    {
+      "EventId": "713807969",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-06-30T21:44:46.414Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 6.23559,
+      "PositionY": 36.88615,
+      "GoalGatePositionX": 64.52959,
+      "GoalGatePositionY": 24.64546,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "713807971",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "IdSubPlayer": "398680",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-06-30T21:44:46.414Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 6.23559,
+      "PositionY": 36.88615,
+      "GoalGatePositionX": 64.52959,
+      "GoalGatePositionY": 24.64546,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "823236707",
+      "IdTeam": "43970",
+      "IdPlayer": "519958",
+      "Timestamp": "2026-06-30T21:46:36.304Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.17969,
+      "PositionY": 41.451724,
+      "GoalGatePositionX": 80.22677,
+      "GoalGatePositionY": 65.38471,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Elliot STROUD (Sweden) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "900780132",
+      "IdTeam": "43970",
+      "IdPlayer": "491255",
+      "Timestamp": "2026-06-30T21:47:42.505Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Daniel SVENSSON (Sweden) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "974424152",
+      "Timestamp": "2026-06-30T21:49:06.044Z",
+      "MatchMinute": "45'+5'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1899511914",
+      "Timestamp": "2026-06-30T22:04:09.306Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "1992704090",
+      "IdTeam": "43970",
+      "IdPlayer": "430150",
+      "Timestamp": "2026-06-30T22:05:31.057Z",
+      "MatchMinute": "47'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 3.51792,
+      "PositionY": 0.53304,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alexander ISAK (Sweden) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "34317415",
+      "IdTeam": "43946",
+      "IdPlayer": "405893",
+      "Timestamp": "2026-06-30T22:08:43.59Z",
+      "MatchMinute": "50'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 73.60042999999999,
+      "PositionY": 56.35441,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Aurelien TCHOUAMENI (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "151124075",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-06-30T22:10:26.306Z",
+      "MatchMinute": "52'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "198575201",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "IdSubPlayer": "484860",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-06-30T22:11:15.101Z",
+      "MatchMinute": "53'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 77.22151000000001,
+      "PositionY": 56.160031,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Michael OLISE."
+        }
+      ]
+    },
+    {
+      "EventId": "194307177",
+      "IdTeam": "43946",
+      "IdPlayer": "484860",
+      "Timestamp": "2026-06-30T22:11:16.603Z",
+      "MatchMinute": "53'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 87.25779,
+      "PositionY": 54.034025,
+      "GoalGatePositionX": 36.77436,
+      "GoalGatePositionY": 30.581629999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bradley BARCOLA (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "194307179",
+      "IdTeam": "43946",
+      "IdPlayer": "484860",
+      "IdSubPlayer": "485655",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-06-30T22:11:16.603Z",
+      "MatchMinute": "53'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 87.25779,
+      "PositionY": 54.034025,
+      "GoalGatePositionX": 36.77436,
+      "GoalGatePositionY": 30.581629999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bradley BARCOLA (France) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "327457905",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-06-30T22:12:57.021Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "317930608",
+      "IdTeam": "43946",
+      "IdPlayer": "368860",
+      "Timestamp": "2026-06-30T22:13:09.856Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 68.46448000000001,
+      "PositionY": 95.24089000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lucas DIGNE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "435059824",
+      "IdTeam": "43970",
+      "IdPlayer": "491255",
+      "Timestamp": "2026-06-30T22:15:10.757Z",
+      "MatchMinute": "57'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Daniel SVENSSON (Sweden) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "438878323",
+      "IdTeam": "43970",
+      "IdPlayer": "489689",
+      "Timestamp": "2026-06-30T22:15:12.759Z",
+      "MatchMinute": "57'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 5.70318,
+      "PositionY": 43.676680000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lucas BERGVALL (Sweden) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1478322776",
+      "IdTeam": "43970",
+      "IdPlayer": "489685",
+      "Timestamp": "2026-06-30T22:17:25.231Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 99.29926999999999,
+      "PositionY": 43.242499,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Sweden pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "717721713",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T22:19:50.016Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.15406,
+      "PositionY": 30.50215,
+      "GoalGatePositionX": 35.07365,
+      "GoalGatePositionY": 4.678487,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1629776579",
+      "IdTeam": "43970",
+      "IdPlayer": "489685",
+      "Timestamp": "2026-06-30T22:19:50.856Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.08251,
+      "PositionY": 51.800778,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Sweden pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "757406837",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T22:20:27.573Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.18032,
+      "PositionY": 98.47825999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "949761142",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T22:23:36.802Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.01222,
+      "PositionY": 64.65477,
+      "GoalGatePositionX": 47.23875,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "994955376",
+      "IdTeam": "43970",
+      "IdPlayer": "514202",
+      "IdSubPlayer": "519958",
+      "IdSubTeam": "43970",
+      "Timestamp": "2026-06-30T22:24:09.324Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Taha ALI (in) comes off the bench to replace Elliot STROUD (out) (Sweden)"
+        }
+      ]
+    },
+    {
+      "EventId": "994955377",
+      "IdTeam": "43970",
+      "IdPlayer": "503047",
+      "IdSubPlayer": "489689",
+      "IdSubTeam": "43970",
+      "Timestamp": "2026-06-30T22:24:09.324Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Besfort ZENELI (in) comes off the bench to replace Lucas BERGVALL (out) (Sweden)"
+        }
+      ]
+    },
+    {
+      "EventId": "1003053170",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T22:24:28.854Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.37047,
+      "PositionY": 99.06144,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1068165236",
+      "IdTeam": "43946",
+      "IdPlayer": "389876",
+      "Timestamp": "2026-06-30T22:24:44.67Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.52998,
+      "PositionY": 46.169178,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dayot UPAMECANO (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1930622983",
+      "IdTeam": "43970",
+      "IdPlayer": "489685",
+      "Timestamp": "2026-06-30T22:24:46.312Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.00465,
+      "PositionY": 54.497205,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Sweden pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1129608309",
+      "Timestamp": "2026-06-30T22:26:34.716Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1331149943",
+      "Timestamp": "2026-06-30T22:29:51.524Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1347958900",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T22:30:06.391Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 90.38737,
+      "PositionY": 41.872239,
+      "GoalGatePositionX": 39.308890000000005,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "111057695",
+      "IdTeam": "43970",
+      "IdPlayer": "489685",
+      "Timestamp": "2026-06-30T22:30:06.491Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 91.72247,
+      "PositionY": 43.323081,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Sweden pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1472352376",
+      "IdTeam": "43970",
+      "IdPlayer": "430150",
+      "Timestamp": "2026-06-30T22:32:02.58Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alexander ISAK (Sweden) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1499641978",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "IdSubPlayer": "389867",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-06-30T22:32:25.39Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 78.18948,
+      "PositionY": 68.16364,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Michael OLISE."
+        }
+      ]
+    },
+    {
+      "EventId": "1494654070",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-06-30T22:32:27.052Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 92.04311,
+      "PositionY": 66.0177,
+      "GoalGatePositionX": 55.995541,
+      "GoalGatePositionY": 21.72869,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1494654072",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "IdSubPlayer": "485655",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-06-30T22:32:27.052Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 92.04311,
+      "PositionY": 66.0177,
+      "GoalGatePositionX": 55.995541,
+      "GoalGatePositionY": 21.72869,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1583631478",
+      "IdTeam": "43946",
+      "IdPlayer": "464114",
+      "IdSubPlayer": "398680",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-06-30T22:33:51.068Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Desire DOUE (in) comes off the bench to replace Ousmane DEMBELE (out) (France)"
+        }
+      ]
+    },
+    {
+      "EventId": "1583631479",
+      "IdTeam": "43946",
+      "IdPlayer": "464055",
+      "IdSubPlayer": "430707",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-06-30T22:33:51.068Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malo GUSTO (in) comes off the bench to replace Jules KOUNDE (out) (France)"
+        }
+      ]
+    },
+    {
+      "EventId": "1756515450",
+      "IdTeam": "43970",
+      "IdPlayer": "503047",
+      "Timestamp": "2026-06-30T22:36:33.498Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 53.952673,
+      "PositionY": 77.4459,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Besfort ZENELI (Sweden) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1772489851",
+      "IdTeam": "43946",
+      "IdPlayer": "408042",
+      "IdSubPlayer": "368860",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-06-30T22:36:57.364Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Theo HERNANDEZ (in) comes off the bench to replace Lucas DIGNE (out) (France)"
+        }
+      ]
+    },
+    {
+      "EventId": "1827910781",
+      "IdTeam": "43970",
+      "IdPlayer": "483276",
+      "Timestamp": "2026-06-30T22:37:50.381Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gabriel GUDMUNDSSON (Sweden) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1906805887",
+      "IdTeam": "43946",
+      "IdPlayer": "464114",
+      "Timestamp": "2026-06-30T22:39:11.336Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 85.62105,
+      "PositionY": 30.67264,
+      "GoalGatePositionX": 59.680440999999995,
+      "GoalGatePositionY": 9.158307,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Desire DOUE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "670561395",
+      "IdTeam": "43970",
+      "IdPlayer": "489685",
+      "Timestamp": "2026-06-30T22:39:11.876Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.02754999999999,
+      "PositionY": 44.490497,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Sweden pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1976311932",
+      "IdTeam": "43946",
+      "IdPlayer": "484860",
+      "Timestamp": "2026-06-30T22:40:19.644Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 96.02386,
+      "PositionY": 63.04202,
+      "GoalGatePositionX": 47.493862,
+      "GoalGatePositionY": 3.6584239999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bradley BARCOLA (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "738966600",
+      "IdTeam": "43970",
+      "IdPlayer": "489685",
+      "Timestamp": "2026-06-30T22:40:19.804Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.66408,
+      "PositionY": 58.140668,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Sweden pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "2005403772",
+      "IdTeam": "43970",
+      "IdPlayer": "433795",
+      "IdSubPlayer": "491255",
+      "IdSubTeam": "43970",
+      "Timestamp": "2026-06-30T22:40:40Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mattias SVANBERG (in) comes off the bench to replace Daniel SVENSSON (out) (Sweden)"
+        }
+      ]
+    },
+    {
+      "EventId": "2005403773",
+      "IdTeam": "43970",
+      "IdPlayer": "502946",
+      "IdSubPlayer": "489688",
+      "IdSubTeam": "43970",
+      "Timestamp": "2026-06-30T22:40:40Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Benjamin NYGREN (in) comes off the bench to replace Yasin AYARI (out) (Sweden)"
+        }
+      ]
+    },
+    {
+      "EventId": "2028469377",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-06-30T22:41:09.494Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "16738434",
+      "IdTeam": "43946",
+      "IdPlayer": "403094",
+      "IdSubPlayer": "389867",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-06-30T22:43:15.668Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jean-Philippe MATETA (in) comes off the bench to replace Kylian MBAPPE (out) (France)"
+        }
+      ]
+    },
+    {
+      "EventId": "16738435",
+      "IdTeam": "43946",
+      "IdPlayer": "431861",
+      "IdSubPlayer": "485655",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-06-30T22:43:15.668Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Rayan CHERKI (in) comes off the bench to replace Michael OLISE (out) (France)"
+        }
+      ]
+    },
+    {
+      "EventId": "71397503",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-06-30T22:43:56.681Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 36.58406,
+      "PositionY": 59.46027,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "118512768",
+      "IdTeam": "43970",
+      "IdPlayer": "433795",
+      "Timestamp": "2026-06-30T22:45:02.326Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 23.62495,
+      "PositionY": 53.993745000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mattias SVANBERG (Sweden) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "199092350",
+      "IdTeam": "43946",
+      "IdPlayer": "484860",
+      "Timestamp": "2026-06-30T22:46:07.306Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bradley BARCOLA (France) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "277063807",
+      "IdTeam": "43970",
+      "IdPlayer": "483327",
+      "Timestamp": "2026-06-30T22:47:36.621Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 13.59998,
+      "PositionY": 43.787807,
+      "GoalGatePositionX": 57.896739,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Viktor GYOKERES (Sweden) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1186231635",
+      "IdTeam": "43946",
+      "IdPlayer": "448332",
+      "Timestamp": "2026-06-30T22:47:37.041Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 3.68144,
+      "PositionY": 50.2309824,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of France pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "311405702",
+      "IdTeam": "43970",
+      "IdPlayer": "489691",
+      "IdSubPlayer": "430150",
+      "IdSubTeam": "43970",
+      "Timestamp": "2026-06-30T22:48:07.708Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustaf NILSSON (in) comes off the bench to replace Alexander ISAK (out) (Sweden)"
+        }
+      ]
+    },
+    {
+      "EventId": "349151361",
+      "IdTeam": "43946",
+      "IdPlayer": "403094",
+      "Timestamp": "2026-06-30T22:48:33.417Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 53.759239,
+      "PositionY": 75.17135999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jean-Philippe MATETA (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "404635779",
+      "IdTeam": "43946",
+      "IdPlayer": "464055",
+      "Timestamp": "2026-06-30T22:49:28.032Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 59.13668199999999,
+      "PositionY": 11.66748,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malo GUSTO (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "453309572",
+      "IdTeam": "43946",
+      "IdPlayer": "403094",
+      "Timestamp": "2026-06-30T22:50:30.234Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.65045,
+      "PositionY": 59.773175,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jean-Philippe MATETA (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "556523656",
+      "IdTeam": "43946",
+      "IdPlayer": "431861",
+      "Timestamp": "2026-06-30T22:52:00.424Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 44.422371999999996,
+      "PositionY": 6.36807,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Rayan CHERKI (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2142040197",
+      "IdTeam": "43970",
+      "IdPlayer": "489691",
+      "Timestamp": "2026-06-30T22:52:43.227Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 11.59974,
+      "PositionY": 52.821431,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustaf NILSSON (Sweden) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "599310468",
+      "IdTeam": "43970",
+      "IdPlayer": "433795",
+      "Timestamp": "2026-06-30T22:52:51.375Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 9.70698,
+      "PositionY": 69.97457,
+      "GoalGatePositionX": 50.9847016,
+      "GoalGatePositionY": 21.88841,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mattias SVANBERG (Sweden) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1507768204",
+      "IdTeam": "43946",
+      "IdPlayer": "448332",
+      "Timestamp": "2026-06-30T22:52:51.856Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 2.45481,
+      "PositionY": 55.862573000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of France pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "617187461",
+      "Timestamp": "2026-06-30T22:53:11.428Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "702400644",
+      "Timestamp": "2026-06-30T22:54:34.341Z",
+      "MatchMinute": "95'",
+      "Period": 10,
+      "HomeGoals": 3,
+      "AwayGoals": 0,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

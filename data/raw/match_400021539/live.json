@@ -1,0 +1,477 @@
+{
+  "IdMatch": "400021539",
+  "IdStage": "289289",
+  "IdGroup": null,
+  "IdSeason": "285023",
+  "CoverageLevel": null,
+  "IdCompetition": "17",
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Stadium": {
+    "IdStadium": "400257525",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Miami Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400254039",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Miami"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5017990"
+    },
+    "IsUpdateable": null
+  },
+  "ResultType": 0,
+  "MatchDay": null,
+  "MatchNumber": 99,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": null,
+  "Date": "2026-07-11T21:00:00Z",
+  "LocalDate": "2026-07-11T17:00:00Z",
+  "MatchTime": "0'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": null,
+  "Period": 0,
+  "HomeTeam": {
+    "Score": null,
+    "Side": null,
+    "IdTeam": "43961",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NOR",
+    "IdCountry": "NOR",
+    "TeamType": 1,
+    "AgeType": 7,
+    "Tactics": null,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Norway"
+      }
+    ],
+    "Abbreviation": "NOR",
+    "Coaches": [
+      {
+        "IdCoach": "157000",
+        "IdCountry": "NOR",
+        "PictureUrl": "https://digitalhub.fifa.com/transform/8d00c35f-86f6-42e8-9b11-74b94609fd11/SOLBAKKEN-Stale_157000",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Ståle Solbakken"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Stale SOLBAKKEN"
+          }
+        ],
+        "Role": 0,
+        "SpecialStatus": null
+      }
+    ],
+    "Players": [],
+    "Bookings": [],
+    "Goals": [],
+    "Substitutions": [],
+    "Staffs": [
+      {
+        "IdStaff": "516973",
+        "IdCountry": "ENG",
+        "Role": 9999,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Andrew FINDLAY"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Andrew FINDLAY"
+          }
+        ]
+      },
+      {
+        "IdStaff": "77411",
+        "IdCountry": "NOR",
+        "Role": 2,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Frode GRODAS"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Frode GRODAS"
+          }
+        ]
+      },
+      {
+        "IdStaff": "522254",
+        "IdCountry": "NOR",
+        "Role": 1,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Sigurd ERTSAS"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Sigurd ERTSAS"
+          }
+        ]
+      },
+      {
+        "IdStaff": "522240",
+        "IdCountry": "NOR",
+        "Role": 10,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Pal FJELDE"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Pal FJELDE"
+          }
+        ]
+      },
+      {
+        "IdStaff": "387667",
+        "IdCountry": "NOR",
+        "Role": 16,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Are HOKSTAD"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Are HOKSTAD"
+          }
+        ]
+      },
+      {
+        "IdStaff": "516976",
+        "IdCountry": "NOR",
+        "Role": 15,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Ola SAND"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Ola SAND"
+          }
+        ]
+      }
+    ],
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "NOR",
+    "ShortClubName": "Norway"
+  },
+  "AwayTeam": {
+    "Score": null,
+    "Side": null,
+    "IdTeam": "43942",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/ENG",
+    "IdCountry": "ENG",
+    "TeamType": 1,
+    "AgeType": 7,
+    "Tactics": null,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "England"
+      }
+    ],
+    "Abbreviation": "ENG",
+    "Coaches": [
+      {
+        "IdCoach": "165190",
+        "IdCountry": "GER",
+        "PictureUrl": "https://digitalhub.fifa.com/transform/fc649bf3-486d-4ca8-aa84-d30c87cea7e5/TUCHEL-Thomas_165190",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Thomas Tuchel"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Thomas TUCHEL"
+          }
+        ],
+        "Role": 0,
+        "SpecialStatus": null
+      }
+    ],
+    "Players": [],
+    "Bookings": [],
+    "Goals": [],
+    "Substitutions": [],
+    "Staffs": [
+      {
+        "IdStaff": "522785",
+        "IdCountry": "ENG",
+        "Role": 9999,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Paul QUILTER"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Paul QUILTER"
+          }
+        ]
+      },
+      {
+        "IdStaff": "313763",
+        "IdCountry": "ENG",
+        "Role": 15,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Mark WILLIAMS"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Mark WILLIAMS"
+          }
+        ]
+      },
+      {
+        "IdStaff": "368924",
+        "IdCountry": "ENG",
+        "Role": 1,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Pat FROST"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Pat FROST"
+          }
+        ]
+      },
+      {
+        "IdStaff": "318897",
+        "IdCountry": "POR",
+        "Role": 2,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "HILARIO"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "HILARIO"
+          }
+        ]
+      },
+      {
+        "IdStaff": "364258",
+        "IdCountry": "ENG",
+        "Role": 9999,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "James MELBOURNE"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "James MELBOURNE"
+          }
+        ]
+      },
+      {
+        "IdStaff": "522781",
+        "IdCountry": "ENG",
+        "Role": 12,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Hailu THEODROS"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Hailu THEODROS"
+          }
+        ]
+      },
+      {
+        "IdStaff": "380062",
+        "IdCountry": "FRA",
+        "Role": 12,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Nico MAYER"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Nico MAYER"
+          }
+        ]
+      }
+    ],
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "ENG",
+    "ShortClubName": "England"
+  },
+  "BallPossession": null,
+  "TerritorialPossesion": null,
+  "TerritorialThirdPossesion": null,
+  "Officials": [
+    {
+      "IdCountry": "FRA",
+      "OfficialId": "314589",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Clement TURPIN"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Clément Turpin"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "ESP",
+      "OfficialId": "373845",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alejandro HERNANDEZ"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alejandro José Hernández Hernández"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 1,
+  "GroupName": [],
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Quarter-final"
+    }
+  ],
+  "OfficialityStatus": 0,
+  "TimeDefined": true,
+  "Properties": {
+    "IdIFES": "151706"
+  },
+  "IsUpdateable": null
+}

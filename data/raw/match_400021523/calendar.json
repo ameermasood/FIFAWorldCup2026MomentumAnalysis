@@ -1,0 +1,195 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289287",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "80663",
+  "IdMatch": "400021523",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 32"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-06-30T21:00:00Z",
+  "LocalDate": "2026-06-30T17:00:00Z",
+  "Home": {
+    "Score": 3,
+    "Side": null,
+    "IdTeam": "43946",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/FRA",
+    "IdCountry": "FRA",
+    "Tactics": "4-2-3-1",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "France"
+      }
+    ],
+    "Abbreviation": "FRA",
+    "ShortClubName": "France",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "FRA"
+  },
+  "Away": {
+    "Score": 0,
+    "Side": null,
+    "IdTeam": "43970",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/SWE",
+    "IdCountry": "SWE",
+    "Tactics": "4-4-2",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Sweden"
+      }
+    ],
+    "Abbreviation": "SWE",
+    "ShortClubName": "Sweden",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "SWE"
+  },
+  "HomeTeamScore": 3,
+  "AwayTeamScore": 0,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400257536",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "New York/New Jersey Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400021919",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "New Jersey"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5003000"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "95'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43946",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "1I",
+  "PlaceHolderB": "3CDFGH",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "NED",
+      "OfficialId": "327159",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Danny MAKKELIE"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Danny Desmond Makkelie"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "USA",
+      "OfficialId": "428431",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tori PENSO"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tori Penso"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 1,
+  "MatchNumber": 77,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151685"
+  },
+  "IsUpdateable": null
+}

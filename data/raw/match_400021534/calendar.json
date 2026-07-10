@@ -1,0 +1,195 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289288",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "66925",
+  "IdMatch": "400021534",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 16"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-07-07T00:00:00Z",
+  "LocalDate": "2026-07-06T17:00:00Z",
+  "Home": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "43921",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/USA",
+    "IdCountry": "USA",
+    "Tactics": "3-5-2",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "USA"
+      }
+    ],
+    "Abbreviation": "USA",
+    "ShortClubName": "USA",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "USA"
+  },
+  "Away": {
+    "Score": 4,
+    "Side": null,
+    "IdTeam": "43935",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/BEL",
+    "IdCountry": "BEL",
+    "Tactics": "4-2-3-1",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Belgium"
+      }
+    ],
+    "Abbreviation": "BEL",
+    "ShortClubName": "Belgium",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "BEL"
+  },
+  "HomeTeamScore": 1,
+  "AwayTeamScore": 4,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400216606",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Seattle Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400249345",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Seattle"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5009356"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "95'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43935",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "W81",
+  "PlaceHolderB": "W82",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "JOR",
+      "OfficialId": "361034",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adham MAKHADMEH"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adham Mohammad Tumah Makhadmeh"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "GAB",
+      "OfficialId": "408417",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pierre ATCHO"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pierre Ghislain Atcho"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 1,
+  "MatchNumber": 94,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151699"
+  },
+  "IsUpdateable": null
+}

@@ -1,0 +1,3 @@
+break_number,interval,before_avg_momentum,after_avg_momentum,delta_after_minus_before,before_leader,after_leader
+1,25' to 29',1.2583742595523106,1.8874951993272802,0.6291209397749695,Switzerland,Switzerland
+2,67' to 72',25.28610703885401,17.004881146084973,-8.281225892769037,Switzerland,Switzerland

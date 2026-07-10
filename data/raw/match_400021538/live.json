@@ -1,0 +1,513 @@
+{
+  "IdMatch": "400021538",
+  "IdStage": "289289",
+  "IdGroup": null,
+  "IdSeason": "285023",
+  "CoverageLevel": null,
+  "IdCompetition": "17",
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Stadium": {
+    "IdStadium": "400017978",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Los Angeles Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400021920",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Los Angeles"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5048026"
+    },
+    "IsUpdateable": null
+  },
+  "ResultType": 0,
+  "MatchDay": null,
+  "MatchNumber": 98,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": null,
+  "Date": "2026-07-10T19:00:00Z",
+  "LocalDate": "2026-07-10T12:00:00Z",
+  "MatchTime": "0'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": null,
+  "Period": 0,
+  "HomeTeam": {
+    "Score": null,
+    "Side": null,
+    "IdTeam": "43969",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/ESP",
+    "IdCountry": "ESP",
+    "TeamType": 1,
+    "AgeType": 7,
+    "Tactics": null,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Spain"
+      }
+    ],
+    "Abbreviation": "ESP",
+    "Coaches": [
+      {
+        "IdCoach": "430724",
+        "IdCountry": "ESP",
+        "PictureUrl": "https://digitalhub.fifa.com/transform/d91efb8f-281e-466c-beb0-a543a3a8c9ec/DE-LA-FUENTE-Luis_430724",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Luis de la Fuente Castillo"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Luis DE LA FUENTE"
+          }
+        ],
+        "Role": 0,
+        "SpecialStatus": null
+      }
+    ],
+    "Players": [],
+    "Bookings": [],
+    "Goals": [],
+    "Substitutions": [],
+    "Staffs": [
+      {
+        "IdStaff": "227533",
+        "IdCountry": "ESP",
+        "Role": 15,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Oscar CELADA"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Oscar CELADA"
+          }
+        ]
+      },
+      {
+        "IdStaff": "301573",
+        "IdCountry": "ESP",
+        "Role": 1,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Toni GUERRA"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Toni GUERRA"
+          }
+        ]
+      },
+      {
+        "IdStaff": "388213",
+        "IdCountry": "ESP",
+        "Role": 15,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Claudio VAZQUEZ"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Claudio VAZQUEZ"
+          }
+        ]
+      },
+      {
+        "IdStaff": "440301",
+        "IdCountry": "ESP",
+        "Role": 16,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Nuria MARTINEZ"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Nuria MARTINEZ"
+          }
+        ]
+      },
+      {
+        "IdStaff": "447844",
+        "IdCountry": "ESP",
+        "Role": 12,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Carlos CRUZ"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Carlos CRUZ"
+          }
+        ]
+      },
+      {
+        "IdStaff": "168402",
+        "IdCountry": "ESP",
+        "Role": 10,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Javier LOPEZ"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Javier LOPEZ"
+          }
+        ]
+      },
+      {
+        "IdStaff": "270944",
+        "IdCountry": "ESP",
+        "Role": 2,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Miguel Angel ESPANA"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Miguel Angel ESPANA"
+          }
+        ]
+      }
+    ],
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "ESP",
+    "ShortClubName": "Spain"
+  },
+  "AwayTeam": {
+    "Score": null,
+    "Side": null,
+    "IdTeam": "43935",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/BEL",
+    "IdCountry": "BEL",
+    "TeamType": 1,
+    "AgeType": 7,
+    "Tactics": null,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Belgium"
+      }
+    ],
+    "Abbreviation": "BEL",
+    "Coaches": [
+      {
+        "IdCoach": "344378",
+        "IdCountry": "FRA",
+        "PictureUrl": "https://digitalhub.fifa.com/transform/e398c483-fb03-440a-bf59-d785e9bda878/GARCIA-Rudi_344378",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Rudi Garcia"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Rudi GARCIA"
+          }
+        ],
+        "Role": 0,
+        "SpecialStatus": null
+      }
+    ],
+    "Players": [],
+    "Bookings": [],
+    "Goals": [],
+    "Substitutions": [],
+    "Staffs": [
+      {
+        "IdStaff": "522822",
+        "IdCountry": "BEL",
+        "Role": 12,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Charle JASPERS"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Charle JASPERS"
+          }
+        ]
+      },
+      {
+        "IdStaff": "327899",
+        "IdCountry": "BEL",
+        "Role": 2,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Guy MARTENS"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Guy MARTENS"
+          }
+        ]
+      },
+      {
+        "IdStaff": "411457",
+        "IdCountry": "BEL",
+        "Role": 8,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Eddy PEPELS"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Eddy PEPELS"
+          }
+        ]
+      },
+      {
+        "IdStaff": "516937",
+        "IdCountry": "BEL",
+        "Role": 15,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Brahim HACENE"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Brahim HACENE"
+          }
+        ]
+      },
+      {
+        "IdStaff": "516939",
+        "IdCountry": "BEL",
+        "Role": 9999,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Maxim WOUTERS"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Maxim WOUTERS"
+          }
+        ]
+      },
+      {
+        "IdStaff": "522832",
+        "IdCountry": "BEL",
+        "Role": 9999,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Dylan VANHAEREN"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Dylan VANHAEREN"
+          }
+        ]
+      },
+      {
+        "IdStaff": "274622",
+        "IdCountry": "BEL",
+        "Role": 16,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Piet ERAUW"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Piet ERAUW"
+          }
+        ]
+      },
+      {
+        "IdStaff": "522828",
+        "IdCountry": "BEL",
+        "Role": 12,
+        "PictureUrl": null,
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Bram GIELEN"
+          }
+        ],
+        "Alias": [
+          {
+            "Locale": "en-GB",
+            "Description": "Bram GIELEN"
+          }
+        ]
+      }
+    ],
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "BEL",
+    "ShortClubName": "Belgium"
+  },
+  "BallPossession": null,
+  "TerritorialPossesion": null,
+  "TerritorialThirdPossesion": null,
+  "Officials": [
+    {
+      "IdCountry": "ENG",
+      "OfficialId": "347710",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLIVER"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael Oliver"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "BRA",
+      "OfficialId": "446932",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ramon ABATTI"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ramon ABATTI"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 1,
+  "GroupName": [],
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Quarter-final"
+    }
+  ],
+  "OfficialityStatus": 0,
+  "TimeDefined": true,
+  "Properties": {
+    "IdIFES": "151704"
+  },
+  "IsUpdateable": null
+}

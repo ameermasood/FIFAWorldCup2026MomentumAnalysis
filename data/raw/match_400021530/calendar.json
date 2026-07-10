@@ -1,0 +1,195 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289288",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "68777",
+  "IdMatch": "400021530",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 16"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-07-04T17:00:00Z",
+  "LocalDate": "2026-07-04T12:00:00Z",
+  "Home": {
+    "Score": 0,
+    "Side": null,
+    "IdTeam": "43899",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/CAN",
+    "IdCountry": "CAN",
+    "Tactics": "4-4-2",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Canada"
+      }
+    ],
+    "Abbreviation": "CAN",
+    "ShortClubName": "Canada",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "CAN"
+  },
+  "Away": {
+    "Score": 3,
+    "Side": null,
+    "IdTeam": "43872",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/MAR",
+    "IdCountry": "MAR",
+    "Tactics": "4-2-3-1",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Morocco"
+      }
+    ],
+    "Abbreviation": "MAR",
+    "ShortClubName": "Morocco",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "MAR"
+  },
+  "HomeTeamScore": 0,
+  "AwayTeamScore": 3,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400249385",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Houston Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400249343",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Houston"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5006825"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "100'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43872",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "W73",
+  "PlaceHolderB": "W75",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "ENG",
+      "OfficialId": "347710",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLIVER"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael Oliver"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "NED",
+      "OfficialId": "327159",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Danny MAKKELIE"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Danny Desmond Makkelie"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 1,
+  "MatchNumber": 90,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151695"
+  },
+  "IsUpdateable": null
+}

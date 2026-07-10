@@ -1,0 +1,2468 @@
+{
+  "IdStage": "289288",
+  "IdMatch": "400021529",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "1205161984",
+      "IdTeam": "43969",
+      "Timestamp": "2026-07-06T18:58:04.664Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Spain won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "1325757440",
+      "Timestamp": "2026-07-06T19:00:02.929Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "1434305540",
+      "IdTeam": "43969",
+      "IdPlayer": "484320",
+      "Timestamp": "2026-07-06T19:01:36.6Z",
+      "MatchMinute": "2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 48.150091,
+      "PositionY": 13.3597,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine YAMAL (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1494946821",
+      "IdTeam": "43969",
+      "IdPlayer": "430751",
+      "Timestamp": "2026-07-06T19:02:45.329Z",
+      "MatchMinute": "3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 76.56024000000001,
+      "PositionY": 60.25061,
+      "GoalGatePositionX": 52.924899999999994,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mikel OYARZABAL (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "254022764",
+      "IdTeam": "43963",
+      "IdPlayer": "403001",
+      "Timestamp": "2026-07-06T19:02:46.09Z",
+      "MatchMinute": "3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.28790000000001,
+      "PositionY": 50.78655680000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Portugal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1724649474",
+      "IdTeam": "43963",
+      "IdPlayer": "368649",
+      "Timestamp": "2026-07-06T19:06:31.615Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 14.87558,
+      "PositionY": 77.8236,
+      "GoalGatePositionX": 59.225646,
+      "GoalGatePositionY": 56.16375,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOAO CANCELO (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1817323521",
+      "IdTeam": "43969",
+      "IdPlayer": "430751",
+      "Timestamp": "2026-07-06T19:07:43.066Z",
+      "MatchMinute": "8'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 87.42124,
+      "PositionY": 60.01277,
+      "GoalGatePositionX": 73.20521,
+      "GoalGatePositionY": 2.2484480000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mikel OYARZABAL (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1910263816",
+      "IdTeam": "43963",
+      "IdPlayer": "395206",
+      "Timestamp": "2026-07-06T19:09:29.112Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.5250699999999999,
+      "PositionY": 1.78875,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BRUNO FERNANDES (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1910787075",
+      "IdTeam": "43963",
+      "IdPlayer": "418548",
+      "Timestamp": "2026-07-06T19:09:31.929Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "PEDRO NETO (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1986359306",
+      "IdTeam": "43963",
+      "IdPlayer": "418535",
+      "Timestamp": "2026-07-06T19:10:40.544Z",
+      "MatchMinute": "11'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 19.16625,
+      "PositionY": 13.478019999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOAO FELIX (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2013177867",
+      "IdTeam": "43963",
+      "IdPlayer": "201200",
+      "Timestamp": "2026-07-06T19:11:13.677Z",
+      "MatchMinute": "12'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 7.24211,
+      "PositionY": 70.64742000000001,
+      "GoalGatePositionX": 55.653543000000006,
+      "GoalGatePositionY": 23.8049,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "CRISTIANO RONALDO (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "774430092",
+      "IdTeam": "43969",
+      "IdPlayer": "430753",
+      "Timestamp": "2026-07-06T19:11:14.037Z",
+      "MatchMinute": "12'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 2.18634,
+      "PositionY": 58.017246,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Spain pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "2059471875",
+      "IdTeam": "43963",
+      "IdPlayer": "433195",
+      "Timestamp": "2026-07-06T19:11:57Z",
+      "MatchMinute": "12'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.44424,
+      "PositionY": 98.421,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NUNO MENDES (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "2144601093",
+      "IdTeam": "43969",
+      "IdPlayer": "447860",
+      "Timestamp": "2026-07-06T19:13:21.504Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 82.59841,
+      "PositionY": 68.64782000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex BAENA (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "138480647",
+      "IdTeam": "43969",
+      "IdPlayer": "484320",
+      "Timestamp": "2026-07-06T19:15:40.023Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 87.15138,
+      "PositionY": 30.52014,
+      "GoalGatePositionX": 38.89999,
+      "GoalGatePositionY": 2.627215,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine YAMAL (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1047824932",
+      "IdTeam": "43963",
+      "IdPlayer": "403001",
+      "Timestamp": "2026-07-06T19:15:40.643Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 96.69398,
+      "PositionY": 48.063292000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Portugal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "141809670",
+      "IdTeam": "43969",
+      "IdPlayer": "447860",
+      "Timestamp": "2026-07-06T19:15:42.725Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 85.80142,
+      "PositionY": 66.24889,
+      "GoalGatePositionX": 68.00268,
+      "GoalGatePositionY": 19.78741,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex BAENA (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1049966151",
+      "IdTeam": "43963",
+      "IdPlayer": "403001",
+      "Timestamp": "2026-07-06T19:15:43.626Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.24801,
+      "PositionY": 48.087444000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Portugal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "196097033",
+      "IdTeam": "43969",
+      "IdPlayer": "447860",
+      "Timestamp": "2026-07-06T19:16:34.377Z",
+      "MatchMinute": "17'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.45875,
+      "PositionY": 1.01974,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex BAENA (Spain) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "307362826",
+      "IdTeam": "43969",
+      "IdPlayer": "447860",
+      "Timestamp": "2026-07-06T19:18:10.133Z",
+      "MatchMinute": "19'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 97.28362,
+      "PositionY": 84.4259,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex BAENA (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "432615434",
+      "IdTeam": "43963",
+      "IdPlayer": "395206",
+      "Timestamp": "2026-07-06T19:20:07.929Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BRUNO FERNANDES (Portugal) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "502609932",
+      "IdTeam": "43963",
+      "IdPlayer": "368649",
+      "Timestamp": "2026-07-06T19:21:25.568Z",
+      "MatchMinute": "22'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 78.23571,
+      "PositionY": 89.08285000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOAO CANCELO (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "554061837",
+      "IdTeam": "43969",
+      "IdPlayer": "430144",
+      "Timestamp": "2026-07-06T19:22:24.987Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 73.48893,
+      "PositionY": 48.032001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pedro PORRO (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "564411406",
+      "Timestamp": "2026-07-06T19:22:30.929Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "771050509",
+      "Timestamp": "2026-07-06T19:25:58.612Z",
+      "MatchMinute": "26'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "965458958",
+      "IdTeam": "43963",
+      "IdPlayer": "418548",
+      "Timestamp": "2026-07-06T19:28:53.375Z",
+      "MatchMinute": "29'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 31.692310000000003,
+      "PositionY": 66.58669,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "PEDRO NETO (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1012404241",
+      "IdTeam": "43969",
+      "IdPlayer": "447860",
+      "Timestamp": "2026-07-06T19:29:54.396Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 85.73231,
+      "PositionY": 1.96635,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex BAENA (Spain) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1027962898",
+      "IdTeam": "43969",
+      "IdPlayer": "430750",
+      "Timestamp": "2026-07-06T19:30:08.25Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 93.23029000000001,
+      "PositionY": 40.991870000000006,
+      "GoalGatePositionX": 14.5572,
+      "GoalGatePositionY": 9.570038,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dani OLMO (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1070538769",
+      "IdTeam": "43969",
+      "IdPlayer": "335999",
+      "Timestamp": "2026-07-06T19:30:40.582Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 61.44657,
+      "PositionY": 80.26043,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Aymeric LAPORTE (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1278368787",
+      "IdTeam": "43969",
+      "IdPlayer": "484320",
+      "Timestamp": "2026-07-06T19:34:04.506Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 83.65,
+      "PositionY": 15.26936,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine YAMAL (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1427833876",
+      "IdTeam": "43963",
+      "IdPlayer": "201200",
+      "Timestamp": "2026-07-06T19:36:37.719Z",
+      "MatchMinute": "37'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.55405,
+      "PositionY": 41.771376,
+      "GoalGatePositionX": 45.604875,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "CRISTIANO RONALDO (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "189306026",
+      "IdTeam": "43969",
+      "IdPlayer": "430753",
+      "Timestamp": "2026-07-06T19:36:38.5Z",
+      "MatchMinute": "37'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.44183,
+      "PositionY": 46.350733999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Spain pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1584167954",
+      "IdTeam": "43969",
+      "IdPlayer": "430144",
+      "Timestamp": "2026-07-06T19:39:03.024Z",
+      "MatchMinute": "39'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 64.28944,
+      "PositionY": 3.9606000000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pedro PORRO (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1679452179",
+      "IdTeam": "43963",
+      "IdPlayer": "433195",
+      "Timestamp": "2026-07-06T19:40:43.925Z",
+      "MatchMinute": "41'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.52163,
+      "PositionY": 98.68913,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NUNO MENDES (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1685583894",
+      "IdTeam": "43963",
+      "IdPlayer": "433195",
+      "Timestamp": "2026-07-06T19:40:49.911Z",
+      "MatchMinute": "41'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 15.745310000000002,
+      "PositionY": 72.64459,
+      "GoalGatePositionX": 29.26271,
+      "GoalGatePositionY": 15.586910000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NUNO MENDES (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1941175316",
+      "IdTeam": "43969",
+      "IdPlayer": "411375",
+      "Timestamp": "2026-07-06T19:45:00.041Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 76.28446,
+      "PositionY": 36.43792,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RODRI (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2046811160",
+      "IdTeam": "43969",
+      "IdPlayer": "484320",
+      "Timestamp": "2026-07-06T19:46:26.929Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine YAMAL (Spain) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "2094483480",
+      "IdTeam": "43963",
+      "IdPlayer": "384752",
+      "Timestamp": "2026-07-06T19:47:01.743Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 70.77405,
+      "PositionY": 67.67445,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RUBEN DIAS (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "23969820",
+      "IdTeam": "43969",
+      "IdPlayer": "474973",
+      "Timestamp": "2026-07-06T19:48:01.929Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pau CUBARSI (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "121538587",
+      "IdTeam": "43963",
+      "IdPlayer": "418535",
+      "Timestamp": "2026-07-06T19:50:11.212Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 16.088440000000002,
+      "PositionY": 75.54461,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOAO FELIX (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "170851354",
+      "Timestamp": "2026-07-06T19:51:09.627Z",
+      "MatchMinute": "45'+7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1182601245",
+      "Timestamp": "2026-07-06T20:07:37.549Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "1342339100",
+      "IdTeam": "43969",
+      "IdPlayer": "430750",
+      "Timestamp": "2026-07-06T20:10:03.463Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 71.1589,
+      "PositionY": 21.98444,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dani OLMO (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1467330591",
+      "IdTeam": "43969",
+      "IdPlayer": "484320",
+      "Timestamp": "2026-07-06T20:12:06.166Z",
+      "MatchMinute": "50'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 12.37777,
+      "PositionY": 70.01452,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine YAMAL (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1816513568",
+      "IdTeam": "43963",
+      "IdPlayer": "395212",
+      "IdSubPlayer": "433195",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-06T20:17:42.892Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NELSON SEMEDO (in) comes off the bench to replace NUNO MENDES (out) (Portugal)"
+        }
+      ]
+    },
+    {
+      "EventId": "1934637083",
+      "IdTeam": "43963",
+      "IdPlayer": "201200",
+      "Timestamp": "2026-07-06T20:19:39.549Z",
+      "MatchMinute": "58'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "CRISTIANO RONALDO (Portugal) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "2020733986",
+      "IdTeam": "43963",
+      "IdPlayer": "201200",
+      "Timestamp": "2026-07-06T20:21:14.994Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 97.01313999999999,
+      "PositionY": 36.0814,
+      "GoalGatePositionX": 74.14218,
+      "GoalGatePositionY": 7.356437000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "CRISTIANO RONALDO (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2122111005",
+      "IdTeam": "43969",
+      "IdPlayer": "484320",
+      "Timestamp": "2026-07-06T20:22:42.261Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 12.1607,
+      "PositionY": 80.8234,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine YAMAL (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2141721635",
+      "IdTeam": "43969",
+      "IdPlayer": "423646",
+      "Timestamp": "2026-07-06T20:23:12.732Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.25763,
+      "PositionY": 47.686448,
+      "GoalGatePositionX": 51.97099899999999,
+      "GoalGatePositionY": 63.476220000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "PEDRI (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "25384996",
+      "IdTeam": "43969",
+      "IdPlayer": "447860",
+      "Timestamp": "2026-07-06T20:23:39.479Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.30563,
+      "PositionY": 1.49878,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex BAENA (Spain) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "33345565",
+      "IdTeam": "43969",
+      "IdPlayer": "484320",
+      "Timestamp": "2026-07-06T20:23:44.544Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 23.60417,
+      "PositionY": 36.87446,
+      "GoalGatePositionX": 38.53267,
+      "GoalGatePositionY": 29.99529,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine YAMAL (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "60943390",
+      "IdTeam": "43969",
+      "IdPlayer": "447860",
+      "Timestamp": "2026-07-06T20:24:18.417Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.39283,
+      "PositionY": 1.78615,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex BAENA (Spain) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "130297896",
+      "IdTeam": "43969",
+      "IdPlayer": "423646",
+      "Timestamp": "2026-07-06T20:25:16.956Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 62.07768,
+      "PositionY": 34.76724,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "PEDRI (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "251141156",
+      "IdTeam": "43969",
+      "IdPlayer": "447860",
+      "Timestamp": "2026-07-06T20:27:23.923Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 15.512929999999999,
+      "PositionY": 35.394330000000004,
+      "GoalGatePositionX": 61.23722,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex BAENA (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1165322336",
+      "IdTeam": "43963",
+      "IdPlayer": "403001",
+      "Timestamp": "2026-07-06T20:27:24.623Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 3.92622,
+      "PositionY": 48.416427,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Portugal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "423070762",
+      "Timestamp": "2026-07-06T20:30:09.549Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "618886182",
+      "IdTeam": "43963",
+      "IdPlayer": "418550",
+      "IdSubPlayer": "418535",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-06T20:33:11.292Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RAFAEL LEAO (in) comes off the bench to replace JOAO FELIX (out) (Portugal)"
+        }
+      ]
+    },
+    {
+      "EventId": "618886183",
+      "IdTeam": "43963",
+      "IdPlayer": "403002",
+      "IdSubPlayer": "368649",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-06T20:33:11.292Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "DIOGO DALOT (in) comes off the bench to replace JOAO CANCELO (out) (Portugal)"
+        }
+      ]
+    },
+    {
+      "EventId": "644447262",
+      "Timestamp": "2026-07-06T20:33:49.268Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "670940201",
+      "IdTeam": "43963",
+      "IdPlayer": "395212",
+      "Timestamp": "2026-07-06T20:34:04.943Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 16.45975,
+      "PositionY": 84.53742,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NELSON SEMEDO (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "726086688",
+      "IdTeam": "43969",
+      "IdPlayer": "484320",
+      "Timestamp": "2026-07-06T20:35:05.284Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 15.65235,
+      "PositionY": 81.73759000000001,
+      "GoalGatePositionX": 45.373163,
+      "GoalGatePositionY": 37.29455,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine YAMAL (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1631833456",
+      "IdTeam": "43963",
+      "IdPlayer": "403001",
+      "Timestamp": "2026-07-06T20:35:06.265Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.3606,
+      "PositionY": 51.048247,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Portugal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "750732331",
+      "IdTeam": "43969",
+      "IdPlayer": "447860",
+      "Timestamp": "2026-07-06T20:35:29.868Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.39957,
+      "PositionY": 1.4515200000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex BAENA (Spain) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "872663074",
+      "IdTeam": "43969",
+      "IdPlayer": "405545",
+      "IdSubPlayer": "447860",
+      "IdSubTeam": "43969",
+      "Timestamp": "2026-07-06T20:37:25.763Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ferran TORRES (in) comes off the bench to replace Alex BAENA (out) (Spain)"
+        }
+      ]
+    },
+    {
+      "EventId": "892006443",
+      "IdTeam": "43963",
+      "IdPlayer": "441149",
+      "Timestamp": "2026-07-06T20:37:50.549Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 77.02591,
+      "PositionY": 59.009822,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "VITINHA (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "895588396",
+      "IdTeam": "43963",
+      "IdPlayer": "395206",
+      "Timestamp": "2026-07-06T20:37:53.832Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.64698,
+      "PositionY": 30.753570000000003,
+      "GoalGatePositionX": 71.49839,
+      "GoalGatePositionY": 26.01951,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BRUNO FERNANDES (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "991821855",
+      "IdTeam": "43969",
+      "IdPlayer": "405545",
+      "Timestamp": "2026-07-06T20:39:26.825Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 0.64938,
+      "PositionY": 66.40971,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ferran TORRES (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1057817637",
+      "IdTeam": "43969",
+      "IdPlayer": "430750",
+      "Timestamp": "2026-07-06T20:40:32.03Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 12.05056,
+      "PositionY": 67.03301,
+      "GoalGatePositionX": 47.493222,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dani OLMO (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1091701793",
+      "IdTeam": "43969",
+      "IdPlayer": "484320",
+      "Timestamp": "2026-07-06T20:41:01.66Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.23387999999999998,
+      "PositionY": 98.50264,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine YAMAL (Spain) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1160306726",
+      "IdTeam": "43969",
+      "IdPlayer": "484320",
+      "Timestamp": "2026-07-06T20:42:04.483Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine YAMAL (Spain) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1169144866",
+      "IdTeam": "43969",
+      "IdPlayer": "411375",
+      "Timestamp": "2026-07-06T20:42:06.549Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RODRI (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1341277231",
+      "IdTeam": "43963",
+      "IdPlayer": "395205",
+      "IdSubPlayer": "441149",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-06T20:44:49.003Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BERNARDO SILVA (in) comes off the bench to replace VITINHA (out) (Portugal)"
+        }
+      ]
+    },
+    {
+      "EventId": "1341277230",
+      "IdTeam": "43963",
+      "IdPlayer": "485081",
+      "IdSubPlayer": "418548",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-06T20:44:49.003Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "FRANCISCO CONCEICAO (in) comes off the bench to replace PEDRO NETO (out) (Portugal)"
+        }
+      ]
+    },
+    {
+      "EventId": "1501911078",
+      "IdTeam": "43969",
+      "IdPlayer": "484320",
+      "Timestamp": "2026-07-06T20:45:38.456Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 41.835767000000004,
+      "PositionY": 95.3979,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine YAMAL (Spain) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1469545514",
+      "IdTeam": "43969",
+      "IdPlayer": "430733",
+      "IdSubPlayer": "430750",
+      "IdSubTeam": "43969",
+      "Timestamp": "2026-07-06T20:47:01.229Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mikel MERINO (in) comes off the bench to replace Dani OLMO (out) (Spain)"
+        }
+      ]
+    },
+    {
+      "EventId": "1469545515",
+      "IdTeam": "43969",
+      "IdPlayer": "430718",
+      "IdSubPlayer": "423646",
+      "IdSubTeam": "43969",
+      "Timestamp": "2026-07-06T20:47:01.229Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fabian RUIZ (in) comes off the bench to replace PEDRI (out) (Spain)"
+        }
+      ]
+    },
+    {
+      "EventId": "1695860784",
+      "IdTeam": "43963",
+      "IdPlayer": "395205",
+      "Timestamp": "2026-07-06T20:50:43.261Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 63.372620000000005,
+      "PositionY": 10.53204,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BERNARDO SILVA (Portugal) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1806117938",
+      "IdTeam": "43963",
+      "IdPlayer": "395205",
+      "Timestamp": "2026-07-06T20:52:33.791Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 33.63717,
+      "PositionY": 46.702835,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BERNARDO SILVA (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1835130926",
+      "IdTeam": "43969",
+      "IdPlayer": "405545",
+      "IdSubPlayer": "430733",
+      "IdSubTeam": "43969",
+      "Timestamp": "2026-07-06T20:52:43.021Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 24.47436,
+      "PositionY": 42.047269,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Ferran TORRES."
+        }
+      ]
+    },
+    {
+      "EventId": "1816196148",
+      "IdTeam": "43969",
+      "IdPlayer": "430733",
+      "Timestamp": "2026-07-06T20:52:44.742Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.550460000000001,
+      "PositionY": 41.646446999999995,
+      "GoalGatePositionX": 35.23493,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mikel MERINO (Spain) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1816196150",
+      "IdTeam": "43969",
+      "IdPlayer": "430733",
+      "IdSubPlayer": "405545",
+      "IdSubTeam": "43969",
+      "Timestamp": "2026-07-06T20:52:44.742Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 10.550460000000001,
+      "PositionY": 41.646446999999995,
+      "GoalGatePositionX": 35.23493,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mikel MERINO (Spain) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1997970488",
+      "IdTeam": "43963",
+      "IdPlayer": "489704",
+      "Timestamp": "2026-07-06T20:55:34.352Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 65.70772000000001,
+      "PositionY": 96.94327,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RENATO VEIGA (Portugal) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "22581296",
+      "IdTeam": "43963",
+      "IdPlayer": "395205",
+      "Timestamp": "2026-07-06T20:58:38.396Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 94.17130999999999,
+      "PositionY": 45.999373,
+      "GoalGatePositionX": 44.111644999999996,
+      "GoalGatePositionY": 50.515620000000006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BERNARDO SILVA (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "74932281",
+      "IdTeam": "43969",
+      "IdPlayer": "447864",
+      "IdSubPlayer": "430751",
+      "IdSubTeam": "43969",
+      "Timestamp": "2026-07-06T20:59:22.979Z",
+      "MatchMinute": "90'+7'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Borja IGLESIAS (in) comes off the bench to replace Mikel OYARZABAL (out) (Spain)"
+        }
+      ]
+    },
+    {
+      "EventId": "153596981",
+      "IdTeam": "43969",
+      "IdPlayer": "405545",
+      "Timestamp": "2026-07-06T21:00:30.388Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 70.47976,
+      "PositionY": 10.00679,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ferran TORRES (Spain) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "184755258",
+      "IdTeam": "43963",
+      "IdPlayer": "484141",
+      "Timestamp": "2026-07-06T21:01:15.993Z",
+      "MatchMinute": "90'+9'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.09245999999999,
+      "PositionY": 40.927113999999996,
+      "GoalGatePositionX": 22.99982,
+      "GoalGatePositionY": 19.91867,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOAO NEVES (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "193863738",
+      "Timestamp": "2026-07-06T21:01:26.371Z",
+      "MatchMinute": "90'+9'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "230253627",
+      "Timestamp": "2026-07-06T21:02:01.473Z",
+      "MatchMinute": "99'",
+      "Period": 10,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

@@ -1,0 +1,172 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289287",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "68777",
+  "IdMatch": "400021516",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 32"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-06-29T17:00:00Z",
+  "LocalDate": "2026-06-29T12:00:00Z",
+  "Home": {
+    "Score": 2,
+    "Side": null,
+    "IdTeam": "43924",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/BRA",
+    "IdCountry": "BRA",
+    "Tactics": "4-1-2-3",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Brazil"
+      }
+    ],
+    "Abbreviation": "BRA",
+    "ShortClubName": "Brazil",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "BRA"
+  },
+  "Away": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "43819",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/JPN",
+    "IdCountry": "JPN",
+    "Tactics": "3-4-3",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Japan"
+      }
+    ],
+    "Abbreviation": "JPN",
+    "ShortClubName": "Japan",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "JPN"
+  },
+  "HomeTeamScore": 2,
+  "AwayTeamScore": 1,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400249385",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Houston Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400249343",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Houston"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5006825"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "101'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43924",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "1C",
+  "PlaceHolderB": "2F",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "ITA",
+      "OfficialId": "415965",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Maurizio MARIANI"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Maurizio Mariani"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 1,
+  "MatchNumber": 76,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151681"
+  },
+  "IsUpdateable": null
+}

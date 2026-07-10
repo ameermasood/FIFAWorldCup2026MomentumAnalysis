@@ -1,0 +1,2317 @@
+{
+  "IdStage": "289288",
+  "IdMatch": "400021533",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "185695320",
+      "IdTeam": "43928",
+      "Timestamp": "2026-07-04T21:00:48.18Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 80,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Paraguay won the coin toss and chose the side"
+        }
+      ]
+    },
+    {
+      "EventId": "338287700",
+      "Timestamp": "2026-07-04T21:03:47.103Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "733178969",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-04T21:10:08.814Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.08021,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1059346500",
+      "IdTeam": "43946",
+      "IdPlayer": "485677",
+      "Timestamp": "2026-07-04T21:15:22.988Z",
+      "MatchMinute": "12'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 59.356083999999996,
+      "PositionY": 36.60774,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Manu KONE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1163745350",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-04T21:17:00.185Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 13.47732,
+      "PositionY": 84.96687,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1419376726",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-04T21:21:20.605Z",
+      "MatchMinute": "18'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 99.91978999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1481671768",
+      "IdTeam": "43946",
+      "IdPlayer": "484860",
+      "Timestamp": "2026-07-04T21:22:08.193Z",
+      "MatchMinute": "19'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 46.998349,
+      "PositionY": 11.28636,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bradley BARCOLA (France) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1660347464",
+      "IdTeam": "43946",
+      "IdPlayer": "485677",
+      "Timestamp": "2026-07-04T21:25:16.681Z",
+      "MatchMinute": "22'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 23.35851,
+      "PositionY": 56.597446,
+      "GoalGatePositionX": 42.374036,
+      "GoalGatePositionY": 67.84432,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Manu KONE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1686666330",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-04T21:25:41.166Z",
+      "MatchMinute": "22'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.08021,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1743913053",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-04T21:26:32.877Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.42553,
+      "PositionY": 1.6130200000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1744596039",
+      "Timestamp": "2026-07-04T21:26:40.783Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1949616201",
+      "Timestamp": "2026-07-04T21:30:00.901Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "2029260894",
+      "IdTeam": "43928",
+      "IdPlayer": "369749",
+      "Timestamp": "2026-07-04T21:31:18.102Z",
+      "MatchMinute": "28'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 74.95172,
+      "PositionY": 64.73010000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Junior ALONSO (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2031214684",
+      "IdTeam": "43928",
+      "IdPlayer": "463128",
+      "Timestamp": "2026-07-04T21:31:19.884Z",
+      "MatchMinute": "28'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 78.74396999999999,
+      "PositionY": 35.15877,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Diego GOMEZ (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2144412769",
+      "IdTeam": "43946",
+      "IdPlayer": "484860",
+      "Timestamp": "2026-07-04T21:32:50.314Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 26.26109,
+      "PositionY": 34.72213,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bradley BARCOLA (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "41524319",
+      "IdTeam": "43928",
+      "IdPlayer": "424422",
+      "Timestamp": "2026-07-04T21:33:45.95Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 79.02445,
+      "PositionY": 24.16993,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Matias GALARZA (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "176799822",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-07-04T21:36:05.87Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 24.15149,
+      "PositionY": 46.248318,
+      "GoalGatePositionX": 53.476175999999995,
+      "GoalGatePositionY": 73.28892,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "217536592",
+      "IdTeam": "43946",
+      "IdPlayer": "419177",
+      "Timestamp": "2026-07-04T21:36:31.876Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 64.47439,
+      "PositionY": 29.67159,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "William SALIBA (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "263508066",
+      "IdTeam": "43928",
+      "IdPlayer": "486875",
+      "Timestamp": "2026-07-04T21:37:14.759Z",
+      "MatchMinute": "34'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 95.99655,
+      "PositionY": 64.26393999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo VELAZQUEZ (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "349766758",
+      "IdTeam": "43928",
+      "IdPlayer": "385306",
+      "Timestamp": "2026-07-04T21:37:45.87Z",
+      "MatchMinute": "34'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 24.50847,
+      "PositionY": 28.811799999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Andres CUBAS (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "384071755",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-04T21:39:24.969Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.08021,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "432160846",
+      "IdTeam": "43946",
+      "IdPlayer": "389876",
+      "Timestamp": "2026-07-04T21:39:25.103Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dayot UPAMECANO (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "523350120",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-04T21:41:43.587Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 14.82701,
+      "PositionY": 73.6283,
+      "GoalGatePositionX": 36.65329,
+      "GoalGatePositionY": 54.29242,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "594413674",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-04T21:42:51.175Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.38823,
+      "PositionY": 1.47214,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1050128488",
+      "IdTeam": "43928",
+      "IdPlayer": "441234",
+      "Timestamp": "2026-07-04T21:43:37.561Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 81.54635,
+      "PositionY": 53.224943999999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Julio ENCISO (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "714284120",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-04T21:44:47.631Z",
+      "MatchMinute": "41'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.44574,
+      "PositionY": 98.55613,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "829178969",
+      "IdTeam": "43946",
+      "IdPlayer": "485677",
+      "Timestamp": "2026-07-04T21:46:42.906Z",
+      "MatchMinute": "43'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.89283,
+      "PositionY": 38.537189999999995,
+      "GoalGatePositionX": 69.28277,
+      "GoalGatePositionY": 78.41828,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Manu KONE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "955643988",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-07-04T21:48:44.828Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.508509999999998,
+      "PositionY": 37.578309999999995,
+      "GoalGatePositionX": 47.128763,
+      "GoalGatePositionY": 29.72382,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1868921839",
+      "IdTeam": "43928",
+      "IdPlayer": "494531",
+      "Timestamp": "2026-07-04T21:48:46.67Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.93008,
+      "PositionY": 56.323814000000006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Paraguay pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1153010797",
+      "Timestamp": "2026-07-04T21:52:00.041Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "54929499",
+      "Timestamp": "2026-07-04T22:09:04.733Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "111405149",
+      "IdTeam": "43946",
+      "IdPlayer": "368860",
+      "Timestamp": "2026-07-04T22:09:42.324Z",
+      "MatchMinute": "46'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 43.879543999999996,
+      "PositionY": 85.07155,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lucas DIGNE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "164754539",
+      "IdTeam": "43928",
+      "IdPlayer": "486875",
+      "Timestamp": "2026-07-04T22:10:43.886Z",
+      "MatchMinute": "47'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 33.7453,
+      "PositionY": 15.42878,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo VELAZQUEZ (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "270378078",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-07-04T22:12:34.317Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 76.79372,
+      "PositionY": 40.420602,
+      "GoalGatePositionX": 57.943129000000006,
+      "GoalGatePositionY": 67.40208,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "310962263",
+      "IdTeam": "43928",
+      "IdPlayer": "369761",
+      "Timestamp": "2026-07-04T22:13:13.496Z",
+      "MatchMinute": "50'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 8.87184,
+      "PositionY": 71.67285,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Miguel ALMIRON (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "374647920",
+      "IdTeam": "43928",
+      "IdPlayer": "369761",
+      "Timestamp": "2026-07-04T22:14:13.456Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 99.91978999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Miguel ALMIRON (Paraguay) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "426683506",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-04T22:15:04.046Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.61023,
+      "PositionY": 98.70332,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "426667121",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-04T22:15:06.589Z",
+      "MatchMinute": "52'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 98.68028,
+      "PositionY": 64.3762,
+      "GoalGatePositionX": 22.43125,
+      "GoalGatePositionY": 12.06457,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "607109228",
+      "IdTeam": "43946",
+      "IdPlayer": "485677",
+      "Timestamp": "2026-07-04T22:18:02.865Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 76.51966999999999,
+      "PositionY": 66.87389999999999,
+      "GoalGatePositionX": 61.868480000000005,
+      "GoalGatePositionY": 46.54778,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Manu KONE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1514858693",
+      "IdTeam": "43928",
+      "IdPlayer": "494531",
+      "Timestamp": "2026-07-04T22:18:03.826Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.23219,
+      "PositionY": 48.878058,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Paraguay pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "642033761",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-04T22:18:35.477Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.52476,
+      "PositionY": 1.5682,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "724417646",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-04T22:19:55.457Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.77265,
+      "PositionY": 98.54708,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "852908143",
+      "IdTeam": "43928",
+      "IdPlayer": "520066",
+      "IdSubPlayer": "431202",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-07-04T22:21:58.985Z",
+      "MatchMinute": "58'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jose CANALE (in) comes off the bench to replace Omar ALDERETE (out) (Paraguay)"
+        }
+      ]
+    },
+    {
+      "EventId": "948373593",
+      "IdTeam": "43946",
+      "IdPlayer": "484860",
+      "Timestamp": "2026-07-04T22:23:36.638Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 77.92701,
+      "PositionY": 60.14829,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bradley BARCOLA (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "996062320",
+      "IdTeam": "43928",
+      "IdPlayer": "485804",
+      "IdSubPlayer": "441234",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-07-04T22:24:18.504Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo CABALLERO (in) comes off the bench to replace Julio ENCISO (out) (Paraguay)"
+        }
+      ]
+    },
+    {
+      "EventId": "1021519988",
+      "IdTeam": "43946",
+      "IdPlayer": "464114",
+      "IdSubPlayer": "484860",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-07-04T22:24:44.761Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Desire DOUE (in) comes off the bench to replace Bradley BARCOLA (out) (France)"
+        }
+      ]
+    },
+    {
+      "EventId": "1184205923",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-04T22:27:26.688Z",
+      "MatchMinute": "64'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 75.90217,
+      "PositionY": 68.4749,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1421889629",
+      "IdTeam": "43928",
+      "IdPlayer": "463128",
+      "Timestamp": "2026-07-04T22:28:57.459Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 88.42334,
+      "PositionY": 63.65693,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Diego GOMEZ (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1411911797",
+      "Timestamp": "2026-07-04T22:29:49.616Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 71,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "VAR"
+        }
+      ],
+      "VarNotificationData": {
+        "Incident": 4,
+        "Reason": 0,
+        "Status": 0,
+        "Result": 3
+      },
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty given"
+        }
+      ]
+    },
+    {
+      "EventId": "1549690974",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "IdSubPlayer": "494531",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-07-04T22:33:21.643Z",
+      "MatchMinute": "70'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 6,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Awarded"
+        }
+      ],
+      "PositionX": 89.74733,
+      "PositionY": 49.8952312,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": []
+    },
+    {
+      "EventId": "1549700215",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-04T22:33:21.643Z",
+      "MatchMinute": "70'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.74733,
+      "PositionY": 49.8952312,
+      "GoalGatePositionX": 63.314919999999994,
+      "GoalGatePositionY": 3.9957270000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1549700217",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-04T22:33:21.643Z",
+      "MatchMinute": "70'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 89.74733,
+      "PositionY": 49.8952312,
+      "GoalGatePositionX": 63.314919999999994,
+      "GoalGatePositionY": 3.9957270000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "1660013692",
+      "IdTeam": "43928",
+      "IdPlayer": "463127",
+      "IdSubPlayer": "369761",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-07-04T22:34:32.262Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gabriel AVALOS (in) comes off the bench to replace Miguel ALMIRON (out) (Paraguay)"
+        }
+      ]
+    },
+    {
+      "EventId": "1660013693",
+      "IdTeam": "43928",
+      "IdPlayer": "495046",
+      "IdSubPlayer": "463128",
+      "IdSubTeam": "43928",
+      "Timestamp": "2026-07-04T22:34:32.262Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MAURICIO (in) comes off the bench to replace Diego GOMEZ (out) (Paraguay)"
+        }
+      ]
+    },
+    {
+      "EventId": "1724821631",
+      "IdTeam": "43928",
+      "IdPlayer": "385306",
+      "Timestamp": "2026-07-04T22:35:59.901Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 49.8064562,
+      "PositionY": 65.88445,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Andres CUBAS (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1732692069",
+      "Timestamp": "2026-07-04T22:36:23.371Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1932081280",
+      "Timestamp": "2026-07-04T22:39:29.733Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "2021537897",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-04T22:40:30.831Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 73.90583,
+      "PositionY": 79.7598,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "52743271",
+      "IdTeam": "43928",
+      "IdPlayer": "463127",
+      "Timestamp": "2026-07-04T22:43:31.332Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 10.947510000000001,
+      "PositionY": 35.81286,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gabriel AVALOS (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "120622211",
+      "IdTeam": "43946",
+      "IdPlayer": "485677",
+      "Timestamp": "2026-07-04T22:44:51.352Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 54.030936,
+      "PositionY": 24.27745,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Manu KONE (France) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "275065975",
+      "IdTeam": "43928",
+      "IdPlayer": "485804",
+      "Timestamp": "2026-07-04T22:47:20.821Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 58.032048,
+      "PositionY": 41.805128,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo CABALLERO (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "297092200",
+      "IdTeam": "43946",
+      "IdPlayer": "431861",
+      "IdSubPlayer": "398680",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-07-04T22:47:53.859Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Rayan CHERKI (in) comes off the bench to replace Ousmane DEMBELE (out) (France)"
+        }
+      ]
+    },
+    {
+      "EventId": "436063352",
+      "IdTeam": "43928",
+      "IdPlayer": "369749",
+      "Timestamp": "2026-07-04T22:50:13.113Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.59808,
+      "PositionY": 33.98162,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Junior ALONSO (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "480983151",
+      "IdTeam": "43928",
+      "IdPlayer": "424422",
+      "Timestamp": "2026-07-04T22:50:46.687Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 40.81029,
+      "PositionY": 41.354732999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Matias GALARZA (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "561088647",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-04T22:52:15.195Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.85421000000001,
+      "PositionY": 62.75052,
+      "GoalGatePositionX": 63.42346,
+      "GoalGatePositionY": 13.14041,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1473557506",
+      "IdTeam": "43928",
+      "IdPlayer": "494531",
+      "Timestamp": "2026-07-04T22:52:15.836Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 96.58533,
+      "PositionY": 48.71249,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Paraguay pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "640694394",
+      "IdTeam": "43928",
+      "IdPlayer": "495046",
+      "Timestamp": "2026-07-04T22:53:32.913Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 21.39001,
+      "PositionY": 54.705406,
+      "GoalGatePositionX": 30.69166,
+      "GoalGatePositionY": 3.909238,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MAURICIO (Paraguay) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "702651504",
+      "IdTeam": "43946",
+      "IdPlayer": "464114",
+      "Timestamp": "2026-07-04T22:54:33.894Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 83.21815000000001,
+      "PositionY": 68.07518999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Desire DOUE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "736897163",
+      "IdTeam": "43928",
+      "IdPlayer": "424422",
+      "Timestamp": "2026-07-04T22:54:56.056Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 70.02585,
+      "PositionY": 58.546579,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Matias GALARZA (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "814119026",
+      "IdTeam": "43928",
+      "IdPlayer": "485804",
+      "Timestamp": "2026-07-04T22:56:03.403Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 12.43099,
+      "PositionY": 2.63243,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo CABALLERO (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "915018876",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-04T22:58:00.42Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.53184,
+      "PositionY": 1.3847699999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1038616692",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-04T23:00:01Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 86.1256,
+      "PositionY": 56.15583899999999,
+      "GoalGatePositionX": 38.86811,
+      "GoalGatePositionY": 12.56372,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1947637032",
+      "IdTeam": "43928",
+      "IdPlayer": "494531",
+      "Timestamp": "2026-07-04T23:00:01.441Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.00278999999999,
+      "PositionY": 53.977949,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Paraguay pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1039800428",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-04T23:00:02.942Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 86.1256,
+      "PositionY": 56.15583899999999,
+      "GoalGatePositionX": 38.86811,
+      "GoalGatePositionY": 12.56372,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1085434990",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-04T23:00:22.682Z",
+      "MatchMinute": "90'+7'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 48.240918,
+      "PositionY": 17.363999999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1096589454",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-04T23:00:26.015Z",
+      "MatchMinute": "90'+7'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1165448305",
+      "IdTeam": "43928",
+      "IdPlayer": "495046",
+      "Timestamp": "2026-07-04T23:02:03.263Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.40213000000000004,
+      "PositionY": 98.15714,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "MAURICIO (Paraguay) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1209459831",
+      "IdTeam": "43928",
+      "IdPlayer": "479601",
+      "Timestamp": "2026-07-04T23:02:32.312Z",
+      "MatchMinute": "90'+9'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 90.64744999999999,
+      "PositionY": 98.08176,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan Jose CACERES (Paraguay) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1262679171",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-04T23:03:39.639Z",
+      "MatchMinute": "90'+10'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.26097,
+      "PositionY": 99.03005999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1287727237",
+      "IdTeam": "43946",
+      "IdPlayer": "464114",
+      "Timestamp": "2026-07-04T23:03:49.369Z",
+      "MatchMinute": "90'+10'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 88.88726,
+      "PositionY": 95.31428,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Desire DOUE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1310793843",
+      "Timestamp": "2026-07-04T23:04:28.727Z",
+      "MatchMinute": "90'+11'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1358678136",
+      "IdTeam": "43928",
+      "IdPerson": "448291",
+      "Timestamp": "2026-07-04T23:04:54.729Z",
+      "MatchMinute": "90'",
+      "Period": 10,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Carlos GONZALEZ (Paraguay) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1750990964",
+      "Timestamp": "2026-07-04T23:11:38.502Z",
+      "MatchMinute": "101'",
+      "Period": 10,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

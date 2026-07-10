@@ -1,0 +1,2725 @@
+{
+  "IdStage": "289287",
+  "IdMatch": "400021526",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "900194380",
+      "IdTeam": "43938",
+      "Timestamp": "2026-07-02T22:57:47.417Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Croatia won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "1038480462",
+      "Timestamp": "2026-07-02T23:00:02.682Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "1200088128",
+      "IdTeam": "43938",
+      "IdPlayer": "430070",
+      "Timestamp": "2026-07-02T23:02:39.731Z",
+      "MatchMinute": "3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 14.121500000000001,
+      "PositionY": 39.664739999999995,
+      "GoalGatePositionX": 32.31315,
+      "GoalGatePositionY": 2.619986,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ante BUDIMIR (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1260404815",
+      "IdTeam": "43963",
+      "IdPlayer": "395206",
+      "Timestamp": "2026-07-02T23:03:38.289Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.20628,
+      "PositionY": 57.01348899999999,
+      "GoalGatePositionX": 43.122588,
+      "GoalGatePositionY": 6.454189,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BRUNO FERNANDES (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "24692889",
+      "IdTeam": "43938",
+      "IdPlayer": "369029",
+      "Timestamp": "2026-07-02T23:03:38.77Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.18101,
+      "PositionY": 53.08752,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Croatia pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1261396046",
+      "IdTeam": "43963",
+      "IdPlayer": "395206",
+      "Timestamp": "2026-07-02T23:03:39.791Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 95.25898000000001,
+      "PositionY": 58.65588,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BRUNO FERNANDES (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1266741327",
+      "IdTeam": "43963",
+      "IdPlayer": "441149",
+      "Timestamp": "2026-07-02T23:03:43.034Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.76326,
+      "PositionY": 53.17628800000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "VITINHA (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1379831874",
+      "IdTeam": "43938",
+      "IdPlayer": "485066",
+      "Timestamp": "2026-07-02T23:05:25.476Z",
+      "MatchMinute": "6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 47.618044999999995,
+      "PositionY": 48.319307,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Petar SUCIC (Croatia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1447803973",
+      "IdTeam": "43963",
+      "IdPlayer": "418550",
+      "Timestamp": "2026-07-02T23:06:40.431Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.09426,
+      "PositionY": 0.6532300000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RAFAEL LEAO (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1454895170",
+      "IdTeam": "43963",
+      "IdPlayer": "368649",
+      "Timestamp": "2026-07-02T23:06:48.88Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.79605,
+      "PositionY": 47.301517,
+      "GoalGatePositionX": 35.71725,
+      "GoalGatePositionY": 90.11668,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOAO CANCELO (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1646123089",
+      "IdTeam": "43938",
+      "IdPlayer": "430070",
+      "Timestamp": "2026-07-02T23:09:55.346Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 12.69105,
+      "PositionY": 49.1403524,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ante BUDIMIR (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1715608648",
+      "IdTeam": "43938",
+      "IdPlayer": "339987",
+      "Timestamp": "2026-07-02T23:10:37.188Z",
+      "MatchMinute": "11'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 75.24402,
+      "PositionY": 66.66626,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mateo KOVACIC (Croatia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1782796355",
+      "IdTeam": "43963",
+      "IdPlayer": "201200",
+      "Timestamp": "2026-07-02T23:12:05.436Z",
+      "MatchMinute": "13'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 75.00848,
+      "PositionY": 63.93582,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "CRISTIANO RONALDO (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1862593620",
+      "IdTeam": "43963",
+      "IdPlayer": "368649",
+      "Timestamp": "2026-07-02T23:13:16.067Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 75.48042000000001,
+      "PositionY": 1.15806,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOAO CANCELO (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2001238085",
+      "IdTeam": "43963",
+      "IdPlayer": "433195",
+      "Timestamp": "2026-07-02T23:15:42.233Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.59313,
+      "PositionY": 1.22219,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NUNO MENDES (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "2002455626",
+      "IdTeam": "43963",
+      "IdPlayer": "489704",
+      "Timestamp": "2026-07-02T23:15:43.734Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 94.73238,
+      "PositionY": 53.719313,
+      "GoalGatePositionX": 51.100773,
+      "GoalGatePositionY": 67.31885,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RENATO VEIGA (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2055665736",
+      "IdTeam": "43963",
+      "IdPlayer": "384752",
+      "Timestamp": "2026-07-02T23:16:11.702Z",
+      "MatchMinute": "17'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 44.645223,
+      "PositionY": 51.634788,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RUBEN DIAS (Portugal) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "2100171850",
+      "IdTeam": "43963",
+      "IdPlayer": "489704",
+      "Timestamp": "2026-07-02T23:17:03.133Z",
+      "MatchMinute": "17'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 12.70257,
+      "PositionY": 98.00313,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RENATO VEIGA (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "323512398",
+      "IdTeam": "43963",
+      "IdPlayer": "433195",
+      "Timestamp": "2026-07-02T23:23:19.009Z",
+      "MatchMinute": "24'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.60558,
+      "PositionY": 1.26755,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NUNO MENDES (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "323564619",
+      "IdTeam": "43963",
+      "IdPlayer": "484141",
+      "Timestamp": "2026-07-02T23:23:20.791Z",
+      "MatchMinute": "24'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 96.05311,
+      "PositionY": 61.00265,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOAO NEVES (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "336855116",
+      "Timestamp": "2026-07-02T23:23:29.682Z",
+      "MatchMinute": "24'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "536760398",
+      "Timestamp": "2026-07-02T23:26:49.538Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "558268503",
+      "IdTeam": "43938",
+      "IdPlayer": "482774",
+      "Timestamp": "2026-07-02T23:27:10.56Z",
+      "MatchMinute": "28'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 15.87736,
+      "PositionY": 36.29166,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Martin BATURINA (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "652931160",
+      "IdTeam": "43938",
+      "IdPlayer": "409191",
+      "Timestamp": "2026-07-02T23:28:23.682Z",
+      "MatchMinute": "29'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nikola VLASIC (Croatia) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1816334203",
+      "IdTeam": "43938",
+      "IdPlayer": "369029",
+      "Timestamp": "2026-07-02T23:32:47.737Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.44467,
+      "PositionY": 55.80796099999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Croatia pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "945619030",
+      "IdTeam": "43963",
+      "IdPlayer": "418550",
+      "Timestamp": "2026-07-02T23:33:28.158Z",
+      "MatchMinute": "34'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.91609,
+      "PositionY": 98.92741000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RAFAEL LEAO (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "954053721",
+      "IdTeam": "43963",
+      "IdPlayer": "433195",
+      "Timestamp": "2026-07-02T23:33:36.826Z",
+      "MatchMinute": "34'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 77.08095,
+      "PositionY": 49.363043499999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NUNO MENDES (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "985228368",
+      "IdTeam": "43938",
+      "IdPlayer": "409191",
+      "Timestamp": "2026-07-02T23:33:54.124Z",
+      "MatchMinute": "34'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 58.488358,
+      "PositionY": 85.76253,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nikola VLASIC (Croatia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1140430930",
+      "IdTeam": "43938",
+      "IdPlayer": "485066",
+      "Timestamp": "2026-07-02T23:36:21.471Z",
+      "MatchMinute": "37'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 62.52804,
+      "PositionY": 37.25369,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Petar SUCIC (Croatia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1323747410",
+      "IdTeam": "43963",
+      "IdPlayer": "395206",
+      "Timestamp": "2026-07-02T23:39:37.647Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.52383,
+      "PositionY": 98.25817,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BRUNO FERNANDES (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1354665043",
+      "IdTeam": "43963",
+      "IdPlayer": "418550",
+      "Timestamp": "2026-07-02T23:40:06.255Z",
+      "MatchMinute": "41'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RAFAEL LEAO (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1674676315",
+      "IdTeam": "43938",
+      "IdPlayer": "485066",
+      "Timestamp": "2026-07-02T23:45:06.495Z",
+      "MatchMinute": "45'+1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 61.25722999999999,
+      "PositionY": 95.54874,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Petar SUCIC (Croatia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1711133782",
+      "IdTeam": "43963",
+      "IdPlayer": "418550",
+      "Timestamp": "2026-07-02T23:45:55.965Z",
+      "MatchMinute": "45'+1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 94.37596,
+      "PositionY": 65.34897,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RAFAEL LEAO (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1763958877",
+      "IdTeam": "43938",
+      "IdPlayer": "430070",
+      "Timestamp": "2026-07-02T23:46:37.386Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 22.97101,
+      "PositionY": 3.5059199999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ante BUDIMIR (Croatia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1819449442",
+      "IdTeam": "43963",
+      "IdPlayer": "384752",
+      "Timestamp": "2026-07-02T23:47:31.781Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 42.475407,
+      "PositionY": 13.39794,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RUBEN DIAS (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1869167713",
+      "IdTeam": "43963",
+      "IdPlayer": "484141",
+      "Timestamp": "2026-07-02T23:48:20.529Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 45.537383,
+      "PositionY": 87.02552999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOAO NEVES (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1912625253",
+      "Timestamp": "2026-07-02T23:49:13.549Z",
+      "MatchMinute": "45'+5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "237317218",
+      "IdTeam": "43938",
+      "IdPlayer": "485068",
+      "IdSubPlayer": "430070",
+      "IdSubTeam": "43938",
+      "Timestamp": "2026-07-03T00:02:58.945Z",
+      "MatchMinute": "",
+      "Period": 4,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Before the second half begins Igor MATANOVIC (in) comes off the bench to replace Ante BUDIMIR (out) (Croatia)"
+        }
+      ]
+    },
+    {
+      "EventId": "316258391",
+      "Timestamp": "2026-07-03T00:05:08.498Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "468696166",
+      "IdTeam": "43938",
+      "IdPlayer": "339987",
+      "Timestamp": "2026-07-03T00:07:35.743Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 92.4087,
+      "PositionY": 64.77439000000001,
+      "GoalGatePositionX": 32.61469,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mateo KOVACIC (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1802043036",
+      "IdTeam": "43963",
+      "IdPlayer": "403001",
+      "Timestamp": "2026-07-03T00:07:36.004Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 96.84718,
+      "PositionY": 59.409882999999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Portugal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "539572312",
+      "IdTeam": "43938",
+      "IdPlayer": "241559",
+      "Timestamp": "2026-07-03T00:08:44.052Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.9378,
+      "PositionY": 98.83111,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luka MODRIC (Croatia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "546774105",
+      "IdTeam": "43938",
+      "IdPlayer": "409191",
+      "Timestamp": "2026-07-03T00:08:52.38Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 85.30845000000001,
+      "PositionY": 64.96216,
+      "GoalGatePositionX": 23.311680000000003,
+      "GoalGatePositionY": 2.3423220000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nikola VLASIC (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "657680485",
+      "IdTeam": "43938",
+      "IdPlayer": "485068",
+      "Timestamp": "2026-07-03T00:10:35.903Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 41.848027,
+      "PositionY": 37.59437,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Igor MATANOVIC (Croatia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "739173479",
+      "IdTeam": "43963",
+      "IdPlayer": "441149",
+      "Timestamp": "2026-07-03T00:11:41.249Z",
+      "MatchMinute": "52'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 23.000899999999998,
+      "PositionY": 45.350495,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "VITINHA (Portugal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "799430748",
+      "IdTeam": "43938",
+      "IdPlayer": "359381",
+      "Timestamp": "2026-07-03T00:12:52.42Z",
+      "MatchMinute": "53'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 93.35148,
+      "PositionY": 64.33461,
+      "GoalGatePositionX": 45.710579,
+      "GoalGatePositionY": 2.810866,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ivan PERISIC (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "799430750",
+      "IdTeam": "43938",
+      "IdPlayer": "359381",
+      "Timestamp": "2026-07-03T00:12:52.42Z",
+      "MatchMinute": "53'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 93.35148,
+      "PositionY": 64.33461,
+      "GoalGatePositionX": 45.710579,
+      "GoalGatePositionY": 2.810866,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ivan PERISIC (Croatia) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1012513899",
+      "IdTeam": "43938",
+      "IdPlayer": "409191",
+      "Timestamp": "2026-07-03T00:16:01.498Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nikola VLASIC (Croatia) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1059354742",
+      "IdTeam": "43938",
+      "IdPlayer": "241559",
+      "Timestamp": "2026-07-03T00:17:01.328Z",
+      "MatchMinute": "57'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 47.023408,
+      "PositionY": 59.27322699999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luka MODRIC (Croatia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1067476087",
+      "IdTeam": "43963",
+      "IdPlayer": "418550",
+      "Timestamp": "2026-07-03T00:17:20.367Z",
+      "MatchMinute": "58'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.00431,
+      "PositionY": 34.969319999999996,
+      "GoalGatePositionX": 60.6645,
+      "GoalGatePositionY": 45.12453,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RAFAEL LEAO (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1124679790",
+      "IdTeam": "43938",
+      "IdPlayer": "485066",
+      "Timestamp": "2026-07-03T00:18:16.504Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 87.13904,
+      "PositionY": 60.86958,
+      "GoalGatePositionX": 44.489683,
+      "GoalGatePositionY": 3.812058,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Petar SUCIC (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "311532776",
+      "IdTeam": "43963",
+      "IdPlayer": "403001",
+      "Timestamp": "2026-07-03T00:18:16.924Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.04766000000001,
+      "PositionY": 53.741399,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Portugal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1165284454",
+      "IdTeam": "43938",
+      "IdPlayer": "482774",
+      "Timestamp": "2026-07-03T00:18:56.744Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.62227999999999,
+      "PositionY": 98.51946000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Martin BATURINA (Croatia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1183454321",
+      "IdTeam": "43938",
+      "IdPlayer": "241559",
+      "Timestamp": "2026-07-03T00:19:04.512Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 78.32676,
+      "PositionY": 60.264300000000006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luka MODRIC (Croatia) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1258730600",
+      "IdTeam": "43963",
+      "IdPlayer": "201200",
+      "Timestamp": "2026-07-03T00:20:11.498Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "CRISTIANO RONALDO (Portugal) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1385681018",
+      "IdTeam": "43963",
+      "IdPlayer": "485081",
+      "IdSubPlayer": "418548",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-03T00:21:37.798Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "FRANCISCO CONCEICAO (in) comes off the bench to replace PEDRO NETO (out) (Portugal)"
+        }
+      ]
+    },
+    {
+      "EventId": "1385681019",
+      "IdTeam": "43963",
+      "IdPlayer": "395205",
+      "IdSubPlayer": "441149",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-03T00:21:37.798Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "BERNARDO SILVA (in) comes off the bench to replace VITINHA (out) (Portugal)"
+        }
+      ]
+    },
+    {
+      "EventId": "1385681020",
+      "IdTeam": "43963",
+      "IdPlayer": "395212",
+      "IdSubPlayer": "395206",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-03T00:21:37.798Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NELSON SEMEDO (in) comes off the bench to replace BRUNO FERNANDES (out) (Portugal)"
+        }
+      ]
+    },
+    {
+      "EventId": "1385681021",
+      "IdTeam": "43963",
+      "IdPlayer": "448081",
+      "IdSubPlayer": "368649",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-03T00:21:37.798Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "GONCALO RAMOS (in) comes off the bench to replace JOAO CANCELO (out) (Portugal)"
+        }
+      ]
+    },
+    {
+      "EventId": "1451880574",
+      "IdTeam": "43963",
+      "IdPlayer": "433195",
+      "Timestamp": "2026-07-03T00:23:36.643Z",
+      "MatchMinute": "64'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.36379,
+      "PositionY": 98.77346,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NUNO MENDES (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1626956924",
+      "IdTeam": "43938",
+      "IdPlayer": "409191",
+      "Timestamp": "2026-07-03T00:23:37.965Z",
+      "MatchMinute": "64'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 6.411949999999999,
+      "PositionY": 48.573924000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nikola VLASIC (Croatia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1603445866",
+      "Timestamp": "2026-07-03T00:25:03.852Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 71,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "VAR"
+        }
+      ],
+      "VarNotificationData": {
+        "Incident": 4,
+        "Reason": 0,
+        "Status": 0,
+        "Result": 3
+      },
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty given"
+        }
+      ]
+    },
+    {
+      "EventId": "1682307197",
+      "IdTeam": "43963",
+      "IdPlayer": "201200",
+      "IdSubPlayer": "369029",
+      "IdSubTeam": "43938",
+      "Timestamp": "2026-07-03T00:27:13.62Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 6,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Awarded"
+        }
+      ],
+      "PositionX": 10.4169,
+      "PositionY": 50.003908572,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": []
+    },
+    {
+      "EventId": "1682371692",
+      "IdTeam": "43963",
+      "IdPlayer": "201200",
+      "Timestamp": "2026-07-03T00:27:13.62Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.4169,
+      "PositionY": 50.003908572,
+      "GoalGatePositionX": 49.2820816,
+      "GoalGatePositionY": 24.30151,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "CRISTIANO RONALDO (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1682371694",
+      "IdTeam": "43963",
+      "IdPlayer": "201200",
+      "Timestamp": "2026-07-03T00:27:13.62Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.4169,
+      "PositionY": 50.003908572,
+      "GoalGatePositionX": 49.2820816,
+      "GoalGatePositionY": 24.30151,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "CRISTIANO RONALDO (Portugal) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "1724254350",
+      "IdTeam": "43938",
+      "IdPlayer": "380005",
+      "IdSubPlayer": "482774",
+      "IdSubTeam": "43938",
+      "Timestamp": "2026-07-03T00:27:57.699Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mario PASALIC (in) comes off the bench to replace Martin BATURINA (out) (Croatia)"
+        }
+      ]
+    },
+    {
+      "EventId": "1772092522",
+      "Timestamp": "2026-07-03T00:28:50.205Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1968651371",
+      "Timestamp": "2026-07-03T00:32:02.122Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "2089294993",
+      "IdTeam": "43938",
+      "IdPlayer": "485068",
+      "Timestamp": "2026-07-03T00:33:30.277Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 47.460761,
+      "PositionY": 91.46826,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Igor MATANOVIC (Croatia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2139110533",
+      "IdTeam": "43938",
+      "IdPlayer": "339987",
+      "Timestamp": "2026-07-03T00:34:52.759Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 84.15149,
+      "PositionY": 51.144800000000004,
+      "GoalGatePositionX": 56.403538,
+      "GoalGatePositionY": 42.50369,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mateo KOVACIC (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2144753774",
+      "IdTeam": "43938",
+      "IdPlayer": "339987",
+      "Timestamp": "2026-07-03T00:34:52.759Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.11664,
+      "PositionY": 43.314419,
+      "GoalGatePositionX": 66.80111,
+      "GoalGatePositionY": 11.79847,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mateo KOVACIC (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1331639541",
+      "IdTeam": "43963",
+      "IdPlayer": "403001",
+      "Timestamp": "2026-07-03T00:34:53.52Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.91657000000001,
+      "PositionY": 48.734343,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Portugal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "41957525",
+      "IdTeam": "43938",
+      "IdPlayer": "241559",
+      "Timestamp": "2026-07-03T00:35:37.003Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luka MODRIC (Croatia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "44704903",
+      "IdTeam": "43938",
+      "IdPlayer": "485068",
+      "Timestamp": "2026-07-03T00:35:38.945Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 93.62660000000001,
+      "PositionY": 53.629093000000005,
+      "GoalGatePositionX": 70.90503,
+      "GoalGatePositionY": 95.07679,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Igor MATANOVIC (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "76460183",
+      "IdTeam": "43938",
+      "IdPlayer": "485068",
+      "Timestamp": "2026-07-03T00:36:10.036Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 96.47852999999999,
+      "PositionY": 36.13227,
+      "GoalGatePositionX": 50.1915409,
+      "GoalGatePositionY": 41.1694,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Igor MATANOVIC (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1410656535",
+      "IdTeam": "43963",
+      "IdPlayer": "403001",
+      "Timestamp": "2026-07-03T00:36:10.136Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.47524,
+      "PositionY": 39.666109999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Portugal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "104577139",
+      "IdTeam": "43938",
+      "IdPlayer": "241559",
+      "Timestamp": "2026-07-03T00:36:35.702Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.17913,
+      "PositionY": 1.01381,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luka MODRIC (Croatia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "321034376",
+      "IdTeam": "43938",
+      "IdPlayer": "485066",
+      "Timestamp": "2026-07-03T00:40:04.848Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Petar SUCIC (Croatia) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "362099849",
+      "IdTeam": "43963",
+      "IdPlayer": "395216",
+      "IdSubPlayer": "201200",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-03T00:40:41.928Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RUBEN NEVES (in) comes off the bench to replace CRISTIANO RONALDO (out) (Portugal)"
+        }
+      ]
+    },
+    {
+      "EventId": "712103025",
+      "IdTeam": "43963",
+      "IdPlayer": "433195",
+      "Timestamp": "2026-07-03T00:46:31.677Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "NUNO MENDES (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "713972856",
+      "IdTeam": "43963",
+      "IdPlayer": "489704",
+      "Timestamp": "2026-07-03T00:46:32.918Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 5.33149,
+      "PositionY": 48.772158999999995,
+      "GoalGatePositionX": 17.75223,
+      "GoalGatePositionY": 17.2131,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "RENATO VEIGA (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "811195530",
+      "IdTeam": "43938",
+      "IdPlayer": "380005",
+      "Timestamp": "2026-07-03T00:48:07.593Z",
+      "MatchMinute": "88'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 94.89847999999999,
+      "PositionY": 55.617119,
+      "GoalGatePositionX": 82.40003999999999,
+      "GoalGatePositionY": 23.484540000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mario PASALIC (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "986573963",
+      "IdTeam": "43963",
+      "IdPlayer": "484141",
+      "Timestamp": "2026-07-03T00:50:59.745Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "JOAO NEVES (Portugal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "988850331",
+      "IdTeam": "43963",
+      "IdPlayer": "448081",
+      "Timestamp": "2026-07-03T00:51:00.846Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.8806,
+      "PositionY": 42.630523,
+      "GoalGatePositionX": 79.87565,
+      "GoalGatePositionY": 63.476580000000006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "GONCALO RAMOS (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1009649779",
+      "IdTeam": "43938",
+      "IdPlayer": "448180",
+      "IdSubPlayer": "409191",
+      "IdSubTeam": "43938",
+      "Timestamp": "2026-07-03T00:51:17.47Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Josko GVARDIOL (in) comes off the bench to replace Nikola VLASIC (out) (Croatia)"
+        }
+      ]
+    },
+    {
+      "EventId": "1142236286",
+      "IdTeam": "43963",
+      "IdPlayer": "418550",
+      "IdSubPlayer": "448081",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-03T00:53:16.281Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 19.77794,
+      "PositionY": 9.81168,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by RAFAEL LEAO."
+        }
+      ]
+    },
+    {
+      "EventId": "1131943029",
+      "IdTeam": "43963",
+      "IdPlayer": "448081",
+      "Timestamp": "2026-07-03T00:53:17.863Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 7.775360000000001,
+      "PositionY": 52.426902,
+      "GoalGatePositionX": 65.18729,
+      "GoalGatePositionY": 26.472299999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "GONCALO RAMOS (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1131943031",
+      "IdTeam": "43963",
+      "IdPlayer": "448081",
+      "IdSubPlayer": "418550",
+      "IdSubTeam": "43963",
+      "Timestamp": "2026-07-03T00:53:17.863Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 7.775360000000001,
+      "PositionY": 52.426902,
+      "GoalGatePositionX": 65.18729,
+      "GoalGatePositionY": 26.472299999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "GONCALO RAMOS (Portugal) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1264595081",
+      "IdTeam": "43938",
+      "IdPlayer": "336472",
+      "IdSubPlayer": "339987",
+      "IdSubTeam": "43938",
+      "Timestamp": "2026-07-03T00:55:20.525Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Andrej KRAMARIC (in) comes off the bench to replace Mateo KOVACIC (out) (Croatia)"
+        }
+      ]
+    },
+    {
+      "EventId": "1401101435",
+      "IdTeam": "43938",
+      "IdPlayer": "359381",
+      "Timestamp": "2026-07-03T00:57:16.642Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 71.75877,
+      "PositionY": 68.69285,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ivan PERISIC (Croatia) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1473065116",
+      "IdTeam": "43938",
+      "IdPlayer": "241559",
+      "Timestamp": "2026-07-03T00:58:54.379Z",
+      "MatchMinute": "90'+9'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.86561999999999,
+      "PositionY": 98.61735,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luka MODRIC (Croatia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1902677122",
+      "IdTeam": "43938",
+      "IdPlayer": "485068",
+      "Timestamp": "2026-07-03T00:58:56.561Z",
+      "MatchMinute": "90'+9'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 94.8932,
+      "PositionY": 59.727746,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Igor MATANOVIC (Croatia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1631538315",
+      "IdTeam": "43963",
+      "IdPlayer": "485081",
+      "Timestamp": "2026-07-03T01:01:18.243Z",
+      "MatchMinute": "90'+12'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 11.68894,
+      "PositionY": 66.35302,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "FRANCISCO CONCEICAO (Portugal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1878799524",
+      "IdTeam": "43938",
+      "IdPlayer": "380005",
+      "Timestamp": "2026-07-03T01:02:35.498Z",
+      "MatchMinute": "90'+13'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mario PASALIC (Croatia) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1859298432",
+      "Timestamp": "2026-07-03T01:04:13.453Z",
+      "MatchMinute": "90'+15'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 71,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "VAR"
+        }
+      ],
+      "VarNotificationData": {
+        "Incident": 1,
+        "Reason": 0,
+        "Status": 0,
+        "Result": 2
+      },
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal disallowed"
+        }
+      ]
+    },
+    {
+      "EventId": "2094989444",
+      "Timestamp": "2026-07-03T01:09:02.545Z",
+      "MatchMinute": "90'+19'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "191938710",
+      "Timestamp": "2026-07-03T01:13:02.128Z",
+      "MatchMinute": "109'",
+      "Period": 10,
+      "HomeGoals": 2,
+      "AwayGoals": 1,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

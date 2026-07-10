@@ -1,0 +1,2098 @@
+{
+  "IdStage": "289287",
+  "IdMatch": "400021524",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "337297556",
+      "IdTeam": "43921",
+      "Timestamp": "2026-07-01T23:58:14.341Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 80,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "USA won the coin toss and chose the side"
+        }
+      ]
+    },
+    {
+      "EventId": "6865029",
+      "Timestamp": "2026-07-02T00:00:05.282Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "62681237",
+      "IdTeam": "44037",
+      "IdPlayer": "504990",
+      "Timestamp": "2026-07-02T00:01:00.374Z",
+      "MatchMinute": "1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kerim ALAJBEGOVIC (Bosnia and Herzegovina) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "217004182",
+      "IdTeam": "43921",
+      "IdPlayer": "390267",
+      "Timestamp": "2026-07-02T00:03:31.205Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.77495,
+      "PositionY": 48.753429999999994,
+      "GoalGatePositionX": 31.56774,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Christian PULISIC (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "238433442",
+      "IdTeam": "43921",
+      "IdPlayer": "448214",
+      "Timestamp": "2026-07-02T00:03:51.945Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.44142000000001,
+      "PositionY": 98.6514,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malik TILLMAN (USA) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "330123399",
+      "IdTeam": "43921",
+      "IdPlayer": "448214",
+      "Timestamp": "2026-07-02T00:05:21.695Z",
+      "MatchMinute": "6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.39841,
+      "PositionY": 98.60504,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malik TILLMAN (USA) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "441521316",
+      "IdTeam": "44037",
+      "IdPlayer": "436743",
+      "Timestamp": "2026-07-02T00:07:01.695Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 26.93499,
+      "PositionY": 16.38565,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ermedin DEMIROVIC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "473390217",
+      "IdTeam": "44037",
+      "IdPlayer": "372436",
+      "Timestamp": "2026-07-02T00:07:35.829Z",
+      "MatchMinute": "8'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 55.201579,
+      "PositionY": 29.49224,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ivan SUNJIC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "600230066",
+      "IdTeam": "44037",
+      "IdPlayer": "436743",
+      "Timestamp": "2026-07-02T00:09:45.338Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 14.9572,
+      "PositionY": 66.80779,
+      "GoalGatePositionX": 53.062606,
+      "GoalGatePositionY": 38.46618,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ermedin DEMIROVIC (Bosnia and Herzegovina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1937995506",
+      "IdTeam": "43921",
+      "IdPlayer": "499913",
+      "Timestamp": "2026-07-02T00:09:45.919Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 2.27738,
+      "PositionY": 53.568464000000006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of USA pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "667710615",
+      "IdTeam": "44037",
+      "IdPlayer": "504990",
+      "Timestamp": "2026-07-02T00:10:50.884Z",
+      "MatchMinute": "11'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kerim ALAJBEGOVIC (Bosnia and Herzegovina) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "845549751",
+      "IdTeam": "44037",
+      "IdPlayer": "376230",
+      "Timestamp": "2026-07-02T00:13:35.308Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 74.50815,
+      "PositionY": 1.74593,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sead KOLASINAC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "893033656",
+      "IdTeam": "43921",
+      "IdPlayer": "466624",
+      "Timestamp": "2026-07-02T00:14:30.904Z",
+      "MatchMinute": "15'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.63272,
+      "PositionY": 36.03907,
+      "GoalGatePositionX": 91.27922000000001,
+      "GoalGatePositionY": 20.38088,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Folarin BALOGUN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1220737211",
+      "IdTeam": "44037",
+      "IdPlayer": "372436",
+      "Timestamp": "2026-07-02T00:19:44.777Z",
+      "MatchMinute": "20'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 44.391517,
+      "PositionY": 58.968382,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ivan SUNJIC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1308043418",
+      "IdTeam": "43921",
+      "IdPlayer": "448214",
+      "Timestamp": "2026-07-02T00:21:16.789Z",
+      "MatchMinute": "22'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.48947,
+      "PositionY": 98.72811999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malik TILLMAN (USA) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1398348955",
+      "Timestamp": "2026-07-02T00:22:44.27Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1588963468",
+      "Timestamp": "2026-07-02T00:25:50.413Z",
+      "MatchMinute": "26'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1638870158",
+      "IdTeam": "43921",
+      "IdPlayer": "441251",
+      "Timestamp": "2026-07-02T00:26:22.895Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 57.74426700000001,
+      "PositionY": 96.05911,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Antonee ROBINSON (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1861916848",
+      "IdTeam": "43921",
+      "IdPlayer": "406280",
+      "Timestamp": "2026-07-02T00:30:08.941Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 59.28853899999999,
+      "PositionY": 43.007478,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sergino DEST (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1930412176",
+      "IdTeam": "43921",
+      "IdPlayer": "466624",
+      "Timestamp": "2026-07-02T00:30:56.282Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Folarin BALOGUN (USA) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "2026521804",
+      "IdTeam": "43921",
+      "IdPlayer": "419062",
+      "Timestamp": "2026-07-02T00:32:50.022Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 51.86132,
+      "PositionY": 38.275439999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Chris RICHARDS (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "189914319",
+      "IdTeam": "43921",
+      "IdPlayer": "390238",
+      "Timestamp": "2026-07-02T00:37:54.826Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 70.67797999999999,
+      "PositionY": 25.095299999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tyler ADAMS (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "378056851",
+      "IdTeam": "44037",
+      "IdPlayer": "484022",
+      "Timestamp": "2026-07-02T00:40:57.108Z",
+      "MatchMinute": "41'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 87.59212,
+      "PositionY": 11.32958,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tarik MUHAREMOVIC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "432630964",
+      "IdTeam": "43921",
+      "IdPlayer": "466624",
+      "Timestamp": "2026-07-02T00:41:58.229Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 94.77208,
+      "PositionY": 38.648320000000005,
+      "GoalGatePositionX": 83.83188,
+      "GoalGatePositionY": 36.687380000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Folarin BALOGUN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "587871443",
+      "IdTeam": "43921",
+      "IdPlayer": "466624",
+      "Timestamp": "2026-07-02T00:44:23.655Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 87.32715,
+      "PositionY": 44.31708,
+      "GoalGatePositionX": 44.09467,
+      "GoalGatePositionY": 2.74598,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Folarin BALOGUN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "587871445",
+      "IdTeam": "43921",
+      "IdPlayer": "466624",
+      "Timestamp": "2026-07-02T00:44:23.655Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 87.32715,
+      "PositionY": 44.31708,
+      "GoalGatePositionX": 44.09467,
+      "GoalGatePositionY": 2.74598,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Folarin BALOGUN (USA) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1916756628",
+      "IdTeam": "44037",
+      "IdPlayer": "482978",
+      "Timestamp": "2026-07-02T00:44:23.895Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 91.50178,
+      "PositionY": 46.805361,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Bosnia and Herzegovina pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "985145535",
+      "IdTeam": "44037",
+      "IdPlayer": "482976",
+      "Timestamp": "2026-07-02T00:50:52.283Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 74.89376,
+      "PositionY": 98.94501,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Amar DEDIC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1069040799",
+      "IdTeam": "43921",
+      "IdPlayer": "466624",
+      "Timestamp": "2026-07-02T00:52:18.609Z",
+      "MatchMinute": "45'+8'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 95.47185999999999,
+      "PositionY": 44.703839,
+      "GoalGatePositionX": 61.5013,
+      "GoalGatePositionY": 50.46678,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Folarin BALOGUN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1238952088",
+      "Timestamp": "2026-07-02T00:55:05.865Z",
+      "MatchMinute": "45'+10'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "76416192",
+      "Timestamp": "2026-07-02T01:11:07.493Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "192190683",
+      "IdTeam": "44037",
+      "IdPlayer": "489520",
+      "Timestamp": "2026-07-02T01:12:45.075Z",
+      "MatchMinute": "47'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 44.434971000000004,
+      "PositionY": 25.767449999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nikola KATIC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "260772002",
+      "IdTeam": "43921",
+      "IdPlayer": "441251",
+      "Timestamp": "2026-07-02T01:14:08.298Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Antonee ROBINSON (USA) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1601904207",
+      "IdTeam": "44037",
+      "IdPlayer": "482978",
+      "Timestamp": "2026-07-02T01:14:12.182Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 4.65452,
+      "PositionY": 48.559321,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Bosnia and Herzegovina pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "428199077",
+      "IdTeam": "44037",
+      "IdPlayer": "522846",
+      "IdSubPlayer": "300409",
+      "IdSubTeam": "44037",
+      "Timestamp": "2026-07-02T01:16:19.969Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ermin MAHMIC (in) comes off the bench to replace Edin DZEKO (out) (Bosnia and Herzegovina)"
+        }
+      ]
+    },
+    {
+      "EventId": "428199078",
+      "IdTeam": "44037",
+      "IdPlayer": "464566",
+      "IdSubPlayer": "489523",
+      "IdSubTeam": "44037",
+      "Timestamp": "2026-07-02T01:16:19.969Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Esmir BAJRAKTAREVIC (in) comes off the bench to replace Armin GIGOVIC (out) (Bosnia and Herzegovina)"
+        }
+      ]
+    },
+    {
+      "EventId": "428199079",
+      "IdTeam": "44037",
+      "IdPlayer": "483966",
+      "IdSubPlayer": "372436",
+      "IdSubTeam": "44037",
+      "Timestamp": "2026-07-02T01:16:19.969Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Benjamin TAHIROVIC (in) comes off the bench to replace Ivan SUNJIC (out) (Bosnia and Herzegovina)"
+        }
+      ]
+    },
+    {
+      "EventId": "698573992",
+      "IdTeam": "44037",
+      "IdPlayer": "489520",
+      "Timestamp": "2026-07-02T01:21:13.783Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 72.44106000000001,
+      "PositionY": 22.35597,
+      "GoalGatePositionX": 67.46315,
+      "GoalGatePositionY": 67.30247,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nikola KATIC (Bosnia and Herzegovina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1250594015",
+      "IdTeam": "43921",
+      "IdPlayer": "466624",
+      "Timestamp": "2026-07-02T01:26:37.126Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 27.88986,
+      "PositionY": 21.760869999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Folarin BALOGUN (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1216882883",
+      "Timestamp": "2026-07-02T01:28:18.671Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 71,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "VAR"
+        }
+      ],
+      "VarNotificationData": {
+        "Incident": 13,
+        "Reason": 0,
+        "Status": 0,
+        "Result": 8
+      },
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Red card given"
+        }
+      ]
+    },
+    {
+      "EventId": "1246412996",
+      "IdTeam": "43921",
+      "IdPlayer": "466624",
+      "Timestamp": "2026-07-02T01:30:03.914Z",
+      "MatchMinute": "64'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 3,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Red card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Folarin BALOGUN (USA) is sent off!"
+        }
+      ]
+    },
+    {
+      "EventId": "1332584607",
+      "IdTeam": "44037",
+      "IdPlayer": "436743",
+      "Timestamp": "2026-07-02T01:31:33.902Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 86.61062000000001,
+      "PositionY": 49.2856419,
+      "GoalGatePositionX": 55.185682,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ermedin DEMIROVIC (Bosnia and Herzegovina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1442037984",
+      "IdTeam": "44037",
+      "IdPlayer": "464566",
+      "Timestamp": "2026-07-02T01:33:19.027Z",
+      "MatchMinute": "68'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.19247999999999,
+      "PositionY": 73.07109,
+      "GoalGatePositionX": 42.024052,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Esmir BAJRAKTAREVIC (Bosnia and Herzegovina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1502326958",
+      "IdTeam": "44037",
+      "IdPlayer": "482976",
+      "Timestamp": "2026-07-02T01:34:15.043Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 45.289611,
+      "PositionY": 24.08697,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Amar DEDIC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1508387014",
+      "Timestamp": "2026-07-02T01:34:18.493Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "1695495367",
+      "Timestamp": "2026-07-02T01:37:28.493Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1814746289",
+      "IdTeam": "44037",
+      "IdPlayer": "464566",
+      "Timestamp": "2026-07-02T01:39:25.814Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.69143,
+      "PositionY": 1.21188,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Esmir BAJRAKTAREVIC (Bosnia and Herzegovina) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1820792992",
+      "IdTeam": "44037",
+      "IdPlayer": "482976",
+      "Timestamp": "2026-07-02T01:39:31.58Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.16613000000001,
+      "PositionY": 39.1689,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Amar DEDIC (Bosnia and Herzegovina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1910588578",
+      "IdTeam": "44037",
+      "IdPlayer": "494640",
+      "IdSubPlayer": "489520",
+      "IdSubTeam": "44037",
+      "Timestamp": "2026-07-02T01:40:41.117Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Amar MEMIC (in) comes off the bench to replace Nikola KATIC (out) (Bosnia and Herzegovina)"
+        }
+      ]
+    },
+    {
+      "EventId": "1910588577",
+      "IdTeam": "44037",
+      "IdPlayer": "482984",
+      "IdSubPlayer": "376230",
+      "IdSubTeam": "44037",
+      "Timestamp": "2026-07-02T01:40:41.117Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Haris TABAKOVIC (in) comes off the bench to replace Sead KOLASINAC (out) (Bosnia and Herzegovina)"
+        }
+      ]
+    },
+    {
+      "EventId": "1982876851",
+      "IdTeam": "44037",
+      "IdPlayer": "504990",
+      "Timestamp": "2026-07-02T01:42:09.778Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 83.38994,
+      "PositionY": 62.941449999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kerim ALAJBEGOVIC (Bosnia and Herzegovina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2037690596",
+      "IdTeam": "44037",
+      "IdPlayer": "522846",
+      "Timestamp": "2026-07-02T01:42:49.417Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 54.867709,
+      "PositionY": 14.65921,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ermin MAHMIC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "100692198",
+      "IdTeam": "43921",
+      "IdPlayer": "448214",
+      "Timestamp": "2026-07-02T01:44:10.699Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.39851,
+      "PositionY": 48.675931,
+      "GoalGatePositionX": 11.99873,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malik TILLMAN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2119005413",
+      "IdTeam": "43921",
+      "IdPlayer": "390267",
+      "Timestamp": "2026-07-02T01:44:11.493Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Christian PULISIC (USA) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "34134198",
+      "IdTeam": "44037",
+      "IdPerson": "179063",
+      "Timestamp": "2026-07-02T01:45:15.346Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sergej BARBAREZ (Bosnia and Herzegovina) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "81391783",
+      "IdTeam": "44037",
+      "IdPlayer": "489521",
+      "Timestamp": "2026-07-02T01:45:53.982Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 17.47461,
+      "PositionY": 30.047530000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Stjepan RADELJIC (Bosnia and Herzegovina) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "183109802",
+      "IdTeam": "43921",
+      "IdPlayer": "448214",
+      "Timestamp": "2026-07-02T01:47:41.87Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 16.6285,
+      "PositionY": 34.32727,
+      "GoalGatePositionX": 40.223251,
+      "GoalGatePositionY": 28.578049999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malik TILLMAN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "183109804",
+      "IdTeam": "43921",
+      "IdPlayer": "448214",
+      "Timestamp": "2026-07-02T01:47:41.87Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 16.6285,
+      "PositionY": 34.32727,
+      "GoalGatePositionX": 40.223251,
+      "GoalGatePositionY": 28.578049999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malik TILLMAN (USA) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1511399139",
+      "IdTeam": "44037",
+      "IdPlayer": "482978",
+      "Timestamp": "2026-07-02T01:47:42.75Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.39128,
+      "PositionY": 46.608245999999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Bosnia and Herzegovina pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "874730696",
+      "IdTeam": "44037",
+      "IdPlayer": "436743",
+      "Timestamp": "2026-07-02T01:52:11.479Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 99.35627,
+      "PositionY": 56.091623,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ermedin DEMIROVIC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "516354245",
+      "IdTeam": "43921",
+      "IdPlayer": "499912",
+      "IdSubPlayer": "406280",
+      "IdSubTeam": "43921",
+      "Timestamp": "2026-07-02T01:53:05.21Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sebastian BERHALTER (in) comes off the bench to replace Sergino DEST (out) (USA)"
+        }
+      ]
+    },
+    {
+      "EventId": "516354246",
+      "IdTeam": "43921",
+      "IdPlayer": "419082",
+      "IdSubPlayer": "390267",
+      "IdSubTeam": "43921",
+      "Timestamp": "2026-07-02T01:53:05.21Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ricardo PEPI (in) comes off the bench to replace Christian PULISIC (out) (USA)"
+        }
+      ]
+    },
+    {
+      "EventId": "976133311",
+      "IdTeam": "44037",
+      "IdPlayer": "494640",
+      "Timestamp": "2026-07-02T01:55:20.728Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 97.03332999999999,
+      "PositionY": 30.625960000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Amar MEMIC (Bosnia and Herzegovina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "661323959",
+      "IdTeam": "43921",
+      "IdPlayer": "419082",
+      "Timestamp": "2026-07-02T01:55:25.773Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 70.75246,
+      "PositionY": 34.06189,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ricardo PEPI (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "800678132",
+      "IdTeam": "44037",
+      "IdPlayer": "504990",
+      "Timestamp": "2026-07-02T01:57:50.478Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 87.77248,
+      "PositionY": 75.56876,
+      "GoalGatePositionX": 74.73697,
+      "GoalGatePositionY": 25.316319999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kerim ALAJBEGOVIC (Bosnia and Herzegovina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "872999098",
+      "IdTeam": "43921",
+      "IdPlayer": "390259",
+      "Timestamp": "2026-07-02T01:58:57.044Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 3.3066199999999997,
+      "PositionY": 87.67127,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Weston McKENNIE (USA) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "955709630",
+      "IdTeam": "44037",
+      "IdPlayer": "494640",
+      "Timestamp": "2026-07-02T02:00:14.882Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 12.6148,
+      "PositionY": 1.06283,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Amar MEMIC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "988467403",
+      "IdTeam": "43921",
+      "IdPlayer": "419068",
+      "IdSubPlayer": "390259",
+      "IdSubTeam": "43921",
+      "Timestamp": "2026-07-02T02:00:53.151Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Giovanni REYNA (in) comes off the bench to replace Weston McKENNIE (out) (USA)"
+        }
+      ]
+    },
+    {
+      "EventId": "1020677367",
+      "IdTeam": "43921",
+      "IdPlayer": "464542",
+      "Timestamp": "2026-07-02T02:01:26.694Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 13.285739999999999,
+      "PositionY": 68.25975,
+      "GoalGatePositionX": 74.69319,
+      "GoalGatePositionY": 58.473299999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alex FREEMAN (USA) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1163601100",
+      "IdTeam": "44037",
+      "IdPlayer": "522846",
+      "Timestamp": "2026-07-02T02:03:44.812Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 74.10312,
+      "PositionY": 65.26356,
+      "GoalGatePositionX": 69.41962000000001,
+      "GoalGatePositionY": 3.1836749999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ermin MAHMIC (Bosnia and Herzegovina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1210728659",
+      "IdTeam": "44037",
+      "IdPlayer": "522846",
+      "Timestamp": "2026-07-02T02:04:30.297Z",
+      "MatchMinute": "90'+9'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 77.3606,
+      "PositionY": 34.66967,
+      "GoalGatePositionX": 30.36361,
+      "GoalGatePositionY": 3.230495,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ermin MAHMIC (Bosnia and Herzegovina) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1260309717",
+      "IdTeam": "44037",
+      "IdPlayer": "436743",
+      "Timestamp": "2026-07-02T02:05:13.881Z",
+      "MatchMinute": "90'+10'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 64.78201999999999,
+      "PositionY": 30.72463,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ermedin DEMIROVIC (Bosnia and Herzegovina) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1711399121",
+      "IdTeam": "43921",
+      "IdPlayer": "419082",
+      "Timestamp": "2026-07-02T02:05:50.493Z",
+      "MatchMinute": "90'+10'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ricardo PEPI (USA) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1310496975",
+      "Timestamp": "2026-07-02T02:06:09.845Z",
+      "MatchMinute": "90'+11'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1327911106",
+      "Timestamp": "2026-07-02T02:06:28.241Z",
+      "MatchMinute": "101'",
+      "Period": 10,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

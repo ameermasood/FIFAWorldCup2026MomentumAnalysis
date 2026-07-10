@@ -1,0 +1,3200 @@
+{
+  "IdStage": "289287",
+  "IdMatch": "400021522",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "1501803716",
+      "IdTeam": "43960",
+      "Timestamp": "2026-06-30T00:58:17.689Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Netherlands won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "1539188914",
+      "Timestamp": "2026-06-30T01:00:00.022Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "1714400453",
+      "IdTeam": "43960",
+      "IdPlayer": "489518",
+      "Timestamp": "2026-06-30T01:02:50.687Z",
+      "MatchMinute": "3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.57039,
+      "PositionY": 98.707,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Crysencio SUMMERVILLE (Netherlands) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1772094674",
+      "IdTeam": "43960",
+      "IdPlayer": "422657",
+      "Timestamp": "2026-06-30T01:03:28.305Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 77.40945,
+      "PositionY": 66.99185,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Frenkie DE JONG (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1924955335",
+      "IdTeam": "43960",
+      "IdPlayer": "430176",
+      "Timestamp": "2026-06-30T01:06:14.471Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 85.29043,
+      "PositionY": 32.42644,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ryan GRAVENBERCH (Netherlands) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1967578294",
+      "IdTeam": "43960",
+      "IdPlayer": "430176",
+      "Timestamp": "2026-06-30T01:06:46.102Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 80.96437,
+      "PositionY": 3.55653,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ryan GRAVENBERCH (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "14165194",
+      "IdTeam": "43872",
+      "IdPlayer": "448598",
+      "Timestamp": "2026-06-30T01:09:51.908Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 14.099610000000002,
+      "PositionY": 61.10719999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismael SAIBARI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "51681465",
+      "IdTeam": "43872",
+      "IdPlayer": "403083",
+      "Timestamp": "2026-06-30T01:10:26.302Z",
+      "MatchMinute": "11'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 48.814041,
+      "PositionY": 52.811105999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Issa DIOP (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "353137870",
+      "IdTeam": "43960",
+      "IdPlayer": "424051",
+      "Timestamp": "2026-06-30T01:13:24.08Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 63.597289999999994,
+      "PositionY": 24.21248,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian BROBBEY (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "384134351",
+      "IdTeam": "43960",
+      "IdPlayer": "489518",
+      "Timestamp": "2026-06-30T01:15:46.022Z",
+      "MatchMinute": "16'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Crysencio SUMMERVILLE (Netherlands) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "571430097",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-06-30T01:19:11.667Z",
+      "MatchMinute": "20'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.35133,
+      "PositionY": 98.41871,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "575233241",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "Timestamp": "2026-06-30T01:19:12.728Z",
+      "MatchMinute": "20'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 2.50422,
+      "PositionY": 60.80006,
+      "GoalGatePositionX": 53.718250999999995,
+      "GoalGatePositionY": 29.17096,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1910143393",
+      "IdTeam": "43960",
+      "IdPlayer": "424081",
+      "Timestamp": "2026-06-30T01:19:13.009Z",
+      "MatchMinute": "20'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.51644,
+      "PositionY": 53.287286,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Netherlands pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "582761690",
+      "IdTeam": "43872",
+      "IdPlayer": "485760",
+      "Timestamp": "2026-06-30T01:19:20.436Z",
+      "MatchMinute": "20'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.77978,
+      "PositionY": 46.576601000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ayyoub BOUADDI (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "626054356",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-06-30T01:20:02.198Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 15.67317,
+      "PositionY": 68.81356,
+      "GoalGatePositionX": 58.21668,
+      "GoalGatePositionY": 47.4911,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1958363624",
+      "IdTeam": "43960",
+      "IdPlayer": "424081",
+      "Timestamp": "2026-06-30T01:20:02.758Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.9066400000000001,
+      "PositionY": 54.38509500000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Netherlands pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "651404481",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-06-30T01:20:29.785Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.30874,
+      "PositionY": 98.81664,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "726922453",
+      "Timestamp": "2026-06-30T01:21:39.022Z",
+      "MatchMinute": "22'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "931248322",
+      "Timestamp": "2026-06-30T01:25:03.402Z",
+      "MatchMinute": "26'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1048155361",
+      "IdTeam": "43872",
+      "IdPlayer": "441307",
+      "Timestamp": "2026-06-30T01:26:09.805Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 19.59624,
+      "PositionY": 9.95203,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Azzedine OUNAHI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1154646232",
+      "IdTeam": "43872",
+      "IdPlayer": "448598",
+      "Timestamp": "2026-06-30T01:28:30.786Z",
+      "MatchMinute": "29'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 50.7025078,
+      "PositionY": 96.49092999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismael SAIBARI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1281547491",
+      "IdTeam": "43872",
+      "IdPlayer": "448598",
+      "Timestamp": "2026-06-30T01:30:30.526Z",
+      "MatchMinute": "31'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 23.535420000000002,
+      "PositionY": 32.71007,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismael SAIBARI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1408422095",
+      "IdTeam": "43960",
+      "IdPlayer": "436612",
+      "Timestamp": "2026-06-30T01:32:32.022Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Denzel DUMFRIES (Netherlands) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1636823259",
+      "IdTeam": "43960",
+      "IdPlayer": "489518",
+      "Timestamp": "2026-06-30T01:36:31.847Z",
+      "MatchMinute": "37'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.50290000000001,
+      "PositionY": 1.06592,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Crysencio SUMMERVILLE (Netherlands) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1642698981",
+      "IdTeam": "43960",
+      "IdPlayer": "436612",
+      "Timestamp": "2026-06-30T01:36:33.849Z",
+      "MatchMinute": "37'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 91.62198000000001,
+      "PositionY": 57.956328,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Denzel DUMFRIES (Netherlands) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1671036105",
+      "IdTeam": "43960",
+      "IdPlayer": "489518",
+      "Timestamp": "2026-06-30T01:37:05.46Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.5146,
+      "PositionY": 1.28911,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Crysencio SUMMERVILLE (Netherlands) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1906136274",
+      "IdTeam": "43960",
+      "IdPlayer": "448152",
+      "Timestamp": "2026-06-30T01:40:43.738Z",
+      "MatchMinute": "41'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 68.3719,
+      "PositionY": 95.44263,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cody GAKPO (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2042148073",
+      "IdTeam": "43960",
+      "IdPlayer": "448140",
+      "Timestamp": "2026-06-30T01:43:05.5Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 77.30762,
+      "PositionY": 57.54711,
+      "GoalGatePositionX": 44.204256,
+      "GoalGatePositionY": 58.21815,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Micky VAN DE VEN (Netherlands) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1228029004",
+      "IdTeam": "43872",
+      "IdPlayer": "356956",
+      "Timestamp": "2026-06-30T01:43:06.08Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 95.07851000000001,
+      "PositionY": 52.936032,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Morocco pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "2112388320",
+      "IdTeam": "43960",
+      "IdPlayer": "448152",
+      "Timestamp": "2026-06-30T01:44:16.431Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.90347,
+      "PositionY": 98.71009,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cody GAKPO (Netherlands) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "2135295180",
+      "IdTeam": "43960",
+      "IdPlayer": "424051",
+      "Timestamp": "2026-06-30T01:44:17.812Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 98.86171999999999,
+      "PositionY": 53.495771999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian BROBBEY (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "189012173",
+      "IdTeam": "43872",
+      "IdPlayer": "441307",
+      "Timestamp": "2026-06-30T01:47:53.107Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 15.409529999999998,
+      "PositionY": 70.97892999999999,
+      "GoalGatePositionX": 43.093387,
+      "GoalGatePositionY": 59.216860000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Azzedine OUNAHI (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "288360665",
+      "IdTeam": "43960",
+      "IdPlayer": "448140",
+      "Timestamp": "2026-06-30T01:49:11.225Z",
+      "MatchMinute": "45'+5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 18.68819,
+      "PositionY": 98.02735,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Micky VAN DE VEN (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1717805337",
+      "IdTeam": "43872",
+      "IdPlayer": "356956",
+      "Timestamp": "2026-06-30T01:51:03.377Z",
+      "MatchMinute": "45'+7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 99.41134000000001,
+      "PositionY": 40.3129,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Morocco pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "392029421",
+      "Timestamp": "2026-06-30T01:51:13.937Z",
+      "MatchMinute": "45'+7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1364483300",
+      "Timestamp": "2026-06-30T02:07:03.464Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "1448063215",
+      "IdTeam": "43872",
+      "IdPlayer": "403083",
+      "Timestamp": "2026-06-30T02:08:15.909Z",
+      "MatchMinute": "47'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 37.99555,
+      "PositionY": 21.5083,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Issa DIOP (Morocco) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1505672421",
+      "IdTeam": "43960",
+      "IdPlayer": "448140",
+      "Timestamp": "2026-06-30T02:09:18.932Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 8.45219,
+      "PositionY": 61.0062,
+      "GoalGatePositionX": 55.269104,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Micky VAN DE VEN (Netherlands) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "691725669",
+      "IdTeam": "43872",
+      "IdPlayer": "356956",
+      "Timestamp": "2026-06-30T02:09:19.793Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.7935799999999997,
+      "PositionY": 53.610203999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Morocco pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1550898395",
+      "IdTeam": "43872",
+      "IdPlayer": "485760",
+      "Timestamp": "2026-06-30T02:10:03.596Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 80.20570000000001,
+      "PositionY": 52.558742,
+      "GoalGatePositionX": 22.27883,
+      "GoalGatePositionY": 91.38583,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ayyoub BOUADDI (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1753324755",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-06-30T02:13:19.752Z",
+      "MatchMinute": "52'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 96.23886,
+      "PositionY": 32.35244,
+      "GoalGatePositionX": 58.368122,
+      "GoalGatePositionY": 50.69491000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1858017513",
+      "IdTeam": "43960",
+      "IdPlayer": "448140",
+      "Timestamp": "2026-06-30T02:14:51.424Z",
+      "MatchMinute": "53'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 23.1078,
+      "PositionY": 40.238786999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Micky VAN DE VEN (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2054728927",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-06-30T02:17:03.576Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.61144,
+      "PositionY": 35.38328,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2006492382",
+      "IdTeam": "43960",
+      "IdPlayer": "424051",
+      "Timestamp": "2026-06-30T02:17:17.464Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brian BROBBEY (Netherlands) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "2139133164",
+      "IdTeam": "43872",
+      "IdPlayer": "448612",
+      "Timestamp": "2026-06-30T02:19:35.788Z",
+      "MatchMinute": "58'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.40245,
+      "PositionY": 72.95844,
+      "GoalGatePositionX": 69.98796,
+      "GoalGatePositionY": 6.204554,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bilal EL KHANNOUSS (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "36452598",
+      "IdTeam": "43960",
+      "IdPlayer": "430176",
+      "Timestamp": "2026-06-30T02:20:21.994Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 16.75477,
+      "PositionY": 51.347617,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ryan GRAVENBERCH (Netherlands) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "85179617",
+      "IdTeam": "43960",
+      "IdPlayer": "489517",
+      "Timestamp": "2026-06-30T02:20:53.206Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 40.855183000000004,
+      "PositionY": 88.27246,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jan Paul VAN HECKE (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "197330169",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-06-30T02:23:00.573Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.79575,
+      "PositionY": 98.66322,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "228802811",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-06-30T02:23:31.323Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.80111000000001,
+      "PositionY": 99.17998999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "253920473",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-06-30T02:23:55.768Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.71307,
+      "PositionY": 98.3244,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "278371556",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-06-30T02:24:19.672Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.87443,
+      "PositionY": 98.81662,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "428705021",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "Timestamp": "2026-06-30T02:26:36.468Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 68.11802999999999,
+      "PositionY": 94.82479000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "570883302",
+      "Timestamp": "2026-06-30T02:29:02.464Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "790435072",
+      "IdTeam": "43960",
+      "IdPlayer": "448149",
+      "IdSubPlayer": "336088",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T02:32:26.043Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Teun KOOPMEINERS (in) comes off the bench to replace Nathan AKE (out) (Netherlands)"
+        }
+      ]
+    },
+    {
+      "EventId": "790435073",
+      "IdTeam": "43960",
+      "IdPlayer": "448159",
+      "IdSubPlayer": "424051",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T02:32:26.043Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Wout WEGHORST (in) comes off the bench to replace Brian BROBBEY (out) (Netherlands)"
+        }
+      ]
+    },
+    {
+      "EventId": "792447197",
+      "Timestamp": "2026-06-30T02:32:42.306Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "872060167",
+      "IdTeam": "43960",
+      "IdPlayer": "489518",
+      "Timestamp": "2026-06-30T02:33:24.937Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 16.003410000000002,
+      "PositionY": 59.416294,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Crysencio SUMMERVILLE."
+        }
+      ]
+    },
+    {
+      "EventId": "843642100",
+      "IdTeam": "43960",
+      "IdPlayer": "448152",
+      "Timestamp": "2026-06-30T02:33:26.178Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 11.7193,
+      "PositionY": 49.144402,
+      "GoalGatePositionX": 53.883895,
+      "GoalGatePositionY": 6.9762439999999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cody GAKPO (Netherlands) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "843642102",
+      "IdTeam": "43960",
+      "IdPlayer": "448152",
+      "IdSubPlayer": "489518",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T02:33:26.178Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 11.7193,
+      "PositionY": 49.144402,
+      "GoalGatePositionX": 53.883895,
+      "GoalGatePositionY": 6.9762439999999994,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cody GAKPO (Netherlands) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1049216250",
+      "IdTeam": "43960",
+      "IdPlayer": "422657",
+      "Timestamp": "2026-06-30T02:36:38.55Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 64.85214,
+      "PositionY": 55.943361,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Frenkie DE JONG (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1061676298",
+      "IdTeam": "43872",
+      "IdPlayer": "424071",
+      "IdSubPlayer": "448607",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T02:36:58.241Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Anass SALAH EDDINE (in) comes off the bench to replace Chadi RIAD (out) (Morocco)"
+        }
+      ]
+    },
+    {
+      "EventId": "1141741820",
+      "IdTeam": "43960",
+      "IdPlayer": "448149",
+      "Timestamp": "2026-06-30T02:38:04.776Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 68.86322,
+      "PositionY": 8.51893,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Teun KOOPMEINERS (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1193682188",
+      "IdTeam": "43872",
+      "IdPlayer": "441307",
+      "Timestamp": "2026-06-30T02:39:13.305Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.26895999999999,
+      "PositionY": 1.00303,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Azzedine OUNAHI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1201095933",
+      "IdTeam": "43872",
+      "IdPlayer": "424071",
+      "Timestamp": "2026-06-30T02:39:19.07Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 82.05987999999999,
+      "PositionY": 76.14092,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Anass SALAH EDDINE (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1292330207",
+      "IdTeam": "43872",
+      "IdPlayer": "505112",
+      "IdSubPlayer": "430740",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T02:40:33.77Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gessime YASSINE (in) comes off the bench to replace Brahim DIAZ (out) (Morocco)"
+        }
+      ]
+    },
+    {
+      "EventId": "1347913985",
+      "IdTeam": "43872",
+      "IdPlayer": "505097",
+      "IdSubPlayer": "485760",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T02:40:33.77Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Samir EL MOURABET (in) comes off the bench to replace Ayyoub BOUADDI (out) (Morocco)"
+        }
+      ]
+    },
+    {
+      "EventId": "1617832207",
+      "IdTeam": "43960",
+      "IdPlayer": "489518",
+      "Timestamp": "2026-06-30T02:45:40.464Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Crysencio SUMMERVILLE (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "54265101",
+      "IdTeam": "43872",
+      "IdPlayer": "448598",
+      "Timestamp": "2026-06-30T02:47:02.233Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 80.78389,
+      "PositionY": 76.00411,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismael SAIBARI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1938496772",
+      "IdTeam": "43872",
+      "IdPlayer": "433426",
+      "IdSubPlayer": "441307",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T02:47:58.464Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Soufiane RAHIMI (in) comes off the bench to replace Azzedine OUNAHI (out) (Morocco)"
+        }
+      ]
+    },
+    {
+      "EventId": "1938496773",
+      "IdTeam": "43872",
+      "IdPlayer": "494293",
+      "IdSubPlayer": "448612",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T02:47:58.464Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Chemsdine TALBI (in) comes off the bench to replace Bilal EL KHANNOUSS (out) (Morocco)"
+        }
+      ]
+    },
+    {
+      "EventId": "1731583234",
+      "IdTeam": "43960",
+      "IdPlayer": "484859",
+      "IdSubPlayer": "430176",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T02:47:59.464Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Quinten TIMBER (in) comes off the bench to replace Ryan GRAVENBERCH (out) (Netherlands)"
+        }
+      ]
+    },
+    {
+      "EventId": "2001563874",
+      "IdTeam": "43960",
+      "IdPlayer": "483512",
+      "IdSubPlayer": "448140",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T02:47:59.464Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jorrel HATO (in) comes off the bench to replace Micky VAN DE VEN (out) (Netherlands)"
+        }
+      ]
+    },
+    {
+      "EventId": "1844046083",
+      "IdTeam": "43960",
+      "IdPlayer": "448149",
+      "Timestamp": "2026-06-30T02:49:48.459Z",
+      "MatchMinute": "88'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.86681,
+      "PositionY": 1.6207200000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Teun KOOPMEINERS (Netherlands) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "2076971240",
+      "IdTeam": "43872",
+      "IdPlayer": "494293",
+      "IdSubPlayer": "403083",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T02:52:08.479Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 74.35829000000001,
+      "PositionY": 87.76998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Chemsdine TALBI."
+        }
+      ]
+    },
+    {
+      "EventId": "1998079215",
+      "IdTeam": "43872",
+      "IdPlayer": "403083",
+      "Timestamp": "2026-06-30T02:52:09.86Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 92.19903000000001,
+      "PositionY": 48.014027999999996,
+      "GoalGatePositionX": 59.198432000000004,
+      "GoalGatePositionY": 37.48665,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Issa DIOP (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1998079217",
+      "IdTeam": "43872",
+      "IdPlayer": "403083",
+      "IdSubPlayer": "494293",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T02:52:09.86Z",
+      "MatchMinute": "90'+1'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 92.19903000000001,
+      "PositionY": 48.014027999999996,
+      "GoalGatePositionX": 59.198432000000004,
+      "GoalGatePositionY": 37.48665,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Issa DIOP (Morocco) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "18187544",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "Timestamp": "2026-06-30T02:54:42.573Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 45.59395,
+      "PositionY": 85.43529,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "123317487",
+      "IdTeam": "43960",
+      "IdPlayer": "436612",
+      "Timestamp": "2026-06-30T02:56:21.552Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 18.02779,
+      "PositionY": 97.46744000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Denzel DUMFRIES (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "205932796",
+      "IdTeam": "43872",
+      "IdPlayer": "448598",
+      "Timestamp": "2026-06-30T02:57:54.225Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 80.63207,
+      "PositionY": 24.63318,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismael SAIBARI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "271450365",
+      "Timestamp": "2026-06-30T02:59:10.298Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "472662301",
+      "IdTeam": "43960",
+      "Timestamp": "2026-06-30T03:02:26.698Z",
+      "MatchMinute": "",
+      "Period": 17,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Netherlands won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "535891216",
+      "Timestamp": "2026-06-30T03:03:28.466Z",
+      "MatchMinute": "90'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "634988792",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "Timestamp": "2026-06-30T03:04:56.727Z",
+      "MatchMinute": "92'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 56.721506,
+      "PositionY": 16.59463,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "688521471",
+      "IdTeam": "43960",
+      "IdPlayer": "436612",
+      "Timestamp": "2026-06-30T03:05:42.466Z",
+      "MatchMinute": "93'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Denzel DUMFRIES (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "813850899",
+      "IdTeam": "43960",
+      "IdPlayer": "422657",
+      "Timestamp": "2026-06-30T03:07:33.563Z",
+      "MatchMinute": "95'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 68.40875,
+      "PositionY": 41.580397000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Frenkie DE JONG (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "908045562",
+      "IdTeam": "43872",
+      "IdPlayer": "433426",
+      "Timestamp": "2026-06-30T03:09:29.239Z",
+      "MatchMinute": "96'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 8.48124,
+      "PositionY": 48.318002,
+      "GoalGatePositionX": 43.560432999999996,
+      "GoalGatePositionY": 17.88606,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Soufiane RAHIMI (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "93699040",
+      "IdTeam": "43960",
+      "IdPlayer": "424081",
+      "Timestamp": "2026-06-30T03:09:29.419Z",
+      "MatchMinute": "96'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 3.7415200000000004,
+      "PositionY": 48.119640000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Netherlands pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "954953979",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-06-30T03:10:17.667Z",
+      "MatchMinute": "97'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.27555,
+      "PositionY": 1.54803,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "985638180",
+      "IdTeam": "43872",
+      "IdPlayer": "424071",
+      "Timestamp": "2026-06-30T03:10:26.136Z",
+      "MatchMinute": "97'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 30.53689,
+      "PositionY": 5.335179999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Anass SALAH EDDINE (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1248351493",
+      "IdTeam": "43960",
+      "IdPlayer": "448159",
+      "Timestamp": "2026-06-30T03:14:57.25Z",
+      "MatchMinute": "102'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Wout WEGHORST (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1420451079",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "Timestamp": "2026-06-30T03:17:42.552Z",
+      "MatchMinute": "105'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 23.13145,
+      "PositionY": 17.93041,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1479820544",
+      "Timestamp": "2026-06-30T03:18:50.186Z",
+      "MatchMinute": "105'+1'",
+      "Period": 7,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee blows for the end of the first period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "1694853386",
+      "Timestamp": "2026-06-30T03:22:20.114Z",
+      "MatchMinute": "105'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "1782790428",
+      "IdTeam": "43960",
+      "IdPlayer": "448152",
+      "Timestamp": "2026-06-30T03:23:36.826Z",
+      "MatchMinute": "107'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 37.95055,
+      "PositionY": 3.7806100000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cody GAKPO (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1984243980",
+      "IdTeam": "43872",
+      "IdPlayer": "424071",
+      "Timestamp": "2026-06-30T03:26:43.666Z",
+      "MatchMinute": "110'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Anass SALAH EDDINE (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2005060903",
+      "IdTeam": "43960",
+      "IdPlayer": "402044",
+      "IdSubPlayer": "422657",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T03:27:17.114Z",
+      "MatchMinute": "110'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Marten DE ROON (in) comes off the bench to replace Frenkie DE JONG (out) (Netherlands)"
+        }
+      ]
+    },
+    {
+      "EventId": "2082951438",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "Timestamp": "2026-06-30T03:28:22.091Z",
+      "MatchMinute": "112'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 47.597106,
+      "PositionY": 50.704729,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "24876330",
+      "IdTeam": "43960",
+      "IdPlayer": "478364",
+      "IdSubPlayer": "448152",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T03:30:03.986Z",
+      "MatchMinute": "113'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Justin KLUIVERT (in) comes off the bench to replace Cody GAKPO (out) (Netherlands)"
+        }
+      ]
+    },
+    {
+      "EventId": "68930848",
+      "IdTeam": "43960",
+      "IdPlayer": "436612",
+      "Timestamp": "2026-06-30T03:30:34.583Z",
+      "MatchMinute": "114'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 59.327825000000004,
+      "PositionY": 80.1283,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Denzel DUMFRIES (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "318144780",
+      "IdTeam": "43960",
+      "IdPlayer": "436612",
+      "Timestamp": "2026-06-30T03:34:37.766Z",
+      "MatchMinute": "118'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 50.1021156,
+      "PositionY": 95.59894,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Denzel DUMFRIES (Netherlands) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "578941219",
+      "Timestamp": "2026-06-30T03:39:07.755Z",
+      "MatchMinute": "120'+2'",
+      "Period": 9,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee blows for the end of the second period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "836611347",
+      "IdTeam": "43960",
+      "Timestamp": "2026-06-30T03:43:19.37Z",
+      "MatchMinute": "",
+      "Period": 16,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 81,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Netherlands won the coin toss and chose to kick first"
+        }
+      ]
+    },
+    {
+      "EventId": "892122382",
+      "Timestamp": "2026-06-30T03:44:13.705Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The penalty shoot-out is about to begin."
+        }
+      ]
+    },
+    {
+      "EventId": "940278064",
+      "IdTeam": "43960",
+      "IdPlayer": "448149",
+      "IdSubPlayer": "356956",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T03:44:57.545Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.34104,
+      "PositionY": 50.077899110000004,
+      "HomePenaltyGoals": 1,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Teun KOOPMEINERS (Netherlands) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "998486287",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "IdSubPlayer": "424081",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T03:45:52.54Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.25356,
+      "PositionY": 50.04084073,
+      "HomePenaltyGoals": 1,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "1041253648",
+      "IdTeam": "43960",
+      "IdPlayer": "478364",
+      "IdSubPlayer": "356956",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T03:46:34.202Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.43486,
+      "PositionY": 50.069406660000006,
+      "HomePenaltyGoals": 1,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Justin KLUIVERT (Netherlands) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "1093224721",
+      "IdTeam": "43872",
+      "IdPlayer": "433426",
+      "IdSubPlayer": "424081",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T03:47:24.672Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.45302,
+      "PositionY": 50.09083808,
+      "HomePenaltyGoals": 1,
+      "AwayPenaltyGoals": 1,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Soufiane RAHIMI (Morocco) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "1158517035",
+      "IdTeam": "43960",
+      "IdPlayer": "448159",
+      "IdSubPlayer": "356956",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T03:48:31.339Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.382,
+      "PositionY": 50.09967416,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 1,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Wout WEGHORST (Netherlands) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "1205184807",
+      "IdTeam": "43872",
+      "IdPlayer": "494293",
+      "IdSubPlayer": "424081",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T03:49:17.745Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.37484,
+      "PositionY": 50.1087052,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 2,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Chemsdine TALBI (Morocco) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "1258271044",
+      "IdTeam": "43960",
+      "IdPlayer": "484859",
+      "IdSubPlayer": "356956",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T03:50:09.077Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.30378,
+      "PositionY": 49.991708525,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 2,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Quinten TIMBER (Netherlands) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "1305750844",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "IdSubPlayer": "424081",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T03:50:54.682Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.34258,
+      "PositionY": 50.06998433,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 2,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "1379651902",
+      "IdTeam": "43960",
+      "IdPlayer": "489518",
+      "IdSubPlayer": "356956",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-06-30T03:52:07.235Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 60,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty missed"
+        }
+      ],
+      "PositionX": 10.42015,
+      "PositionY": 50.06242225999999,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 2,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Crysencio SUMMERVILLE (Netherlands) misses his penalty"
+        }
+      ]
+    },
+    {
+      "EventId": "1438150975",
+      "IdTeam": "43872",
+      "IdPlayer": "448598",
+      "IdSubPlayer": "424081",
+      "IdSubTeam": "43960",
+      "Timestamp": "2026-06-30T03:53:04.892Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.3255,
+      "PositionY": 50.09090762,
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismael SAIBARI (Morocco) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "1447001419",
+      "Timestamp": "2026-06-30T03:53:15.578Z",
+      "MatchMinute": "",
+      "Period": 11,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The penalty shoot-out is over."
+        }
+      ]
+    },
+    {
+      "EventId": "1973114182",
+      "Timestamp": "2026-06-30T04:01:48.942Z",
+      "MatchMinute": "130'",
+      "Period": 10,
+      "HomeGoals": 1,
+      "AwayGoals": 1,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 2,
+      "AwayPenaltyGoals": 3,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

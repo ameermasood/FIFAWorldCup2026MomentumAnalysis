@@ -1,0 +1,195 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289287",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "80824",
+  "IdMatch": "400021520",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 32"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-07-01T02:00:00Z",
+  "LocalDate": "2026-06-30T20:00:00Z",
+  "Home": {
+    "Score": 2,
+    "Side": null,
+    "IdTeam": "43911",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/MEX",
+    "IdCountry": "MEX",
+    "Tactics": "4-1-2-3",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Mexico"
+      }
+    ],
+    "Abbreviation": "MEX",
+    "ShortClubName": "Mexico",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "MEX"
+  },
+  "Away": {
+    "Score": 0,
+    "Side": null,
+    "IdTeam": "43927",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/ECU",
+    "IdCountry": "ECU",
+    "Tactics": "4-4-2",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Ecuador"
+      }
+    ],
+    "Abbreviation": "ECU",
+    "ShortClubName": "Ecuador",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "ECU"
+  },
+  "HomeTeamScore": 2,
+  "AwayTeamScore": 0,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400222084",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Mexico City Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400222094",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Mexico City"
+      }
+    ],
+    "IdCountry": "MEX",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5000118"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "99'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43911",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "1A",
+  "PlaceHolderB": "3CEFHI",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "SVN",
+      "OfficialId": "315008",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Slavko VINCIC"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Slavko VINCIC"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "ALG",
+      "OfficialId": "375306",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mustapha GHORBAL"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mustapha Ghorbal"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 1,
+  "MatchNumber": 79,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151683"
+  },
+  "IsUpdateable": null
+}

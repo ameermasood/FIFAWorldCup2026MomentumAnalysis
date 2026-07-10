@@ -1,0 +1,189 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289289",
+  "IdGroup": null,
+  "Weather": null,
+  "Attendance": null,
+  "IdMatch": "400021539",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Quarter-final"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-07-11T21:00:00Z",
+  "LocalDate": "2026-07-11T17:00:00Z",
+  "Home": {
+    "Score": null,
+    "Side": null,
+    "IdTeam": "43961",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NOR",
+    "IdCountry": "NOR",
+    "Tactics": null,
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Norway"
+      }
+    ],
+    "Abbreviation": "NOR",
+    "ShortClubName": "Norway",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "NOR"
+  },
+  "Away": {
+    "Score": null,
+    "Side": null,
+    "IdTeam": "43942",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/ENG",
+    "IdCountry": "ENG",
+    "Tactics": null,
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "England"
+      }
+    ],
+    "Abbreviation": "ENG",
+    "ShortClubName": "England",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "ENG"
+  },
+  "HomeTeamScore": null,
+  "AwayTeamScore": null,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400257525",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Miami Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400254039",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Miami"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5017990"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": null,
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": null,
+  "MatchReportUrl": null,
+  "PlaceHolderA": "W91",
+  "PlaceHolderB": "W92",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "FRA",
+      "OfficialId": "314589",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Clement TURPIN"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Clément Turpin"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "ESP",
+      "OfficialId": "373845",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alejandro HERNANDEZ"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alejandro José Hernández Hernández"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 1,
+  "ResultType": 0,
+  "MatchNumber": 99,
+  "TimeDefined": true,
+  "OfficialityStatus": 0,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151706"
+  },
+  "IsUpdateable": null
+}

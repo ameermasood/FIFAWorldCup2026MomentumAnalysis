@@ -1,0 +1,172 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289287",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "68239",
+  "IdMatch": "400021512",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 32"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-07-01T16:00:00Z",
+  "LocalDate": "2026-07-01T12:00:00Z",
+  "Home": {
+    "Score": 2,
+    "Side": null,
+    "IdTeam": "43942",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/ENG",
+    "IdCountry": "ENG",
+    "Tactics": "4-2-3-1",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "England"
+      }
+    ],
+    "Abbreviation": "ENG",
+    "ShortClubName": "England",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "ENG"
+  },
+  "Away": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "20014",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/COD",
+    "IdCountry": "COD",
+    "Tactics": "4-1-4-1",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Congo DR"
+      }
+    ],
+    "Abbreviation": "COD",
+    "ShortClubName": "Congo DR",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "COD"
+  },
+  "HomeTeamScore": 2,
+  "AwayTeamScore": 1,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400098290",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Atlanta Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400256355",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Atlanta"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5044204"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "97'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43942",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "1L",
+  "PlaceHolderB": "3EHIJK",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "JOR",
+      "OfficialId": "361034",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adham MAKHADMEH"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adham Mohammad Tumah Makhadmeh"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 1,
+  "MatchNumber": 80,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151688"
+  },
+  "IsUpdateable": null
+}

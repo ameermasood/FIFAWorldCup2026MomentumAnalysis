@@ -1,0 +1,195 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289287",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "51243",
+  "IdMatch": "400021522",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 32"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-06-30T01:00:00Z",
+  "LocalDate": "2026-06-29T19:00:00Z",
+  "Home": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "43960",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NED",
+    "IdCountry": "NED",
+    "Tactics": "3-4-3",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Netherlands"
+      }
+    ],
+    "Abbreviation": "NED",
+    "ShortClubName": "Netherlands",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "NED"
+  },
+  "Away": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "43872",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/MAR",
+    "IdCountry": "MAR",
+    "Tactics": "4-2-3-1",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Morocco"
+      }
+    ],
+    "Abbreviation": "MAR",
+    "ShortClubName": "Morocco",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "MAR"
+  },
+  "HomeTeamScore": 1,
+  "AwayTeamScore": 1,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": 2,
+  "AwayTeamPenaltyScore": 3,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400238450",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Monterrey Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400222090",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Monterrey"
+      }
+    ],
+    "IdCountry": "MEX",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5047802"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "130'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43872",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "1F",
+  "PlaceHolderB": "2C",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "BRA",
+      "OfficialId": "361561",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Wilton SAMPAIO"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Wilton SAMPAIO"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "CHI",
+      "OfficialId": "416177",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cristian GARAY"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Cristián Marcelo Garay Reyes"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 2,
+  "MatchNumber": 75,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151680"
+  },
+  "IsUpdateable": null
+}

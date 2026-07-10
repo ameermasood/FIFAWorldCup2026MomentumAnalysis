@@ -1,0 +1,195 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289288",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "70649",
+  "IdMatch": "400021529",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 16"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-07-06T19:00:00Z",
+  "LocalDate": "2026-07-06T14:00:00Z",
+  "Home": {
+    "Score": 0,
+    "Side": null,
+    "IdTeam": "43963",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/POR",
+    "IdCountry": "POR",
+    "Tactics": "4-2-3-1",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Portugal"
+      }
+    ],
+    "Abbreviation": "POR",
+    "ShortClubName": "Portugal",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "POR"
+  },
+  "Away": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "43969",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/ESP",
+    "IdCountry": "ESP",
+    "Tactics": "4-1-2-3",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Spain"
+      }
+    ],
+    "Abbreviation": "ESP",
+    "ShortClubName": "Spain",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "ESP"
+  },
+  "HomeTeamScore": 0,
+  "AwayTeamScore": 1,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": null,
+  "AwayTeamPenaltyScore": null,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400257526",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Dallas Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400221951",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Dallas"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5020989"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "99'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43969",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "W83",
+  "PlaceHolderB": "W84",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "ENG",
+      "OfficialId": "360460",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Anthony TAYLOR"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Anthony Taylor"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "GER",
+      "OfficialId": "348147",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Felix ZWAYER"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Felix Zwayer"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 1,
+  "MatchNumber": 93,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151700"
+  },
+  "IsUpdateable": null
+}

@@ -1,0 +1,3 @@
+start_minute,start_label,start_timestamp,end_minute,end_label,end_timestamp,period
+24.0,24',2026-07-04T01:53:45.517Z,27.0,27',2026-07-04T01:57:05.308Z,3
+77.0,69',2026-07-04T03:02:37.683Z,81.0,73',2026-07-04T03:06:04.683Z,5

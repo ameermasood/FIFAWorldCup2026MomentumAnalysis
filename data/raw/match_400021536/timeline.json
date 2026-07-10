@@ -1,0 +1,2587 @@
+{
+  "IdStage": "289289",
+  "IdMatch": "400021536",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "661050370",
+      "IdTeam": "43872",
+      "Timestamp": "2026-07-09T19:57:47.718Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Morocco won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "762181633",
+      "Timestamp": "2026-07-09T20:00:46.995Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "835457027",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "Timestamp": "2026-07-09T20:01:49.415Z",
+      "MatchMinute": "2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 56.133113,
+      "PositionY": 96.56951000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "985562114",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-09T20:04:20.366Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.49145,
+      "PositionY": 33.96459,
+      "GoalGatePositionX": 31.31431,
+      "GoalGatePositionY": 13.79069,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1890065553",
+      "IdTeam": "43872",
+      "IdPlayer": "356956",
+      "Timestamp": "2026-07-09T20:04:21.187Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.77066,
+      "PositionY": 43.632191999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Morocco pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1002832899",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-09T20:04:35.06Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1006969858",
+      "IdTeam": "43946",
+      "IdPlayer": "389876",
+      "Timestamp": "2026-07-09T20:04:42.988Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 3.53457,
+      "PositionY": 55.452211,
+      "GoalGatePositionX": 51.951481,
+      "GoalGatePositionY": 34.685179999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dayot UPAMECANO (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1914127517",
+      "IdTeam": "43872",
+      "IdPlayer": "356956",
+      "Timestamp": "2026-07-09T20:04:43.429Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.51224,
+      "PositionY": 51.749436,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Morocco pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1276115974",
+      "IdTeam": "43946",
+      "IdPlayer": "464114",
+      "Timestamp": "2026-07-09T20:08:57.022Z",
+      "MatchMinute": "9'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 35.11985,
+      "PositionY": 21.24644,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Desire DOUE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1344720899",
+      "IdTeam": "43946",
+      "IdPlayer": "464114",
+      "Timestamp": "2026-07-09T20:10:09.074Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.309900000000003,
+      "PositionY": 26.2944,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Desire DOUE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1576945672",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "Timestamp": "2026-07-09T20:13:54.96Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 30.713849999999997,
+      "PositionY": 40.227019000000006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1675069451",
+      "IdTeam": "43946",
+      "IdPlayer": "368860",
+      "Timestamp": "2026-07-09T20:15:16.641Z",
+      "MatchMinute": "15'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 66.5633,
+      "PositionY": 2.55864,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lucas DIGNE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1857241100",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-09T20:18:33.678Z",
+      "MatchMinute": "18'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 6.8653900000000005,
+      "PositionY": 56.699164999999994,
+      "GoalGatePositionX": 15.03364,
+      "GoalGatePositionY": 25.26491,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1919311881",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "Timestamp": "2026-07-09T20:19:28.647Z",
+      "MatchMinute": "19'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1942002701",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-09T20:19:56.801Z",
+      "MatchMinute": "20'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 17.04437,
+      "PositionY": 71.96925,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2006258693",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-09T20:21:00.545Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.17698,
+      "PositionY": 98.61698,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "2011004938",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-07-09T20:21:04.869Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 7.9673,
+      "PositionY": 41.417936,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "55117835",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "IdSubPlayer": "430740",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-07-09T20:24:10.735Z",
+      "MatchMinute": "24'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.36025000000001,
+      "PositionY": 1.41683,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "135208973",
+      "IdTeam": "43872",
+      "IdPlayer": "411680",
+      "Timestamp": "2026-07-09T20:25:17.742Z",
+      "MatchMinute": "25'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 9.00365,
+      "PositionY": 29.61107,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Noussair MAZRAOUI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "321977358",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "IdSubPlayer": "356956",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-07-09T20:28:31.355Z",
+      "MatchMinute": "28'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 6,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Awarded"
+        }
+      ],
+      "PositionX": 10.31061,
+      "PositionY": 49.961549649999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": []
+    },
+    {
+      "EventId": "321960968",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-09T20:28:31.355Z",
+      "MatchMinute": "28'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.31061,
+      "PositionY": 49.961549649999995,
+      "GoalGatePositionX": 60.0508,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "371328010",
+      "Timestamp": "2026-07-09T20:29:18.995Z",
+      "MatchMinute": "29'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "574810121",
+      "Timestamp": "2026-07-09T20:32:41.383Z",
+      "MatchMinute": "32'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "590290955",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-09T20:32:54.178Z",
+      "MatchMinute": "33'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 16.86907,
+      "PositionY": 66.48475,
+      "GoalGatePositionX": 17.09844,
+      "GoalGatePositionY": 34.22115,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "757357585",
+      "IdTeam": "43946",
+      "IdPlayer": "464114",
+      "Timestamp": "2026-07-09T20:35:36.961Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 13.807720000000002,
+      "PositionY": 42.193096000000004,
+      "GoalGatePositionX": 44.381269,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Desire DOUE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1664651451",
+      "IdTeam": "43872",
+      "IdPlayer": "356956",
+      "Timestamp": "2026-07-09T20:35:37.361Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 4.15948,
+      "PositionY": 46.488206,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Morocco pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "801131536",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-09T20:36:21.285Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "806999050",
+      "IdTeam": "43946",
+      "IdPlayer": "430707",
+      "Timestamp": "2026-07-09T20:36:22.746Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 8.32341,
+      "PositionY": 46.584798,
+      "GoalGatePositionX": 77.43627,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jules KOUNDE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "916258830",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "Timestamp": "2026-07-09T20:38:03.947Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 38.67139,
+      "PositionY": 56.34249,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "969268240",
+      "IdTeam": "43946",
+      "IdPlayer": "419177",
+      "Timestamp": "2026-07-09T20:38:55.279Z",
+      "MatchMinute": "39'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 34.41301,
+      "PositionY": 49.3547972,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "William SALIBA (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1165716498",
+      "IdTeam": "43946",
+      "IdPlayer": "389876",
+      "Timestamp": "2026-07-09T20:42:04.027Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 72.45144,
+      "PositionY": 94.21591000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dayot UPAMECANO (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1189619731",
+      "IdTeam": "43872",
+      "IdPlayer": "441307",
+      "Timestamp": "2026-07-09T20:42:29.052Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 85.45762,
+      "PositionY": 90.64836,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Azzedine OUNAHI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1438647319",
+      "IdTeam": "43946",
+      "IdPlayer": "485677",
+      "Timestamp": "2026-07-09T20:46:42.466Z",
+      "MatchMinute": "45'+1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.820050000000002,
+      "PositionY": 66.09456,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Manu KONE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1449067544",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-09T20:46:50.814Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 14.34703,
+      "PositionY": 64.59817,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1458356249",
+      "IdTeam": "43946",
+      "IdPlayer": "368860",
+      "Timestamp": "2026-07-09T20:46:57.34Z",
+      "MatchMinute": "45'+2'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 26.32061,
+      "PositionY": 28.009719999999998,
+      "GoalGatePositionX": 41.816766,
+      "GoalGatePositionY": 47.97018,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lucas DIGNE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1529795607",
+      "IdTeam": "43946",
+      "IdPlayer": "464114",
+      "Timestamp": "2026-07-09T20:48:03.526Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 7.51456,
+      "PositionY": 17.420740000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Desire DOUE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1617671194",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-07-09T20:49:34.432Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1672291355",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-07-09T20:50:29.212Z",
+      "MatchMinute": "45'+5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 82.41731,
+      "PositionY": 21.97441,
+      "GoalGatePositionX": 80.54133,
+      "GoalGatePositionY": 38.58607,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1693289485",
+      "Timestamp": "2026-07-09T20:50:53.688Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "681437212",
+      "Timestamp": "2026-07-09T21:09:22.415Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "821371918",
+      "IdTeam": "43872",
+      "IdPlayer": "430740",
+      "Timestamp": "2026-07-09T21:11:36.438Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.31883,
+      "PositionY": 54.99159,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brahim DIAZ (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1098107933",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-07-09T21:16:07.209Z",
+      "MatchMinute": "52'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1239286815",
+      "IdTeam": "43872",
+      "IdPlayer": "485760",
+      "Timestamp": "2026-07-09T21:18:18.66Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 35.085899999999995,
+      "PositionY": 16.17764,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ayyoub BOUADDI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1266796569",
+      "IdTeam": "43946",
+      "IdPlayer": "464114",
+      "Timestamp": "2026-07-09T21:18:50.792Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 83.91703,
+      "PositionY": 73.13637,
+      "GoalGatePositionX": 54.341719,
+      "GoalGatePositionY": 7.349841,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Desire DOUE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "24898640",
+      "IdTeam": "43872",
+      "IdPlayer": "356956",
+      "Timestamp": "2026-07-09T21:18:51.513Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.98894,
+      "PositionY": 51.883333,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Morocco pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1327906842",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-09T21:19:49.391Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.81069000000001,
+      "PositionY": 57.73648300000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1477287963",
+      "IdTeam": "43946",
+      "IdPlayer": "430707",
+      "Timestamp": "2026-07-09T21:22:14.417Z",
+      "MatchMinute": "58'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jules KOUNDE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1617361959",
+      "IdTeam": "43946",
+      "IdPlayer": "464114",
+      "Timestamp": "2026-07-09T21:23:37.499Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 78.57072000000001,
+      "PositionY": 65.91954,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Desire DOUE."
+        }
+      ]
+    },
+    {
+      "EventId": "1565672483",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "Timestamp": "2026-07-09T21:23:39.861Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 85.15897,
+      "PositionY": 63.07302,
+      "GoalGatePositionX": 68.77995999999999,
+      "GoalGatePositionY": 25.064239999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1565672485",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "IdSubPlayer": "464114",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-07-09T21:23:39.861Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 85.15897,
+      "PositionY": 63.07302,
+      "GoalGatePositionX": 68.77995999999999,
+      "GoalGatePositionY": 25.064239999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kylian MBAPPE (France) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1684474922",
+      "IdTeam": "43872",
+      "IdPlayer": "372266",
+      "IdSubPlayer": "485760",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-07-09T21:25:24.415Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sofyan AMRABAT (in) comes off the bench to replace Ayyoub BOUADDI (out) (Morocco)"
+        }
+      ]
+    },
+    {
+      "EventId": "1684474923",
+      "IdTeam": "43872",
+      "IdPlayer": "433426",
+      "IdSubPlayer": "448612",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-07-09T21:25:24.415Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Soufiane RAHIMI (in) comes off the bench to replace Bilal EL KHANNOUSS (out) (Morocco)"
+        }
+      ]
+    },
+    {
+      "EventId": "1774618642",
+      "IdTeam": "43872",
+      "IdPlayer": "403083",
+      "Timestamp": "2026-07-09T21:26:51.713Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 50.6081728,
+      "PositionY": 80.87811,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Issa DIOP (Morocco) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1949261879",
+      "IdTeam": "43946",
+      "IdPlayer": "389867",
+      "IdSubPlayer": "398680",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-07-09T21:29:37.498Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 58.839959,
+      "PositionY": 44.980531,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Kylian MBAPPE."
+        }
+      ]
+    },
+    {
+      "EventId": "1935648813",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-09T21:29:42.343Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.51299,
+      "PositionY": 48.963284,
+      "GoalGatePositionX": 63.68296,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1935648815",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "IdSubPlayer": "389867",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-07-09T21:29:42.343Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 81.51299,
+      "PositionY": 48.963284,
+      "GoalGatePositionX": 63.68296,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "692139565",
+      "IdTeam": "43872",
+      "IdPlayer": "356956",
+      "Timestamp": "2026-07-09T21:29:42.844Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 95.17904,
+      "PositionY": 46.351035,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Morocco pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "2033716255",
+      "Timestamp": "2026-07-09T21:31:22.817Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "83622970",
+      "IdTeam": "43946",
+      "IdPlayer": "483549",
+      "IdSubPlayer": "485677",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-07-09T21:34:32.415Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Warren ZAIRE-EMERY (in) comes off the bench to replace Manu KONE (out) (France)"
+        }
+      ]
+    },
+    {
+      "EventId": "92690464",
+      "Timestamp": "2026-07-09T21:34:44.81Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "248906811",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-07-09T21:37:17.918Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.41663000000000006,
+      "PositionY": 98.99622000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "282951740",
+      "IdTeam": "43872",
+      "IdPlayer": "485756",
+      "IdSubPlayer": "424071",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-07-09T21:37:31.242Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Zakaria EL OUAHDI (in) comes off the bench to replace Anass SALAH EDDINE (out) (Morocco)"
+        }
+      ]
+    },
+    {
+      "EventId": "282951741",
+      "IdTeam": "43872",
+      "IdPlayer": "505112",
+      "IdSubPlayer": "430740",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-07-09T21:37:31.242Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gessime YASSINE (in) comes off the bench to replace Brahim DIAZ (out) (Morocco)"
+        }
+      ]
+    },
+    {
+      "EventId": "316597297",
+      "IdTeam": "43872",
+      "IdPlayer": "505112",
+      "Timestamp": "2026-07-09T21:38:09.89Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 51.362463999999996,
+      "PositionY": 97.13807,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gessime YASSINE (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "492545087",
+      "IdTeam": "43946",
+      "IdPlayer": "403094",
+      "IdSubPlayer": "389867",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-07-09T21:41:06.415Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jean-Philippe MATETA (in) comes off the bench to replace Kylian MBAPPE (out) (France)"
+        }
+      ]
+    },
+    {
+      "EventId": "492545088",
+      "IdTeam": "43946",
+      "IdPlayer": "484860",
+      "IdSubPlayer": "464114",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-07-09T21:41:06.415Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bradley BARCOLA (in) comes off the bench to replace Desire DOUE (out) (France)"
+        }
+      ]
+    },
+    {
+      "EventId": "574729238",
+      "IdTeam": "43946",
+      "IdPlayer": "483549",
+      "Timestamp": "2026-07-09T21:42:26.587Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 58.377283999999996,
+      "PositionY": 65.24765000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Warren ZAIRE-EMERY (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "660952098",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-09T21:43:58.118Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 100.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "777063460",
+      "IdTeam": "43946",
+      "IdPlayer": "430707",
+      "Timestamp": "2026-07-09T21:45:36.016Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 3.90865,
+      "PositionY": 4.50034,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jules KOUNDE (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "825475126",
+      "IdTeam": "43946",
+      "IdPlayer": "402047",
+      "Timestamp": "2026-07-09T21:46:28.108Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 21.51188,
+      "PositionY": 27.666809999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Adrien RABIOT (France) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "859294757",
+      "IdTeam": "43872",
+      "IdPlayer": "441307",
+      "Timestamp": "2026-07-09T21:47:09.509Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 21.79356,
+      "PositionY": 44.24306,
+      "GoalGatePositionX": 42.842987,
+      "GoalGatePositionY": 8.314288,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Azzedine OUNAHI (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1765489487",
+      "IdTeam": "43946",
+      "IdPlayer": "448332",
+      "Timestamp": "2026-07-09T21:47:10.39Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.98874,
+      "PositionY": 47.709211,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of France pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "925102148",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-07-09T21:48:14.634Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "928534583",
+      "IdTeam": "43872",
+      "IdPlayer": "485740",
+      "Timestamp": "2026-07-09T21:48:15.675Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 3.5308399999999995,
+      "PositionY": 37.03224,
+      "GoalGatePositionX": 31.997189999999996,
+      "GoalGatePositionY": 25.78903,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Neil EL AYNAOUI (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "947806236",
+      "IdTeam": "43872",
+      "IdPlayer": "524320",
+      "IdSubPlayer": "494293",
+      "IdSubTeam": "43872",
+      "Timestamp": "2026-07-09T21:48:31.465Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Amine SBAI (in) comes off the bench to replace Chemsdine TALBI (out) (Morocco)"
+        }
+      ]
+    },
+    {
+      "EventId": "1028057117",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-09T21:49:55.475Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.81313,
+      "PositionY": 35.48426,
+      "GoalGatePositionX": 20.502950000000002,
+      "GoalGatePositionY": 36.819449999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1056278598",
+      "IdTeam": "43946",
+      "IdPlayer": "464055",
+      "IdSubPlayer": "430707",
+      "IdSubTeam": "43946",
+      "Timestamp": "2026-07-09T21:50:24.415Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Malo GUSTO (in) comes off the bench to replace Jules KOUNDE (out) (France)"
+        }
+      ]
+    },
+    {
+      "EventId": "1115599943",
+      "IdTeam": "43946",
+      "IdPlayer": "484860",
+      "Timestamp": "2026-07-09T21:51:21.521Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 90.26859,
+      "PositionY": 68.22292,
+      "GoalGatePositionX": 35.10022,
+      "GoalGatePositionY": 2.895802,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bradley BARCOLA (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2022922166",
+      "IdTeam": "43872",
+      "IdPlayer": "356956",
+      "Timestamp": "2026-07-09T21:51:22.002Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.26077,
+      "PositionY": 57.458124,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Morocco pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1154418719",
+      "IdTeam": "43946",
+      "IdPlayer": "398680",
+      "Timestamp": "2026-07-09T21:52:00.9Z",
+      "MatchMinute": "88'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.75272,
+      "PositionY": 98.20352,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ousmane DEMBELE (France) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1156986919",
+      "IdTeam": "43946",
+      "IdPlayer": "403094",
+      "Timestamp": "2026-07-09T21:52:02.402Z",
+      "MatchMinute": "88'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 95.04351,
+      "PositionY": 48.81711,
+      "GoalGatePositionX": 64.87228,
+      "GoalGatePositionY": 88.00458,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jean-Philippe MATETA (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1289383994",
+      "IdTeam": "43872",
+      "IdPlayer": "400721",
+      "Timestamp": "2026-07-09T21:54:00.019Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 40.226221,
+      "PositionY": 96.65787,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Achraf HAKIMI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1392837692",
+      "IdTeam": "43872",
+      "IdPlayer": "524320",
+      "Timestamp": "2026-07-09T21:55:51.831Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Amine SBAI (Morocco) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1470743613",
+      "IdTeam": "43872",
+      "IdPlayer": "524320",
+      "Timestamp": "2026-07-09T21:57:06.314Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Amine SBAI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1484528714",
+      "IdTeam": "43872",
+      "IdPlayer": "485756",
+      "Timestamp": "2026-07-09T21:57:11.931Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 35.33597,
+      "PositionY": 2.12358,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Zakaria EL OUAHDI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1515732043",
+      "IdTeam": "43946",
+      "IdPlayer": "403094",
+      "Timestamp": "2026-07-09T21:57:52.171Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 85.96719,
+      "PositionY": 44.119177,
+      "GoalGatePositionX": 51.29497200000001,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jean-Philippe MATETA (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "275176608",
+      "IdTeam": "43872",
+      "IdPlayer": "356956",
+      "Timestamp": "2026-07-09T21:57:52.632Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 92.46769,
+      "PositionY": 46.831239000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Morocco pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1562387498",
+      "IdTeam": "43872",
+      "IdPlayer": "505112",
+      "Timestamp": "2026-07-09T21:58:36.055Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 44.086111,
+      "PositionY": 77.81123,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gessime YASSINE (Morocco) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1623862349",
+      "IdTeam": "43872",
+      "IdPlayer": "524320",
+      "Timestamp": "2026-07-09T21:59:34.634Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 20.89596,
+      "PositionY": 5.0225100000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Amine SBAI (Morocco) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1672188990",
+      "IdTeam": "43946",
+      "IdPlayer": "485655",
+      "Timestamp": "2026-07-09T22:00:25.304Z",
+      "MatchMinute": "90'+7'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 80.45696,
+      "PositionY": 57.9233,
+      "GoalGatePositionX": 53.056747,
+      "GoalGatePositionY": 86.71925999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Michael OLISE (France) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1679512614",
+      "Timestamp": "2026-07-09T22:00:34.346Z",
+      "MatchMinute": "90'+7'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1721236543",
+      "Timestamp": "2026-07-09T22:01:14.705Z",
+      "MatchMinute": "97'",
+      "Period": 10,
+      "HomeGoals": 2,
+      "AwayGoals": 0,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

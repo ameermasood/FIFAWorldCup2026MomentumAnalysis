@@ -1,0 +1,2444 @@
+{
+  "IdStage": "289287",
+  "IdMatch": "400021517",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "1148947642",
+      "IdTeam": "43926",
+      "Timestamp": "2026-07-04T01:28:35.572Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Colombia won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "1247104202",
+      "Timestamp": "2026-07-04T01:30:11.537Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "1306176700",
+      "IdTeam": "43860",
+      "IdPlayer": "369089",
+      "Timestamp": "2026-07-04T01:31:06.885Z",
+      "MatchMinute": "1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 25.119229999999998,
+      "PositionY": 53.655841,
+      "GoalGatePositionX": 29.505480000000002,
+      "GoalGatePositionY": 17.64277,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thomas PARTEY (Ghana) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1561752784",
+      "IdTeam": "43926",
+      "IdPlayer": "463902",
+      "Timestamp": "2026-07-04T01:33:37.215Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 69.68402,
+      "PositionY": 20.380770000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo PUERTA (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1705708754",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "IdSubPlayer": "369530",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-04T01:37:33.333Z",
+      "MatchMinute": "8'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis SUAREZ (in) comes off the bench to replace Jhon CORDOBA (out) (Colombia)"
+        }
+      ]
+    },
+    {
+      "EventId": "1907320001",
+      "IdTeam": "43926",
+      "IdPlayer": "269058",
+      "Timestamp": "2026-07-04T01:40:55.533Z",
+      "MatchMinute": "11'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.69924999999999,
+      "PositionY": 98.82564,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "James RODRIGUEZ (Colombia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1951937728",
+      "IdTeam": "43926",
+      "IdPlayer": "470760",
+      "Timestamp": "2026-07-04T01:41:29.266Z",
+      "MatchMinute": "12'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 77.2204,
+      "PositionY": 91.23625,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jhon ARIAS (Colombia) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "2019410131",
+      "IdTeam": "43860",
+      "IdPlayer": "448522",
+      "IdSubPlayer": "520039",
+      "IdSubTeam": "43860",
+      "Timestamp": "2026-07-04T01:42:41.572Z",
+      "MatchMinute": "13'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alidu SEIDU (in) comes off the bench to replace Marvin SENAYA (out) (Ghana)"
+        }
+      ]
+    },
+    {
+      "EventId": "2115093727",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "Timestamp": "2026-07-04T01:43:59.897Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 98.35592,
+      "PositionY": 14.50582,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Luis SUAREZ."
+        }
+      ]
+    },
+    {
+      "EventId": "2099888341",
+      "IdTeam": "43926",
+      "IdPlayer": "470760",
+      "Timestamp": "2026-07-04T01:44:01.358Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 93.7501,
+      "PositionY": 55.651198,
+      "GoalGatePositionX": 64.19811,
+      "GoalGatePositionY": 4.263503,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jhon ARIAS (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2099888343",
+      "IdTeam": "43926",
+      "IdPlayer": "470760",
+      "IdSubPlayer": "428905",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-04T01:44:01.358Z",
+      "MatchMinute": "14'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 93.7501,
+      "PositionY": 55.651198,
+      "GoalGatePositionX": 64.19811,
+      "GoalGatePositionY": 4.263503,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jhon ARIAS (Colombia) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "287280342",
+      "IdTeam": "43926",
+      "IdPlayer": "431200",
+      "Timestamp": "2026-07-04T01:49:22.88Z",
+      "MatchMinute": "20'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 60.23299,
+      "PositionY": 13.738320000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Daniel MUNOZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "318756040",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-04T01:50:00.277Z",
+      "MatchMinute": "20'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 78.48953,
+      "PositionY": 51.006565,
+      "GoalGatePositionX": 52.108931000000005,
+      "GoalGatePositionY": 2.468567,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "547411160",
+      "Timestamp": "2026-07-04T01:53:45.517Z",
+      "MatchMinute": "24'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "752012483",
+      "Timestamp": "2026-07-04T01:57:05.308Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1178100953",
+      "IdTeam": "43860",
+      "IdPlayer": "353235",
+      "Timestamp": "2026-07-04T02:04:00.737Z",
+      "MatchMinute": "34'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jordan AYEW (Ghana) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1185951940",
+      "IdTeam": "43860",
+      "IdPlayer": "411376",
+      "Timestamp": "2026-07-04T02:04:05.702Z",
+      "MatchMinute": "34'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 11.641029999999999,
+      "PositionY": 33.3324,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Inaki WILLIAMS (Ghana) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1218708683",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "Timestamp": "2026-07-04T02:04:30.086Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 52.659445999999996,
+      "PositionY": 22.61215,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis SUAREZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1347960037",
+      "IdTeam": "43860",
+      "IdPlayer": "448531",
+      "Timestamp": "2026-07-04T02:06:43.019Z",
+      "MatchMinute": "37'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 21.10597,
+      "PositionY": 53.262224,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Antoine SEMENYO (Ghana) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1385486566",
+      "IdTeam": "43860",
+      "IdPlayer": "353235",
+      "Timestamp": "2026-07-04T02:07:23.479Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.71473,
+      "PositionY": 99.06941,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jordan AYEW (Ghana) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1446280390",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-04T02:08:21.477Z",
+      "MatchMinute": "39'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 90.87416999999999,
+      "PositionY": 62.48776,
+      "GoalGatePositionX": 26.43791,
+      "GoalGatePositionY": 18.29216,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1514398943",
+      "IdTeam": "43860",
+      "IdPlayer": "411376",
+      "Timestamp": "2026-07-04T02:09:27.163Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.70334,
+      "PositionY": 66.73764,
+      "GoalGatePositionX": 10.94335,
+      "GoalGatePositionY": 83.28231000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Inaki WILLIAMS (Ghana) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1637484744",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "Timestamp": "2026-07-04T02:11:27.763Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.06756999999999,
+      "PositionY": 40.542566,
+      "GoalGatePositionX": 88.80551,
+      "GoalGatePositionY": 12.66379,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis SUAREZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1790452961",
+      "IdTeam": "43860",
+      "IdPlayer": "448531",
+      "Timestamp": "2026-07-04T02:13:57.353Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.61222,
+      "PositionY": 32.94448,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Antoine SEMENYO (Ghana) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1796441314",
+      "IdTeam": "43860",
+      "IdPlayer": "411376",
+      "Timestamp": "2026-07-04T02:14:00.976Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 15.659619999999999,
+      "PositionY": 46.021579,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Inaki WILLIAMS (Ghana) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1889772775",
+      "IdTeam": "43926",
+      "IdPlayer": "394500",
+      "Timestamp": "2026-07-04T02:15:34.17Z",
+      "MatchMinute": "45'+1'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 94.78718,
+      "PositionY": 56.012194,
+      "GoalGatePositionX": 40.066643,
+      "GoalGatePositionY": 25.826490000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Johan MOJICA (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1078521058",
+      "IdTeam": "43860",
+      "IdPlayer": "386473",
+      "Timestamp": "2026-07-04T02:15:34.81Z",
+      "MatchMinute": "45'+1'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 99.54056,
+      "PositionY": 53.577306,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Ghana pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "40112361",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "Timestamp": "2026-07-04T02:20:13.949Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 84.1094,
+      "PositionY": 2.68475,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis SUAREZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "121191654",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "Timestamp": "2026-07-04T02:21:13.148Z",
+      "MatchMinute": "45'+7'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 46.452391,
+      "PositionY": 18.43775,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis SUAREZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "157901006",
+      "Timestamp": "2026-07-04T02:22:22.245Z",
+      "MatchMinute": "45'+8'",
+      "Period": 3,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1134800079",
+      "IdTeam": "43926",
+      "IdPlayer": "473050",
+      "IdSubPlayer": "269058",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-04T02:38:05.518Z",
+      "MatchMinute": "",
+      "Period": 4,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Before the second half begins Richard RIOS (in) comes off the bench to replace James RODRIGUEZ (out) (Colombia)"
+        }
+      ]
+    },
+    {
+      "EventId": "1169061095",
+      "Timestamp": "2026-07-04T02:38:49.683Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "1204544720",
+      "IdTeam": "43926",
+      "IdPlayer": "386013",
+      "Timestamp": "2026-07-04T02:39:14.569Z",
+      "MatchMinute": "46'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 61.55458,
+      "PositionY": 48.585475,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Davinson SANCHEZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1314852051",
+      "IdTeam": "43860",
+      "IdPlayer": "520037",
+      "Timestamp": "2026-07-04T02:40:55.63Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 42.803369,
+      "PositionY": 10.299859999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Derrick LUCKASSEN (Ghana) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1333427436",
+      "IdTeam": "43926",
+      "IdPlayer": "473050",
+      "Timestamp": "2026-07-04T02:41:27.882Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 13.733680000000001,
+      "PositionY": 76.22914,
+      "GoalGatePositionX": 9.33171,
+      "GoalGatePositionY": 2.2142209999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richard RIOS (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1413268693",
+      "IdTeam": "43860",
+      "IdPlayer": "506279",
+      "Timestamp": "2026-07-04T02:42:38.272Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 47.309012,
+      "PositionY": 40.682038,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Caleb YIRENKYI (Ghana) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1505546478",
+      "IdTeam": "43860",
+      "IdPlayer": "506279",
+      "Timestamp": "2026-07-04T02:44:06.46Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 61.119,
+      "PositionY": 34.44746,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Caleb YIRENKYI (Ghana) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1740921046",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-04T02:48:07.221Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 0.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1747031273",
+      "IdTeam": "43926",
+      "IdPlayer": "463902",
+      "Timestamp": "2026-07-04T02:48:11.665Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 12.13065,
+      "PositionY": 21.6544,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo PUERTA (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "940295806",
+      "IdTeam": "43860",
+      "IdPlayer": "386473",
+      "Timestamp": "2026-07-04T02:48:12.666Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 2.0698000000000003,
+      "PositionY": 50.5343118,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Ghana pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1791980783",
+      "IdTeam": "43926",
+      "IdPlayer": "386013",
+      "Timestamp": "2026-07-04T02:48:56.23Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 17.877290000000002,
+      "PositionY": 66.64299,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Davinson SANCHEZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1874153692",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-04T02:49:33.683Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1928223992",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-04T02:51:09.843Z",
+      "MatchMinute": "58'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 11.53844,
+      "PositionY": 39.64756,
+      "GoalGatePositionX": 46.400876000000004,
+      "GoalGatePositionY": 7.2351659999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1116931789",
+      "IdTeam": "43860",
+      "IdPlayer": "386473",
+      "Timestamp": "2026-07-04T02:51:10.244Z",
+      "MatchMinute": "58'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 3.87531,
+      "PositionY": 45.796170000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Ghana pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "2001505530",
+      "IdTeam": "43860",
+      "IdPlayer": "486150",
+      "Timestamp": "2026-07-04T02:52:11.024Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 69.99349000000001,
+      "PositionY": 54.714923000000006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jerome OPOKU (Ghana) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2093485291",
+      "IdTeam": "43926",
+      "IdPlayer": "473050",
+      "Timestamp": "2026-07-04T02:53:39.112Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 58.230610000000006,
+      "PositionY": 29.28444,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richard RIOS (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "6063328",
+      "IdTeam": "43926",
+      "IdPlayer": "473050",
+      "Timestamp": "2026-07-04T02:54:38.251Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 38.69506,
+      "PositionY": 93.95656,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richard RIOS (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "44816603",
+      "IdTeam": "43860",
+      "IdPlayer": "441342",
+      "IdSubPlayer": "411376",
+      "IdSubTeam": "43860",
+      "Timestamp": "2026-07-04T02:55:04.683Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Abdul FATAWU (in) comes off the bench to replace Inaki WILLIAMS (out) (Ghana)"
+        }
+      ]
+    },
+    {
+      "EventId": "44816604",
+      "IdTeam": "43860",
+      "IdPlayer": "441341",
+      "IdSubPlayer": "507253",
+      "IdSubTeam": "43860",
+      "Timestamp": "2026-07-04T02:55:04.683Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Elisha OWUSU (in) comes off the bench to replace Kwasi SIBO (out) (Ghana)"
+        }
+      ]
+    },
+    {
+      "EventId": "728546544",
+      "IdTeam": "43860",
+      "IdPlayer": "441342",
+      "Timestamp": "2026-07-04T02:59:17.751Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 66.60236,
+      "PositionY": 0.12247,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Abdul FATAWU (Ghana) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1220002040",
+      "IdTeam": "43860",
+      "IdPlayer": "441342",
+      "Timestamp": "2026-07-04T02:59:25.683Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Abdul FATAWU (Ghana) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "481877246",
+      "IdTeam": "43860",
+      "IdPlayer": "448531",
+      "Timestamp": "2026-07-04T03:02:33.046Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.38304000000001,
+      "PositionY": 55.818557,
+      "GoalGatePositionX": 48.351479000000005,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Antoine SEMENYO (Ghana) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "482803967",
+      "IdTeam": "43860",
+      "IdPlayer": "369089",
+      "Timestamp": "2026-07-04T03:02:34.467Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 78.97073,
+      "PositionY": 61.59751,
+      "GoalGatePositionX": 22.17753,
+      "GoalGatePositionY": 3.825156,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thomas PARTEY (Ghana) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "490901734",
+      "Timestamp": "2026-07-04T03:02:37.683Z",
+      "MatchMinute": "69'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "674401518",
+      "IdTeam": "43926",
+      "IdPlayer": "356704",
+      "IdSubPlayer": "470760",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-04T03:05:42.683Z",
+      "MatchMinute": "72'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan QUINTERO (in) comes off the bench to replace Jhon ARIAS (out) (Colombia)"
+        }
+      ]
+    },
+    {
+      "EventId": "703123679",
+      "Timestamp": "2026-07-04T03:06:04.683Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "789493993",
+      "IdTeam": "43926",
+      "IdPlayer": "463902",
+      "Timestamp": "2026-07-04T03:07:23.736Z",
+      "MatchMinute": "74'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 45.338853,
+      "PositionY": 50.4544523,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo PUERTA (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "890299619",
+      "IdTeam": "43860",
+      "IdPlayer": "448522",
+      "Timestamp": "2026-07-04T03:08:59.752Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 27.37551,
+      "PositionY": 32.108579999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alidu SEIDU (Ghana) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "932873475",
+      "IdTeam": "43926",
+      "IdPlayer": "356704",
+      "Timestamp": "2026-07-04T03:09:54.827Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 28.092889999999997,
+      "PositionY": 32.73297,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan QUINTERO (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1017094380",
+      "IdTeam": "43926",
+      "IdPlayer": "473050",
+      "Timestamp": "2026-07-04T03:11:11.564Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 46.885722,
+      "PositionY": 3.94411,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richard RIOS (Colombia) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1056538862",
+      "IdTeam": "43860",
+      "IdPlayer": "514401",
+      "IdSubPlayer": "506279",
+      "IdSubTeam": "43860",
+      "Timestamp": "2026-07-04T03:12:00.683Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Prince ADU (in) comes off the bench to replace Caleb YIRENKYI (out) (Ghana)"
+        }
+      ]
+    },
+    {
+      "EventId": "1056538861",
+      "IdTeam": "43860",
+      "IdPlayer": "448525",
+      "IdSubPlayer": "353235",
+      "IdSubTeam": "43860",
+      "Timestamp": "2026-07-04T03:12:00.683Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ernest NUAMAH (in) comes off the bench to replace Jordan AYEW (out) (Ghana)"
+        }
+      ]
+    },
+    {
+      "EventId": "1094270193",
+      "IdTeam": "43860",
+      "IdPlayer": "514401",
+      "Timestamp": "2026-07-04T03:12:24.677Z",
+      "MatchMinute": "79'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 94.301,
+      "PositionY": 82.33711,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Prince ADU (Ghana) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1138501877",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-04T03:13:15.428Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.14097,
+      "PositionY": 32.10082,
+      "GoalGatePositionX": 58.91210099999999,
+      "GoalGatePositionY": 57.49484,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1183433962",
+      "IdTeam": "43926",
+      "IdPlayer": "356704",
+      "Timestamp": "2026-07-04T03:14:00.132Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.0,
+      "PositionY": 100.0,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan QUINTERO (Colombia) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1186758902",
+      "IdTeam": "43926",
+      "IdPlayer": "386013",
+      "Timestamp": "2026-07-04T03:14:01.794Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 5.69923,
+      "PositionY": 44.857087,
+      "GoalGatePositionX": 51.57019699999999,
+      "GoalGatePositionY": 22.36346,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Davinson SANCHEZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "373498206",
+      "IdTeam": "43860",
+      "IdPlayer": "386473",
+      "Timestamp": "2026-07-04T03:14:02.435Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.36186999999999997,
+      "PositionY": 50.05813407,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Ghana pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1273441529",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-04T03:15:16.683Z",
+      "MatchMinute": "82'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1397091594",
+      "IdTeam": "43926",
+      "IdPlayer": "356704",
+      "Timestamp": "2026-07-04T03:17:26.478Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 23.27225,
+      "PositionY": 62.88629999999999,
+      "GoalGatePositionX": 69.58193,
+      "GoalGatePositionY": 28.55473,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Juan QUINTERO (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1444748540",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "Timestamp": "2026-07-04T03:18:05.537Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 27.30782,
+      "PositionY": 14.2148,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis SUAREZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1553637615",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-04T03:20:00.853Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 9.70274,
+      "PositionY": 29.145979999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1572561151",
+      "IdTeam": "43926",
+      "IdPlayer": "428886",
+      "Timestamp": "2026-07-04T03:20:12.705Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 35.4849,
+      "PositionY": 38.47375,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis DIAZ (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1613264117",
+      "IdTeam": "43860",
+      "IdPlayer": "448531",
+      "Timestamp": "2026-07-04T03:20:44.516Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 81.69042,
+      "PositionY": 28.37621,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Antoine SEMENYO (Ghana) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1762869518",
+      "IdTeam": "43926",
+      "IdPlayer": "405755",
+      "IdSubPlayer": "428886",
+      "IdSubTeam": "43926",
+      "Timestamp": "2026-07-04T03:23:23.079Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jaminton CAMPAZ (in) comes off the bench to replace Luis DIAZ (out) (Colombia)"
+        }
+      ]
+    },
+    {
+      "EventId": "1797879043",
+      "IdTeam": "43860",
+      "IdPlayer": "448525",
+      "Timestamp": "2026-07-04T03:23:40.512Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 84.82441,
+      "PositionY": 47.464569,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ernest NUAMAH (Ghana) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1860441349",
+      "IdTeam": "43926",
+      "IdPlayer": "473050",
+      "Timestamp": "2026-07-04T03:24:55.047Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.78656,
+      "PositionY": 54.66185099999999,
+      "GoalGatePositionX": 11.089699999999999,
+      "GoalGatePositionY": 13.179940000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richard RIOS (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2037834001",
+      "IdTeam": "43926",
+      "IdPlayer": "405755",
+      "Timestamp": "2026-07-04T03:27:53.565Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 2.7200599999999997,
+      "PositionY": 34.99751,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jaminton CAMPAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2089304312",
+      "IdTeam": "43926",
+      "IdPlayer": "428905",
+      "Timestamp": "2026-07-04T03:28:44.656Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.64549,
+      "PositionY": 33.082640000000005,
+      "GoalGatePositionX": 7.67939,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luis SUAREZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2094038265",
+      "IdTeam": "43926",
+      "IdPlayer": "463902",
+      "Timestamp": "2026-07-04T03:28:48.56Z",
+      "MatchMinute": "90'+5'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 24.39478,
+      "PositionY": 30.899880000000003,
+      "GoalGatePositionX": 46.492334,
+      "GoalGatePositionY": 80.30014,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo PUERTA (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2121488647",
+      "IdTeam": "43926",
+      "IdPlayer": "473050",
+      "Timestamp": "2026-07-04T03:29:14.206Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 16.356180000000002,
+      "PositionY": 81.46941,
+      "GoalGatePositionX": 57.623990000000006,
+      "GoalGatePositionY": 9.098226,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richard RIOS (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1308235524",
+      "IdTeam": "43860",
+      "IdPlayer": "386473",
+      "Timestamp": "2026-07-04T03:29:14.946Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.51305,
+      "PositionY": 54.83939,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Ghana pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "2141902088",
+      "IdTeam": "43926",
+      "IdPlayer": "405755",
+      "Timestamp": "2026-07-04T03:29:34.626Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 12.192590000000001,
+      "PositionY": 17.43132,
+      "GoalGatePositionX": 42.445707999999996,
+      "GoalGatePositionY": 31.482219999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jaminton CAMPAZ (Colombia) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1329641241",
+      "IdTeam": "43860",
+      "IdPlayer": "386473",
+      "Timestamp": "2026-07-04T03:29:35.467Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.4158199999999999,
+      "PositionY": 43.676623,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Ghana pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "90954008",
+      "IdTeam": "43926",
+      "IdPlayer": "463902",
+      "Timestamp": "2026-07-04T03:29:43.515Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 22.66677,
+      "PositionY": 14.991879999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Gustavo PUERTA (Colombia) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "85852407",
+      "IdTeam": "43860",
+      "IdPlayer": "448525",
+      "Timestamp": "2026-07-04T03:30:08.76Z",
+      "MatchMinute": "90'+7'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 54.654647999999995,
+      "PositionY": 47.981338,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ernest NUAMAH (Ghana) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "102182139",
+      "Timestamp": "2026-07-04T03:31:22.087Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "351939868",
+      "Timestamp": "2026-07-04T03:35:25.105Z",
+      "MatchMinute": "98'",
+      "Period": 10,
+      "HomeGoals": 1,
+      "AwayGoals": 0,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

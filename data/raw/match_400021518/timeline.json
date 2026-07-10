@@ -1,0 +1,2130 @@
+{
+  "IdStage": "289287",
+  "IdMatch": "400021518",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "1255103490",
+      "IdTeam": "43883",
+      "Timestamp": "2026-06-28T18:58:18.535Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 80,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "South Africa won the coin toss and chose the side"
+        }
+      ]
+    },
+    {
+      "EventId": "1328436224",
+      "Timestamp": "2026-06-28T19:00:05.907Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "1575874564",
+      "IdTeam": "43899",
+      "IdPlayer": "430138",
+      "Timestamp": "2026-06-28T19:04:00.325Z",
+      "MatchMinute": "4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 91.49621,
+      "PositionY": 10.92497,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tajon BUCHANAN (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1672520706",
+      "IdTeam": "43883",
+      "IdPlayer": "403616",
+      "Timestamp": "2026-06-28T19:05:39.344Z",
+      "MatchMinute": "6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 26.046770000000002,
+      "PositionY": 46.508057,
+      "GoalGatePositionX": 33.20955,
+      "GoalGatePositionY": 18.72858,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Teboho MOKOENA (South Africa) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "436005053",
+      "IdTeam": "43899",
+      "IdPlayer": "331732",
+      "Timestamp": "2026-06-28T19:05:40.365Z",
+      "MatchMinute": "6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 3.49432,
+      "PositionY": 45.834029,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Canada pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1719401476",
+      "IdTeam": "43899",
+      "IdPlayer": "433635",
+      "Timestamp": "2026-06-28T19:06:25.83Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 78.65267,
+      "PositionY": 65.51897,
+      "GoalGatePositionX": 61.213550000000005,
+      "GoalGatePositionY": 92.56657,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Stephen EUSTAQUIO (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1897781254",
+      "IdTeam": "43899",
+      "IdPlayer": "433635",
+      "Timestamp": "2026-06-28T19:09:21.105Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.68474,
+      "PositionY": 98.69649,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Stephen EUSTAQUIO (Canada) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1914986502",
+      "IdTeam": "43899",
+      "IdPlayer": "423941",
+      "Timestamp": "2026-06-28T19:09:31.976Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 82.45694,
+      "PositionY": 5.14984,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathan SALIBA (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2076126216",
+      "IdTeam": "43899",
+      "IdPlayer": "431696",
+      "Timestamp": "2026-06-28T19:12:07.712Z",
+      "MatchMinute": "13'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 66.9628,
+      "PositionY": 64.14289,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richie LARYEA (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "170788873",
+      "IdTeam": "43899",
+      "IdPlayer": "433635",
+      "Timestamp": "2026-06-28T19:16:09.573Z",
+      "MatchMinute": "17'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.38428,
+      "PositionY": 1.9017300000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Stephen EUSTAQUIO (Canada) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "172163074",
+      "IdTeam": "43899",
+      "IdPlayer": "441257",
+      "Timestamp": "2026-06-28T19:16:11.235Z",
+      "MatchMinute": "17'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.7953,
+      "PositionY": 46.727149000000004,
+      "GoalGatePositionX": 82.16715,
+      "GoalGatePositionY": 5.701899,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jonathan DAVID (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "384046088",
+      "IdTeam": "43883",
+      "IdPlayer": "486161",
+      "Timestamp": "2026-06-28T19:19:30.794Z",
+      "MatchMinute": "20'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 34.98006,
+      "PositionY": 15.8279,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Relebohile MOFOKENG (South Africa) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "474136588",
+      "IdTeam": "43883",
+      "IdPlayer": "506039",
+      "Timestamp": "2026-06-28T19:20:46.97Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 74.66857999999999,
+      "PositionY": 83.4312,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ime OKON (South Africa) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "512304132",
+      "IdTeam": "43899",
+      "IdPlayer": "371958",
+      "Timestamp": "2026-06-28T19:21:41.925Z",
+      "MatchMinute": "22'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 93.48733,
+      "PositionY": 49.6326275,
+      "GoalGatePositionX": 52.18793,
+      "GoalGatePositionY": 29.68536,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Derek CORNELIUS (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1418011309",
+      "IdTeam": "43883",
+      "IdPlayer": "395986",
+      "Timestamp": "2026-06-28T19:21:42.506Z",
+      "MatchMinute": "22'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.94933999999999,
+      "PositionY": 49.2305944,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of South Africa pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "539365389",
+      "IdTeam": "43883",
+      "IdPlayer": "403616",
+      "Timestamp": "2026-06-28T19:22:11.014Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 20.674310000000002,
+      "PositionY": 65.75995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Teboho MOKOENA (South Africa) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "582586382",
+      "IdTeam": "43899",
+      "IdPlayer": "441257",
+      "Timestamp": "2026-06-28T19:22:45.148Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 75.71244,
+      "PositionY": 19.05618,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jonathan DAVID (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "583761927",
+      "Timestamp": "2026-06-28T19:22:51.907Z",
+      "MatchMinute": "23'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "790047752",
+      "Timestamp": "2026-06-28T19:26:16.718Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "1278723089",
+      "IdTeam": "43899",
+      "IdPlayer": "486929",
+      "Timestamp": "2026-06-28T19:34:12.655Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 92.51985,
+      "PositionY": 71.42398,
+      "GoalGatePositionX": 46.044536,
+      "GoalGatePositionY": 45.73585,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tani OLUWASEYI (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "39400478",
+      "IdTeam": "43883",
+      "IdPlayer": "395986",
+      "Timestamp": "2026-06-28T19:34:13.256Z",
+      "MatchMinute": "35'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.68878,
+      "PositionY": 54.837839,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of South Africa pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1339164683",
+      "IdTeam": "43883",
+      "IdPlayer": "419223",
+      "Timestamp": "2026-06-28T19:35:12.755Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.65382,
+      "PositionY": 99.28795000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Oswin APPOLLIS (South Africa) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1344193554",
+      "IdTeam": "43883",
+      "IdPlayer": "506039",
+      "Timestamp": "2026-06-28T19:35:14.617Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 11.622879999999999,
+      "PositionY": 50.4337535,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ime OKON (South Africa) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1454405647",
+      "IdTeam": "43883",
+      "IdPlayer": "463234",
+      "Timestamp": "2026-06-28T19:36:55.838Z",
+      "MatchMinute": "37'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 57.320826999999994,
+      "PositionY": 97.54428,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thapelo MASEKO (South Africa) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1563191317",
+      "IdTeam": "43883",
+      "IdPlayer": "390475",
+      "Timestamp": "2026-06-28T19:38:40.483Z",
+      "MatchMinute": "39'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 31.89302,
+      "PositionY": 23.75775,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sphephelo SITHOLE (South Africa) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1659809815",
+      "IdTeam": "43883",
+      "IdPlayer": "504199",
+      "Timestamp": "2026-06-28T19:39:59.502Z",
+      "MatchMinute": "40'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 89.95228,
+      "PositionY": 14.502019999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mbekezeli MBOKAZI (South Africa) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1694426129",
+      "IdTeam": "43899",
+      "IdPlayer": "486929",
+      "Timestamp": "2026-06-28T19:40:58.741Z",
+      "MatchMinute": "41'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 92.13951,
+      "PositionY": 51.59879000000001,
+      "GoalGatePositionX": 56.08807099999999,
+      "GoalGatePositionY": 75.88607,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tani OLUWASEYI (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1854758936",
+      "IdTeam": "43899",
+      "IdPlayer": "433635",
+      "Timestamp": "2026-06-28T19:43:36.278Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.59426,
+      "PositionY": 98.49356999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Stephen EUSTAQUIO (Canada) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1858567187",
+      "IdTeam": "43899",
+      "IdPlayer": "466585",
+      "Timestamp": "2026-06-28T19:43:38.24Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 95.3501,
+      "PositionY": 46.92904,
+      "GoalGatePositionX": 61.22395,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Moise BOMBITO (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1861044250",
+      "IdTeam": "43899",
+      "IdPlayer": "430138",
+      "Timestamp": "2026-06-28T19:43:42.004Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 98.10773999999999,
+      "PositionY": 42.094252,
+      "GoalGatePositionX": 60.68078,
+      "GoalGatePositionY": 26.345940000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tajon BUCHANAN (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "621376783",
+      "IdTeam": "43883",
+      "IdPlayer": "395986",
+      "Timestamp": "2026-06-28T19:43:42.104Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.95161999999999,
+      "PositionY": 44.072073,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of South Africa pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1898613781",
+      "IdTeam": "43899",
+      "IdPlayer": "423941",
+      "Timestamp": "2026-06-28T19:43:45.808Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 88.10210000000001,
+      "PositionY": 15.27744,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathan SALIBA (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2132339740",
+      "IdTeam": "43899",
+      "IdPlayer": "486929",
+      "Timestamp": "2026-06-28T19:47:55.397Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 77.8598,
+      "PositionY": 70.64431,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tani OLUWASEYI (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "3445790",
+      "Timestamp": "2026-06-28T19:48:26.366Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1017971743",
+      "IdTeam": "43883",
+      "IdPlayer": "494248",
+      "IdSubPlayer": "486161",
+      "IdSubTeam": "43883",
+      "Timestamp": "2026-06-28T20:04:54.071Z",
+      "MatchMinute": "",
+      "Period": 4,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Before the second half begins Thalente MBATHA (in) comes off the bench to replace Relebohile MOFOKENG (out) (South Africa)"
+        }
+      ]
+    },
+    {
+      "EventId": "1041664030",
+      "Timestamp": "2026-06-28T20:05:20.156Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "1236561950",
+      "IdTeam": "43899",
+      "IdPlayer": "441257",
+      "Timestamp": "2026-06-28T20:08:20.822Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 39.06308,
+      "PositionY": 39.47479,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jonathan DAVID (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1272738848",
+      "IdTeam": "43899",
+      "IdPlayer": "441259",
+      "Timestamp": "2026-06-28T20:08:53.755Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 54.854631,
+      "PositionY": 5.868650000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Liam MILLAR (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1486992420",
+      "IdTeam": "43883",
+      "IdPlayer": "494248",
+      "Timestamp": "2026-06-28T20:12:18.92Z",
+      "MatchMinute": "52'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 89.3029,
+      "PositionY": 30.24635,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thalente MBATHA (South Africa) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1559706656",
+      "IdTeam": "43899",
+      "IdPlayer": "431696",
+      "Timestamp": "2026-06-28T20:13:35.416Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 50.3571464,
+      "PositionY": 9.913829999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richie LARYEA (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1592189990",
+      "IdTeam": "43899",
+      "IdPlayer": "423941",
+      "Timestamp": "2026-06-28T20:14:07.148Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 55.618396999999995,
+      "PositionY": 22.602249999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nathan SALIBA (Canada) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1761841190",
+      "IdTeam": "43883",
+      "IdPlayer": "463234",
+      "Timestamp": "2026-06-28T20:16:36.697Z",
+      "MatchMinute": "57'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 63.24312,
+      "PositionY": 9.38715,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thapelo MASEKO (South Africa) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1855909921",
+      "IdTeam": "43899",
+      "IdPlayer": "485064",
+      "IdSubPlayer": "423941",
+      "IdSubTeam": "43899",
+      "Timestamp": "2026-06-28T20:18:23.575Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Niko SIGUR (in) comes off the bench to replace Nathan SALIBA (out) (Canada)"
+        }
+      ]
+    },
+    {
+      "EventId": "1855909922",
+      "IdTeam": "43899",
+      "IdPlayer": "480322",
+      "IdSubPlayer": "466585",
+      "IdSubTeam": "43899",
+      "Timestamp": "2026-06-28T20:18:23.575Z",
+      "MatchMinute": "59'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luc DE FOUGEROLLES (in) comes off the bench to replace Moise BOMBITO (out) (Canada)"
+        }
+      ]
+    },
+    {
+      "EventId": "2071742505",
+      "IdTeam": "43883",
+      "IdPlayer": "419223",
+      "Timestamp": "2026-06-28T20:22:03.844Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.28718,
+      "PositionY": 62.46741,
+      "GoalGatePositionX": 70.67099999999999,
+      "GoalGatePositionY": 26.712560000000003,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Oswin APPOLLIS (South Africa) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "75945003",
+      "IdTeam": "43899",
+      "IdPlayer": "486929",
+      "Timestamp": "2026-06-28T20:24:31.131Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 12.3753,
+      "PositionY": 37.348130000000005,
+      "GoalGatePositionX": 46.170201999999996,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tani OLUWASEYI (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "983469988",
+      "IdTeam": "43883",
+      "IdPlayer": "395986",
+      "Timestamp": "2026-06-28T20:24:31.371Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 8.679580000000001,
+      "PositionY": 40.740788,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of South Africa pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "133613611",
+      "IdTeam": "43899",
+      "IdPlayer": "433635",
+      "Timestamp": "2026-06-28T20:25:29.83Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.52339,
+      "PositionY": 99.21292000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Stephen EUSTAQUIO (Canada) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "136404012",
+      "IdTeam": "43899",
+      "IdPlayer": "480322",
+      "Timestamp": "2026-06-28T20:25:31.391Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 8.80478,
+      "PositionY": 54.192282000000006,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Luc DE FOUGEROLLES (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "232970286",
+      "IdTeam": "43899",
+      "IdPlayer": "485064",
+      "Timestamp": "2026-06-28T20:26:48.448Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 33.57878,
+      "PositionY": 89.94596,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Niko SIGUR (Canada) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "233710634",
+      "Timestamp": "2026-06-28T20:27:01.156Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "434077733",
+      "IdTeam": "43899",
+      "IdPlayer": "493970",
+      "IdSubPlayer": "486929",
+      "IdSubTeam": "43899",
+      "Timestamp": "2026-06-28T20:30:09.024Z",
+      "MatchMinute": "70'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Promise DAVID (in) comes off the bench to replace Tani OLUWASEYI (out) (Canada)"
+        }
+      ]
+    },
+    {
+      "EventId": "434077734",
+      "IdTeam": "43899",
+      "IdPlayer": "448411",
+      "IdSubPlayer": "441259",
+      "IdSubTeam": "43899",
+      "Timestamp": "2026-06-28T20:30:09.024Z",
+      "MatchMinute": "70'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jacob SHAFFELBURG (in) comes off the bench to replace Liam MILLAR (out) (Canada)"
+        }
+      ]
+    },
+    {
+      "EventId": "445418545",
+      "Timestamp": "2026-06-28T20:30:34.895Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "503894063",
+      "IdTeam": "43899",
+      "IdPlayer": "431696",
+      "Timestamp": "2026-06-28T20:31:19.299Z",
+      "MatchMinute": "71'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 34.51376,
+      "PositionY": 28.684579999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richie LARYEA (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "604292147",
+      "IdTeam": "43899",
+      "IdPlayer": "485064",
+      "Timestamp": "2026-06-28T20:32:48.508Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 45.203064999999995,
+      "PositionY": 98.85225,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Niko SIGUR (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "682504246",
+      "IdTeam": "43883",
+      "IdPlayer": "494248",
+      "Timestamp": "2026-06-28T20:34:23.403Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 75.6801,
+      "PositionY": 41.33717,
+      "GoalGatePositionX": 33.923370000000006,
+      "GoalGatePositionY": 87.73234,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thalente MBATHA (South Africa) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "705838135",
+      "IdTeam": "43899",
+      "IdPlayer": "412144",
+      "IdSubPlayer": "430138",
+      "IdSubTeam": "43899",
+      "Timestamp": "2026-06-28T20:34:45.064Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Alphonso DAVIES (in) comes off the bench to replace Tajon BUCHANAN (out) (Canada)"
+        }
+      ]
+    },
+    {
+      "EventId": "736835637",
+      "IdTeam": "43883",
+      "IdPlayer": "494248",
+      "Timestamp": "2026-06-28T20:35:12.152Z",
+      "MatchMinute": "75'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 64.14352,
+      "PositionY": 8.779729999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thalente MBATHA (South Africa) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "780039213",
+      "IdTeam": "43899",
+      "IdPlayer": "493970",
+      "Timestamp": "2026-06-28T20:35:59.399Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 22.83172,
+      "PositionY": 49.4702294,
+      "GoalGatePositionX": 30.346400000000003,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Promise DAVID (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "906884142",
+      "IdTeam": "43899",
+      "IdPlayer": "441257",
+      "Timestamp": "2026-06-28T20:38:02.001Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.03261,
+      "PositionY": 33.62752,
+      "GoalGatePositionX": 38.25129,
+      "GoalGatePositionY": 32.58326,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jonathan DAVID (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1814242555",
+      "IdTeam": "43883",
+      "IdPlayer": "395986",
+      "Timestamp": "2026-06-28T20:38:02.301Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 0.76288,
+      "PositionY": 43.627804,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of South Africa pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1116527676",
+      "IdTeam": "43899",
+      "IdPlayer": "448411",
+      "Timestamp": "2026-06-28T20:41:18.298Z",
+      "MatchMinute": "81'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 22.62182,
+      "PositionY": 90.40686,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jacob SHAFFELBURG (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1296608317",
+      "IdTeam": "43883",
+      "IdPlayer": "419223",
+      "Timestamp": "2026-06-28T20:44:23.623Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 78.44095,
+      "PositionY": 38.3075,
+      "GoalGatePositionX": 69.19718999999999,
+      "GoalGatePositionY": 7.1987190000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Oswin APPOLLIS (South Africa) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "56322568",
+      "IdTeam": "43899",
+      "IdPlayer": "331732",
+      "Timestamp": "2026-06-28T20:44:24.664Z",
+      "MatchMinute": "85'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 99.22592999999999,
+      "PositionY": 43.741951,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Canada pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1377469499",
+      "IdTeam": "43899",
+      "IdPlayer": "485064",
+      "Timestamp": "2026-06-28T20:45:30.75Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 55.056253,
+      "PositionY": 65.00744,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Niko SIGUR (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1402809396",
+      "IdTeam": "43883",
+      "IdPlayer": "481242",
+      "IdSubPlayer": "430917",
+      "IdSubTeam": "43883",
+      "Timestamp": "2026-06-28T20:46:01.927Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Iqraam RAYNERS (in) comes off the bench to replace Evidence MAKGOPA (out) (South Africa)"
+        }
+      ]
+    },
+    {
+      "EventId": "1402809397",
+      "IdTeam": "43883",
+      "IdPlayer": "504193",
+      "IdSubPlayer": "463234",
+      "IdSubTeam": "43883",
+      "Timestamp": "2026-06-28T20:46:01.927Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Tshepang MOREMI (in) comes off the bench to replace Thapelo MASEKO (out) (South Africa)"
+        }
+      ]
+    },
+    {
+      "EventId": "1458653251",
+      "IdTeam": "43899",
+      "IdPlayer": "431696",
+      "Timestamp": "2026-06-28T20:46:51.41Z",
+      "MatchMinute": "87'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 44.870843,
+      "PositionY": 9.40001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Richie LARYEA (Canada) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1581411397",
+      "IdTeam": "43883",
+      "IdPlayer": "481242",
+      "Timestamp": "2026-06-28T20:48:55.134Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 78.13488,
+      "PositionY": 45.082645,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Iqraam RAYNERS (South Africa) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1728742471",
+      "IdTeam": "43899",
+      "IdPlayer": "433635",
+      "Timestamp": "2026-06-28T20:51:23.582Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 16.43475,
+      "PositionY": 58.74291,
+      "GoalGatePositionX": 35.13311,
+      "GoalGatePositionY": 3.561702,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Stephen EUSTAQUIO (Canada) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1728742473",
+      "IdTeam": "43899",
+      "IdPlayer": "433635",
+      "Timestamp": "2026-06-28T20:51:23.582Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 16.43475,
+      "PositionY": 58.74291,
+      "GoalGatePositionX": 35.13311,
+      "GoalGatePositionY": 3.561702,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Stephen EUSTAQUIO (Canada) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1893929036",
+      "IdTeam": "43883",
+      "IdPlayer": "504199",
+      "Timestamp": "2026-06-28T20:53:51.156Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mbekezeli MBOKAZI (South Africa) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "2040153151",
+      "IdTeam": "43883",
+      "IdPlayer": "504199",
+      "Timestamp": "2026-06-28T20:56:09.748Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 93.14677999999999,
+      "PositionY": 48.30669,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Mbekezeli MBOKAZI (South Africa) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2060590150",
+      "Timestamp": "2026-06-28T20:56:52.358Z",
+      "MatchMinute": "90'+7'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "33225792",
+      "Timestamp": "2026-06-28T20:58:49.218Z",
+      "MatchMinute": "97'",
+      "Period": 10,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}

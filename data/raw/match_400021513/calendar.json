@@ -1,0 +1,195 @@
+{
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdStage": "289287",
+  "IdGroup": null,
+  "Weather": {
+    "Humidity": null,
+    "Temperature": null,
+    "WindSpeed": null,
+    "Type": null,
+    "TypeLocalized": []
+  },
+  "Attendance": "63945",
+  "IdMatch": "400021513",
+  "MatchDay": null,
+  "StageName": [
+    {
+      "Locale": "en-GB",
+      "Description": "Round of 32"
+    }
+  ],
+  "GroupName": [],
+  "CompetitionName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup™"
+    }
+  ],
+  "SeasonName": [
+    {
+      "Locale": "en-GB",
+      "Description": "FIFA World Cup 2026™"
+    }
+  ],
+  "SeasonShortName": [],
+  "Date": "2026-06-29T20:30:00Z",
+  "LocalDate": "2026-06-29T16:30:00Z",
+  "Home": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "43948",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/GER",
+    "IdCountry": "GER",
+    "Tactics": "4-2-3-1",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Germany"
+      }
+    ],
+    "Abbreviation": "GER",
+    "ShortClubName": "Germany",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "GER"
+  },
+  "Away": {
+    "Score": 1,
+    "Side": null,
+    "IdTeam": "43928",
+    "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/PAR",
+    "IdCountry": "PAR",
+    "Tactics": "4-4-2",
+    "TeamType": 1,
+    "AgeType": 7,
+    "TeamName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Paraguay"
+      }
+    ],
+    "Abbreviation": "PAR",
+    "ShortClubName": "Paraguay",
+    "FootballType": 0,
+    "Gender": 1,
+    "IdAssociation": "PAR"
+  },
+  "HomeTeamScore": 1,
+  "AwayTeamScore": 1,
+  "AggregateHomeTeamScore": null,
+  "AggregateAwayTeamScore": null,
+  "HomeTeamPenaltyScore": 3,
+  "AwayTeamPenaltyScore": 4,
+  "LastPeriodUpdate": null,
+  "Leg": null,
+  "IsHomeMatch": null,
+  "Stadium": {
+    "IdStadium": "400248623",
+    "Name": [
+      {
+        "Locale": "en-GB",
+        "Description": "Boston Stadium"
+      }
+    ],
+    "Capacity": null,
+    "WebAddress": null,
+    "Built": null,
+    "Roof": false,
+    "Turf": null,
+    "IdCity": "400221953",
+    "CityName": [
+      {
+        "Locale": "en-GB",
+        "Description": "Boston"
+      }
+    ],
+    "IdCountry": "USA",
+    "PostalCode": null,
+    "Street": null,
+    "Email": null,
+    "Fax": null,
+    "Phone": null,
+    "AffiliationCountry": null,
+    "AffiliationRegion": null,
+    "Latitude": null,
+    "Longitude": null,
+    "Length": null,
+    "Width": null,
+    "Properties": {
+      "IdIFES": "5007073"
+    },
+    "IsUpdateable": null
+  },
+  "IsTicketSalesAllowed": null,
+  "MatchTime": "132'",
+  "SecondHalfTime": null,
+  "FirstHalfTime": null,
+  "FirstHalfExtraTime": null,
+  "SecondHalfExtraTime": null,
+  "Winner": "43928",
+  "MatchReportUrl": null,
+  "PlaceHolderA": "1E",
+  "PlaceHolderB": "3ABCDF",
+  "BallPossession": null,
+  "Officials": [
+    {
+      "IdCountry": "MAR",
+      "OfficialId": "416524",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jalal JAYED"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Jalal Jayed"
+        }
+      ],
+      "OfficialType": 1,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Referee"
+        }
+      ]
+    },
+    {
+      "IdCountry": "CHN",
+      "OfficialId": "328495",
+      "NameShort": [
+        {
+          "Locale": "en-GB",
+          "Description": "MA Ning"
+        }
+      ],
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ning Ma"
+        }
+      ],
+      "OfficialType": 4,
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Fourth official"
+        }
+      ]
+    }
+  ],
+  "MatchStatus": 0,
+  "ResultType": 2,
+  "MatchNumber": 74,
+  "TimeDefined": true,
+  "OfficialityStatus": 1,
+  "MatchLegInfo": null,
+  "Properties": {
+    "IdIFES": "151682"
+  },
+  "IsUpdateable": null
+}

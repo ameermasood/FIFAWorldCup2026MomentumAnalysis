@@ -1,0 +1,3508 @@
+{
+  "IdStage": "289287",
+  "IdMatch": "400021525",
+  "IdCompetition": "17",
+  "IdSeason": "285023",
+  "IdGroup": null,
+  "Event": [
+    {
+      "EventId": "639964234",
+      "IdTeam": "43879",
+      "Timestamp": "2026-07-01T19:58:30.046Z",
+      "MatchMinute": "0'",
+      "Period": 2,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 80,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Senegal won the coin toss and chose the side"
+        }
+      ]
+    },
+    {
+      "EventId": "746916924",
+      "Timestamp": "2026-07-01T20:00:31.96Z",
+      "MatchMinute": "0'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period."
+        }
+      ]
+    },
+    {
+      "EventId": "1153839164",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-01T20:07:01.378Z",
+      "MatchMinute": "7'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 56.655975999999995,
+      "PositionY": 41.54728,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1265651788",
+      "IdTeam": "43935",
+      "IdPlayer": "448355",
+      "Timestamp": "2026-07-01T20:08:54.231Z",
+      "MatchMinute": "9'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 84.52167,
+      "PositionY": 34.22883,
+      "GoalGatePositionX": 62.70156,
+      "GoalGatePositionY": 12.065579999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leandro TROSSARD (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "22478400",
+      "IdTeam": "43879",
+      "IdPlayer": "448821",
+      "Timestamp": "2026-07-01T20:08:54.892Z",
+      "MatchMinute": "9'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.80418,
+      "PositionY": 43.90885,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Senegal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1362347086",
+      "IdTeam": "43935",
+      "IdPlayer": "448346",
+      "Timestamp": "2026-07-01T20:10:23.961Z",
+      "MatchMinute": "10'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 73.18285,
+      "PositionY": 56.429567999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Arthur THEATE (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1512582207",
+      "IdTeam": "43879",
+      "IdPlayer": "401889",
+      "Timestamp": "2026-07-01T20:12:55.792Z",
+      "MatchMinute": "13'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.8535,
+      "PositionY": 52.52717500000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismaila SARR (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1512833103",
+      "IdTeam": "43879",
+      "IdPlayer": "401889",
+      "Timestamp": "2026-07-01T20:12:57.334Z",
+      "MatchMinute": "13'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 0.62661,
+      "PositionY": 57.555942,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismaila SARR (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1553665102",
+      "IdTeam": "43935",
+      "IdPlayer": "411443",
+      "Timestamp": "2026-07-01T20:13:29.085Z",
+      "MatchMinute": "13'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 33.407759999999996,
+      "PositionY": 5.99522,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Timothy CASTAGNE (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1777388609",
+      "IdTeam": "43879",
+      "IdPlayer": "332314",
+      "Timestamp": "2026-07-01T20:17:16.052Z",
+      "MatchMinute": "17'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 18.891730000000003,
+      "PositionY": 43.080096,
+      "GoalGatePositionX": 40.063308,
+      "GoalGatePositionY": 12.94857,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Idrissa Gana GUEYE (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "539238142",
+      "IdTeam": "43935",
+      "IdPlayer": "358106",
+      "Timestamp": "2026-07-01T20:17:16.853Z",
+      "MatchMinute": "17'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.67771,
+      "PositionY": 46.719974,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Belgium pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1798054978",
+      "IdTeam": "43935",
+      "IdPlayer": "358120",
+      "Timestamp": "2026-07-01T20:17:37.213Z",
+      "MatchMinute": "18'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 75.99242000000001,
+      "PositionY": 48.856851,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kevin DE BRUYNE (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1910181951",
+      "IdTeam": "43879",
+      "IdPlayer": "403642",
+      "Timestamp": "2026-07-01T20:19:27.283Z",
+      "MatchMinute": "19'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.8952800000000001,
+      "PositionY": 98.96185,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Krepin DIATTA (Senegal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1939544131",
+      "IdTeam": "43879",
+      "IdPlayer": "353790",
+      "Timestamp": "2026-07-01T20:19:46.96Z",
+      "MatchMinute": "20'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sadio MANE (Senegal) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "2010693698",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-01T20:20:56.072Z",
+      "MatchMinute": "21'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 63.7416,
+      "PositionY": 60.237379999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "74171474",
+      "IdTeam": "43879",
+      "IdPlayer": "401889",
+      "Timestamp": "2026-07-01T20:24:30.446Z",
+      "MatchMinute": "24'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 8.02638,
+      "PositionY": 48.199006,
+      "GoalGatePositionX": 67.93302,
+      "GoalGatePositionY": 14.36762,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismaila SARR (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "85267540",
+      "IdTeam": "43879",
+      "IdPlayer": "486130",
+      "Timestamp": "2026-07-01T20:24:32.108Z",
+      "MatchMinute": "24'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 0,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.67264,
+      "PositionY": 53.09743099999999,
+      "GoalGatePositionX": 48.750129,
+      "GoalGatePositionY": 27.4134,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Habib DIARRA (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "85267542",
+      "IdTeam": "43879",
+      "IdPlayer": "486130",
+      "Timestamp": "2026-07-01T20:24:32.108Z",
+      "MatchMinute": "24'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 4.67264,
+      "PositionY": 53.09743099999999,
+      "GoalGatePositionX": 48.750129,
+      "GoalGatePositionY": 27.4134,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Habib DIARRA (Senegal) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "250067012",
+      "Timestamp": "2026-07-01T20:27:23.822Z",
+      "MatchMinute": "27'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "437602388",
+      "Timestamp": "2026-07-01T20:30:27.118Z",
+      "MatchMinute": "30'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "814453850",
+      "IdTeam": "43879",
+      "IdPlayer": "353790",
+      "Timestamp": "2026-07-01T20:36:32.868Z",
+      "MatchMinute": "36'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 12.56339,
+      "PositionY": 36.439569999999996,
+      "GoalGatePositionX": 41.410433000000005,
+      "GoalGatePositionY": 2.102198,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sadio MANE (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1727371650",
+      "IdTeam": "43935",
+      "IdPlayer": "358106",
+      "Timestamp": "2026-07-01T20:36:33.569Z",
+      "MatchMinute": "37'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 1.8969799999999999,
+      "PositionY": 45.807679,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Belgium pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "924604508",
+      "IdTeam": "43935",
+      "IdPlayer": "448355",
+      "Timestamp": "2026-07-01T20:38:13.629Z",
+      "MatchMinute": "38'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 74.33353,
+      "PositionY": 73.52595,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leandro TROSSARD (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1122401367",
+      "IdTeam": "43935",
+      "IdPlayer": "448373",
+      "Timestamp": "2026-07-01T20:41:24.74Z",
+      "MatchMinute": "41'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 92.21437,
+      "PositionY": 59.987108,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Maxim DE CUYPER (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1185275993",
+      "IdTeam": "43879",
+      "IdPlayer": "401889",
+      "Timestamp": "2026-07-01T20:42:30.265Z",
+      "MatchMinute": "42'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 32.9354,
+      "PositionY": 31.43203,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismaila SARR (Senegal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1271712838",
+      "IdTeam": "43879",
+      "IdPlayer": "431788",
+      "Timestamp": "2026-07-01T20:43:53.348Z",
+      "MatchMinute": "44'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 56.063933,
+      "PositionY": 66.90123,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pape GUEYE (Senegal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1328469086",
+      "IdTeam": "43935",
+      "IdPlayer": "358120",
+      "Timestamp": "2026-07-01T20:44:56.251Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.68342,
+      "PositionY": 98.56614,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kevin DE BRUYNE (Belgium) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1333802063",
+      "IdTeam": "43935",
+      "IdPlayer": "448373",
+      "Timestamp": "2026-07-01T20:44:59.834Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.78468,
+      "PositionY": 67.13918,
+      "GoalGatePositionX": 66.45765999999999,
+      "GoalGatePositionY": 21.40776,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Maxim DE CUYPER (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "94197097",
+      "IdTeam": "43879",
+      "IdPlayer": "448821",
+      "Timestamp": "2026-07-01T20:45:00.715Z",
+      "MatchMinute": "45'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 97.02559,
+      "PositionY": 47.704044,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Senegal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1371497552",
+      "IdTeam": "43935",
+      "IdPlayer": "358120",
+      "Timestamp": "2026-07-01T20:45:38.433Z",
+      "MatchMinute": "45'+1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.35511,
+      "PositionY": 1.10046,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kevin DE BRUYNE (Belgium) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1421576273",
+      "IdTeam": "43879",
+      "IdPlayer": "431788",
+      "Timestamp": "2026-07-01T20:46:24.679Z",
+      "MatchMinute": "45'+1'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 16.48097,
+      "PositionY": 57.485385,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pape GUEYE (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1515846739",
+      "IdTeam": "43879",
+      "IdPlayer": "431788",
+      "Timestamp": "2026-07-01T20:47:53.968Z",
+      "MatchMinute": "45'+3'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 54.36719,
+      "PositionY": 14.34454,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pape GUEYE (Senegal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1580556360",
+      "IdTeam": "43879",
+      "IdPlayer": "353790",
+      "Timestamp": "2026-07-01T20:48:51.546Z",
+      "MatchMinute": "45'+4'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 75.28802,
+      "PositionY": 43.088632,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sadio MANE (Senegal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1646597193",
+      "IdTeam": "43935",
+      "IdPlayer": "448373",
+      "Timestamp": "2026-07-01T20:50:05.32Z",
+      "MatchMinute": "45'+5'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 74.41412,
+      "PositionY": 43.996668,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Maxim DE CUYPER (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1685171299",
+      "IdTeam": "43935",
+      "IdPlayer": "358120",
+      "Timestamp": "2026-07-01T20:50:42.437Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 79.25941,
+      "PositionY": 51.796129,
+      "GoalGatePositionX": 24.1017,
+      "GoalGatePositionY": 35.278929999999995,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Kevin DE BRUYNE (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "448361977",
+      "IdTeam": "43879",
+      "IdPlayer": "448821",
+      "Timestamp": "2026-07-01T20:50:44.359Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 57,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal Prevention"
+        }
+      ],
+      "PositionX": 98.87344999999999,
+      "PositionY": 57.704744,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The goalkeeper of Senegal pulls off a save."
+        }
+      ]
+    },
+    {
+      "EventId": "1697313892",
+      "Timestamp": "2026-07-01T20:50:57.54Z",
+      "MatchMinute": "45'+6'",
+      "Period": 3,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the first period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "536168549",
+      "IdTeam": "43935",
+      "IdPlayer": "358112",
+      "IdSubPlayer": "448362",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-01T21:06:48.822Z",
+      "MatchMinute": "",
+      "Period": 4,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Before the second half begins Romelu LUKAKU (in) comes off the bench to replace Charles DE KETELAERE (out) (Belgium)"
+        }
+      ]
+    },
+    {
+      "EventId": "564637771",
+      "Timestamp": "2026-07-01T21:07:28.607Z",
+      "MatchMinute": "45'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period."
+        }
+      ]
+    },
+    {
+      "EventId": "860062828",
+      "IdTeam": "43879",
+      "IdPlayer": "431788",
+      "Timestamp": "2026-07-01T21:07:45.199Z",
+      "MatchMinute": "46'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 83.85316,
+      "PositionY": 69.30702,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pape GUEYE (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "596751448",
+      "IdTeam": "43879",
+      "IdPlayer": "448815",
+      "Timestamp": "2026-07-01T21:07:58.071Z",
+      "MatchMinute": "46'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 86.35764,
+      "PositionY": 38.95725,
+      "GoalGatePositionX": 20.48272,
+      "GoalGatePositionY": 4.605125,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Iliman NDIAYE (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "713364570",
+      "IdTeam": "43879",
+      "IdPlayer": "353790",
+      "Timestamp": "2026-07-01T21:09:44.638Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 89.75957,
+      "PositionY": 93.03443999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sadio MANE (Senegal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "735157353",
+      "IdTeam": "43879",
+      "IdPlayer": "403642",
+      "Timestamp": "2026-07-01T21:10:04.378Z",
+      "MatchMinute": "48'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 59.22730899999999,
+      "PositionY": 19.4084,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Krepin DIATTA (Senegal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "821691484",
+      "IdTeam": "43935",
+      "IdPlayer": "448373",
+      "Timestamp": "2026-07-01T21:11:26.68Z",
+      "MatchMinute": "49'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 37.6,
+      "PositionY": 1.38937,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Maxim DE CUYPER (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "877157485",
+      "IdTeam": "43879",
+      "IdPlayer": "486130",
+      "Timestamp": "2026-07-01T21:12:31.845Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 90.59909,
+      "PositionY": 50.5352259,
+      "GoalGatePositionX": 16.20084,
+      "GoalGatePositionY": 5.521278000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Habib DIARRA (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "925984850",
+      "IdTeam": "43879",
+      "IdPlayer": "430690",
+      "IdSubPlayer": "401889",
+      "IdSubTeam": "43879",
+      "Timestamp": "2026-07-01T21:13:03.417Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 38.65799,
+      "PositionY": 97.56509,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Moussa NIAKHATE."
+        }
+      ]
+    },
+    {
+      "EventId": "919298142",
+      "IdTeam": "43879",
+      "IdPlayer": "401889",
+      "Timestamp": "2026-07-01T21:13:08.021Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 1,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 89.23859,
+      "PositionY": 45.724503,
+      "GoalGatePositionX": 62.52915,
+      "GoalGatePositionY": 29.312939999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismaila SARR (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "919298144",
+      "IdTeam": "43879",
+      "IdPlayer": "401889",
+      "IdSubPlayer": "430690",
+      "IdSubTeam": "43879",
+      "Timestamp": "2026-07-01T21:13:08.021Z",
+      "MatchMinute": "51'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 89.23859,
+      "PositionY": 45.724503,
+      "GoalGatePositionX": 62.52915,
+      "GoalGatePositionY": 29.312939999999998,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismaila SARR (Senegal) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1063858271",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-01T21:15:24.798Z",
+      "MatchMinute": "53'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 49.8999228,
+      "PositionY": 32.84075,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1118848097",
+      "IdTeam": "43879",
+      "IdPlayer": "430671",
+      "Timestamp": "2026-07-01T21:16:17.41Z",
+      "MatchMinute": "54'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 70.53125,
+      "PositionY": 89.61376,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismail JAKOBS (Senegal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1141874776",
+      "IdTeam": "43879",
+      "IdPlayer": "448815",
+      "Timestamp": "2026-07-01T21:16:41.815Z",
+      "MatchMinute": "55'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 63.958349999999996,
+      "PositionY": 49.6635024,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Iliman NDIAYE (Senegal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1221202018",
+      "IdTeam": "43935",
+      "IdPlayer": "448377",
+      "IdSubPlayer": "448341",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-01T21:17:49.861Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dodi LUKEBAKIO (in) comes off the bench to replace Jeremy DOKU (out) (Belgium)"
+        }
+      ]
+    },
+    {
+      "EventId": "1221202019",
+      "IdTeam": "43935",
+      "IdPlayer": "495349",
+      "IdSubPlayer": "358120",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-01T21:17:49.861Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas RASKIN (in) comes off the bench to replace Kevin DE BRUYNE (out) (Belgium)"
+        }
+      ]
+    },
+    {
+      "EventId": "1244018787",
+      "IdTeam": "43935",
+      "IdPlayer": "448360",
+      "Timestamp": "2026-07-01T21:18:26.98Z",
+      "MatchMinute": "56'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.42077,
+      "PositionY": 61.344229999999996,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brandon MECHELE (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1329008732",
+      "IdTeam": "43935",
+      "IdPlayer": "495349",
+      "Timestamp": "2026-07-01T21:19:45.799Z",
+      "MatchMinute": "58'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 64.11919,
+      "PositionY": 13.85295,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas RASKIN (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1450137701",
+      "IdTeam": "43935",
+      "IdPlayer": "448377",
+      "Timestamp": "2026-07-01T21:21:44.757Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 14.68819,
+      "PositionY": 57.72801199999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dodi LUKEBAKIO (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1468880990",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-01T21:22:09.122Z",
+      "MatchMinute": "60'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 2.98007,
+      "PositionY": 70.30181,
+      "GoalGatePositionX": 75.9215,
+      "GoalGatePositionY": 11.68031,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1499929700",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-01T21:22:41.054Z",
+      "MatchMinute": "61'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.9292999999999999,
+      "PositionY": 99.06221,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1555985509",
+      "IdTeam": "43935",
+      "IdPlayer": "448377",
+      "Timestamp": "2026-07-01T21:23:34.187Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 15.128050000000002,
+      "PositionY": 52.43205,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dodi LUKEBAKIO (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1608790112",
+      "IdTeam": "43879",
+      "IdPlayer": "403642",
+      "Timestamp": "2026-07-01T21:24:20.573Z",
+      "MatchMinute": "62'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 40.149543,
+      "PositionY": 4.11512,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Krepin DIATTA (Senegal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1637651558",
+      "IdTeam": "43935",
+      "IdPlayer": "497902",
+      "IdSubPlayer": "448343",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-01T21:24:49.044Z",
+      "MatchMinute": "63'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Diego MOREIRA (in) comes off the bench to replace Hans VANAKEN (out) (Belgium)"
+        }
+      ]
+    },
+    {
+      "EventId": "1683214440",
+      "IdTeam": "43935",
+      "IdPlayer": "448360",
+      "Timestamp": "2026-07-01T21:25:31.784Z",
+      "MatchMinute": "64'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 42.751285,
+      "PositionY": 61.22336000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brandon MECHELE (Belgium) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1801514090",
+      "IdTeam": "43935",
+      "IdPlayer": "358112",
+      "Timestamp": "2026-07-01T21:27:23.607Z",
+      "MatchMinute": "65'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Romelu LUKAKU (Belgium) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1843203188",
+      "IdTeam": "43879",
+      "IdPlayer": "464842",
+      "IdSubPlayer": "431788",
+      "IdSubTeam": "43879",
+      "Timestamp": "2026-07-01T21:27:50.509Z",
+      "MatchMinute": "66'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine CAMARA (in) comes off the bench to replace Pape GUEYE (out) (Senegal)"
+        }
+      ]
+    },
+    {
+      "EventId": "1909612648",
+      "IdTeam": "43879",
+      "IdPlayer": "464842",
+      "Timestamp": "2026-07-01T21:29:13.466Z",
+      "MatchMinute": "67'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "PositionX": 48.674466,
+      "PositionY": 63.07598,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine CAMARA (Senegal) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "2058836086",
+      "Timestamp": "2026-07-01T21:31:47.453Z",
+      "MatchMinute": "70'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 83,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Delay"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match paused for a hydration break"
+        }
+      ]
+    },
+    {
+      "EventId": "126012523",
+      "IdTeam": "43879",
+      "IdPlayer": "496358",
+      "IdSubPlayer": "448815",
+      "IdSubTeam": "43879",
+      "Timestamp": "2026-07-01T21:34:32.117Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ibrahim MBAYE (in) comes off the bench to replace Iliman NDIAYE (out) (Senegal)"
+        }
+      ]
+    },
+    {
+      "EventId": "126012524",
+      "IdTeam": "43879",
+      "IdPlayer": "418798",
+      "IdSubPlayer": "486130",
+      "IdSubTeam": "43879",
+      "Timestamp": "2026-07-01T21:34:32.117Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pape Matar SARR (in) comes off the bench to replace Habib DIARRA (out) (Senegal)"
+        }
+      ]
+    },
+    {
+      "EventId": "130404471",
+      "Timestamp": "2026-07-01T21:35:21.717Z",
+      "MatchMinute": "73'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 78,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Resume"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match resumed after interruption"
+        }
+      ]
+    },
+    {
+      "EventId": "299815022",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-01T21:37:58.731Z",
+      "MatchMinute": "76'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 44.903586000000004,
+      "PositionY": 77.9698,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "344400997",
+      "IdTeam": "43935",
+      "IdPlayer": "448346",
+      "Timestamp": "2026-07-01T21:38:48.66Z",
+      "MatchMinute": "77'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 26.60582,
+      "PositionY": 31.57066,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Arthur THEATE (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "401319024",
+      "IdTeam": "43935",
+      "IdPlayer": "448377",
+      "Timestamp": "2026-07-01T21:39:43.735Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 15.32193,
+      "PositionY": 70.19495,
+      "GoalGatePositionX": 29.25973,
+      "GoalGatePositionY": 32.91283,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Dodi LUKEBAKIO (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "422430840",
+      "IdTeam": "43935",
+      "IdPlayer": "358122",
+      "IdSubPlayer": "448373",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-01T21:39:52.973Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thomas MEUNIER (in) comes off the bench to replace Maxim DE CUYPER (out) (Belgium)"
+        }
+      ]
+    },
+    {
+      "EventId": "464265338",
+      "IdTeam": "43935",
+      "IdPlayer": "358122",
+      "Timestamp": "2026-07-01T21:40:27.279Z",
+      "MatchMinute": "78'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 49.7293456,
+      "PositionY": 91.0658,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thomas MEUNIER (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "574594172",
+      "IdTeam": "43935",
+      "IdPlayer": "411443",
+      "Timestamp": "2026-07-01T21:42:21.973Z",
+      "MatchMinute": "80'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 87.24128,
+      "PositionY": 18.53123,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Timothy CASTAGNE (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "723947625",
+      "IdTeam": "43935",
+      "IdPlayer": "411443",
+      "Timestamp": "2026-07-01T21:44:57.609Z",
+      "MatchMinute": "83'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 9.89617,
+      "PositionY": 42.549506,
+      "GoalGatePositionX": 73.55043,
+      "GoalGatePositionY": 21.85561,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Timothy CASTAGNE (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "760446078",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-01T21:45:34.326Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 16.39246,
+      "PositionY": 38.66267,
+      "GoalGatePositionX": 34.82085,
+      "GoalGatePositionY": 55.54778,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "834233460",
+      "IdTeam": "43879",
+      "IdPlayer": "353790",
+      "Timestamp": "2026-07-01T21:46:26.607Z",
+      "MatchMinute": "84'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Sadio MANE (Senegal) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "949680267",
+      "IdTeam": "43935",
+      "IdPlayer": "358122",
+      "IdSubPlayer": "358112",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-01T21:48:02.093Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 3.27383,
+      "PositionY": 78.74914,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Thomas MEUNIER."
+        }
+      ]
+    },
+    {
+      "EventId": "917492865",
+      "IdTeam": "43935",
+      "IdPlayer": "358112",
+      "Timestamp": "2026-07-01T21:48:02.994Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 0,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 4.09188,
+      "PositionY": 58.526948999999995,
+      "GoalGatePositionX": 53.293639000000006,
+      "GoalGatePositionY": 40.6824,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Romelu LUKAKU (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "917492867",
+      "IdTeam": "43935",
+      "IdPlayer": "358112",
+      "IdSubPlayer": "358122",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-01T21:48:02.994Z",
+      "MatchMinute": "86'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 4.09188,
+      "PositionY": 58.526948999999995,
+      "GoalGatePositionX": 53.293639000000006,
+      "GoalGatePositionY": 40.6824,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Romelu LUKAKU (Belgium) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1016798325",
+      "IdTeam": "43879",
+      "IdPlayer": "496358",
+      "Timestamp": "2026-07-01T21:49:44.155Z",
+      "MatchMinute": "88'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 88.95179,
+      "PositionY": 26.64793,
+      "GoalGatePositionX": 85.97222,
+      "GoalGatePositionY": 62.54332,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ibrahim MBAYE (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1096432763",
+      "IdTeam": "43935",
+      "IdPlayer": "448355",
+      "IdSubPlayer": "401444",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-01T21:50:38.95Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 1,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assist"
+        }
+      ],
+      "PositionX": 23.24681,
+      "PositionY": 28.05964,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Assisted by Leandro TROSSARD."
+        }
+      ]
+    },
+    {
+      "EventId": "1084778640",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-01T21:50:40.792Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 1,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 5.93135,
+      "PositionY": 56.813959999999994,
+      "GoalGatePositionX": 45.208536,
+      "GoalGatePositionY": 27.60019,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1084778642",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "IdSubPlayer": "448355",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-01T21:50:40.792Z",
+      "MatchMinute": "89'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 0,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Goal!"
+        }
+      ],
+      "PositionX": 5.93135,
+      "PositionY": 56.813959999999994,
+      "GoalGatePositionX": 45.208536,
+      "GoalGatePositionY": 27.60019,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) scores!!"
+        }
+      ]
+    },
+    {
+      "EventId": "1195071606",
+      "IdTeam": "43935",
+      "IdPerson": "344378",
+      "Timestamp": "2026-07-01T21:52:21.741Z",
+      "MatchMinute": "90'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 2,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Yellow card"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Rudi GARCIA (Belgium) is booked by the referee."
+        }
+      ]
+    },
+    {
+      "EventId": "1305740414",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-01T21:54:27.779Z",
+      "MatchMinute": "90'+2'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 0.97681,
+      "PositionY": 99.19517,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1315404950",
+      "IdTeam": "43935",
+      "IdPlayer": "358122",
+      "Timestamp": "2026-07-01T21:54:31.022Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 22.16261,
+      "PositionY": 53.559197000000005,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thomas MEUNIER (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1338751096",
+      "IdTeam": "43935",
+      "IdPlayer": "448360",
+      "Timestamp": "2026-07-01T21:54:40.331Z",
+      "MatchMinute": "90'+3'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 6.8266599999999995,
+      "PositionY": 45.8939,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Brandon MECHELE (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1419327617",
+      "IdTeam": "43935",
+      "IdPlayer": "497902",
+      "Timestamp": "2026-07-01T21:56:07.607Z",
+      "MatchMinute": "90'+4'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 15,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Offside"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Diego MOREIRA (Belgium) is ruled offside."
+        }
+      ]
+    },
+    {
+      "EventId": "1544234092",
+      "IdTeam": "43879",
+      "IdPlayer": "332314",
+      "Timestamp": "2026-07-01T21:58:19.45Z",
+      "MatchMinute": "90'+6'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 75.23156,
+      "PositionY": 37.73114,
+      "GoalGatePositionX": 26.89198,
+      "GoalGatePositionY": 3.038725,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Idrissa Gana GUEYE (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1637630075",
+      "Timestamp": "2026-07-01T21:59:53.118Z",
+      "MatchMinute": "90'+8'",
+      "Period": 5,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee brings the second period to an end."
+        }
+      ]
+    },
+    {
+      "EventId": "1872951449",
+      "IdTeam": "43935",
+      "Timestamp": "2026-07-01T22:03:42.918Z",
+      "MatchMinute": "",
+      "Period": 17,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 79,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Coin Toss"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Belgium won the coin toss and chose to kick off"
+        }
+      ]
+    },
+    {
+      "EventId": "1947473026",
+      "Timestamp": "2026-07-01T22:04:56.008Z",
+      "MatchMinute": "90'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the first period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "2100675739",
+      "IdTeam": "43935",
+      "IdPlayer": "411443",
+      "Timestamp": "2026-07-01T22:07:16.246Z",
+      "MatchMinute": "93'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 81.88356,
+      "PositionY": 78.95425,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Timothy CASTAGNE (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "2136250479",
+      "IdTeam": "43879",
+      "IdPlayer": "418795",
+      "IdSubPlayer": "353790",
+      "IdSubTeam": "43879",
+      "Timestamp": "2026-07-01T22:07:32.277Z",
+      "MatchMinute": "93'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas JACKSON (in) comes off the bench to replace Sadio MANE (out) (Senegal)"
+        }
+      ]
+    },
+    {
+      "EventId": "2136250480",
+      "IdTeam": "43879",
+      "IdPlayer": "464865",
+      "IdSubPlayer": "430671",
+      "IdSubTeam": "43879",
+      "Timestamp": "2026-07-01T22:07:32.277Z",
+      "MatchMinute": "93'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "El Hadji Malick DIOUF (in) comes off the bench to replace Ismail JAKOBS (out) (Senegal)"
+        }
+      ]
+    },
+    {
+      "EventId": "84431005",
+      "IdTeam": "43935",
+      "IdPlayer": "411443",
+      "Timestamp": "2026-07-01T22:09:11.241Z",
+      "MatchMinute": "95'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 65.34559,
+      "PositionY": 90.13497000000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Timothy CASTAGNE (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "111377522",
+      "IdTeam": "43879",
+      "IdPlayer": "523354",
+      "IdSubPlayer": "332314",
+      "IdSubTeam": "43879",
+      "Timestamp": "2026-07-01T22:09:47.008Z",
+      "MatchMinute": "95'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bara Sapoko NDIAYE (in) comes off the bench to replace Idrissa Gana GUEYE (out) (Senegal)"
+        }
+      ]
+    },
+    {
+      "EventId": "194316414",
+      "IdTeam": "43935",
+      "IdPlayer": "358122",
+      "Timestamp": "2026-07-01T22:11:08.619Z",
+      "MatchMinute": "97'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 86.29982000000001,
+      "PositionY": 7.069839999999999,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thomas MEUNIER (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "329037958",
+      "IdTeam": "43935",
+      "IdPlayer": "497902",
+      "Timestamp": "2026-07-01T22:13:20.57Z",
+      "MatchMinute": "99'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 74.02127,
+      "PositionY": 55.151989,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Diego MOREIRA (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "479118467",
+      "IdTeam": "43935",
+      "IdPlayer": "358122",
+      "Timestamp": "2026-07-01T22:15:52.082Z",
+      "MatchMinute": "101'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 50.4461045,
+      "PositionY": 13.04814,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Thomas MEUNIER (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "660111498",
+      "IdTeam": "43935",
+      "IdPlayer": "448355",
+      "Timestamp": "2026-07-01T22:18:53.863Z",
+      "MatchMinute": "104'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 83.48413000000001,
+      "PositionY": 64.81338,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Leandro TROSSARD (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "736024708",
+      "Timestamp": "2026-07-01T22:20:10.169Z",
+      "MatchMinute": "105'+1'",
+      "Period": 7,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee blows for the end of the first period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "898478195",
+      "Timestamp": "2026-07-01T22:22:48.767Z",
+      "MatchMinute": "105'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 7,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Start Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee signals the start of the second period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "977945741",
+      "IdTeam": "43935",
+      "IdPlayer": "495349",
+      "Timestamp": "2026-07-01T22:24:03.112Z",
+      "MatchMinute": "107'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 9.19251,
+      "PositionY": 44.017815,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas RASKIN (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1019512949",
+      "IdTeam": "43935",
+      "IdPlayer": "495349",
+      "Timestamp": "2026-07-01T22:24:34.804Z",
+      "MatchMinute": "107'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 50.04355445,
+      "PositionY": 57.86410600000001,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas RASKIN (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1098075301",
+      "IdTeam": "43879",
+      "IdPlayer": "496358",
+      "Timestamp": "2026-07-01T22:26:00.83Z",
+      "MatchMinute": "109'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 90.50937,
+      "PositionY": 40.148285,
+      "GoalGatePositionX": 27.277289999999997,
+      "GoalGatePositionY": 40.52528,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ibrahim MBAYE (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1124079734",
+      "IdTeam": "43935",
+      "IdPlayer": "448364",
+      "IdSubPlayer": "448355",
+      "IdSubTeam": "43935",
+      "Timestamp": "2026-07-01T22:26:20.638Z",
+      "MatchMinute": "109'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 5,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Substitution"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Amadou ONANA (in) comes off the bench to replace Leandro TROSSARD (out) (Belgium)"
+        }
+      ]
+    },
+    {
+      "EventId": "1190577272",
+      "IdTeam": "43879",
+      "IdPlayer": "403642",
+      "Timestamp": "2026-07-01T22:27:09.819Z",
+      "MatchMinute": "110'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 46.248347,
+      "PositionY": 27.48203,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Krepin DIATTA (Senegal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1336532089",
+      "IdTeam": "43879",
+      "IdPlayer": "523354",
+      "Timestamp": "2026-07-01T22:29:53.122Z",
+      "MatchMinute": "113'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.04537,
+      "PositionY": 70.10329,
+      "GoalGatePositionX": 45.489802000000005,
+      "GoalGatePositionY": 2.7224180000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Bara Sapoko NDIAYE (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "1464042662",
+      "IdTeam": "43879",
+      "IdPlayer": "464865",
+      "Timestamp": "2026-07-01T22:31:59.989Z",
+      "MatchMinute": "115'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 16,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Corner"
+        }
+      ],
+      "PositionX": 99.69358,
+      "PositionY": 1.4115300000000002,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "El Hadji Malick DIOUF (Senegal) takes a corner kick."
+        }
+      ]
+    },
+    {
+      "EventId": "1913450621",
+      "IdTeam": "43879",
+      "IdPlayer": "464842",
+      "Timestamp": "2026-07-01T22:34:29.778Z",
+      "MatchMinute": "117'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 4.95,
+      "PositionY": 41.270841000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Lamine CAMARA (Senegal) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "1892405393",
+      "Timestamp": "2026-07-01T22:36:57.198Z",
+      "MatchMinute": "120'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 71,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "VAR"
+        }
+      ],
+      "VarNotificationData": {
+        "Incident": 4,
+        "Reason": 0,
+        "Status": 0,
+        "Result": 3
+      },
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty given"
+        }
+      ]
+    },
+    {
+      "EventId": "2116186258",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "IdSubPlayer": "448821",
+      "IdSubTeam": "43879",
+      "Timestamp": "2026-07-01T22:42:33.021Z",
+      "MatchMinute": "120'+5'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 6,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Awarded"
+        }
+      ],
+      "PositionX": 10.419599999999999,
+      "PositionY": 50.03658392,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": []
+    },
+    {
+      "EventId": "2116197513",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-01T22:42:33.021Z",
+      "MatchMinute": "120'+5'",
+      "Period": 9,
+      "HomeGoals": 2,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 10.419599999999999,
+      "PositionY": 50.03658392,
+      "GoalGatePositionX": 66.50766999999999,
+      "GoalGatePositionY": 37.09601,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "2116197515",
+      "IdTeam": "43935",
+      "IdPlayer": "401444",
+      "Timestamp": "2026-07-01T22:42:33.021Z",
+      "MatchMinute": "120'+5'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 41,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Penalty Goal"
+        }
+      ],
+      "PositionX": 10.419599999999999,
+      "PositionY": 50.03658392,
+      "GoalGatePositionX": 66.50766999999999,
+      "GoalGatePositionY": 37.09601,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Youri TIELEMANS (Belgium) successfully converts the penalty!"
+        }
+      ]
+    },
+    {
+      "EventId": "76839038",
+      "IdTeam": "43879",
+      "IdPlayer": "418798",
+      "Timestamp": "2026-07-01T22:44:20.689Z",
+      "MatchMinute": "120'+7'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.10981000000001,
+      "PositionY": 63.645419999999994,
+      "GoalGatePositionX": 16.31344,
+      "GoalGatePositionY": 76.28438,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pape Matar SARR (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "216832154",
+      "IdTeam": "43935",
+      "IdPlayer": "497902",
+      "Timestamp": "2026-07-01T22:46:29.317Z",
+      "MatchMinute": "120'+9'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "PositionX": 54.776484999999994,
+      "PositionY": 26.500459999999997,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Diego MOREIRA (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "301644970",
+      "IdTeam": "43879",
+      "IdPlayer": "448825",
+      "Timestamp": "2026-07-01T22:48:01.189Z",
+      "MatchMinute": "120'+11'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 83.63615,
+      "PositionY": 45.897359,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pathe CISS (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "303626411",
+      "IdTeam": "43879",
+      "IdPlayer": "401889",
+      "Timestamp": "2026-07-01T22:48:03.391Z",
+      "MatchMinute": "120'+11'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 81.10879,
+      "PositionY": 54.280846000000004,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Ismaila SARR (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "315207808",
+      "IdTeam": "43935",
+      "IdPlayer": "495349",
+      "Timestamp": "2026-07-01T22:48:09.069Z",
+      "MatchMinute": "120'+11'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 18,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Foul"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Nicolas RASKIN (Belgium) commits a foul."
+        }
+      ]
+    },
+    {
+      "EventId": "386345103",
+      "IdTeam": "43879",
+      "IdPlayer": "418798",
+      "Timestamp": "2026-07-01T22:49:23.071Z",
+      "MatchMinute": "120'+12'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 12,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Attempt at Goal"
+        }
+      ],
+      "PositionX": 82.53249,
+      "PositionY": 53.124099,
+      "GoalGatePositionX": 65.34367,
+      "GoalGatePositionY": 77.09622,
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "Pape Matar SARR (Senegal) attempts an effort on goal."
+        }
+      ]
+    },
+    {
+      "EventId": "396150915",
+      "Timestamp": "2026-07-01T22:49:35.406Z",
+      "MatchMinute": "120'+12'",
+      "Period": 9,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 8,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "End Time"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The referee blows for the end of the second period of extra time."
+        }
+      ]
+    },
+    {
+      "EventId": "421956780",
+      "Timestamp": "2026-07-01T22:50:00.879Z",
+      "MatchMinute": "132'",
+      "Period": 10,
+      "HomeGoals": 3,
+      "AwayGoals": 2,
+      "Type": 26,
+      "Qualifiers": [],
+      "TypeLocalized": [
+        {
+          "Locale": "en-GB",
+          "Description": "Match end"
+        }
+      ],
+      "HomePenaltyGoals": 0,
+      "AwayPenaltyGoals": 0,
+      "EventDescription": [
+        {
+          "Locale": "en-GB",
+          "Description": "The final whistle sounds."
+        }
+      ]
+    }
+  ],
+  "Properties": {},
+  "IsUpdateable": null
+}
