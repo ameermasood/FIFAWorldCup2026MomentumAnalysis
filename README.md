@@ -56,25 +56,46 @@ python3 main.py --teams ARG EGY
 
 ## Calculation Methodology
 
-1. **Possession Value Proxy ($PV$):**
-   Events are mapped to a threat score capped at $0.10$:
-   - **Goal**: $0.10$
-   - **Penalty Awarded**: $0.085$
-   - **Attempt at Goal**: $0.035 + 0.045 \times \text{danger}$ (where $\text{danger} = 1.0 - \frac{\min(x, 100-x)}{50}$ and $x$ is the horizontal pitch coordinate)
-   - **Corner**: $0.025$
-   - **Goal Prevention (Save)**: $0.04$
-   - **Foul**: $0.008 + 0.022 \times \text{danger}$
-   - **Offside**: $0.01$
+The pipeline processes match data in three key stages to determine the momentum score.
 
-2. **Continuous Team Threat ($T_{team}$):**
-   Computed over a rolling 4-minute window:
-   $$T_{team}(t) = \sum_{l=0}^{3} w_l \cdot \max_{\tau \in (t - (l+1), t - l]} PV_{team}(\tau)$$
-   Weights ($w_0 = 1.0$, $w_1 = 0.75$, $w_2 = 0.5$, $w_3 = 0.25$) discount older threats.
+### 1. Event Threat Score (Possession Value Proxy)
+Each visible timeline event is assigned a threat value ($PV$) based on its location and threat level, capped at a maximum of $0.10$:
 
-3. **Momentum ($M_{smoothed}$):**
-   Difference between home and away threats scaled to range $[-100, 100]$:
-   $$M(t) = 100 \cdot \frac{T_{Home}(t) - T_{Away}(t)}{\max_{t'} |T_{Home}(t') - T_{Away}(t')|}$$
-   Smoothed using a centered moving average over 5 grid points. Forced to $0.0$ during hydration breaks.
+* **Goal**: $0.10$
+* **Penalty Awarded**: $0.085$
+* **Attempt at Goal**: Calculated using the pitch danger level:
+  $$PV = 0.035 + 0.045 \times \text{danger}$$
+* **Corner**: $0.025$
+* **Goal Prevention (Save)**: $0.04$
+* **Foul**: Calculated using the pitch danger level:
+  $$PV = 0.008 + 0.022 \times \text{danger}$$
+* **Offside**: $0.01$
+
+#### Pitch Danger Calculation
+The danger level is determined by the horizontal coordinate ($x$, scaled from 0 to 100) of the event:
+$$\text{danger} = 1.0 - \frac{\min(x, 100 - x)}{50}$$
+
+---
+
+### 2. Continuous Team Threat
+To measure sustained pressure, team threats ($T$) are computed over a rolling 4-minute window using 0.25-minute steps. We take the peak threat in each 1-minute interval and weight them to discount older events:
+
+$$T(t) = \sum_{l=0}^{3} w_l \cdot \max_{\tau \in (t - (l+1), t - l]} PV(\tau)$$
+
+The weights are defined as:
+* $w_0 = 1.00$ (last 0 to 1 minutes)
+* $w_1 = 0.75$ (last 1 to 2 minutes)
+* $w_2 = 0.50$ (last 2 to 3 minutes)
+* $w_3 = 0.25$ (last 3 to 4 minutes)
+
+---
+
+### 3. Smoothed Momentum
+Momentum ($M$) represents the difference between the Home and Away team threats. We normalize this difference to fit in the range $[-100, 100]$:
+
+$$M(t) = 100 \cdot \frac{T_{\text{Home}}(t) - T_{\text{Away}}(t)}{\max_{t'} |T_{\text{Home}}(t') - T_{\text{Away}}(t')|}$$
+
+To eliminate minor fluctuations, we apply a rolling mean filter over 9 grid points (covering 2.25 minutes). During hydration breaks, the momentum is set strictly to $0.0$ since play is stopped.
 
 ---
 
