@@ -447,7 +447,7 @@ def main() -> None:
         0.02,
         "GitHub.com/ameermasood/FIFAWorldCup2026MomentumAnalysis",
         fontsize=15,
-        color=MUTED,
+        color=INK,
         ha="center",
     )
 
