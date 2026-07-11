@@ -441,12 +441,12 @@ def main() -> None:
         logo_ax.axis("off")
         logo_ax.imshow(logo_img)
 
-    # Add centered GitHub repository and Data Source footer
+    # Add centered GitHub repository footer
     fig.text(
         0.5,
         0.02,
-        "github.com/ameermasood/FIFAWorldCup2026MomentumAnalysis  •  Source: FIFA API",
-        fontsize=10,
+        "GitHub.com/ameermasood/FIFAWorldCup2026MomentumAnalysis",
+        fontsize=15,
         color=MUTED,
         ha="center",
     )
