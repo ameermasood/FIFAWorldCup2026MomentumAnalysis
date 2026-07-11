@@ -441,14 +441,25 @@ def main() -> None:
         logo_ax.axis("off")
         logo_ax.imshow(logo_img)
 
-    # Add copyright / watermark text at the bottom below x-axis
+    # Add GitHub repository link on the bottom left
     fig.text(
-        0.5,
+        0.015,
         0.02,
-        "© 2026 Amir Masoud Almasi. All rights reserved.",
+        "github.com/ameermasood/FIFAWorldCup2026MomentumAnalysis",
         fontsize=9.5,
         color="#7A8699",
-        ha="center",
+        ha="left",
+        fontweight="semibold",
+    )
+
+    # Add Data Source on the bottom right
+    fig.text(
+        0.985,
+        0.02,
+        "Source: FIFA API",
+        fontsize=9.5,
+        color="#7A8699",
+        ha="right",
         fontweight="semibold",
     )
 
