@@ -441,26 +441,14 @@ def main() -> None:
         logo_ax.axis("off")
         logo_ax.imshow(logo_img)
 
-    # Add GitHub repository link on the bottom left
+    # Add centered GitHub repository and Data Source footer
     fig.text(
-        0.015,
+        0.5,
         0.02,
-        "github.com/ameermasood/FIFAWorldCup2026MomentumAnalysis",
-        fontsize=9.5,
-        color="#7A8699",
-        ha="left",
-        fontweight="semibold",
-    )
-
-    # Add Data Source on the bottom right
-    fig.text(
-        0.985,
-        0.02,
-        "Source: FIFA API",
-        fontsize=9.5,
-        color="#7A8699",
-        ha="right",
-        fontweight="semibold",
+        "github.com/ameermasood/FIFAWorldCup2026MomentumAnalysis  •  Source: FIFA API",
+        fontsize=10,
+        color=MUTED,
+        ha="center",
     )
 
     png_path = figures_dir / f"{descriptive_name}_momentum_chart.png"
