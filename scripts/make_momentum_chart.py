@@ -251,8 +251,8 @@ def main() -> None:
     home_name = home["ShortClubName"]
     away_name = away["ShortClubName"]
     home_abbr = home["Abbreviation"]
-    home_color = TEAM_COLORS.get(home.get("IdCountry", ""), "#1787C9")
-    away_color = TEAM_COLORS.get(away.get("IdCountry", ""), "#B91C1C")
+    home_color = "#1787C9"
+    away_color = "#B91C1C"
 
     # Interpolate momentum to high-res grid for smoother curve and fills
     x = momentum["minute"].values
