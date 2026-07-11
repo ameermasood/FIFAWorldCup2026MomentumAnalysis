@@ -56,6 +56,12 @@ python3 main.py --teams ARG EGY
 
 ## Calculation Methodology
 
+The mathematical model for calculating the threat and momentum curves is detailed below. A re-engineered, branded formulas guide is also available as a slide in the repository:
+
+<p align="center">
+  <img src="reports/figures/match_momentum_formula_slide.png" alt="Match Momentum Mathematical Framework" width="550"/>
+</p>
+
 The pipeline processes match data in three key stages to determine the momentum score.
 
 ### 1. Event Threat Score (Possession Value Proxy)
