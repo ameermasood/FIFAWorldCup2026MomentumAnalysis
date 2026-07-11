@@ -371,14 +371,26 @@ def main() -> None:
     # Determine x-axis ticks based on game stages
     has_et = any(events["period"].isin([7, 9])) if "period" in events else False
     if has_et or max_elapsed > 115:
-        ticks = [0, first_half_end, 90.0, max_elapsed]
-        labels = ["0", "HT", "FT", "AET"]
+        ticks = [0, 15, 30, first_half_end, 60, 75, 90.0, 105, max_elapsed]
+        labels = ["0", "15'", "30'", "HT", "60'", "75'", "FT", "105'", "AET"]
     else:
-        ticks = [0, first_half_end, max_elapsed]
-        labels = ["0", "HT", "FT"]
+        ticks = [0, 15, 30, first_half_end, 60, 75, max_elapsed]
+        labels = ["0", "15'", "30'", "HT", "60'", "75'", "FT"]
 
     ax.set_xticks(ticks)
-    ax.set_xticklabels(labels, fontsize=11, color=MUTED, fontweight="bold")
+    ax.set_xticklabels(labels)
+    # Style milestone vs intermediate ticks differently
+    for tick_label in ax.get_xticklabels():
+        label_text = tick_label.get_text()
+        if label_text in ["0", "HT", "FT", "AET"]:
+            tick_label.set_fontsize(11)
+            tick_label.set_color(MUTED)
+            tick_label.set_fontweight("bold")
+        else:
+            tick_label.set_fontsize(9)
+            tick_label.set_color("#8A94A6")
+            tick_label.set_fontweight("normal")
+
     ax.tick_params(axis="x", bottom=True, labelbottom=True, length=5, width=1.1, colors=MUTED)
     ax.set_yticks([-100, -50, 0, 50, 100])
     ax.grid(visible=False)
